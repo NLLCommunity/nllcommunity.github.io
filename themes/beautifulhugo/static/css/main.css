@@ -14,7 +14,7 @@ p {
   margin: 30px 0;
 }
 p a {
-  /* text-decoration: underline */
+  text-decoration: underline;
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -22,6 +22,7 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
+  text-decoration: underline;
   color: #008AFF;
 }
 a:hover,
@@ -313,7 +314,7 @@ footer .theme-by {
 }
 
 .post-preview a {
-  text-decoration: none;
+  text-decoration: underline;
   color: #404040;
 }
 
