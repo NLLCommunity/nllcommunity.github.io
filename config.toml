@@ -40,10 +40,15 @@ pygmentCodeFences = true
 	weight = 3
 
 [[menu.main]]
+	name = "Sunday lessons"
+	url = "categories/sunday-lessons/"
+	weight = 2
+
+[[menu.main]]
 	name = "More information"
 	identifier = "info"
 	url = "page/info"
-	weight = 2
+	weight = 3
 
 [[menu.main]]
 	parent = "info"
