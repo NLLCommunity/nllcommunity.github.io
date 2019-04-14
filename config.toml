@@ -16,7 +16,7 @@ pygmentCodeFences = true
 [Params]
   subtitle = "NLL on the Web"
   logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
+  favicon = "img/favicon.png"
   dateFormat = "2006-01-02"
   commit = false
   rss = false
