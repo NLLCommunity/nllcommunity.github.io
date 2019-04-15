@@ -14,7 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "NLL on the Web"
+  #subtitle = "NLL on the Web"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.png"
   dateFormat = "2006-01-02"
@@ -24,7 +24,7 @@ pygmentCodeFences = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [Author]
-  name = "Vegard Berg"
+  name = "NLL contributors"
   #email = "youremail@domain.com"
   gitlab = "NorwegianLanguageLearning"
 
@@ -35,20 +35,21 @@ pygmentCodeFences = true
 	weight = 1
 
 [[menu.main]]
+	name = "Lessons"
+	url = "categories/sunday-lessons/"
+	weight = 2
+
+[[menu.main]]
 	name = "About"
 	url = "page/about/"
 	weight = 3
 
-[[menu.main]]
-	name = "Sunday lessons"
-	url = "categories/sunday-lessons/"
-	weight = 2
 
 [[menu.main]]
 	name = "More information"
 	identifier = "info"
 	url = "page/info"
-	weight = 3
+	weight = 4
 
 [[menu.main]]
 	parent = "info"
