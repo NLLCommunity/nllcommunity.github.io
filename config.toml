@@ -1,4 +1,4 @@
-baseurl = "http://www.norwegianlanguagelearning.no"
+baseurl = "http://norwegianlanguagelearning.no"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
