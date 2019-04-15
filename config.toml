@@ -1,4 +1,4 @@
-baseurl = "https://norwegianlanguagelearning.gitlab.io"
+baseurl = "http://www.norwegianlanguagelearning.no"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
