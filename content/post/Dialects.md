@@ -13,11 +13,12 @@ make listening comprehension a difficult thing to master. For the more
 advanced learner, they may want to pick a dialect to learn and use, so
 they sound more “natural” when speaking Norwegian. Today, we will look
 at some of the more common dialects in Norwegian and how they
-differentiate. This is just a very general overview; keep in mind there
+differentiate. <!--more-->This is just a very general overview; keep in mind there
 are many more dialects than what is covered in this lesson, and that
 some of the bigger dialects have dialects of their own (e.g. Trøndersk
 spoken in the cities is different than the Trøndersk spoken in more
 rural areas).
+
 
 **<span class="underline">Some Basic Info</span>**
 
@@ -42,12 +43,12 @@ on who you ask). These groups are:
 \* Midlandsmål & Sørlandsk are not counted as their own categories by
 some people.
 
-![](/images/dialects/media/image2.png)
+![](/img/dialects/media/image2.png)
 
 The categories can also be organized in this manner, (according to
 some):
 
-![](/images/dialects/media/image1.png)
+![](/img/dialects/media/image1.png)
 
 The dialects can vary in accent, grammar, syntax, and even vocabulary.
 The geography of Norway has played a large role in why the dialects vary

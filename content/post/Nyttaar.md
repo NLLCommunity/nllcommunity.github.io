@@ -9,6 +9,7 @@ The new year is right around the corner, many Norwegians make New Year’s
 resolutions (nyttårsforsett), attend parties, and drink champagne, but
 those are not the only things that Norwegians do to ring in the New
 Year.
+<!--more-->
 
 **Speech**
 
@@ -32,13 +33,13 @@ cotta</span>](https://youtu.be/twv6m30Ve38), chocolate mousse,
 [<span class="underline">multekrem</span>](https://www.196flavors.com/norway-multekrem/),
 and leftover kransekake (if there is any left from Christmas).
 
-![](/images/nyttaar/media/image1.png)
-![](/images/nyttaar/media/image2.png)
+![](/img/nyttaar/media/image1.png)
+![](/img/nyttaar/media/image2.png)
 
 *Panna cotta Pavlova*
 
-![](/images/nyttaar/media/image3.png)
-![](/images/nyttaar/media/image4.png)
+![](/img/nyttaar/media/image3.png)
+![](/img/nyttaar/media/image4.png)
 
 *Multekrem Kransekake*
 
@@ -53,7 +54,7 @@ In some places in Norway, young children get dressed up, and go
 door-to-door, singing Christmas songs in exchange for candy, on New
 Year’s Eve. This tradition is called nyttårsbukk.
 
-![](/images/nyttaar/media/image5.png)
+![](/img/nyttaar/media/image5.png)
 
 Foto: Vidar Langeland
 
@@ -93,8 +94,8 @@ in politics, which many Norwegians watch.
 | Festartikler          | Party favors          | Stjerneskudd       | Sparkler            |
 | Konfetti (en)         | Confetti              | Selskap            | Company             |
 
-![](/images/nyttaar/media/image6.png)
-![](/images/nyttaar/media/image7.png)
+![](/img/nyttaar/media/image6.png)
+![](/img/nyttaar/media/image7.png)
 
 *Festfløyte Stjerneskudd*
 

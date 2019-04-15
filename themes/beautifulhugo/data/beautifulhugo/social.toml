@@ -12,9 +12,15 @@ icon = "fab fa-facebook"
 
 [[social_icons]]
 id = "googleplus"
-url = "https://www.plus.google.com/%s"
+url = "https://plus.google.com/%s"
 title = "Google+"
 icon = "fab fa-google-plus"
+
+[[social_icons]]
+id = "github"
+url = "https://github.com/%s"
+title = "GitHub"
+icon = "fab fa-github"
 
 [[social_icons]]
 id = "gitlab"
@@ -23,10 +29,10 @@ title = "GitLab"
 icon = "fab fa-gitlab"
 
 [[social_icons]]
-id = "github"
-url = "https://github.com/%s"
-title = "GitHub"
-icon = "fab fa-github"
+id = "bitbucket"
+url = "https://bitbucket.org/%s"
+title = "Bitbucket"
+icon = "fab fa-bitbucket"
 
 [[social_icons]]
 id = "twitter"
@@ -97,25 +103,35 @@ icon = "fab fa-bandcamp"
 [[social_icons]]
 id = "itchio"
 url = "https://itch.io/profile/%s"
-title = "itch.io"
+title = "Itch.io"
 icon = "fas fa-gamepad"
-
-[[social_icons]]
-id = "steam"
-url = "https://steamcommunity.com/id/%s"
-title = "Steam"
-icon = "fab fa-steam"
 
 [[social_icons]]
 id = "keybase"
 url = "https://keybase.io/%s"
 title = "Keybase"
-icon = "fab fa-keybase"
+icon = "fas fa-key"
 
 [[social_icons]]
-id = "Goodreads"
-url = "https://www.goodreads.com/%s"
-title = "Goodreads"
-icon = "fab fa-goodreads"
+id = "vk"
+url = "https://vk.com/%s"
+title = "VK"
+icon = "fab fa-vk"
 
+[[social_icons]]
+id = "paypal"
+url = "https://paypal.me/%s"
+title = "PayPal"
+icon = "fab fa-paypal"
 
+[[social_icons]]
+id = "telegram"
+url = "https://telegram.me/%s"
+title = "Telegram"
+icon = "fab fa-telegram"
+
+[[social_icons]]
+id = "500px"
+url = "https://500px.com/%s"
+title = "500px"
+icon = "fab fa-500px"

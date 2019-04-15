@@ -5,18 +5,18 @@ date: "2018-12-08"
 categories:
   - Sunday lessons
 ---
-**<span class="underline">The Christmas Season in Norway</span>**
 
 **Christmas Markets**
 
 Many Norwegians tend to love the Christmas season. In fact, they kick
 off the season in November actually, with Christmas markets. There are
 many Christmas markets that pop up all around Norway. At these markets,
-one can purchase all kinds of crafts, toys, and other goodies. Just be
+one can purchase all kinds of crafts, toys, and other goodies. <!--more-->Just be
 forewarned that the items at the markets are not cheap. One popular
 “market” is Pepperkakebyen in Bergen, where one can find the world’s
 largest gingerbread town. (Pepperkakebyen isn’t technically a market,
 but was listed among other markets).
+
 
 **Saint Lucy’s Day**
 
@@ -34,8 +34,8 @@ wreaths, and holding candles. The girl at the front wears a white dress,
 and a head wreath with candles on it. It is common for people to eat
 lussekatter, which are saffron buns, for Luciadag.
 
-![](/images/christmastime/media/image1.png)
-![](/images/christmastime/media/image2.png)
+![](/img/christmastime/media/image1.png)
+![](/img/christmastime/media/image2.png)
 
 *(Parading through Oslo hospital on Luciadagen; Photo by Sven Goll)*
 *(Lussekatter)*
@@ -57,19 +57,19 @@ silver, gold, and red. Many have some sort of advent countdown to
 Christmas, such as the adventsstake, which has 4 candles for each Sunday
 of advent.
 
-![](/images/christmastime/media/image3.png)
-![](/images/christmastime/media/image4.png)
+![](/img/christmastime/media/image3.png)
+![](/img/christmastime/media/image4.png)
 
 Some Norwegians put red tape over their windows to make little squares
 (24 to represent each day of advent), and then put something in a square
 each day during advent. Candy advent calendars are also common but some
 have gift calendars.
 
-![](/images/christmastime/media/image5.png)
-![](/images/christmastime/media/image6.png)
+![](/img/christmastime/media/image5.png)
+![](/img/christmastime/media/image6.png)
 
-![](/images/christmastime/media/image7.png)
-![](/images/christmastime/media/image8.png)
+![](/img/christmastime/media/image7.png)
+![](/img/christmastime/media/image8.png)
 
 *(Red tape on the windows)*
 
@@ -86,8 +86,8 @@ julaften, many eat different cookies and cakes, krumkake and pepperkake
 being popular. These baked goods are sometimes eaten on Christmas Eve,
 at lunchtime.
 
-![](/images/christmastime/media/image9.png)
-![](/images/christmastime/media/image10.png)
+![](/img/christmastime/media/image9.png)
+![](/img/christmastime/media/image10.png)
 
 (Krumkake) (Pepperkake)
 
@@ -95,8 +95,8 @@ Another popular thing to eat on either lille julaften or for lunch on
 Christmas Eve is risengrynsgrøt which contains a whole almond and
 whoever finds the whole almond in their bowl gets a marzipan pig.
 
-![](/images/christmastime/media/image11.png)
-![](/images/christmastime/media/image12.png)
+![](/img/christmastime/media/image11.png)
+![](/img/christmastime/media/image12.png)
 
 Christmas Eve, or julaften, is the main day of celebration for
 Norwegians. Some Norwegians attend a Christmas service on the 24th, even
@@ -111,8 +111,8 @@ porridge with whipped cream) and red sauce, or caramel pudding. Juleøl,
 aquavit and gløgg are common beverages but if one doesn’t drink alcohol,
 one can drink julebrus, which is a sweet soda, or non-alcoholic gløgg.
 
-![](/images/christmastime/media/image13.png)
-![](/images/christmastime/media/image14.png)
+![](/img/christmastime/media/image13.png)
+![](/img/christmastime/media/image14.png)
 
 *(ribbe with sides) (riskrem)*
 
@@ -125,7 +125,7 @@ barn and wears a long red hat and has a long white beard, but otherwise
 really bears no resemblance to “Santa Claus.” Some children still leave
 out porridge for this “julenisse,” on Christmas Eve, to keep him happy.
 
-![](/images/christmastime/media/image15.png)
+![](/img/christmastime/media/image15.png)
 
 After dinner, it is common for Norwegians to sing and
 “[<span class="underline">dance</span>](https://youtu.be/bSiEysL0ar0)”
@@ -144,7 +144,7 @@ called julebukk. In some locations, like Bergen, there is nyttårsbukk
 instead, which happens on New Year’s Eve. It’s not as common as it once
 was.
 
-![](/images/christmastime/media/image16.png)
+![](/img/christmastime/media/image16.png)
 
 **<span class="underline">VOCABULARY</span>**
 
