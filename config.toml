@@ -1,9 +1,9 @@
-baseurl = "http://norwegianlanguagelearning.no"
+baseurl = "https://norwegianlanguagelearning.no"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
 title = "Norwegian Language Learning"
-canonifyurls  = true
+canonifyurls  = false
 
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
