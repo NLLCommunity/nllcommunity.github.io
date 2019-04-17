@@ -12,6 +12,7 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
+enableRobotsTXT = true
 
 [Params]
   #subtitle = "NLL on the Web"
