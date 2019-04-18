@@ -16,6 +16,7 @@ world. It begins on Maundy Thursday (the Thursday before Easter) and
 lasts until the Monday following Easter (known as “the second Easter
 day”). Many people have off work during this time and schools are closed
 the entire week before Easter.
+<!--more-->
 
 **The Days of Easter**
 
@@ -183,8 +184,6 @@ holiday the following year. And thus, a tradition was born.
 ***\*\*If the lessons are beneficial, please consider [<span
 class="underline">buying me a virtual
 coffee.</span>](https://ko-fi.com/R5R0CTBN)*** ***Thanks.\*\****
-
-[Read this lesson on Google Docs](https://docs.google.com/document/d/1NPoIGGeiknfwMS55EmY8xJ2lwDIThxB7qCChdIPRMEM)
 
 Resources:
 

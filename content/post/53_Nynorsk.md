@@ -15,6 +15,7 @@ Norwegians speak their local dialect (or sometimes a mix of dialects, if
 they have moved around). Some dialects are closer to bokmål and some are
 closer to nynorsk. But how does one language end up with two written
 standards?
+<!--more-->
 
 **<span class="underline">History</span>**
 

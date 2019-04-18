@@ -10,7 +10,7 @@ The new year is right around the corner, many Norwegians make New Year’s
 resolutions (nyttårsforsett), attend parties, and drink champagne, but
 those are not the only things that Norwegians do to ring in the New
 Year.
-
+<!--more-->
 **Speech**
 
 On New Year’s Eve, at 7:30pm, Norway’s King Harald V makes a speech that

@@ -6,7 +6,6 @@ author: "Dan"
 categories:
   - Sunday lessons
 ---
-**<span class="underline">The Christmas Season in Norway</span>**
 
 **Christmas Markets**
 
@@ -18,6 +17,7 @@ forewarned that the items at the markets are not cheap. One popular
 “market” is Pepperkakebyen in Bergen, where one can find the world’s
 largest gingerbread town. (Pepperkakebyen isn’t technically a market,
 but was listed among other markets).
+<!--more-->
 
 **Saint Lucy’s Day**
 

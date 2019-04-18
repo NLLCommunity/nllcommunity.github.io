@@ -14,6 +14,7 @@ speak the language.
 
 This lesson will cover slang words, insults, and swear words (I know
 they can overlap).
+<!--more-->
 
 **Salutations**
 
