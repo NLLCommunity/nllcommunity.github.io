@@ -6,7 +6,6 @@ author: "Dan"
 categories:
   - Sunday lessons
 ---
-**<span class="underline">Two Written Forms</span>**
 
 Often, new learners of Norwegian will inevitably ask if someone speaks
 bokmål or nynorsk, to which they get informed that bokmål and nynorsk
