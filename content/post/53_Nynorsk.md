@@ -2,6 +2,7 @@
 title: "Nynorsk"
 subtitle: "Lesson 53"
 date: "2018-11-24"
+author: "Dan"
 categories:
   - Sunday lessons
 ---

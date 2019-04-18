@@ -2,14 +2,9 @@
 title: "Påske"
 subtitle: "Lesson 58"
 date: "2019-04-14"
+author: "Dan"
 categories:
   - Sunday lessons
-tags:
-  - Sunday lesson
-  - Cultural lesson
-  - Easter
-  - Vocabulary
-truncate: true
 ---
 
 While many Norwegians are not Christian, the Easter holiday is still

@@ -2,9 +2,9 @@
 title: Dialects
 subtitle: "Lesson 57"
 date: "2019-04-07"
+author: "Dan"
 categories:
   - Sunday lessons
-truncate: true
 ---
 One of the more challenging aspects of learning Norwegian is the varying
 dialects. While Norway has two written standards, bokmål and nynorsk,
