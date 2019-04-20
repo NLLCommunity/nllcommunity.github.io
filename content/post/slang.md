@@ -1,6 +1,5 @@
 ---
 title: "Norwegian Slang, Insults, and Swears"
-subtitle: "Lesson 56"
 date: "2019-01-16"
 author: "Dan"
 categories:

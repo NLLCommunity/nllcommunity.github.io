@@ -1,6 +1,5 @@
 ---
 title: Dialects
-subtitle: "Lesson 57"
 date: "2019-04-07"
 author: "Dan"
 categories:

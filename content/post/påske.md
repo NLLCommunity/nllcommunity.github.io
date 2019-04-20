@@ -1,6 +1,5 @@
 ---
 title: "Påske"
-subtitle: "Lesson 58"
 date: "2019-04-14"
 author: "Dan"
 categories:

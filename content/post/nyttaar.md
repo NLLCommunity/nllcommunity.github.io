@@ -1,6 +1,5 @@
 ---
 title: "Godt nyttår!"
-subtitle: "Lesson 55"
 date: "2018-12-30"
 author: "Dan"
 categories:

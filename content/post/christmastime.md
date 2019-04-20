@@ -1,6 +1,5 @@
 ---
 title: "Christmastime in Norway"
-subtitle: "Lesson 54"
 date: "2018-12-08"
 author: "Dan"
 categories:
