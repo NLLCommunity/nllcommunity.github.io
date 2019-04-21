@@ -191,9 +191,8 @@ There are some differences in pronouns between nynorsk and bokmål.
 Unlike with bokmål, in nynorsk, the word “it” is dependent on the
 grammatical gender of the noun that “it” is referring to.
 
-|               |                                |                                 |                                |
-| ------------- | ------------------------------ | ------------------------------- | ------------------------------ |
 |               | **Nynorsk**                    | **Bokmål**                      | **English**                    |
+| ------------- | ------------------------------ | ------------------------------- | ------------------------------ |
 | **Feminine**  | Kor er boka mi? Ho er her      | Hvor er boka mi? Den er her     | Where is my book? It is here   |
 | **Masculine** | Kor er bilen min? Han er her   | Hvor er bilen min? Den er her   | Where is my car? It is here    |
 | **Neuter**    | Kor er brevet mitt? Det er her | Hvor er brevet mitt? Det er her | Where is my letter? It is here |
