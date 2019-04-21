@@ -1,13 +1,14 @@
 ---
 title: "Short Answer & Discourse Particles"
-date: "2018-3-31"
+date: "2018-03-31"
 author: "Dan"
 categories:
   - Sunday lessons
 ---
 
-**<span class="underline">Short answer</span>  
-**In English, when you’re asked a question, you might give a short
+**<span class="underline">Short answer</span>**
+
+In English, when you’re asked a question, you might give a short
 answer in reply, such as “Yes, I do” or “No, I don’t.”. In Norwegian,
 there are a few ways to write short answers.
 <!--more-->  
