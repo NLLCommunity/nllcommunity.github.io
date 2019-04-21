@@ -17,46 +17,18 @@ they can overlap).
 
 **Salutations**
 
-<table>
-<tbody>
-<tr class="odd">
-<td><em>Heisann.<br />
-Hallo.<br />
-Halla.<br />
-Halloen.</em></td>
-<td>Hi.</td>
-<td><em>Alt bra med deg?</em></td>
-<td>Everything good with you?</td>
-</tr>
-<tr class="even">
-<td><em>Mårn.</em></td>
-<td>Morning.</td>
-<td><em>Hva skjer?<br />
-Skjer ’a?<br />
-Skjer?</em></td>
-<td>What’s up? / What’s happening?</td>
-</tr>
-<tr class="odd">
-<td><em>Hva har du drevet med?</em></td>
-<td>What have you been up to?</td>
-<td><em>Er du med?<br />
-Er du gira?</em></td>
-<td>Are you up for it? / Are you in?</td>
-</tr>
-<tr class="even">
-<td><em>Ha det (bra).</em></td>
-<td>Bye</td>
-<td><em>Ha det moro!</em></td>
-<td>Have fun! / Enjoy!</td>
-</tr>
-<tr class="odd">
-<td><em>Jeg drar.</em></td>
-<td>I’m off. (I’m leaving).</td>
-<td><em>Hils</em></td>
-<td>Regards (e.g. Give my regards to them).</td>
-</tr>
-</tbody>
-</table>
+| **Norwegian**                                    | **English**                             |
+|--------------------------------------------------|-----------------------------------------|
+| *Heisann.<br />Hallo.<br />Halla.<br />Halloen.* | Hi                                      |
+| *Alt bra med deg?*                               | Everything good with you?               |
+| *Mårn.*                                          | Morning.                                |
+| *Hva skjer?<br />Skjer ’a?<br />Skjer?*          | What’s up? / What’s happening?          |
+| *Hva har du drevet med?*                         | What have you been up to?               |
+| *Er du med?<br />Er du gira?*                    | Are you up for it? / Are you in?        |
+| *Ha det (bra).*                                  | Bye                                     |
+| *Ha det moro!*                                   | Have fun! / Enjoy!                      |
+| *Jeg drar.*                                      | I’m off. (I’m leaving).                 |
+| *Hils*                                           | Regards (e.g. Give my regards to them). |
 
 “Er du med” and “Er du gira” are used when you want to ask someone if
 they want to hang out and / or go do something?
@@ -671,7 +643,7 @@ examples, and are not a written standard and are **only** used in spoken
 Norwegian.
 
 |                 |            |            |             |
-| --------------- | ---------- | ---------- | ----------- |
+|-----------------|------------|------------|-------------|
 | **Contraction** | **Word 1** | **Word 2** | **Meaning** |
 | Kan’ke          | Kan        | Ikke       | Cannot      |
 | Må’kke          | Må         |            | Must not    |

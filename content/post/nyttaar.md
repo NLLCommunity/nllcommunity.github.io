@@ -77,21 +77,32 @@ in politics, which many Norwegians watch.
 
 **Nouns**
 
-|                       |                       |                    |                     |
-| --------------------- | --------------------- | ------------------ | ------------------- |
-| **Norwegian**         | **English**           | **Norwegian**      | **English**         |
-| Nyttårsaften (en)     | New Year’s Eve        | Nyttårsdag (en)    | New Year’s Day      |
-| Nyttårsforsett (et)   | New Year’s resolution | Nyttårstale (en)   | New Year’s speech   |
-| Nyttårsfest (en)      | New Year’s party      | Nyttårshilsen (en) | New Year’s greeting |
-| Forventning (en)      | Expectation           | Nyttårsønske (et)  | New Year’s wish     |
-| Fyrverkeri            | Fireworks             | Sjampanje (en)     | Champagne           |
-| Fyrverkeriulykke (ei) | Fireworks accident    | Tradisjon (en)     | Tradition           |
-| Skiskyting (ei)       | Biathlon              | Midnatt            | Midnight            |
-| Statsminister (en)    | Prime Minister        | Konge (en)         | King                |
-| Lykke (ei)            | Happiness             | Suksess (en)       | Success             |
-| Festfløyte (ei)       | Party horn / whistle  | Kjærlighet (en)    | Love                |
-| Festartikler          | Party favors          | Stjerneskudd       | Sparkler            |
-| Konfetti (en)         | Confetti              | Selskap            | Company             |
+| **Norwegian**         | **English**           |
+|-----------------------|-----------------------|
+| Nyttårsaften (en)     | New Year’s Eve        |
+| Nyttårsforsett (et)   | New Year’s resolution |
+| Nyttårsfest (en)      | New Year’s party      |
+| Forventning (en)      | Expectation           |
+| Fyrverkeri            | Fireworks             |
+| Fyrverkeriulykke (ei) | Fireworks accident    |
+| Skiskyting (ei)       | Biathlon              |
+| Statsminister (en)    | Prime Minister        |
+| Lykke (ei)            | Happiness             |
+| Festfløyte (ei)       | Party horn / whistle  |
+| Festartikler          | Party favors          |
+| Konfetti (en)         | Confetti              |
+| Nyttårsdag (en)       | New Year’s Day        |
+| Nyttårstale (en)      | New Year’s speech     |
+| Nyttårshilsen (en)    | New Year’s greeting   |
+| Nyttårsønske (et)     | New Year’s wish       |
+| Sjampanje (en)        | Champagne             |
+| Tradisjon (en)        | Tradition             |
+| Midnatt               | Midnight              |
+| Konge (en)            | King                  |
+| Suksess (en)          | Success               |
+| Kjærlighet (en)       | Love                  |
+| Stjerneskudd          | Sparkler              |
+| Selskap               | Company               |
 
 ![](/images/nyttaar/media/image6.png)
 ![](/images/nyttaar/media/image7.png)
@@ -100,15 +111,19 @@ in politics, which many Norwegians watch.
 
 **Verbs**
 
-|                             |                      |                        |                      |
-| --------------------------- | -------------------- | ---------------------- | -------------------- |
-| **Norwegian**               | **English**          | **Norwegian**          | **English**          |
-| Å synge                     | To sing              | Å feire                | To celebrate         |
-| Å feste                     | To party             | Å ønske                | To wish              |
-| Å lage et nyttårsforsett    | To make a resolution | Å håpe                 | To hope              |
-| Å slappe av                 | To relax             | Å skyte opp fyrverkeri | To set off fireworks |
-| Å drikke                    | To drink             | Å være full            | To be drunk          |
-| Å ha bakrus / være fyllesyk | To have a hangover   |                        |                      |
+| **Norwegian**               | **English**          |
+|-----------------------------|----------------------|
+| Å synge                     | To sing              |
+| Å feste                     | To party             |
+| Å lage et nyttårsforsett    | To make a resolution |
+| Å slappe av                 | To relax             |
+| Å drikke                    | To drink             |
+| Å ha bakrus / være fyllesyk | To have a hangover   |
+| Å feire                     | To celebrate         |
+| Å ønske                     | To wish              |
+| Å håpe                      | To hope              |
+| Å skyte opp fyrverkeri      | To set off fireworks |
+| Å være full                 | To be drunk          |
 
 **<span class="underline">Phrases:</span>**
 

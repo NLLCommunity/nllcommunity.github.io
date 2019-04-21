@@ -136,9 +136,8 @@ either say “Vi” or “Me” for “We”.
 In bokmål, there are three genders however the feminine gender is
 optional. In nynorsk, this is not the case.
 
-|                                            |                                           |                                            |              |                |              |
-| ------------------------------------------ | ----------------------------------------- | ------------------------------------------ | ------------ | -------------- | ------------ |
 | **<span class="underline">Nynorsk</span>** | **<span class="underline">Bokmål</span>** | **<span class="underline">English</span>** |              |                |              |
+| ------------------------------------------ | ----------------------------------------- | ------------------------------------------ | ------------ | -------------- | ------------ |
 | **Indefinite**                             | **Definite**                              | **Indefinite**                             | **Definite** | **Indefinite** | **Definite** |
 | Ei sol                                     | Sola                                      | Ei sol                                     | Sola         | *A sun*        | *The sun*    |
 |                                            |                                           | En sol                                     | Solen        |                |              |
@@ -148,9 +147,8 @@ optional. In nynorsk, this is not the case.
 The articles for the masculine and neuter genders are also a bit
 different in nynorsk.
 
-|               |             |            |             |
-| ------------- | ----------- | ---------- | ----------- |
 |               | **Nynorsk** | **Bokmål** | **English** |
+| ------------- | ----------- | ---------- | ----------- |
 | **Masculine** | Ein katt    | En katt    | *A cat*     |
 | **Neuter**    | Eit hus     | Et hus     | *A house*   |
 
@@ -168,9 +166,8 @@ A house The house
 Plural endings in nynorsk, for masculine gender nouns, are different
 than in bokmål.
 
-|               |                                            |                                           |                     |                         |                       |                     |        |
-| ------------- | ------------------------------------------ | ----------------------------------------- | ------------------- | ----------------------- | --------------------- | ------------------- | ------ |
 |               | **<span class="underline">Nynorsk</span>** | **<span class="underline">Bokmål</span>** | **English**         |                         |                       |                     |        |
+| ------------- | ------------------------------------------ | ----------------------------------------- | ------------------- | ----------------------- | --------------------- | ------------------- | ------ |
 |               | **Indefinite Singular**                    | **Indefinite Plural**                     | **Definite Plural** | **Indefinite Singular** | **Indefinite Plural** | **Definite Plural** |        |
 | **Feminine**  | Ei sol                                     | Soler                                     | Solene              | Ei / En sol             | Soler                 | Solene              | Suns   |
 | **Masculine** | Ein katt                                   | Katt**ar**                                | Katt**ane**         | En katt                 | Katt**er**            | Katt**ene**         | Cats   |
@@ -180,9 +177,8 @@ than in bokmål.
 
 There are some differences in pronouns between nynorsk and bokmål.
 
-|             |            |              |               |            |              |
-| ----------- | ---------- | ------------ | ------------- | ---------- | ------------ |
 | **Nynorsk** | **Bokmål** | **English**  | **Nynorsk**   | **Bokmål** | **English**  |
+| ----------- | ---------- | ------------ | ------------- | ---------- | ------------ |
 | Eg          | Jeg        | I            | Meg           | Meg        | Me           |
 | Du          | Du         | You          | Deg           | Deg        | You          |
 | Han         | Han        | He           | Han           | Ham        | Him          |

@@ -26,7 +26,7 @@ There are four to six main categories of dialects in Norwegian (depends
 on who you ask). These groups are:
 
 | **Category**         | **Region**      | **Some Examples of Dialects within the Category** |
-| -------------------- | --------------- | ------------------------------------------------- |
+|----------------------|-----------------|---------------------------------------------------|
 | Nordnorsk            | Northern Norway | Bodø dialect                                      |
 |                      |                 | Helgeland dialect                                 |
 | Trøndersk            | Central Norway  | Fosen dialect                                     |
@@ -105,9 +105,6 @@ found in multiple dialects.
 <th><strong>Nordnorsk</strong></th>
 <th><strong>English</strong></th>
 <th><strong>Usage</strong></th>
-<th><strong>Nordnorsk</strong></th>
-<th><strong>English</strong></th>
-<th><strong>Usage</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -116,15 +113,19 @@ found in multiple dialects.
 <td><p><em>Turnip /</em></p>
 <p><em>Turnip peel</em></p></td>
 <td>Refers to someone stupid</td>
-<td>Kuklæst</td>
-<td><em>Cock sock</em></td>
-<td>Refers to someone who is rude or an arse.</td>
 </tr>
 <tr class="even">
 <td>Pong</td>
 <td><em>Ballsack</em></td>
 <td>Refers to someone who is rude or an arse<br />
 (less intense than the other 2)</td>
+</tr>
+<tr class="odd">
+<td>Kuklæst</td>
+<td><em>Cock sock</em></td>
+<td>Refers to someone who is rude or an arse.</td>
+</tr>
+<tr class="even">
 <td>Hæstkuk</td>
 <td><em>Horse cock</em></td>
 <td>Refers to someone who is rude or an arse. (Sometimes used jokingly with friends).</td>
@@ -141,26 +142,30 @@ found in multiple dialects.
 <tr class="header">
 <th><strong>Nordnorsk</strong></th>
 <th><strong>Usage</strong></th>
-<th><strong>Nordnorsk</strong></th>
-<th><strong>Usage</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Fettkaldt / Fette kaldt</td>
 <td>Extremely cold</td>
-<td>Fettsygt / Fette sygt</td>
-<td>Very sick</td>
 </tr>
 <tr class="even">
 <td>Fettondt / Fette ondt</td>
 <td>Very painful</td>
-<td>Ei fetta</td>
-<td>A pussy (used as an insult).</td>
 </tr>
 <tr class="odd">
 <td>Fetta!</td>
 <td>Exclamation when you hurt yourself, etc.</td>
+</tr>
+<tr class="even">
+<td>Fettsygt / Fette sygt</td>
+<td>Very sick</td>
+</tr>
+<tr class="odd">
+<td>Ei fetta</td>
+<td>A pussy (used as an insult).</td>
+</tr>
+<tr class="even">
 <td>ise-hakke-fette-kaldt</td>
 <td><p>“Ice - chattering - pussy - cold”...</p>
 <p>used as a description when it is extremely cold (because it is the Arctic Circle).<br />
@@ -233,7 +238,7 @@ Person 2: Eg fant han i Hammarfæst</td>
     > also found in Trøndersk and Østnorsk).
 
 | **Bokmål**                | **Dialekt**                     | **English**                          |
-| ------------------------- | ------------------------------- | ------------------------------------ |
+|---------------------------|---------------------------------|--------------------------------------|
 | Vet du hvor Oda bor?      | Veit du kor ho Oda bor?         | *Do you know where Oda lives?*       |
 | Har du hørt noe fra Karl? | Har du hørt nakka fra han Karl? | *Have you heard anything from Karl?* |
 
@@ -241,7 +246,7 @@ Person 2: Eg fant han i Hammarfæst</td>
     > questions. (This is also found in many Trøndersk dialects).
 
 | **Bokmål**            | **Tromsø**           | **English**                 |
-| --------------------- | -------------------- | --------------------------- |
+|-----------------------|----------------------|-----------------------------|
 | Hvor **bor** du?      | Kor du **bor**?      | *Where do you live?*        |
 | Hva **sa** faren din? | Ka faren din **sa**? | *What did your father say?* |
 
@@ -261,7 +266,7 @@ Person 2: Eg fant han i Hammarfæst</td>
     > in areas around Trondheim. Not all Trønders do this, however.
 
 | **Bokmål** | **Inntrøndersk** | **Uttrøndersk** | **English** |
-| ---------- | ---------------- | --------------- | ----------- |
+|------------|------------------|-----------------|-------------|
 | Uke        | Vukku            | Vækka           | *Week*      |
 | Vite       | Våttå / Vatta    | Vætte           | *(to) Know* |
 | Være       | Vårrå            | Vårrå           | *(to) Be*   |
@@ -274,7 +279,7 @@ Person 2: Eg fant han i Hammarfæst</td>
   - > Palatalization of “n” and “l” is common in Trøndersk.
 
 | **Bokmål** | **Trøndersk** | **English** |
-| ---------- | ------------- | ----------- |
+|------------|---------------|-------------|
 | Vann       | Vannj         | *Water*     |
 | Han        | Hanj          | *He*        |
 | Ball       | Baill         | *Ball*      |
@@ -299,7 +304,7 @@ Person 2: Eg fant han i Hammarfæst</td>
     > shortened in Trøndersk also.
 
 | **Bokmål**  | **Nynorsk** | **Trøndersk** | **English** |
-| ----------- | ----------- | ------------- | ----------- |
+|-------------|-------------|---------------|-------------|
 | Jeg trenger | Eg treng    | Æ træng       | *I need*    |
 
   - > There are three groups of verbs (this is also found in Østnorsk):
@@ -313,7 +318,7 @@ Person 2: Eg fant han i Hammarfæst</td>
 3.  > Infinitive verbs that drop the ending
 
 | **Bokmål** | **Trøndersk** | **English** |
-| ---------- | ------------- | ----------- |
+|------------|---------------|-------------|
 | Å kunne    | Å kunna       | *To know*   |
 | Å like     | Å like        | *To like*   |
 | Å vite     | Å vit         | *To know*   |
@@ -322,7 +327,7 @@ Person 2: Eg fant han i Hammarfæst</td>
   - > Some interesting vocab:
 
 | **Trøndersk** | **Meaning**                                  | **Eksempel**             | **English**                |
-| ------------- | -------------------------------------------- | ------------------------ | -------------------------- |
+|---------------|----------------------------------------------|--------------------------|----------------------------|
 | Klar          | *Exhausted*                                  | No e æ bætterdø klar, ja | *I am dead-exhausted now.* |
 | Læne / Læna   | *Expression meaning something was fun*       | Det va døds-læna.        | *It was fun.*              |
 | Foten         | *Refers to the whole leg, not just the foot* | Æ har vondt i foten min. | *I hurt my leg.*           |
@@ -342,14 +347,14 @@ Person 2: Eg fant han i Hammarfæst</td>
     > in some parts of Trøndelag).
 
 | **Bokmål**     | **Bergensk**      | **English**        |
-| -------------- | ----------------- | ------------------ |
+|----------------|-------------------|--------------------|
 | Guttens bil    | Gutten sin bil    | *The boy’s car*    |
 | Kvinnens frakk | Kvinnen sin frakk | *The woman’s coat* |
 
   - > Bergensk tends to compound modals + ikkje. Here are some examples:
 
 | **Bokmål** | **Bergensk**       | **English** |
-| ---------- | ------------------ | ----------- |
+|------------|--------------------|-------------|
 | Er ikke    | E’kkje / E’kke     | *Is not*    |
 | Har ikke   | Ha’kkje / Ha’kke   | *Has not*   |
 | Skal ikke  | Ska’kkje / Ska’kke | *Shall not* |
@@ -359,19 +364,25 @@ Person 2: Eg fant han i Hammarfæst</td>
 
   - > Some interesting Bergensk vocab:
 
-| **Bergensk** | **English**                 | **Bergensk** | **English**   |
-| ------------ | --------------------------- | ------------ | ------------- |
-| Slitan       | *Congrats on something new* | Å ha peiling | *To know*     |
-| Tidi         | *Funny*                     | Ondt         | *Pain / hurt* |
+| **Bergensk** | **English**                 |
+|--------------|-----------------------------|
+| Slitan       | *Congrats on something new* |
+| Tidi         | *Funny*                     |
+| Å ha peiling | *To know*                   |
+| Ondt         | *Pain / hurt*               |
 
   - > Some interesting Stavanger vocab:
 
-| **Stavangersk** | **English**     | **Stavangersk** | **English**           |
-| --------------- | --------------- | --------------- | --------------------- |
-| Løye            | *Weirdly funny* | Vattn           | *Water*               |
-| Gysla           | *Very*          | Slikkepinne     | *Lollypop*            |
-| Bås             | *Garbage*       | Jaffal          | *Certainly; at least* |
-| Håve            | *Head*          | No fær æ        | *I’m leaving now.*    |
+| **Stavangersk** | **English**           |
+|-----------------|-----------------------|
+| Løye            | *Weirdly funny*       |
+| Gysla           | *Very*                |
+| Bås             | *Garbage*             |
+| Håve            | *Head*                |
+| Vattn           | *Water*               |
+| Slikkepinne     | *Lollypop*            |
+| Jaffal          | *Certainly; at least* |
+| No fær æ        | *I’m leaving now.*    |
 
   - > The infinitive verb ending is with an -a in Stavanger and areas
     > around Bergen (but not in Bergen).
@@ -390,7 +401,7 @@ Person 2: Eg fant han i Hammarfæst</td>
     > with a “g.”
 
 | **Bokmål** | **Stavanger** | **English** |
-| ---------- | ------------- | ----------- |
+|------------|---------------|-------------|
 | Kake       | Kaga          | *Cake*      |
 | Bake       | Baga          | *(to) Bake* |
 | Like       | Lige          | *(to) Like* |
@@ -420,7 +431,7 @@ Person 2: Eg fant han i Hammarfæst</td>
     > definitive form, the noun will still take the -a ending.
 
 | **Indefinte** | **Definite** |             |            |             |             |
-| ------------- | ------------ | ----------- | ---------- | ----------- | ----------- |
+|---------------|--------------|-------------|------------|-------------|-------------|
 | **Bokmål**    | **Østnorsk** | **English** | **Bokmål** | **Østnork** | **English** |
 | Ei jente      | En jente     | *A girl*    | Jenta      | Jenta       | *The girl*  |
 | Ei bok        | En bok       | *A book*    | Boka       | Boka        | *The book*  |
@@ -437,7 +448,7 @@ how we talk about ourselves and those around us. There are many
 variations of the pronouns throughout the numerous dialects in Norway.
 
 |                  | **Bokmål** | **Nynorsk**      | **Southeastern Norway**       | **Most of Western and Southern Norway**                             | **Trøndelag and most of Northern Norway**       |
-| ---------------- | ---------- | ---------------- | ----------------------------- | ------------------------------------------------------------------- | ----------------------------------------------- |
+|------------------|------------|------------------|-------------------------------|---------------------------------------------------------------------|-------------------------------------------------|
 | **I**            | Jeg        | Eg               | Jé, jè, jei                   | Eg, e, æ, æg, æi, æig, jeg, ej, i                                   | Æ, æg, i, eig, jæ, e, eg                        |
 | **You**          | Du         | Du               | Du, ru, u                     | Du, dø, døø, døh                                                    | Du, dæ, dø, u, dæ'æ                             |
 | **He**           | Han        | Han              | Hæn, hænnom (dative)          | Han, an, ha'an                                                      | Han,Hanj, hin, hån, n                           |
@@ -455,7 +466,7 @@ Norwegian, you will see there are many ways these are said, depending on
 the dialect.
 
 |                   | **Bokmål**    | **Nynorsk**                  | **Southeastern Norway**                       | **Most of Western and Southern Norway**                      | **Trøndelag and most of Northern Norway**     |
-| ----------------- | ------------- | ---------------------------- | --------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- |
+|-------------------|---------------|------------------------------|-----------------------------------------------|--------------------------------------------------------------|-----------------------------------------------|
 | **My**            | Min, mi, mitt | Min, mi, mitt                | Min, mi, mitt, mø                             | Min, mi, mitt                                                | Min, mi, mitt, mæjn, mett                     |
 | **Your**          | Din, di, ditt | Din, di, ditt                | Din, di, ditt                                 | Din, di, ditt                                                | Din, di, ditt, dij, dej'j                     |
 | **His**           | Hans          | Hans                         | Hans, hannes, hanns, hass                     | Hans, hannes, hannas, høns, hønnes                           | Hans, hannjes, hanses, hannes, hanner, hånner |
@@ -472,7 +483,7 @@ information. In many dialects in Norwegian, the hv- words are said with
 a k- instead.
 
 |           | **Bokmål**               | **Nynorsk**            | **Southeastern Norway**                                             | **Most of Western Norway**                                                                                  | **Trøndelag and most of Northern Norway**                                        |
-| --------- | ------------------------ | ---------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+|-----------|--------------------------|------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | **Who**   | Hvem                     | Kven                   | Hvem, åkke, åkkjen, høkken, håkke                                   | Kven, ken, kin, kem, kim                                                                                    | Kæm, kem, kånn, kenn                                                             |
 | **What**  | Hva                      | Kva                    | Hva, å da, å, hø da, hå, hæ                                         | Kva, ka, ke, kæ, kå                                                                                         | Ka, ke, kve, ker                                                                 |
 | **Where** | Hvor                     | Kor, kvar              | Hvor, hvorhen, å hen, å henner, hen, hørt, hærre                    | Kor, kest, korhen / korhenne, hen                                                                           | Kor, korhæn / korhænne, ker, karre, kehænn                                       |
@@ -487,7 +498,7 @@ This single word can be pronounced a number of different ways throughout
 Norway. Just look...
 
 | **Pronunciation**  | **Areas**                                                                                                                    |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------|
 | Ikke               | Oslo, Kristiansand, Bergen, Ålesund, most of Finnmark, Vestfold and low-land parts of Telemark, and some cities in Nordland. |
 | Ikkje              | Most of Southern, Northern, Western Norway and high-land parts of Telemark; also used in the Troms area.                     |
 | Ittj               | Trøndelag                                                                                                                    |

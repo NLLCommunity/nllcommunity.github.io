@@ -150,84 +150,149 @@ was.
 
 **Nouns:**
 
-|        |                      |                                    |                                        |                                              |
-| ------ | -------------------- | ---------------------------------- | -------------------------------------- | -------------------------------------------- |
-| **1**  | Adventskalender (en) | *Advent calendar*                  | Akebakke (en)                          | *Hill intended for sledding*                 |
-| **2**  | Alv (en)             | *Elf*                              | Andre juledag (en)                     | *Second Christmas day / Boxing Day (26 Dec)* |
-| **3**  | Bånd (et)            | *Ribbon*                           | Dombjelle (ei)                         | *Sleigh bells*                               |
-| **4**  | Engel (en)           | *Angel*                            | Fjell (et)                             | *Mountain*                                   |
-| **5**  | Frost (en)           | *Frost*                            | Furutre (et)                           | *Pine tree*                                  |
-| **6**  | Gaveeske (en)        | *Gift box*                         | Genser (en)                            | *Sweater*                                    |
-| **7**  | Girlander (en)       | *Garland (typically paper)*        | Gløgg (en)                             | *Mulled wine*                                |
-| **8**  | Grantre (et)         | *Spruce tree*                      | Hanske (en)                            | *Glove*                                      |
-| **9**  | Hatt (en)            | *Hat*                              | Innpakningspapir (et) / Gavepapir (et) | *Wrapping paper*                             |
-| **10** | Is (en)              | *Ice*                              | Isskrape (en)                          | *Ice scraper*                                |
-| **11** | Istapp (en)          | *Icicle*                           | Julaften (en)                          | *Christmas Eve*                              |
-| **12** | Julebord (et)        | *Christmas party*                  | Juledag (en)                           | *Christmas day*                              |
-| **13** | Juleferie (en)       | *Christmas holiday*                | Julegave (en)                          | *Christmas gift*                             |
-| **14** | Julekalender (en)    | *Christmas calendar*               | Julekort (et)                          | *Christmas card*                             |
-| **15** | Julenissen           | *“Santa Claus”*                    | Julepynt (en)                          | *Christmas ornament*                         |
-| **16** | Julereisende         | *Christmas travellers*             | Julesang (en)                          | *Christmas carol*                            |
-| **17** | Julestjerne (ei)     | *Christmas star / Poinsettia*      | Julestrømpe (en)                       | *Christmas stocking*                         |
-| **18** | Juletre (et)         | *Christmas tree*                   | Kjeledress (en)                        | *Snowsuit*                                   |
-| **19** | Kjelke (en)          | *Sled / Toboggan*                  | Krans (en)                             | *Wreath*                                     |
-| **20** | Kristtorn (en)       | *Holly*                            | Krybbe (en)                            | *Manger*                                     |
-| **21** | Langrenn (et)        | *Cross-country skiing competition* | Luciadag (en)                          | *Saint Lucy’s Day*                           |
-| **22** | Lys (et)             | *Lights*                           | Mandel (en)                            | *Almond*                                     |
-| **23** | Misteltein (en)      | *Mistletoe*                        | Peis (en)                              | *Fireplace*                                  |
-| **24** | Pepperkake (en)      | *Gingerbread*                      | Planteskole (en)                       | *Tree / Plant nursery*                       |
-| **25** | Postkontor (et)      | *Post office*                      | Reinsdyr (et)                          | *Reindeer*                                   |
-| **26** | Romjul               | *Dec 25-30*                        | Skjerf (et)                            | *Scarf*                                      |
-| **27** | Ski (en)             | *Ski*                              | Skibakke (en)                          | *Ski slope*                                  |
-| **28** | Skiheis (en)         | *Ski lift*                         | Skistav (en)                           | *Ski pole*                                   |
-| **29** | Skøyte (ei)          | *Ice skate (noun)*                 | Skøytebane (en)                        | *Ice skating rink*                           |
-| **30** | Slede (en)           | *Sleigh*                           | Snø (en)                               | *Snow*                                       |
-| **31** | Snøball (en)         | *Snowball*                         | Snøballkrig (en)                       | *Snowball fight*                             |
-| **32** | Snøbyge (ei)         | *Flurry*                           | Snøfnugg (et)                          | *Snowflake*                                  |
-| **33** | Snøfonn (ei)         | *Snowdrift*                        | Snømann (en)                           | *Snowman*                                    |
-| **34** | Snøplog              | *Snow plow (en)*                   | Snøscooter (en)                        | *Snowmobile*                                 |
-| **35** | Snøskuffe (ei)       | *Snow shovel*                      | Snøstorm (en)                          | *Blizzard*                                   |
-| **36** | Stearinlys (et)      | *Candles*                          | Støvel (en)                            | *Boot*                                       |
-| **37** | Sukkerstang          | *Candy cane*                       | Superundertøy (et) / ullundertøy (et)  | *Thermal underwear*                          |
-| **38** | Tradisjon (en)       | *Tradition*                        | Ull (en)                               | *Wool*                                       |
-| **39** | Ullgenser (en)       | *Wool sweater*                     | Varm sjokolade (en)                    | *Hot chocolate*                              |
-| **40** | Varme (en)           | *Warmth*                           | Vinterdekk (et)                        | *Winter tire*                                |
-| **41** | Vinterferie (en)     | *Winter holiday*                   | Vintersolverv (et)                     | *Winter solstice*                            |
-| **42** | Vott (en)            | *Mitten*                           | Ørevarmere (en)                        | *Ear muffs*                                  |
+| **Norwegian**                          | **English**                                  |
+|----------------------------------------|----------------------------------------------|
+| Adventskalender (en)                   | *Advent calendar*                            |
+| Alv (en)                               | *Elf*                                        |
+| Bånd (et)                              | *Ribbon*                                     |
+| Engel (en)                             | *Angel*                                      |
+| Frost (en)                             | *Frost*                                      |
+| Gaveeske (en)                          | *Gift box*                                   |
+| Girlander (en)                         | *Garland (typically paper)*                  |
+| Grantre (et)                           | *Spruce tree*                                |
+| Hatt (en)                              | *Hat*                                        |
+| Is (en)                                | *Ice*                                        |
+| Istapp (en)                            | *Icicle*                                     |
+| Julebord (et)                          | *Christmas party*                            |
+| Juleferie (en)                         | *Christmas holiday*                          |
+| Julekalender (en)                      | *Christmas calendar*                         |
+| Julenissen                             | *“Santa Claus”*                              |
+| Julereisende                           | *Christmas travellers*                       |
+| Julestjerne (ei)                       | *Christmas star / Poinsettia*                |
+| Juletre (et)                           | *Christmas tree*                             |
+| Kjelke (en)                            | *Sled / Toboggan*                            |
+| Kristtorn (en)                         | *Holly*                                      |
+| Langrenn (et)                          | *Cross-country skiing competition*           |
+| Lys (et)                               | *Lights*                                     |
+| Misteltein (en)                        | *Mistletoe*                                  |
+| Pepperkake (en)                        | *Gingerbread*                                |
+| Postkontor (et)                        | *Post office*                                |
+| Romjul                                 | *Dec 25-30*                                  |
+| Ski (en)                               | *Ski*                                        |
+| Skiheis (en)                           | *Ski lift*                                   |
+| Skøyte (ei)                            | *Ice skate (noun)*                           |
+| Slede (en)                             | *Sleigh*                                     |
+| Snøball (en)                           | *Snowball*                                   |
+| Snøbyge (ei)                           | *Flurry*                                     |
+| Snøfonn (ei)                           | *Snowdrift*                                  |
+| Snøplog                                | *Snow plow (en)*                             |
+| Snøskuffe (ei)                         | *Snow shovel*                                |
+| Stearinlys (et)                        | *Candles*                                    |
+| Sukkerstang                            | *Candy cane*                                 |
+| Tradisjon (en)                         | *Tradition*                                  |
+| Ullgenser (en)                         | *Wool sweater*                               |
+| Varme (en)                             | *Warmth*                                     |
+| Vinterferie (en)                       | *Winter holiday*                             |
+| Vott (en)                              | *Mitten*                                     |
+| Akebakke (en)                          | *Hill intended for sledding*                 |
+| Andre juledag (en)                     | *Second Christmas day / Boxing Day (26 Dec)* |
+| Dombjelle (ei)                         | *Sleigh bells*                               |
+| Fjell (et)                             | *Mountain*                                   |
+| Furutre (et)                           | *Pine tree*                                  |
+| Genser (en)                            | *Sweater*                                    |
+| Gløgg (en)                             | *Mulled wine*                                |
+| Hanske (en)                            | *Glove*                                      |
+| Innpakningspapir (et) / Gavepapir (et) | *Wrapping paper*                             |
+| Isskrape (en)                          | *Ice scraper*                                |
+| Julaften (en)                          | *Christmas Eve*                              |
+| Juledag (en)                           | *Christmas day*                              |
+| Julegave (en)                          | *Christmas gift*                             |
+| Julekort (et)                          | *Christmas card*                             |
+| Julepynt (en)                          | *Christmas ornament*                         |
+| Julesang (en)                          | *Christmas carol*                            |
+| Julestrømpe (en)                       | *Christmas stocking*                         |
+| Kjeledress (en)                        | *Snowsuit*                                   |
+| Krans (en)                             | *Wreath*                                     |
+| Krybbe (en)                            | *Manger*                                     |
+| Luciadag (en)                          | *Saint Lucy’s Day*                           |
+| Mandel (en)                            | *Almond*                                     |
+| Peis (en)                              | *Fireplace*                                  |
+| Planteskole (en)                       | *Tree / Plant nursery*                       |
+| Reinsdyr (et)                          | *Reindeer*                                   |
+| Skjerf (et)                            | *Scarf*                                      |
+| Skibakke (en)                          | *Ski slope*                                  |
+| Skistav (en)                           | *Ski pole*                                   |
+| Skøytebane (en)                        | *Ice skating rink*                           |
+| Snø (en)                               | *Snow*                                       |
+| Snøballkrig (en)                       | *Snowball fight*                             |
+| Snøfnugg (et)                          | *Snowflake*                                  |
+| Snømann (en)                           | *Snowman*                                    |
+| Snøscooter (en)                        | *Snowmobile*                                 |
+| Snøstorm (en)                          | *Blizzard*                                   |
+| Støvel (en)                            | *Boot*                                       |
+| Superundertøy (et) / ullundertøy (et)  | *Thermal underwear*                          |
+| Ull (en)                               | *Wool*                                       |
+| Varm sjokolade (en)                    | *Hot chocolate*                              |
+| Vinterdekk (et)                        | *Winter tire*                                |
+| Vintersolverv (et)                     | *Winter solstice*                            |
+| Ørevarmere (en)                        | *Ear muffs*                                  |
 
 **Adjectives:**
 
-|       |                   |                               |           |                             |
-| ----- | ----------------- | ----------------------------- | --------- | --------------------------- |
-| **1** | Avskyelig         | *Abominable*                  | Billig    | *Cheap*                     |
-| **2** | Bratt             | *Steep*                       | Deilig    | *Delightful / lovely / hot* |
-| **3** | Dyr               | *Expensive*                   | Festlig   | *Festive*                   |
-| **4** | Forsiktig         | *Careful / Cautious*          | Glatt     | *Smooth*                    |
-| **5** | Hyggelig          | *Enjoyable / Pleasant / Nice* | Lys       | *Bright*                    |
-| **6** | Lystig / Gledelig | *Joyful*                      | Skinnende | *Shiny*                     |
-| **7** | Strålende         | *Brilliant*                   | Søt       | *Sweet / cute*              |
-| **8** | Tung              | *Heavy*                       |           |                             |
+| **Norwegian**     | **English**                   |
+|-------------------|-------------------------------|
+| Avskyelig         | *Abominable*                  |
+| Bratt             | *Steep*                       |
+| Dyr               | *Expensive*                   |
+| Forsiktig         | *Careful / Cautious*          |
+| Hyggelig          | *Enjoyable / Pleasant / Nice* |
+| Lystig / Gledelig | *Joyful*                      |
+| Strålende         | *Brilliant*                   |
+| Tung              | *Heavy*                       |
+| Billig            | *Cheap*                       |
+| Deilig            | *Delightful / lovely / hot*   |
+| Festlig           | *Festive*                     |
+| Glatt             | *Smooth*                      |
+| Lys               | *Bright*                      |
+| Skinnende         | *Shiny*                       |
+| Søt               | *Sweet / cute*                |
 
 **Verbs:**
 
-|        |                   |                  |                     |                       |
-| ------ | ----------------- | ---------------- | ------------------- | --------------------- |
-| **1**  | Å ake             | *To go sledding* | Å besøke            | *To visit*            |
-| **2**  | Å danse           | *To dance*       | Å dekorere          | *To decorate*         |
-| **3**  | Å dele            | *To share*       | Å dekke             | *To cover*            |
-| **4**  | Å falle           | *To fall*        | Å feire             | *To celebrate*        |
-| **5**  | Å fryse           | *To freeze*      | Å gi                | *To give*             |
-| **6**  | Å gå / stå på ski | *To ski*         | Å havne i en ulykke | *To have an accident* |
-| **7**  | Å handle          | *To shop*        | Å hugge ned et tre  | *To chop down a tree* |
-| **8**  | Å klinge          | *To jingle*      | Å kjøpe             | *To buy*              |
-| **9**  | Å kose            | *To cuddle*      | Å kysse             | *To kiss*             |
-| **10** | Å motta           | *To receive*     | Å måke              | *To shovel*           |
-| **11** | Å nyte            | *To enjoy*       | Å omfavne           | *To embrace*          |
-| **12** | Å overraske       | *To surprise*    | Å pakke inn gaver   | *To wrap gifts*       |
-| **13** | Å sende post      | *To mail*        | Å sette opp et tre  | *To put up a tree*    |
-| **14** | Å skinne          | *To shine*       | Å skli              | *To slip*             |
-| **14** | Å snuble          | *To stumble*     | Å snø               | *To snow*             |
-| **15** | Å synge           | *To sing*        | Å utveksle gaver    | *To exchange gifts*   |
+| **Norwegian**       | **English**           |
+|---------------------|-----------------------|
+| Å ake               | *To go sledding*      |
+| Å danse             | *To dance*            |
+| Å dele              | *To share*            |
+| Å falle             | *To fall*             |
+| Å fryse             | *To freeze*           |
+| Å gå / stå på ski   | *To ski*              |
+| Å handle            | *To shop*             |
+| Å klinge            | *To jingle*           |
+| Å kose              | *To cuddle*           |
+| Å motta             | *To receive*          |
+| Å nyte              | *To enjoy*            |
+| Å overraske         | *To surprise*         |
+| Å sende post        | *To mail*             |
+| Å skinne            | *To shine*            |
+| Å snuble            | *To stumble*          |
+| Å synge             | *To sing*             |
+| Å besøke            | *To visit*            |
+| Å dekorere          | *To decorate*         |
+| Å dekke             | *To cover*            |
+| Å feire             | *To celebrate*        |
+| Å gi                | *To give*             |
+| Å havne i en ulykke | *To have an accident* |
+| Å hugge ned et tre  | *To chop down a tree* |
+| Å kjøpe             | *To buy*              |
+| Å kysse             | *To kiss*             |
+| Å måke              | *To shovel*           |
+| Å omfavne           | *To embrace*          |
+| Å pakke inn gaver   | *To wrap gifts*       |
+| Å sette opp et tre  | *To put up a tree*    |
+| Å skli              | *To slip*             |
+| Å snø               | *To snow*             |
+| Å utveksle gaver    | *To exchange gifts*   |
 
 **Phrase:** Gledelig Hanukkah
 
