@@ -34,30 +34,34 @@ this / those / these” are the subject of the verb “to be,” the neuter
 form (det / dette) will always be used, regardless of the gender or
 number of the noun it refers to.
 
-Ex: Det er en stor bil. That is a big car.
-
-Dette er en stor bok. This is a big book.
-
-Det er store sko. Those are big shoes.
-
-Dette er store hytter. These are big cabins.
-
+Ex: 
+{{< columns >}}
+Det er en stor bil.  
+Dette er en stor bok.  
+Det er store sko.  
+Dette er store hytter.  
+{{< column >}}
+That is a big car.  
+This is a big book.  
+Those are big shoes.  
+These are big cabins.  
+{{< endcolumns >}}
+ 
 Keep in mind this is different than when using a demonstrative to mean
 “it.”
 
-Ex: Det er en stor bil. Den er blå.
-
+Ex:  
+Det er en stor bil. Den er blå.  
 That is a big car. It is blue.
 
 **<span class="underline">NOTE:</span>** “Det” and “dette” can refer to
 an entire phrase.
 
-Ex: Ingrid studerte men det hjalp ikke.
-
+Ex:  
+Ingrid studerte men det hjalp ikke.  
 Ingrid studied but that didn’t help.
 
-Han prøvde å reparere sykkelen selv men det gikk ikke
-
+Han prøvde å reparere sykkelen selv men det gikk ikke  
 He tried to repair the bike himself, but that didn’t work..
 
 **Slik** - “Such, that / this kind;” refers to something that is
@@ -94,9 +98,16 @@ thing; it’s not declined.
 **<span class="underline">NOTE:</span>** Do not confuse “samme” with
 “sammen;” the latter means “together.”
 
-Ex: De bor sammen. They live together.
-
-De bor i samme leiligheten. They live in the same apartment.
+Ex:
+{{< columns >}}
+De bor sammen.  
+De bor i samme leiligheten.
+{{< column >}}
+They live together.  
+They live in the same apartment.  
+{{< endcolumns >}}  
+   
+ 
 
 **Selv** - “Self;” is a demonstrative that does not decline; it
 emphasizes nouns or pronouns.
