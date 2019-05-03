@@ -49,25 +49,25 @@ enableRobotsTXT = true
 [[menu.main]]
 	name = "More information"
 	identifier = "info"
-	url = "page/info"
+	url = "page/info/"
 	weight = 4
 
 [[menu.main]]
 	parent = "info"
 	name = "Rules"
-	url = "page/rules"
+	url = "page/rules/"
 	weight = 1
 
 [[menu.main]]
 	parent = "info"
 	name = "Channel explanations"
-	url = "page/channels"
+	url = "page/channels/"
 	weight = 2
 
 [[menu.main]]
 	parent = "info"
 	name = "Heimdallr"
-	url = "page/heimdallr"
+	url = "page/heimdallr/"
 	weight = 3
 
 #[[menu.main]]
