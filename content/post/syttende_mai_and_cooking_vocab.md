@@ -1,5 +1,5 @@
 ---
-title: "17. mai and cooking vocabulary"
+title: "Syttende mai and cooking vocabulary"
 date: "2019-05-12"
 author: "Dan"
 categories:
