@@ -11,8 +11,8 @@ Often in these cases, the verbs might translate into the same English
 word, but cannot be used interchangeably in Norwegian. Let’s look at
 some examples.
 <!--more-->
-**<span class="underline">Å gjøre</span>** - Often translates as “to do”
-or sometimes as “to make” and is used in four ways.
+## Å gjøre
+Often translates as “to do” or sometimes as “to make” and is used in four ways.
 
 1\. The verbal echo^-cho-cho^ - basically this is when it is used to
 “echo” a verb that was already used in the sentence.
@@ -85,7 +85,7 @@ that use “gjør.”
 | Å gjøre skade        | *To harm / damage*                  | Asteroiden vil gjør skade på planeten.              | *The asteroid will do damage to the planet.*            |
 | Det gjør ikke noe    | *It does not matter*                | Det gjør ikke noe at du kommer sent.                | *It doesn’t matter if you arrive late.*                 |
 
-**<span class="underline">Å lage</span>**
+## Å lage
 
 “Å lage” is used when referring to producing, making, or completing
 something.
@@ -104,7 +104,7 @@ sentences, like we do in English.
 
 To make an exception
 
-**<span class="underline">Å Leke vs Å Spille</span>**
+## Å Leke vs Å Spille
 
 Both “å leke” and “å spille” mean “to play” (and both can be used as a
 noun to mean game: “lek” and “spill”). However they are not
