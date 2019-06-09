@@ -430,11 +430,11 @@ Person 2: Eg fant han i Hammarfæst</td>
   - > The feminine “ei” is often replaced with “en,” however in the
     > definitive form, the noun will still take the -a ending.
 
-| **Indefinte** | **Definite** |             |            |             |             |
-|---------------|--------------|-------------|------------|-------------|-------------|
-| **Bokmål**    | **Østnorsk** | **English** | **Bokmål** | **Østnork** | **English** |
-| Ei jente      | En jente     | *A girl*    | Jenta      | Jenta       | *The girl*  |
-| Ei bok        | En bok       | *A book*    | Boka       | Boka        | *The book*  |
+| **Indefinite**                            ||| **Definite**                           |||
+|----------------|--------------|-------------|--------------|-------------|-------------|
+| **Bokmål**     | **Østnorsk** | **English** | **Bokmål**   | **Østnork** | **English** |
+| Ei jente       | En jente     | *A girl*    | Jenta        | Jenta       | *The girl*  |
+| Ei bok         | En bok       | *A book*    | Boka         | Boka        | *The book*  |
 
 **<span class="underline">Comparisons of some Common Words</span>**
 

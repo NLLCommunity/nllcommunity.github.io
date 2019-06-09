@@ -5,7 +5,6 @@ author: "Dan"
 categories:
   - Sunday lessons
 ---
-Verb conjugation in Norwegian is fairly easy (and in my opinion, easier
 than many other languages). Unlike languages like Spanish, Norwegian
 only conjugates for time, not also for person. There are regular and
 irregular verbs, and unfortunately with irregular verbs, the only option
@@ -264,9 +263,9 @@ expresses that something *must* be done in order for something else to
 occur, present tense *cannot* be used. In these instances, “må +
 infinitive” must be used.
 
-| **Norwegian**                  | **English**                     |                                        |                                       |
+| **Norwegian**                                                   || **English**                                                                   ||
 |--------------------------------|---------------------------------|----------------------------------------|---------------------------------------|
-| **Conditional Clause**         | **Condition**                   | **Conditional Clause**                 | **Condition**                         |
+| **Conditional Clause**         |    **Condition**                | **Conditional Clause**                 | **Condition**                         |
 | Hvis du skal lære norsk,       | må du gå på et kurs.            | *If you are going to learn Norwegian,* | *you must take a course.*             |
 | Hvis du skal bli med til byen, | må du først gjøre leksene dine. | *If you are going to town with me,*    | *you have to do your homework first.* |
 | Hvis du vil kjøpe en ny bil,   | må du jobbe hardt.              | *If you want to buy a new car,*        | *you must work hard.*                 |

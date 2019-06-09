@@ -136,13 +136,13 @@ either say “Vi” or “Me” for “We”.
 In bokmål, there are three genders however the feminine gender is
 optional. In nynorsk, this is not the case.
 
-| **<span class="underline">Nynorsk</span>** | **<span class="underline">Bokmål</span>** | **<span class="underline">English</span>** |              |                |              |
-| ------------------------------------------ | ----------------------------------------- | ------------------------------------------ | ------------ | -------------- | ------------ |
-| **Indefinite**                             | **Definite**                              | **Indefinite**                             | **Definite** | **Indefinite** | **Definite** |
-| Ei sol                                     | Sola                                      | Ei sol                                     | Sola         | *A sun*        | *The sun*    |
-|                                            |                                           | En sol                                     | Solen        |                |              |
-| Ei hytte                                   | Hytta                                     | Ei hytte                                   | Hytta        | *A cabin*      | *The cabin*  |
-|                                            |                                           | En hytte                                   | Hytten       |                |              |
+| **<span class="underline">Nynorsk</span>**                                            || **<span class="underline">Bokmål</span>**                || **<span class="underline">English</span>** ||
+| ------------------------------------------ | ----------------------------------------- | ------------------------------------------ | ------------ | -------------- | -------------------------- |
+| **Indefinite**                             | **Definite**                              | **Indefinite**                             | **Definite** | **Indefinite** | **Definite**               |
+| Ei sol                                     | Sola                                      | Ei sol                                     | Sola         | *A sun*        | *The sun*                  |
+|                                            |                                           | En sol                                     | Solen        |                |                            |
+| Ei hytte                                   | Hytta                                     | Ei hytte                                   | Hytta        | *A cabin*      | *The cabin*                |
+|                                            |                                           | En hytte                                   | Hytten       |                |                            |
 
 The articles for the masculine and neuter genders are also a bit
 different in nynorsk.
@@ -166,12 +166,12 @@ A house The house
 Plural endings in nynorsk, for masculine gender nouns, are different
 than in bokmål.
 
-|               | **<span class="underline">Nynorsk</span>** | **<span class="underline">Bokmål</span>** | **English**         |                         |                       |                     |        |
-| ------------- | ------------------------------------------ | ----------------------------------------- | ------------------- | ----------------------- | --------------------- | ------------------- | ------ |
-|               | **Indefinite Singular**                    | **Indefinite Plural**                     | **Definite Plural** | **Indefinite Singular** | **Indefinite Plural** | **Definite Plural** |        |
-| **Feminine**  | Ei sol                                     | Soler                                     | Solene              | Ei / En sol             | Soler                 | Solene              | Suns   |
-| **Masculine** | Ein katt                                   | Katt**ar**                                | Katt**ane**         | En katt                 | Katt**er**            | Katt**ene**         | Cats   |
-| **Neuter**    | Eit hus                                    | Hus                                       | Husa                | Et hus                  | Hus                   | Husene / Husa       | Houses |
+|               | **<span class="underline">Nynorsk</span>**                                                                 ||| **<span class="underline">Bokmål</span>**                           ||| **English**|
+| ------------- | ------------------------------------------ | ----------------------------------------- | ------------------- | ----------------------- | --------------------- | ------------------- | ---------- |
+|               | **Indefinite Singular**                    | **Indefinite Plural**                     | **Definite Plural** | **Indefinite Singular** | **Indefinite Plural** | **Definite Plural** |            |
+| **Feminine**  | Ei sol                                     | Soler                                     | Solene              | Ei / En sol             | Soler                 | Solene              | Suns       |
+| **Masculine** | Ein katt                                   | Katt**ar**                                | Katt**ane**         | En katt                 | Katt**er**            | Katt**ene**         | Cats       |
+| **Neuter**    | Eit hus                                    | Hus                                       | Husa                | Et hus                  | Hus                   | Husene / Husa       | Houses     |
 
 **Pronouns**
 
