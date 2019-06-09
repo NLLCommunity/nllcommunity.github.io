@@ -1,0 +1,361 @@
+---
+title: "Present, past and future tense"
+date: "2019-06-02"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+Verb conjugation in Norwegian is fairly easy (and in my opinion, easier
+than many other languages). Unlike languages like Spanish, Norwegian
+only conjugates for time, not also for person. There are regular and
+irregular verbs, and unfortunately with irregular verbs, the only option
+is to simply memorize them.
+<!--more-->
+
+== Present Tense (Presens)
+
+Most verbs in Norwegian have an -r added to the end to form the present
+tense of the verb. Of course, there will always be some exceptions.
+
+[cols=",,,",options="header",]
+|===
+|*Infinitive* |*Present Tense* |*Norwegian* |*English*
+|Å lese |Leser |Lukas leser ei bok. |_Lukas reads a book._
+
+|Å bo |Bor |Isabella bor i Trondheim. |_Isabella lives in Trondheim._
+
+|Å kjøpe |Kjøper |Hun kjøper pizza hver uke. |_She buys pizza every
+week._
+|===
+
+Some exceptions are the modal verbs.
+
+[cols=",,,,",options="header",]
+|===
+|*Infinitive* |*Present Tense* |*Meaning* |*Norwegian* |*English*
+|Å kunne |Kan |To be able to |Vi kan gå til parken. |_We can walk to the
+park._
+
+|Å måtte |Må |To have to |Du må øve til eksamen. |_You must study for
+the exam._
+
+|Å skulle |Skal |To have to; to be going to |Jeg skal spise pizza til
+frokost. |_I’m going to eat pizza for breakfast._
+
+|Å ville |Vil |To want |Jeg vil besøke Norge. |_I want to visit Norway._
+|===
+
+And of course there are other irregulars; two common ones are “være” and
+“vite.”
+
+[cols=",,,",options="header",]
+|===
+|*Infinitive* |*Present Tense* |*Norwegian* |*English*
+|Å være |Er |Kattene mine er søte. |_My cats are cute._
+|Å vite |Vet |Hun vet svaret. |_She knows the answer._
+|===
+
+Present tense in Norwegian is used similarly as in English. In
+Norwegian, there are 5 ways that present tense is used.
+
+[cols=",,",options="header",]
+|===
+|*Usage* |*Norwegian* |*English*
+a|
+Instantaneous present -
+
+* What’s happening here and now
+
+|Jeg ser på TV nå. |_I am watching tv now._
+
+a|
+States present -
+
+* Emphasizes something general / timeless; “eternal truths.”
+
+|Solen står opp i øst. |_The sun rises in the east._
+
+a|
+Habitual present -
+
+* Emphasizes regular repetition over time
+
+|Skolen begynner kl. 8. |_School begins at 8._
+
+a|
+Future action
+
+(This will be covered more below)
+
+|De ankommer på lørdag. |_They are arriving on Saturday._
+
+.2+a|
+Historic or dramatic present -
+
+* Often used in newspaper headings / reports or used to summarize the
+content of a book or film.
+
+|Tusenvis demonstrerer for fred. |_Thousands demonstrate for peace._
+
+|Hannibal hjelper FBI med å fange en seriemorder. |_Hannibal helps the
+FBI to catch a serial killer._
+|===
+
+*[.underline]#NOTE:#* There is no real present continuous verb
+conjugation in Norwegian like in English. Most of the time, what is the
+present continuous tense in English just becomes the present tense in
+Norwegian. However, sometimes “sitter,” “ligger,” or “står” + another
+present tense verb can be used with a conjunction when one wants to
+_emphasize_ something is happening right now.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Jeg sitter og skriver. |_I’m (sitting and) writing._
+|Jeg ligger og leser. |_I’m (lying down and) reading._
+|Jeg står og maler. |_I’m (standing and) painting._
+|===
+
+== Past Tense (Preteritum)
+
+Past tense in Norwegian can be a little challenging however there is a
+sort of rule of thumb on how to conjugate the verbs. Of course, there
+are some irregular past tense verbs as well, and unfortunately, all one
+can do with those is memorize them. (I still think they are easier than
+in many other languages.)
+
+[cols=",,,,",options="header",]
+|===
+|*Rule* |*Infinitive* |*Past Tense* |*Norwegian* |*English*
+.3+a|
+If verb ends in double consonant, consonant cluster, or a voiced plosive
+(b or d) followed by -e
+
+* Past tense ends in -et
+
+|Å +sna+[.underline]#kk#+e+ |Snakket |Sofia snakket med Tobias. |_Sofia
+talked with Tobias._
+
+|Å +ø+[.underline]#nsk#+e+ |Ønsket |Barnet ønsket seg en ny sykkel. |_The
+child wished for a new bike._
+
+|Å +ba+[.underline]#d#+e+ |Badet |Moren badet babyen. |_The mother bathed
+the baby._
+
+.2+a|
+If verb ends in single consonant (except v or voiced plosives) followed
+by -e
+
+* Past tense ends in -te
+
+|Å +læ+[.underline]#r#+e+ |Lærte |Jenta lærte alfabetet. |_The girl learned
+the alphabet._
+
+|Å +kjø+[.underline]#p#+e+ |Kjøpte |Mannen kjøpte en ny bil. |_The man
+bought a new car._
+
+.2+a|
+If verb ends in v or with diphthong followed by -e
+
+* Past tense ends in -de
+
+|Å +le+[.underline]#v#+e+ |Levde |Frosken levde lenge. |_The frog lived a
+long time._
+
+|Å +pl+[.underline]#ei#+e+ |Pleide |Gutten pleide å spille fiolin. |_The
+boy used to play the violin._
+
+a|
+If verb has only one syllable with a long vowel
+
+* Past tense ends in -dde
+
+|Å +b+[.underline]#o# |Bodde |Moren min bodde i Bergen. |_My mother lived
+in Bergen._
+|===
+
+As with any language, there are irregular verbs in the past tense. Here
+are some examples.
+
+*[.underline]#Some Irregulars#*
+
+[cols=",,,",options="header",]
+|===
+|*Infinitive* |*Present* |*Past* |*English*
+|Å være |Er |Var |To be
+|Å gjøre |Gjør |Gjorde |To do
+|Å skrive |Skriver |Skrev |To write
+|Å finnes |Finnes |Fantes |To exist
+|Å si |Sier |Sa |To say
+|Å spørre |Spør |Spurte |To ask
+|Å synes |Synes |Syntes |To think
+|Å vite |Vet |Visste |To know
+|===
+
+== Future (Futurum)
+
+There is no actual way to conjugate verbs in Norwegian to form a future
+tense. Instead, in order to express a future event, either the present
+tense is used (as mentioned above), usually combined with a time
+adverbial, or skal / kommer til å / vil + infinitive is used.
+
+Using the present tense to refer to a future event is more commonly used
+in Norwegian than in English. It is often used to refer to a _near_
+future event and a time adverbial is usually included so as not to cause
+confusion with a present time reference.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Jeg reiser *i morgen*. |_I am leaving / traveling tomorrow._
+
+|De ankommer *på søndag*. |_They are arriving on Sunday._
+
+|Byggearbeidet begynner en gang *i neste uke*. |_The building work
+starts sometime next week._
+|===
+
+The present tense is also used in temporal clauses as well:
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|*Når du kommer,* skal vi spise. |_When you arrive, we will eat._
+
+|*Når vi er ferdige,* (så) kan vi ta en kopp te. |_When we are finished,
+we can have a cup of tea._
+
+|*Etter at du blir medlem av treningsstudioet*, vil du kunne bruke
+bassenget. |_After you become a member at the gym, you will be able to
+use the pool._
+|===
+
+*[.underline]#NOTE:#* When a conditional clause expresses that something
+_must_ be done in order for something else to occur, present tense
+_cannot_ be used. In these instances, “må + infinitive” must be used.
+
+[cols=",,,",options="header",]
+|===
+|*Norwegian* |*English* | |
+|*Conditional Clause* |*Condition* |*Conditional Clause* |*Condition*
+
+|Hvis du skal lære norsk, |må du gå på et kurs. |_If you are going to
+learn Norwegian,_ |_you must take a course._
+
+|Hvis du skal bli med til byen, |må du først gjøre leksene dine. |_If
+you are going to town with me,_ |_you have to do your homework first._
+
+|Hvis du vil kjøpe en ny bil, |må du jobbe hardt. |_If you want to buy a
+new car,_ |_you must work hard._
+|===
+
+=== Skal + infinitive
+
+Skal + infinitive is used when the future event is within the speaker’s
+control. It is also used when implying an agreement, arrangement or
+promise..
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Jeg skal skrive et brev til moren min. |_I will write a letter to my
+mother._
+
+|De skal gifte seg i morgen. |_They are getting married tomorrow._
+
+|Jeg skal være der kl. 10. |_I have to be there at 10. (promise)_
+|===
+
+=== Vil + infinitive
+
+Vil + infinitive is used when one assumes an event will most likely
+happen, but they have no control over the event; there’s a little
+uncertainty whether it will occur; very neutral way of expressing a
+future event.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Oljeprisen vil snart gå opp. |_The price of oil will go up soon._
+
+|De vil sikkert arrestere ham. |_They will probably arrest him._
+
+|Du vil bli høyere enn faren din. |_You will be taller than your dad.
+(most likely)_
+|===
+
+*[.underline]#NOTE:#* A good rule of thumb is that if the sentence could
+start with “Jeg regner med at…” (I reckon that….), then “vil” is the
+verb to use.
+
+Ex: Ekspertene regner med at oljeprisen vil gå opp.
+
+The experts assume that the price of oil will go up.
+
+=== Kommer til å
+
+“Kommer til å” can be helpful to use instead of “vil,” when it’s not
+clear if “vil” would mean “will” or “want.”
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|De kommer til å besøke Norge i juli. |_They are going to visit Norway
+in July._
+
+|Du kommer til å bli syk hvis du går ut uten en jakke. |_You will become
+sick if you go outside without a jacket._
+
+|Han kommer til å spise kake etter middag. |_He will eat cake after
+dinner._
+|===
+{empty} +
+Let’s look at how one can express the same thing, using the 4 ways
+discussed above:
+
+[cols=",,",options="header",]
+|===
+|*Form* |*Norwegian* |*English*
+a|
+*Present tense +*
+
+*time adverbial*
+
+|Hva *skjer* med henne *i morgen*? |_What will happen to her tomorrow?_
+
+|*Skal + infinitive* |Hva *skal skje* med henne? |_What is going to
+happen with her?_
+
+|*Vil + infinitive* |Hva *vil skje* med henne? |_What will happen to
+her?_
+
+|*Kommer til å* |Hva *kommer til å* skje med henne? |_What will happen
+to her?_
+|===
+
+_**pass:[*]pass:[*]If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.]Thanks.pass:[*]pass:[*]**_
+
+Resources:
+
+https://drive.google.com/file/d/0B9QDHej9UGAdMXpOVG5QNm9rT0E/view[Norwegian:
+An Essential Grammar (p 12-25)]
+
+https://docs.google.com/spreadsheets/d/1AWnlg6MduDwvOBdgD8y6JqmyKznySDMb6hjWm-hl_vQ/edit?usp=sharing[Lesson
+11: Verb Conjugation Table]
+
+https://www.youtube.com/watch?v=gc_u4x4VYW4[Norwegian
+Verbs: Past, Present Perfect video]
+
+http://www.learnnorwegiannaturally.com/norwegian-grammar/conjugate-norwegian-verbs/[How
+to Conjugate Norwegian Verbs]
+
+http://carla.umn.edu/lctl/materials/norwegian/norwegian-verbs.html[Common
+Norwegian Verbs Conjugated]
+
+*[.underline]#Exercise:# Write 6 sentences*
+
+[arabic]
+. *One sentence using present tense.*
+. *Two using past tense.*
+. *Three using future tense*
