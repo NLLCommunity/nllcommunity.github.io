@@ -1,0 +1,397 @@
+---
+title: Participles, Perfects, Conditionals
+date: 2019-06-09
+author: Dan
+categories:
+  - Sunday lessons
+---
+
+== Present Participle
+
+The present participle, in Norwegian, is the ending -ende. This is
+equivalent to the English -ing, however unlike in English, it is not
+used as frequently. In English, -ing can be used to denote a continuous
+action, however that is not the case in Norwegian _(with a small
+exception you will see in this lesson)._ For information on continuous
+action, see this
+https://docs.google.com/document/d/1T64nO6Y6kGqsJp6GrwgA-VHd95z8-CRh1gR-O0DwmDg/edit?usp=sharing[lesson.]
+
+The present participle is used often in Norwegian as an adjective or to
+express the effect a person or thing has.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Resultatene er *alarmerende*. |_The results are alarming._
+|Naboen er *irriterende*. |_The neighbor is annoying._
+|Filmen er *spennende*. |_The film is exciting._
+|Øynene hennes er *fengslende*. |_Her eyes are captivating._
+|===
+
+It can also be used as an adverb intensifies an adjective.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Kjøkkenet var *skinnende* rent. |_The kitchen was spotlessly (literally
+“shining”) clean._
+
+|Kvinnen spilte *kokende* varm kaffe på mannen. |_The woman spilled
+boiling hot coffee on the man._
+|===
+
+The present participle is used as a verb of motion or expression when it
+follows “å komme.”
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Han kom *syngende* inn i rommet. |_He came into the room singing._
+|Der kommer Lise *løpende*. |_Here comes Lise running._
+|Hun kom *kjørende* til festen. |_She came to the party. (driving)_
+|===
+
+*[.underline]#Note:#* In English, one can form a sentence like, “I saw a
+howling wolf.” While one can say this in Norwegian, it is not
+recommended. Here’s a better way to phrase such a sentence:
+
+Jeg så en ulv som ulte.
+
+I saw a wolf that was howling.
+
+The present participle of the verbs “sitte,” “ligge,” and “stå” are
+often used with the verb “bli.”
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Bøkene ble *liggende* på bordet fordi jeg glemte å rydde. |_The books
+were lying on the table because I forgot to clean._
+
+|Han ble *sittende* og prate. |_He was sitting and talking._
+|===
+
+*[.underline]#Note:#* In second example above, the second verb (“prate”)
+is in the infinitive form. (i.e. no -r).
+
+Occasionally, there are sentences in which a present participle can be
+used as a noun (_gerund_). When it is used as a noun in this manner, it
+does not inflect for number or gender.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|De *reisende* måtte bytte tog. |_The passengers (literally “those
+travelling”) had to change trains._
+
+|De *forbipasserende* la ikke merke til henne. |_The passersby did not
+notice her._
+|===
+
+== Past Participle
+
+In English, the past participle is the verb form that ends in -ed and is
+used in the perfect and passive tenses (and sometimes as an adjective),
+for example, “have you looked?” or “lost property.” In Norwegian, the
+past participle is used in the present perfect and past perfect tenses,
+as well as in
+https://docs.google.com/document/d/1JzBvQcuFJ4y908dBdeDqmyavvZ3ik6Xu9ILUNRupJ2U/edit?usp=sharing[passive
+construction] when combined with “bli.”
+
+Here is the rule of thumb on how to conjugate the past participle:
+[cols=",,,,",options="header",]
+|===
+|*Rule* |*Infinitive* |*Past Tense* |*Norwegian* |*English*
+.3+a|
+If verb ends in double consonant, consonant cluster, or a voiced plosive
+(b or d) followed by -e
+
+* Past tense ends in -et
+
+|Å +sna+[.underline]#kk#+e+ |Snakket |Sofia har snakket med Tobias. |_Sofia
+has talked with Tobias._
+
+|Å +øn+[.underline]#sk#+e+ |Ønsket |Det er det han hadde ønsket. |_It’s
+what he would have wished for._
+
+|Å bade |Badet |Moren har badet babyen. |_The mother has bathed the
+child._
+
+.2+a|
+If verb ends in single consonant (except v or voiced plosives) followed
+by -e
+
+* Past tense ends in -t
+
+|Å +læ+[.underline]#r#+e+ |Lært |Barnet hadde lært sangen. |_The child had
+learned the song._
+
+|Å +kjø+[.underline]#p#+e+ |Kjøpt |Markus skulle ha kjøpt bilen. |_Markus
+should have bought the car._
+
+.2+a|
+If verb ends in v or with a diphthong followed by -e
+
+* Past tense ends in -d
+
+|Å +le+[.underline]#v#+e+ |Levd |Grumpy Cat hadde levd et kort liv. |_Grumpy
+Cat had lived a short life._
+
+|Å eie |Eid |Han hadde eid det gamle huset. |_He had owned the old
+house._
+
+a|
+If verb has only one syllable with a long vowel
+
+* Past tense ends in dd
+
+|Å +b+[.underline]#o# |Bodd |Jens har bodd her hele livet. |_Jens has
+lived here his whole life._
+|===
+
+*[.underline]#Note:#* In some strong verbs, the vowel will change in the
+past participle form.
+
+[cols=",,",options="header",]
+|===
+|*Infinitive* |*Past Participle* |*English*
+|Å hjelpe |Hjulpet |_Helped_
+|Å vinne |Vunnet |_Won_
+|===
+
+When the past participle is used as an adjective indefinite or plural
+forms, the conjugation changes slightly.
+
+[cols=",,,",options="header",]
+|===
+|*Rule* |*Verb / Adj* |*Norwegian* |*English*
+.2+a|
+If the past participle ends in just -t, then
+
+* An -e is added
+
+|As verb |Han har forgylt boka. |_He has gilded the book._
+
+|As adjective |Den forgylte boka er på bokhylla. |_The gilded book is
+on the bookshelf._
+
+.2+a|
+If the past participle ends in -et, then
+
+* The ending is changed to -ede.
+
+|As verb |Hun har blandet mange slags ting før. |_She has mixed many
+kinds of things before._
+
+|As adjective |Blandede nøtter var den beste blandingen hun hadde
+laget. |_Mixed nuts was the best mixture she had made._
+|===
+
+*[.underline]#Note:#* Some strong verbs will change the past participle
+ending to -ne when used as an adjective.
+
+Ex: Bilen er stjålet. Den stjålne bilen.
+
+The car is stolen. The stolen car.
+
+== Present Perfect Tense
+
+Though it is called “present perfect” it is a form of past tense. In
+present perfect, the action that happened in the past has an impact on
+the present. It is used similarly as it is in English and is pretty easy
+to form in Norwegian. Simply, it is har / er + the past participle.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Jeg har spist. |_I have eaten._
+|Han har hatt mange gjester. |_He has had many guests._
+|Vi har vært i Oslo. |_We have been to Oslo._
+|===
+
+*[.underline]#NOTE:#* Some intransitive verbs (meaning they do not have
+a direct object), particularly those referring to motion or change often
+use “er” instead of “har.” . +
+Ex: Hun er kommet hjem.
+
+She has come home.
+
+In questions starting with “Hvor lenge…?” (how long?), the present
+perfect tense changes the meaning of a sentence.
+
+[cols=",,",options="header",]
+|===
+|*Tense* |*Eksempel* |*English*
+|*Past Tense* |Hvor lenge *var* du i Norge? a|
+_How long were you in Norway?_
+
+_(you are no longer in Norway)_
+
+| |Hvor lenge *bodde du* i Trondheim? |_How long did you live in
+Trondheim?_
+
+|*Present Perfect Tense* |Hvor lenge har du *vært* i Norge? a|
+_How long have you been in Norway?_
+
+_(you are still there or have been there for a while)_
+
+| |Hvor lenge har du *bodd* i Trondheim? |_How long have you lived in
+Trondheim?_
+|===
+
+*[.underline]#Note:#* Present perfect can also be used for an action in
+the near future, in a subordinate clause, if completed before an action
+expressed in the main clause.
+
+Ex: Når du *har lært* norsk, kan du få en jobb.
+
+When you have learned Norwegian, you can get a job.
+
+== Past Perfect (aka Pluperfect)
+
+The past perfect is used to express an action in the past that took
+place before another action indicated by the past tense. An example in
+English would be, “I had seen the movie when it came out.” It is formed
+by using hadde / var + past participle.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Han hadde allerede spist da du ringte. |_He had already eaten when you
+called._
+
+|Lukas fortalte oss at han hadde vært syk. |_Lukas told us that he had
+been sick._
+
+|Etter at vi hadde spist, gikk vi på kino. |_After we had eaten, we went
+to the cinema._
+|===
+
+*[.underline]#Note:#* The use of “var” (past tense of “er”) follows the
+same rule in past perfect as it does in present perfect, with regards to
+intransitive verbs (i.e. verbs without a direct object).
+
+The past perfect may also be used to describe hypothetical events.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Hvis du ikke hadde drukket, kunne du ha kjørt hjem. |_If you hadn’t
+drank, you could have driven home. (But you did.)_
+
+|Hun ville ha hjulpet deg hvis du hadde bedt henne om det. |_She would
+have helped you if you had asked her. (But you didn’t.)_
+|===
+
+== Conditional (aka Future of the Past)
+
+Expresses a future action in relation to a point of reference in the
+past; this is often used in indirect speech. It is formed using skulle /
+ville + infinitive.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Hun sa at hun skulle vente på posten. |_She said that she would wait
+for the mail._
+
+|Han fortalte meg at Erik skulle lese boken. |_He told me that Erik
+should read the book._
+|===
+
+== Conditional Perfect (aka Future Perfect of the Past)
+
+This tense is formed with skulle / ville ha + past participle. It has
+two functions (and bear with me, I know this will sound confusing; the
+examples will help better explain).
+
+[cols=",,",options="header",]
+|===
+|*Function* |*Eksempel* |*English*
+.2+a|
+Expresses action that should have been done, before something else
+happens, but was not done (yet).
+
+* Usually used with indirect speech, often with a declarative verb (e.g.
+“tror”, “si”, etc) in the main clause.
+
+|Jeg skulle ha reparert bilen før ferien begynte. |_I should have
+repaired the car before the holiday began._
+
+|Jeg trodde at han ville ha kjøpt en bil før semesteret begynte. |_I
+thought that he would have bought a car before the semester began._
+
+.2+|Used in a main clause which has an attached conditional clause with the
+verb in the past perfect tense that expresses a counterfactual situation
+in the past. |Hvis jeg hadde visst om sykdommen din, skulle jeg ha
+besøkt deg. |_If I had known about your illness, I would have visited
+you._
+
+|Jeg skulle ha sett filmen hvis jeg hadde hatt penger. |_I would have
+seen the film if I had had the money._
+|===
+
+== Future Perfect (Futurum Perfektum)
+
+This form is created by using skal / vil ha + past participle. It
+expresses an action that lasts to, or has relevance for, a certain point
+in time in the future.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Når ferien begynner, skal han ha fullført eksamenen sin. |_When the
+holiday begins, he must have finished his exam._
+
+|Han skal ha spist før programmet begynner. |_He should have eaten
+before the program begins._
+|===
+
+== Comparison of Verb Tenses
+
+[cols=",,",options="header",]
+|===
+|*Tense* |*Eksempel* |*English*
+|*Present* |Han spiser. |_He is eating._
+|*Preterite* |Han spiste. |_He ate._
+|*Present Perfect* |Han har spist. |_He has eaten._
+|*Pluperfect* |Han hadde spist. |_He had eaten._
+|*Future* |Han skal spise. |_He will eat._
+|*Future Perfect* |Han skal ha spist. |_He’s supposed to have eaten._
+|*Conditional* |Han skulle spise. |_He would eat._
+|*Conditional Perfect* |Han skulle ha spist. |_He should have eaten._
+|===
+
+_**pass:[*]pass:[*]If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.pass:[*]pass:[*]**_
+
+References:
+
+https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[Norwegian:
+An Essential Grammar (Pgs: 12-25; 79)]
+
+https://docs.google.com/document/d/1OnHe4kCLqfuXpaVeMyIz0b188k9--M6elSY9Qc0_CQ4/edit?usp=sharing[Lesson
+18: Past Tense]
+
+https://blogs.transparent.com/norwegian/norwegian-weak-past-tense-verbs/[Weak
+Past Tense Verbs in Norwegian]
+
+https://www.youtube.com/watch?v=gc_u4x4VYW4[Norwegian
+Verbs: Past, Present Perfect (YouTube)]
+
+https://www.youtube.com/watch?v=LWnggCdD63Q[Preteritum
+Perfektum Video]
+
+http://www.verbix.com/languages/norwegian.html[Verbix: Verb
+Conjugator]
+
+https://docs.google.com/spreadsheets/d/1AWnlg6MduDwvOBdgD8y6JqmyKznySDMb6hjWm-hl_vQ/edit?usp=sharing[Lesson
+11: Verb Conjugation Table]
+
+*[.underline]#Exercise:# Write 6 sentences*
+
+[arabic]
+. *One with present participle*
+. *Two sentences with present perfect*
+. *Two sentences with past perfect*
+. *One sentence with future perfect*

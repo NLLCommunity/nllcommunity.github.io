@@ -1,8 +1,9 @@
 # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
-image: registry.gitlab.com/pages/hugo:latest
+image: klakegg/hugo:asciidoctor
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
+  HUGO_ENV: production
 
 test:
   script:
