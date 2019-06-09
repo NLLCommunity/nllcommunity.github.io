@@ -236,7 +236,7 @@ _cannot_ be used. In these instances, “må + infinitive” must be used.
 
 [cols=",,,",options="header",]
 |===
-|*Norwegian* |*English* | |
+2+|*Norwegian* 2+|*English*
 |*Conditional Clause* |*Condition* |*Conditional Clause* |*Condition*
 
 |Hvis du skal lære norsk, |må du gå på et kurs. |_If you are going to
