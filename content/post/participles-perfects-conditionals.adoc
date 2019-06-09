@@ -222,20 +222,20 @@ perfect tense changes the meaning of a sentence.
 [cols=",,",options="header",]
 |===
 |*Tense* |*Eksempel* |*English*
-|*Past Tense* |Hvor lenge *var* du i Norge? a|
+.2+|*Past Tense* |Hvor lenge *var* du i Norge? a|
 _How long were you in Norway?_
 
 _(you are no longer in Norway)_
 
-| |Hvor lenge *bodde du* i Trondheim? |_How long did you live in
+|Hvor lenge *bodde du* i Trondheim? |_How long did you live in
 Trondheim?_
 
-|*Present Perfect Tense* |Hvor lenge har du *vært* i Norge? a|
+.2+|*Present Perfect Tense* |Hvor lenge har du *vært* i Norge? a|
 _How long have you been in Norway?_
 
 _(you are still there or have been there for a while)_
 
-| |Hvor lenge har du *bodd* i Trondheim? |_How long have you lived in
+|Hvor lenge har du *bodd* i Trondheim? |_How long have you lived in
 Trondheim?_
 |===
 
