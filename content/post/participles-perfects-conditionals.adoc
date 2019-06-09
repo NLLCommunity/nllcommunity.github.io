@@ -144,7 +144,7 @@ house._
 a|
 If verb has only one syllable with a long vowel
 
-* Past tense ends in dd
+* Past tense ends in -dd
 
 |Å +b+[.underline]#o# |Bodd |Jens har bodd her hele livet. |_Jens has
 lived here his whole life._
