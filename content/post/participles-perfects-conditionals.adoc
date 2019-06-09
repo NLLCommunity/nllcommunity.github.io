@@ -15,6 +15,7 @@ action, however that is not the case in Norwegian _(with a small
 exception you will see in this lesson)._ For information on continuous
 action, see this
 https://docs.google.com/document/d/1T64nO6Y6kGqsJp6GrwgA-VHd95z8-CRh1gR-O0DwmDg/edit?usp=sharing[lesson.]
+<!--more-->
 
 The present participle is used often in Norwegian as an adjective or to
 express the effect a person or thing has.
