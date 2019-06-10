@@ -1,0 +1,211 @@
+---
+title: "To do, to play"
+date: "2019-05-26"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+When learning Norwegian, one will come across verbs that can sometimes
+be difficult for new learners to understand how and when they are used.
+Often in these cases, the verbs might translate into the same English
+word, but cannot be used interchangeably in Norwegian. Let’s look at
+some examples.
+<!--more-->
+== Å gjøre
+Often translates as “to do” or sometimes as
+“to make” and is used in four ways.
+
+{empty}1. The verbal echo - basically this is when it is used
+to “echo” a verb that was already used in the sentence.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Peter spiser ofte pizza, og det gjør jeg også. |_Peter often eats
+pizza, and so do I._
+
+|Tobias kjøpte en ny bok, og det gjorde Sofia også. |_Tobias bought a
+new book, and so did Sofia._
+|===
+
+In these examples, you can see that “å gjøre” translates to “do” and it
+is referring back to “eating pizza” and “bought a new book.”
+
+*[.underline]#NOTE:#* If a modal verb is used in the first part of the
+sentence, “gjør” cannot be used. Instead, the modal verb must be used to
+“echo.”
+
+*Ex: De vil dra nå, og det _[.underline]#gjør#_ moren min også. -
+WRONG!*
+
+*De [.underline]#vil# dra nå, og det _[.underline]#vil#_ moren min også.
+- CORRECT!*
+
+They want to leave now, and my mom does also.
+
+{empty}2. In conjunction with an adjective
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Ole gjorde faren sin sint med løgnene sine. |_Ole made his father angry
+with his lies._
+
+|Denne sangen gjør meg glad. |_This song makes me happy._
+|===
+
+{empty}3. Finding a solution
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Hva gjør du når ryggen din klør og armene dine er for korte?! Jeg vet
+ikke hva jeg skal gjøre! |_What do you do when your behind itches and
+your arms are too short?! I don’t know what to do!_
+
+|Hva skal vi gjøre med klimaendringene? |_What should we do about
+climate change?_
+|===
+
+{empty}4. Job, occupation, or activity
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Hva skal du gjøre i helga? |_What are you doing this weekend?_
+a|
+Person 1: Hva gjør mora di?
+
+Person 2: Hun er (en) bibliotekar.
+
+a|
+_Person 1: What does your mom do (for a job)?_
+
+_Person 2: She is a librarian._
+
+|===
+
+*[.underline]#NOTE:#* There are some fixed phrases that use “gjør.”
+
+[cols=",,,",options="header",]
+|===
+|*Norwegian* |*English* |*Eksempel* |*English*
+|Å gjøre en forskjell |_To make a difference_ |Hvis du vil gjøre en
+forskjell, bør du resirkulere. |_If you want to make a difference, you
+should recycle._
+
+|Å gjøre motstand |_To resist / oppose_ |De gjør motstand mot disse
+undertrykkende lovene. |_They oppose these oppressive laws._
+
+|Å gjøre narr av |_To make a fun of / make a fool of_ |Presidenten gjør
+ofte narr av personalet sitt. |_The president often makes fun of his
+staff._
+
+|Å gjøre skade |_To harm / damage_ |Asteroiden vil gjør skade på
+planeten. |_The asteroid will do damage to the planet._
+
+|Det gjør ikke noe |_It does not matter_ |Det gjør ikke noe at du kommer
+sent. |_It doesn’t matter if you arrive late._
+|===
+
+== Å lage
+
+“Å lage” is used when referring to producing, making, or completing
+something.
+
+[cols=",",options="header",]
+|===
+|*Norwegian* |*English*
+|Jeg lager middag hver dag. |_I make dinner every day._
+
+|Barnet laget en kopp til foreldrene sine. |_The child made a cup for
+his parents._
+|===
+
+Unlike in English, though, “make” cannot be used in more abstract
+sentences, like we do in English.
+
+*Ex: å lage et unntak - WRONG!*
+
+*å gjøre et unntak - CORRECT*
+
+To make an exception
+
+== Å Leke vs Å Spille
+
+Both “å leke” and “å spille” mean “to play” (and both can be used as a
+noun to mean game: “lek” and “spill”). However they are not
+interchangeable.
+
+*_Å leke_* - Used for unstructured playtime, for example playing on a
+playground or playing with lego. Additionally, there are some games that
+are unstructured but do have structured rules, that also use “å leke.”
+It’s also used in unstructured “acting” among children (i.e.
+make-believe; playing pretend).
+
+_*Å spille*_ - Used for structured play, usually with a set of rules in
+place, such as ball games, board games, video games, etc. “Å spille” is
+also used for playing musical instruments and for acting in tv / movies
+/ plays. (_*Helpful Hint:*_ _“**S**pille” is ”**S**tructured.”_)
+
+[cols=",,,",options="header",]
+|===
+| |*Usage* |*Eksempel* |*English*
+.4+|*Å leke* .4+|*Unstructured playtime* |Barna leker utenfor. |_The children
+are playing outside._
+
+|Moren sa til barna at de skulle leke i parken. |_The mother told
+the children to play at the park._
+
+|Anna og Oskar lekte superhelter. |_Anna and Oskar played
+superheroes._
+
+|Vi lekte sisten da vi var unge. |_We played tag when we were
+young._
+
+.3+|*Å spille* .3+|*Structured play* |Tobias spiller en munnharpe. |_Tobias
+plays a mouth harp._
+
+|Markus og Isabella spiller sjakk sammen. |_Markus and Isabella play
+/ are playing chess together._
+
+|Mads Mikkelsen spilte regnskapsfører i Rihannas musikkvideo. |_Mads
+Mikkelsen played the accountant in Rihanna’s music video._
+|===
+
+_**{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}**_
+
+References:
+
+https://www.youtube.com/watch?v=7G8ZEDt7yIQ[Words about
+Words: å lage/å gjore (YouTube)]
+
+https://blogs.transparent.com/norwegian/norwegian-verb-to-do/[Norwegian
+Verb "To Do"]
+
+https://www.youtube.com/watch?v=oxG915H5X0g&list=PL6RR1L41TROnv1cjfNUkXTiEqf96Ul3S5&index=42[Lær
+Norsk! Forskjellen mellom å gjøre og å lage (YouTube på norsk)]
+
+http://www.verbix.com/languages/norwegian.html[Verbix: Verb
+Conjugation site]
+
+*[.underline]#Exercise 1:# Fill in the blank answer key (be sure to
+conjugate the verbs).*
+
+*COPY & PASTE into a separate document.*
+
+[arabic]
+. Liker du å +_____+ kortspill?
+. Kattene mine liker å +_____+ med strengen.
+. Sønnen min +_____+ en keramiskvase i kunstklasse.
+. Hva +_____+ du i helgen?
+. Jeg +_____+ et kort til vennen min.
+. Filmen +_____+ meg trist.
+. Emil og Karina +_____+ gjemsel sammen.
+. Jacob håper at han kan +_____+ en forskjell i selskapet.
+. Han +_____+ fiolin veldig bra.
+. Piratene +_____+ et kart av den begravde skatten.
+. Clara sykler ofte til jobb og det +_____+ Sofia også.
+
+*Exercise 2: Write 5 sentences using the verbs in today’s lesson*
