@@ -133,13 +133,13 @@ If verb ends in double consonant, consonant cluster, or a voiced plosive
 
 * Past tense ends in -et
 
-|Å +sna+[.underline]#kk#+e+ |Snakket |Sofia snakket med Tobias. |_Sofia
+|Å sna[.underline]##kk##e |Snakket |Sofia snakket med Tobias. |_Sofia
 talked with Tobias._
 
-|Å +ø+[.underline]#nsk#+e+ |Ønsket |Barnet ønsket seg en ny sykkel. |_The
+|Å ø[.underline]##nsk##e |Ønsket |Barnet ønsket seg en ny sykkel. |_The
 child wished for a new bike._
 
-|Å +ba+[.underline]#d#+e+ |Badet |Moren badet babyen. |_The mother bathed
+|Å ba[.underline]##d##e |Badet |Moren badet babyen. |_The mother bathed
 the baby._
 
 .2+a|
@@ -148,10 +148,10 @@ by -e
 
 * Past tense ends in -te
 
-|Å +læ+[.underline]#r#+e+ |Lærte |Jenta lærte alfabetet. |_The girl learned
+|Å læ[.underline]##r##e |Lærte |Jenta lærte alfabetet. |_The girl learned
 the alphabet._
 
-|Å +kjø+[.underline]#p#+e+ |Kjøpte |Mannen kjøpte en ny bil. |_The man
+|Å kjø[.underline]##p##e |Kjøpte |Mannen kjøpte en ny bil. |_The man
 bought a new car._
 
 .2+a|
@@ -159,10 +159,10 @@ If verb ends in v or with diphthong followed by -e
 
 * Past tense ends in -de
 
-|Å +le+[.underline]#v#+e+ |Levde |Frosken levde lenge. |_The frog lived a
+|Å le[.underline]##v##e |Levde |Frosken levde lenge. |_The frog lived a
 long time._
 
-|Å +pl+[.underline]#ei#+e+ |Pleide |Gutten pleide å spille fiolin. |_The
+|Å pl[.underline]##ei##e |Pleide |Gutten pleide å spille fiolin. |_The
 boy used to play the violin._
 
 a|
@@ -170,7 +170,7 @@ If verb has only one syllable with a long vowel
 
 * Past tense ends in -dde
 
-|Å +b+[.underline]#o# |Bodde |Moren min bodde i Bergen. |_My mother lived
+|Å b[.underline]##o## |Bodde |Moren min bodde i Bergen. |_My mother lived
 in Bergen._
 |===
 
@@ -323,7 +323,7 @@ a|
 
 |Hva *skjer* med henne *i morgen*? |_What will happen to her tomorrow?_
 
-|*Skal + infinitive* |Hva *skal skje* med henne? |_What is going to
+|*Skal + infinitive* |Hva *skal skje* med henne? |_What is going to 
 happen with her?_
 
 |*Vil + infinitive* |Hva *vil skje* med henne? |_What will happen to
@@ -333,8 +333,8 @@ her?_
 to her?_
 |===
 
-_**pass:[*]pass:[*]If the lesson was beneficial, please consider
-https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.]Thanks.pass:[*]pass:[*]**_
+_**{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.]Thanks.{asterisk}{asterisk}**_
 
 Resources:
 

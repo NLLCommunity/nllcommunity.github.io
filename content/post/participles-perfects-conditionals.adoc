@@ -109,10 +109,10 @@ If verb ends in double consonant, consonant cluster, or a voiced plosive
 
 * Past tense ends in -et
 
-|Å +sna+[.underline]#kk#+e+ |Snakket |Sofia har snakket med Tobias. |_Sofia
+|Å sna[.underline]##kk##e |Snakket |Sofia har snakket med Tobias. |_Sofia
 has talked with Tobias._
 
-|Å +øn+[.underline]#sk#+e+ |Ønsket |Det er det han hadde ønsket. |_It’s
+|Å øn[.underline]##sk##e |Ønsket |Det er det han hadde ønsket. |_It’s
 what he would have wished for._
 
 |Å bade |Badet |Moren har badet babyen. |_The mother has bathed the
@@ -124,10 +124,10 @@ by -e
 
 * Past tense ends in -t
 
-|Å +læ+[.underline]#r#+e+ |Lært |Barnet hadde lært sangen. |_The child had
+|Å læ[.underline]##r##e |Lært |Barnet hadde lært sangen. |_The child had
 learned the song._
 
-|Å +kjø+[.underline]#p#+e+ |Kjøpt |Markus skulle ha kjøpt bilen. |_Markus
+|Å kjø[.underline]##p##e |Kjøpt |Markus skulle ha kjøpt bilen. |_Markus
 should have bought the car._
 
 .2+a|
@@ -135,7 +135,7 @@ If verb ends in v or with a diphthong followed by -e
 
 * Past tense ends in -d
 
-|Å +le+[.underline]#v#+e+ |Levd |Grumpy Cat hadde levd et kort liv. |_Grumpy
+|Å le[.underline]##v##e |Levd |Grumpy Cat hadde levd et kort liv. |_Grumpy
 Cat had lived a short life._
 
 |Å eie |Eid |Han hadde eid det gamle huset. |_He had owned the old
@@ -146,7 +146,7 @@ If verb has only one syllable with a long vowel
 
 * Past tense ends in -dd
 
-|Å +b+[.underline]#o# |Bodd |Jens har bodd her hele livet. |_Jens has
+|Å b[.underline]##o## |Bodd |Jens har bodd her hele livet. |_Jens has
 lived here his whole life._
 |===
 
@@ -363,8 +363,8 @@ before the program begins._
 |*Conditional Perfect* |Han skulle ha spist. |_He should have eaten._
 |===
 
-_**pass:[*]pass:[*]If the lesson was beneficial, please consider
-https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.pass:[*]pass:[*]**_
+_**{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}**_
 
 References:
 
