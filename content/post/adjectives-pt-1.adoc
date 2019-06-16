@@ -1,0 +1,381 @@
+---
+title: "Adjectives (part 1)"
+date: "2019-06-16"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+In Norwegian, adjectives must always agree with the number and gender of
+the noun. The plural form of the adjective is the same across all
+genders. The adjective also has two declensions: indefinite and
+definite. Unfortunately, there are many irregulars.
+<!--more-->
+== Indefinite Form
+
+When using the indefinite form (en/ei/et; i.e. “en bil,” “ei bok,” etc),
+the adjective does not change when the noun is masculine or feminine
+gender (en / ei) but gets a -t ending if the noun is neuter (et) and an
+-e ending in plural in all three genders.
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+|*Masc.* |En stor bil |_A big car_ |Store biler |_Big cars_
+|*Fem.* |Ei stor hytte |_A big cabin_ |Store hytter |_Big cabins_
+|*Neut.* |Et stort hus |_A big house_ |Store hus |_Big houses_
+|===
+
+Most adjectives decline the same way as “stor” does, which there are
+only 3 forms.
+
+[arabic]
+. Stor - only used in the indefinite singular form for masc/fem nouns.
+. Stort - only used in the indefinite neuter singular form
+. Store - used in all other forms
+
+== Definite Form
+
+In the definite form, the adjective almost always takes an -e ending:
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+
+|*Masc.* |Den store bilen |_The big car_ |De store bilene |_The big
+cars_
+
+|*Fem.* |Den store hytta |_The big cabin_ |De store hyttene |_The big
+cabins_
+
+|*Neut.* |Det store huset |_The big house_ |De store husene |_The big
+houses_
+|===
+
+The adjective declines the same as they do in the indefinite, when the
+adjective is predicative (i.e. after the noun).
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+
+|*Masc.* |Bilen er stor |_The car is big_ |Bilene er store |_The cars
+are big_
+
+|*Fem.* |Hytta er stor |_The cabin is big_ |Hyttene er store |_The
+cabins are big_
+
+|*Neut.* |Huset er stort |_The house is big_ |Husene er store |_The
+houses are big_
+|===
+
+The definite form of the adjective is used in a number of ways in
+Norwegian:
+
+[arabic]
+. After the definite article (den/det)
+. After the demonstrative pronoun (den/denne/dette)
+. After the possessive pronoun (min/mitt, etc)
+. After the genitive -s
+. After første, siste, neste, samme
+. Certain prepositional phrases
+. In some cases before a noun without a preceding article, usually when
+the adjective is part of a proper name or an expression of address.
+
+[cols=",,",]
+|===
+|*Rule* |*Norwegian* |*English*
+
+|After definite article |Den fine bilen. |_The pretty car._
+
+|After the demonstrative pronoun |Den / denne fine bilen. |_That/this
+fine car._
+
+.2+|After the possessive pronoun* |Min lille venn |_My little friend_
+
+|Mitt store eple |_My big apple_
+
+|After the genitive -s |Pers nye hatt. |_Per’s new hat._
+
+|After første, siste, neste, samme |Neste offentlige møte. |_The next
+public meeting._
+
+.3+|Certain prepositional phrases |Hele dagen |_The whole day_
+
+|Midt på lyse dagen |_In broad daylight_
+
+|Ut av løse luften |_Out of thin air_
+
+.2+|Before a noun without a preceding article when the adjective is part of
+a proper name or an expression of address. |Gamle Norge |Old Norway
+
+|Kjære barn |Dear child
+|===
+
+**[.underline]#Note:#* exception to this rule: mitt eget hus; min egen
+bil
+
+== Irregular Rules
+
+{empty}1. If an adjective has a short stressed vowel followed by a
+single consonant, the consonant is doubled when the noun is plural, in
+the *indefinite* form:
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+|*Masc.* |En tom boks |_An empty box_ |Tomme bokser |_Empty boxes_
+|*Fem.* |Ei tom hytte |_An empty cabin_ |Tomme hytter |_Empty cabins_
+|*Neut.* |Et tomt hus |_An empty house_ |Tomme hus |_Empty houses_
+|===
+
+*_BUT_* it is doubled in the *definite* form in both singular and
+plural:
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+
+|*Masc.* |Den tomme boksen |_The empty box_ |De tomme boksene |_The
+empty boxes_
+
+|*Fem.* |Den tomme hytta |_The empty cabin_ |De tomme hyttene |_The
+empty cabins_
+
+|*Neut.* |Det tomme huset |_The empty house_ |De tomme husene |_The
+empty houses_
+|===
+
+{empty}2. If the adjective ends in an å, it takes a -tt ending if the
+noun is singular neuter (et), and the -e ending is optional if the noun
+is plural, in the *indefinite* form:
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+|*Masc.* |En grå bil |_A grey car_ |Grå(e) biler |_Grey cars_
+|*Fem.* |Ei grå hytte |_A grey cabin_ |Grå(e) hytter |_Grey cabins_
+|*Neut.* |Et grått hus |_A grey house_ |Grå(e) hus |_Grey houses_
+|===
+
+*_AND_* it is also optional in the *definite* form
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+
+|*Masc.* |Den grå(e) bilen |_The grey car_ |De grå(e) bilene |_The grey
+cars_
+
+|*Fem.* |Den grå(e) hytta |_The grey cabin_ |De grå(e) hyttene |_The
+grey cabins_
+
+|*Neut.* |Det grå(e) huset |_The grey house_ |De grå(e) husene |_The
+grey houses_
+|===
+
+{empty}3. If the adjective ends in -el, -en, -er, then you drop the “e”
+that is in the stem before adding an -e at the end if the noun is plural
+in the indefinite form, and a double consonant will become single:
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+.2+|*Masc.* |En gammel mann |_An old man_ |Gamle menn |_Old men_
+|En åpen dør |_An open door_ |Åpne dører |_Open doors_
+.2+|*Fem.* |Ei gammel kvinne |_An old woman_ |Gamle kvinner |_Old women_
+|Ei åpen hytte |_An open cabin_ |Åpne hytter |_Open cabins_
+.2+|*Neut.* |Et gammelt hus |_An old house_ |Gamle hus |_Old houses_
+|Et åpent hus |_An open house_ |Åpne hus |_Open houses_
+|===
+
+*_BUT_* In the definite form, the “e” is dropped from the stem, and an
+-e is added to the end in both singular _and_ plural:
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+
+.2+|*Masc.* |Den gamle mannen |_The old man_ |De gamle mennene |_The old
+men_
+
+|Den åpne døren |_The open door_ |De åpne dørene |_The open doors_
+
+.2+|*Fem.* |Den gamle kvinna |_The old woman_ |De gamle kvinnene |_The old
+women_
+
+|Den åpne hytta |_The open cabin_ |De åpne hyttene |_The open cabins_
+
+.2+|*Neut.* |Det gamle huset |_The old house_ |De gamle husene |_The old
+houses_
+
+|Det åpne huset |_The open house_ |De åpne husene |_The open houses_
+|===
+
+{empty}4. A double consonant is reduced to a single consonant before the
+neuter -t in the *indefinite* form.
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+|*Masc.* |En trygg bil |_A safe car_ |Trygge biler |_Safe cars_
+|*Fem.* |Ei trygg hytte |_A safe cabin_ |Trygge hytter |_Safe cabins_
+|*Neut.* |Et trygt hus |_A safe house_ |Trygge hus |_Safe houses_
+|===
+
+{empty}5. Adjectives ending in a stressed vowel usually take a -tt
+ending in neuter singular***** in the *indefinite* form.
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+|*Masc.* |En ny bil |_A new car_ |Nye biler |_New cars_
+|*Fem.* |Ei ny hytte |_A new cabin_ |Nye hytter |_New cabins_
+|*Neut.* |Et nytt hus |_A new house_ |Nye hus |_New houses_
+|===
+
+*[.underline]#*Note:#* Some exceptions are: bra (good), sky (shy), sjalu
+(jealous), kry (proud)
+
+*_BUT_* Only a single -t is added in neuter form when the adjective ends
+in a diphthong, in the *indefinite* form.
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+|*Masc.* |En grei bil |_A decent car_ |Greie biler |_Decent cars_
+|*Fem.* |Ei grei hytte |_A decent cabin_ |Greie hytter |_Decent cabins_
+|*Neut.* |Et greit hus |_A decent house_ |Greie hus |_Decent houses_
+|===
+
+{empty}6. And then we have the adjective “little”....which kind of does
+its own thing.
+
+Indefinite:
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+|*Masc.* |En liten hund |_A little dog_ |Små hunder |_Little dogs_
+|*Fem.* |Ei lita jente |_A little girl_ |Små jenter |_Little girls_
+|*Neut.* |Et lite hus |_A little house_ |Små hus |_Little houses_
+|===
+
+Definite:
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular* |*English* |*Plural* |*English*
+
+|*Masc.* |Den lille hunden |_The little dog_ |De små hundene |_The
+little dogs_
+
+|*Fem.* |Den lille jenta |_The little girl_ |De små jentene |_The little
+girls_
+
+|*Neut.* |Det lille huset |_The little house_ |De små husene |_The
+little houses_
+|===
+
+*The following adjectives do not inflect for number or gender.*
+
+[arabic]
+. Certain adjectives which end in a stressed vowel.
+
+[cols=",,,,,",]
+|===
+|*Norwegian* |*English* |*Norwegian* |*English* |*Norwegian* |*English*
+|Bra |_Good_ |Slu |_Sly_ |Lilla |_Lilac_
+|Troende |_Faithful_ |Ru* |_Rough_ |Sky* |_Shy_
+|Sjalu* |_Jealous_ |Sta* |_Stubborn_ |Edru* |_Sober_
+|===
+
+*[.underline]#*Note#*: In the ordbok, the -e ending is optional for
+these words.
+
+Ex: Den edru(e) mannen The sober man
+
+Et bra bilde A good picture
+
+Eslene er sta(e) The mules are stubborn
+
+[arabic, start=2]
+. Adjectives which end in an unstressed -e.
+
+[cols=",,,,,",]
+|===
+|*Norwegian* |*English* |*Norwegian* |*English* |*Norwegian* |*English*
+|Øde |_Deserted_ |Sovende |_Sleeping_ |Bedre* |_Better_
+|Stille |_Quiet_ |Syngende |_Singing_ |Penere* |_Prettier_
+|Steinete |_Stony_ |Gående |_Walking_ |Mindre* |_Smaller_
+|===
+
+*[.underline]#*Note:#* These words are comparatives; most (if not all)
+comparatives end in an unstressed -e and therefore do not inflect.
+
+Ex: Et øde område a deserted area
+
+Et sovende barn a sleeping child
+
+Mannen var stille the man was quiet
+
+[arabic, start=3]
+. Some adjectives ending in -s.
+
+[cols=",,,,,",]
+|===
+|*Norwegian* |*English* |*Norwegian* |*English* |*Norwegian* |*English*
+|Stakkars |_Poor_ |Gratis |_Free_ |Nymotens |_Newfangled_
+|Avsides |_Remote_ |Felles |_Mutual_ |Forgjeves |_In vain_
+|Innvortes |_Internal_ | | | |
+|===
+
+Ex: Stakkars folk! poor people
+
+Et gratis måltid a free meal
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[[.underline]#Norwegian: An Essential Grammar (pg. 70-78)#]
+
+https://www.youtube.com/watch?v=Qhm0HA0V3JE[[.underline]#Learn Norwegian! Adjectives (YouTube)#]
+
+https://www.youtube.com/watch?v=nKfuT5VI6Lw[[.underline]#Norwegian Language: Adjectives (w Karin) (YouTube)#]
+
+https://www.youtube.com/watch?v=e1IkWv0J7Mg[[.underline]#Learn Norwegian Naturally: Adjectives (YouTube; på norsk)#]
+
+*[.underline]#Exercise 1:# Fill in the blank +
+_Copy/Paste into a separate document before answering._*
+
+En (grå) +___________+ elefant spiste eplet.
+
+Den (rask) +__________+ kvinnen løper mye.
+
+Det (gammel) +__________+ huset er (stygg) +______+.
+
+De (brun) +_______+ kattene dine er (søt) +______+.
+
+De (ung) +________+ hundene jager hverandre.
+
+Bryllupet var (vakker) +__________+.
+
+(Rød) +_____+ epler smaker bedre enn (grønn) +_______+ epler.
+
+Min (stakkars) +_______+ kone er syk igjen.
+
+Jeg fant et (trygg) +______+ skjulested.
+
+Det (dum) +______+ barnet hadde på seg en (stor) +_______+ hatt.
+
+Hannibal lager (fantastisk) +__________+ måltider.
+
+*[.underline]#Exercise 2:#* *Write 5 sentences*
+
+[arabic]
+. *One indef. singular*
+. *One def. singular*
+. *One plural*
+. *And at least 2 sentences with irregulars*
