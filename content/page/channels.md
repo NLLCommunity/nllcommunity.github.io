@@ -20,14 +20,17 @@ Discussion about the server, suggestions, etc. Discussions should only include w
 This is the channel where new users introduce themselves and gain access to the rest of the server. Do not use this channel for conversation.
 
 ### Language learning / general
-##### #generelt-engelsk
-Chat about anything and everything that doesn't fit well into other channels. English should be used here.
+##### #generelt
+Chat about anything and everything that doesn't fit well into other channels. English and Norwegian should be used here. Other Scandinavian languages are also tolerated.
 
-##### #generelt-norsk
-like #generelt-engelsk but in Norwegian
+##### #generelt-bokmål
+like #generelt but in bokmål
+
+##### #generelt-nynorsk
+like #generelt but in nynorsk
 
 ##### #generelt-andre
-like #generelt-engelsk, but in languages other than English or Norwegian.
+like #generelt, but in languages other than English or Norwegian.
 
 ##### #dialekter
 Discussion about and conversation in dialects
