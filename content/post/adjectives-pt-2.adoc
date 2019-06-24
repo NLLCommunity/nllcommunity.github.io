@@ -1,0 +1,306 @@
+---
+title: "Adjectives (part 2)"
+date: "2019-06-23"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+As we learned in the
+https://norwegianlanguagelearning.no/post/adjectives-pt-1[[.underline]#previous lesson,#] in Norwegian adjectives agree with the number and gender of
+the noun and that the plural form is the same across all genders.
+However, there are many irregular adjectives, which we’ll go over a few
+today. We’ll also go over comparatives and superlatives.
+<!--more-->
+*The following adjectives do not take a -t in the neuter form, but are
+otherwise normal.*
+
+{empty}1. Adjectives ending in -(l)ig:
+
+[cols=",,,",]
+|===
+|*Norwegian* |*English* |*Norwegian Example* |*English*
+.2+|Lykkelig .2+|_Happy_ |Et lykkelig minne |_A happy memory_
+|Lykkelige minner |_Happy memories_
+.2+|Heldig .2+|_Lucky_ |Et heldig barn |_A lucky child_
+|Det heldige barnet |_The lucky child_
+.2+|Vanskelig .2+|_Difficult_ |Et vanskelig språk |_A difficult language_
+|Det vanskelige språket |_The difficult language_
+.2+|Vennlig .2+|_Friendly_ |Et vennlig smil |_A friendly smile_
+|Det vennlige smilet |_The friendly smile_
+|===
+
+{empty}2. Some adjectives that already end in -t (especially loan words,
+superlatives, and participles).
+
+[cols=",,,",]
+|===
+|*Norwegian* |*English* |*Norwegian Example* |*English*
+.2+|Svart / Sort .2+|_Black_ |Et svart skjørt |_A black skirt_
+|Det svarte skjørtet |_The black skirt_
+.2+|Lat .2+|_Lazy_ |Et lat individ |_A lazy individual_
+|Det late individet |_The lazy individual_
+.2+|Interessant .2+|_Interesting_ |Et interessant dyr |_An interesting animal_
+|Det interessante dyr |_The interesting animal_
+.2+|Kort .2+|_Short_ |Et kort ben |_A short leg_
+|Mitt korte ben |_My short leg_
+|===
+
+{empty}3. Adjectives ending in -sk which denote nationality or that are
+polysyllabic.
+
+[cols=",,,",]
+|===
+|*Norwegian* |*English* |*Norwegian Example* |*English*
+.2+|Norsk .2+|_Norwegian_ |Et norsk frimerke |_A Norwegian stamp_
+|Det norske frimerket |_The Norwegian stamp_
+.2+|Historisk .2+|_Historical_ |Et historisk bilde |_A historical picture_
+|Det historiske bildet |_The historical picture_
+.2+|Praktisk .2+|_Practical_ |Et praktisk skip |_A practical ship_
+|Det praktiske skipet |_The practical ship_
+.2+|Rebelsk .2+|_Rebellious_ |Et rebelsk barn |_A rebellious child_
+|De rebelske barna |_The rebellious children_
+|===
+
+*[.underline]#NOTE:#* Adjectives ending in -sk that are monosyllabic,
+decline regularly.
+
+Ex: Et ferskt brød
+
+A fresh loaf
+
+{empty}4. Some adjectives ending in -d.
+
+[cols=",,,",]
+|===
+|*Norwegian* |*English* |*Norwegian Example* |*English*
+.2+|Solid .2+|_Solid_ |Et solid hus |_A solid house_
+|Det solide huset |_The solid house_
+.2+|Absurd .2+|_Absurd_ |Et absurd svar |_An absurd answer_
+|Det absurde svaret |_The absurd answer_
+.2+|Fremmed .2+|_Foreign_ |Et fremmed konsept |_A foreign concept_
+|Det fremmede konseptet |_The foreign concept_
+|===
+
+*[.underline]#NOTE:#* Most adjectives ending in -d do take the -t in the
+neuter form.
+
+Ex: Et rødt hus
+
+A red house
+
+== Comparatives and Superlatives 
+
+We use the comparative form of adjectives when we are, obviously,
+comparing two or more things, or when comparing one thing with itself at
+different times.
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+
+|Katter er bedre enn hunder. |_Cats are better than dogs._
+
+|Det er mer(e) overskyet i dag. |_It is more overcast today. (compared
+to yesterday)_
+|===
+
+The most common way of comparing things is by adding -ere and -est(e) to
+the end of the adjective. Note that the -est(e) ending is called the
+“superlative.”
+
+[cols=",,,",]
+|===
+|*Base Adjective* |*Comparative* |*Superlative* |*English*
+|Fin |Finere |Finest(e) |_Nice_
+|Kald |Kaldere |Kaldest(e) |_Cold_
+|Varm |Varmere |Varmest(e) |_Hot_
+|===
+
+Let's look at some examples sentences.
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+
+|Vinteren er kald i Fjordvik. |_The winter is cold in Fjordvik._
+
+|Vinteren er kaldere i Fjordvik enn i Paris. |_The winter is colder in
+Fjordvik than in Paris._
+
+|Vinteren er kaldest i Sibir. |_The winter is coldest in Siberia._
+|===
+
+The -ere ending in the comparative does not decline based on definite or
+indefinite. However, the -est ending (for superlative) does decline in
+the definite form (i.e. it gets an -e sst the end), just like a regular
+adjective declines in the definite form.
+
+[cols=",,,",]
+|===
+| |*Base Adjective* |*Comparative* |*Superlative*
+
+.2+|*Eksempel 1* |Den høye mannen. |Den høyere mannen. |Den høyeste mannen.
+
+|_The tall man._ |_The taller man._ |_The tallest man._
+
+.2+|*Eksempel 2* |Det korte barnet. |Det kortere barnet. |Det korteste
+barnet.
+
+|_The short child._ |_The shorter child._ |_The shortest child._
+
+.2+|*Eksempel 3* |Den myke pelsen. |Den mykere pelsen. |Den mykeste pelsen.
+
+|_The soft fur._ |_The softer fur._ |_The softest fur._
+|===
+
+When the superlative form comes after verbs like å være, the indefinite
+or the definite form of the superlative can be used.
+
+[cols=",,",]
+|===
+| |*Norwegian* |*English*
+
+|*_Indefinite_* |Alex er yngst i familien. |_Alex is the youngest in the
+family._
+
+|*_Definite_* |Alex er den yngste i familien. |_Alex is the youngest in
+the family._
+|===
+
+== Exceptions and Irregulars:
+
+Most adjectives ending in -(l)ig and -som only take an -st ending
+(instead of -est) in the superlative form.
+
+[cols=",,,",]
+|===
+|*Base Adjective* |*Comparative* |*Superlative* |*English*
+|Billig |Billigere |Billigst(e) |_Cheap_
+|Hyggelig |Hyggeligere |Hyggeligst(e) |_Nice / Pleasant_
+|Morsom |Morsommere |Morsomst(e) |_Funny_
+|===
+
+Let's look at a couple of example sentences.
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+
+|Denne bilen er billigere enn den bilen. |_This car is cheaper than that
+car._
+
+|Den blå bilen er den billigste bilen. |_The blue car is the cheapest
+car._
+|===
+
+In adjectives ending in -el, -en, and -er, the -e- in the stem of the
+adjective disappears in the comparative and superlative form. If there
+is a double consonant in the middle, it becomes a single consonant in
+the comparative / superlative forms.
+
+[cols=",,,",]
+|===
+|*Base Adjective* |*Comparative* |*Superlative* |*English*
+|Travel |Travlere |Travlest(e) |_Busy_
+|Moden |Modnere |Modnest(e) |_Ripe_
+|Vakker |Vakrere |Vakrest(e) |_Pretty_
+|===
+
+Many adjectives ending in -sk; adjectives ending in -e; and some loan
+words are compared with mer and mest.
+
+[cols=",,,",]
+|===
+|*Base Adjective* |*Comparative* |*Superlative* |*English*
+|Praktisk |Mer praktisk |Mest praktisk(e) |_Practical_
+|Moderne |Mer moderne |Mest moderne |_Modern_
+|Absurd |Mer absurd |Mest absurde |_Absurd_
+|===
+
+*[.underline]#NOTE:#* Adjectives in the superlative form (using “mest”)
+takes an -e ending in the definitive form.
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+
+|Dette er en mer praktisk løsning. |_This is a more practical solution._
+
+|Det er den mest praktiske løsningen. |_It is the most practical
+solution._
+|===
+
+Some adjectives change vowels in the comparative and superlative forms.
+
+[cols=",,,",]
+|===
+|*Base Adjective* |*Comparative* |*Superlative* |*English*
+|Få |Færre |Færrest(e) |_Few_
+|Lang |Lengre |Lengst(e) |_Long_
+|Stor |Større |Størst(e) |_Big_
+|Tung |Tyngre |Tyngst(e) |_Heavy_
+|Ung |Yngre |Yngst(e) |_Young_
+|===
+
+Some adjectives change completely in the comparative and superlative
+forms.
+
+[cols=",,,",]
+|===
+|*Base Adjective* |*Comparative* |*Superlative* |*English*
+|Gammel |Eldre |Eldst(e) |_Old_
+|God |Bedre |Best(e) |_Good_
+|Mange |Fler(e) |Flest(e) |_Many_
+|Mye |Mer |Mest(e) |_Much_
+|Liten / Lita / Lite / Små |Mindre |Minst(e) |_Small_
+|===
+
+*[.underline]#NOTE :#* “Flere” and “flest” are used with countable
+nouns, whereas “mer” and “mest” are used with uncountable nouns.
+
+[cols=",,",]
+|===
+| |*Norwegian* |*English*
+
+.2+|*Countables* |Vi kjøpte flere bøker. |_We bought more books._
+
+|Isabella eier flest bøker. |_Isabella owns the most books._
+
+.2+|*Uncountables* |Vil du ha mer vann? |_Would you like more water?_
+
+|Jakob drakk mest øl på festen. |_Jakob drank the most beer at the
+party._
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[[.underline]#Norwegian: An Essential Grammar (pg 75-77)#]
+
+http://norsk.rkevin.com/learn-using-norwegian-adjectives-for-comparison[[.underline]#Learn Norwegian Adjectives for Comparisons#]
+
+https://www.youtube.com/watch?v=nKfuT5VI6Lw&t=49s[[.underline]#Comparisons of Adjectives w Karin (YouTube)#]
+
+https://norskbloggen.no/adjectives-norwegian[[.underline]#Comparing Adjectives in Norwegian#]
+
+http://www.hf.ntnu.no/now/8/exercises/ex8_4_comparative.htm[[.underline]#Norwegian on the Web: Adjective Comparisons exercise#]
+
+https://www.purposegames.com/game/norwegian-comparative-adjectives-game[[.underline]#Norwegian Adjective Comparison game#]
+
+*[.underline]#Exercise 1:# Fill in the blank with
+comparatives/superlatives.*
+
+[arabic]
+. Ringen min var +________+ (dyr) enn hennes.
+. Det +____+ (liten) barnet var faktisk +______+ (gammel).
+. Den +_____+ (nyttig) tingen jeg eier er telefonen min.
+. Lukas følte seg +_____+ (trygg) inne enn ute.
+. Maja er +_____+ (ung) enn Nora men Nora er +_____+ (tung).
+. Arabisk er +_____+ (vanskelig) enn norsk.
+. Foten hennes er +____+ (bred) enn bommen (balance beam).
+. Mathias er +_____+ (høy) enn Jakob men +_____+ (kort) enn Emil, hvem er den +_____+ (høy)?
+
+*[.underline]#Exercise 2:# Write 5 sentences using comparatives /
+superlatives.*
