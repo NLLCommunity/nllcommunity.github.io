@@ -1,0 +1,288 @@
+---
+title: "Adjectives (part 3)"
+date: "2019-07-07"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+This section on adjectives, we will cover a few challenging adjectives
+for learners, as well as adjectival nouns. You can find the previous
+lessons on adjectives
+https://docs.google.com/document/d/1pI1WaOqKepv0FefTqbap5TQVCfEwOv8ALGR4vw8pe6s/edit?usp=sharing[[.underline]#here#]
+and
+https://docs.google.com/document/d/101V-Il6IhQWVVFLeZoGtPcTdvhL8nKjhOKS6ZEXiLFs/edit?usp=sharing[[.underline]#here.#]
+
+*Similarity & Dissimilarity*
+
+In a previous lesson we learned how to compare things using the -ere /
+-est(e) endings or using “mer” and “mest.” In Norwegian, we can also
+compare similarity and dissimilarity between things.
+
+*_Expressing similarity_*
+
+[cols=",,",]
+|===
+| |*Norwegian* |*English*
+
+a|
+*Like + adj:*
+
+equally
+
+|Barna er like smarte. |_The children are equally smart._
+
+a|
+*Like + adj + som:*
+
+as…as
+
+|Hun var like vennlig som hun var vakker. |_She was as friendly as she
+was beautiful._
+
+a|
+*Samme + noun + som:*
+
+the same…as
+
+|De snakker samme dialekt som oss. |_They speak the same dialect as us._
+
+a|
+*Ligne*:
+
+Be / look like
+
+|Han ligner på faren sin. |_He is / looks like his dad._
+|===
+
+*_Expressing dissimilarity_*
+
+[cols=",,",]
+|===
+| |*Norwegian* |*English*
+
+a|
+*Forskjellige:*
+
+Used in reference to a mutual difference
+
+|Disse skoene er forskjellige. |_These shoes are different._
+
+a|
+*Annerledes:*
+
+Used when referring to something that is different from something else.
+
+|Støvlene er annerledes enn skoene. |_The boots are different than the
+shoes._
+
+a|
+*Annen / Annet / Andre:*
+
+Other; different
+
+|Kan du gå i noe annet enn sandaler? |_Can you wear something different
+/ other than sandals?_
+|===
+
+*[.underline]#NOTE:#* "Annerledes" can also be used as an adverb.
+
+Ex: Hvis det ikke virker, må vi gjøre det annerledes.
+
+If it doesn't work, then we must do it differently.
+
+*[.underline]#NOTE 2:# Annen, Annet, Andre* +
+Whether one uses “annen” or “annet” depends on the indefinite noun being
+described. “Andre” is used for definite nouns and plural nouns.
+
+[cols=",,",]
+|===
+| |*Norwegian* |*English*
+
+|*Annen* |Tobias kjørte en annen bil. |_Tobias drove another / a
+different car._
+
+|*Annet* |Faren min bor i et annet hus. |_My father lives in another / a
+different house._
+
+.4+|*Andre* |Han kjørte den andre veien. |_He drove the other way._
+
+|Onkelen min bor i det andre huset. |_My uncle lives in the other
+house._
+
+|De andre bilene er dyre. |_The other cars are expensive._
+
+|Det er andre hus til salgs. |_There are other houses for sale._
+|===
+
+*[.underline]#NOTE:#* The use of annen / andre in the following examples
+means “second.”
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+|Den annen / andre mai |The second of May
+|Dronning Elizabeth den annen / andre |Queen Elizabeth the second
+|Jeg går i annen / andre klasse. |I am in the second year of school.
+|Jeg bor i annen / andre etasje. |I live on the second floor
+|===
+
+*Notice* in those examples above, annen and andre can both be used to
+mean “second.” However, keep in mind the following:
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+|Den andre dagen. |The second day. +
+(Or “the other day” but not referring a recent event).
+|Forleden dag |The other day. (Only in reference to a recent event).
+|===
+
+*[.underline]#NOTE:#* Ambiguities can arise because “det / den andre”
+can mean both “the other” and “the second.”
+
+Ex: De bor i det andre huset.
+
+This can mean *_both_*:
+
+[arabic]
+. They live in the other house.
+. They live in the second house.
+
+Context, stress, intonation pattern can all help distinguish the
+difference in these sort of sentences.
+
+*[.underline]#Countables & Uncountables#*
+
+In a previous lesson, we talked a bit about mere vs flere. There are
+other quantifiers in Norwegian that are used for items that can be
+counted and things that cannot be counted.
+
+Let’s look at quantifiers for *countable* items.
+
+[cols=",,,",]
+|===
+|*Quantifier* |*English* |*Eksempel* |*English*
+|*Mange* |Many; a lot of |Jeg har mange bøker. |_I have many books._
+|*Noen* |Some |Jeg har noen bøker. |_I have some books._
+|*Få* |Few |Jeg har få bøker. |_I have a few books._
+|*Flere* |Several |Jeg har flere bøker. |_I have several books._
+|*Ingen* |No; none |Jeg har ingen bøker. |_I have no books._
+|===
+
+Here are quantifiers for *uncountable* items.
+
+[cols=",,,",]
+|===
+|*Quantifier* |*English* |*Eksempel* |*English*
+|*Mye* |A lot of; much |Jeg har mye sukker. |_I have a lot of sugar._
+|*Noe* |Some |Jeg har noe sukker. |_I have some sugar._
+|*Litt* |A little |Jeg har litt sukker. |_I have a little sugar._
+|*Ikke noe* |No; none |Jeg har ikke noe sukker. |_I have no sugar._
+|*Mer(e)* |More |Jeg har mer(e) sukker. |_I have more sugar._
+|===
+
+*[.underline]#NOTE:#* If you want to say someone has a lot of money (as
+in the total amount they have), you would say “mye penger.” However, if
+you mean they have a lot of coins or bills (physically), you’d use
+“mange penger.”
+
+Some quantifiers have to agree in number and / or gender with the noun
+that it is connected to.
+
+[cols=",,,,,",]
+|===
+2.+|*Singular* .2+|*Plural* .2+|*English* 
+.2+| *Eksempel* .2+|*English*
+
+|*Masc. / Fem.* |*Neut.*
+
+.3+|*All* .3+|*Alt* .3+|*Alle* .3+|All; everything |Du har all makten. |_You have
+all the power._
+
+|Har du alt smøret? |_Do you have all of the butter?_
+
+|Jeg har alle filmene. |_I have all the films._
+
+.2+|*Enhver* .2+|*Ethvert* .2+|+______+ .2+|Each; every; everyone |Enhver person er
+annerledes. |_Each person is different._
+
+|Ethvert forsøk på matlaging har feilet. |_Every attempt at
+cooking has failed._
+
+.2+|*Hver* .2+|*Hvert* .2+|+______+ .2+|Each |Hver elev leste boken. |_Each student
+read the book._
+
+|Hvert hus hadde et basseng. |_Each house had a pool._
+|===
+
+*[.underline]#Adjectival Nouns#*
+
+Adjectival nouns are adjectives that are used like a noun. There are 3
+cases in which adjectives can be used as nouns in Norwegian.
+
+[cols=",,",]
+|===
+|*Usage* |*Norwegian* |*English*
+
+|When the noun is omitted to avoid repetitiveness. |Jeg foretrekker
+norske nyheter i stedet for amerikanske (nyheter). |_I prefer Norwegian
+news instead of American (news)._
+
+|When the noun is understood when it is not mentioned. |De unge forstår
+ikke de gamle. |_The young (people) don’t understand the old (people)._
+
+|Independent use of the adjective with no noun understood. |Valget var
+mellom rødt og blått. |_The choice was between red and blue._
+|===
+
+Norwegian uses adjectival nouns in the definite plural the same way that
+English does.
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+
+|De fattige trenger hjelp. |_The poor (people) need help._
+
+|De arbeidsløse trenger mer støtte. |_The unemployed (people) need more
+support._
+
+|De syke håper på en kur. |_The sick (people) are hoping for a cure._
+
+|De sårede ble evakuert. |_The wounded (people) were evacuated._
+|===
+
+Norwegian also uses definite adjectival nouns in the singular form.
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+|Den uskyldige ble arresteret. |_The innocent (person) was arrested._
+|Den anklagede sto for retten. |_The accused (person) stood trial._
+|===
+
+Plural indefinite adjectival nouns are used only for people.
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+
+|Det var reisende fra overalt. |_There were travellers from everywhere._
+
+|Katten mjauet mens forbipasserende gikk forbi. |_The cat meowed as
+passers-by walked past._
+|===
+
+*_**If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#]_*
+*_Thanks.**_*
+
+Resources:
+
+http://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf[[.underline]#Norwegian on the Web PDF#] (pg 23)
+
+https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[[.underline]#Norwegian: An Essential Grammar (pg 75-77)#]
+
+*[.underline]#Exercise:#* *Write 5 sentences expressing similarity / 
+dissimilarity and 3 sentences using adjectival nouns.*
