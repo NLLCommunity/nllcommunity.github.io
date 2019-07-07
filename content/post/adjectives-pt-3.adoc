@@ -13,7 +13,7 @@ https://docs.google.com/document/d/1pI1WaOqKepv0FefTqbap5TQVCfEwOv8ALGR4vw8pe6s/
 and
 https://docs.google.com/document/d/101V-Il6IhQWVVFLeZoGtPcTdvhL8nKjhOKS6ZEXiLFs/edit?usp=sharing[[.underline]#here.#]
 
-*Similarity & Dissimilarity*
+== Similarity & Dissimilarity
 
 In a previous lesson we learned how to compare things using the -ere /
 -est(e) endings or using “mer” and “mest.” In Norwegian, we can also
@@ -152,7 +152,7 @@ This can mean *_both_*:
 Context, stress, intonation pattern can all help distinguish the
 difference in these sort of sentences.
 
-*[.underline]#Countables & Uncountables#*
+== Countables & Uncountables
 
 In a previous lesson, we talked a bit about mere vs flere. There are
 other quantifiers in Norwegian that are used for items that can be
@@ -216,7 +216,7 @@ read the book._
 |Hvert hus hadde et basseng. |_Each house had a pool._
 |===
 
-*[.underline]#Adjectival Nouns#*
+== Adjectival Nouns
 
 Adjectival nouns are adjectives that are used like a noun. There are 3
 cases in which adjectives can be used as nouns in Norwegian.
