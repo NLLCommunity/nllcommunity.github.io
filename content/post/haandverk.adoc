@@ -1,0 +1,375 @@
+---
+title: "Håndverk"
+date: "2019-07-28"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+== Grammar Review
+
+=== Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+<!--more-->
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Markus kjøpte en bil i går. |_Markus bought a car yesterday._
+
+|Sofia hadde en kanin da hun var ung. |_Sofia had a rabbit when she
+was young._
+
+.2+|*V2* |I går kjøpte Markus en bil. |_Yesterday, Markus bought a car._
+
+|Da Sofia var ung, hadde hun en kanin. |_When Sofia was young, she had
+a rabbit._
+|===
+
+=== Verb Conjugation
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å lese |Leser |_Reads_ |Å skrive |Skriver |_Writes_
+|Å kjøpe |Kjøper |_Buys_ |Å løpe |Løper |_Runs_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sna[.underline]##kk##e |Snakket |_Talked_
+|Å ø[.underline]##nsk##e |Ønsket |_Wished_
+.2+|*2* |Å læ[.underline]##r##e |Lærte |_Learned_
+|Å kjø[.underline]##p##e |Kjøpte |_Bought_
+.2+|*3* |Å le[.underline]##v##e |Levde |_Lived_
+|Å pl[.underline]##ei##e |Pleide |_Used_
+|*4* |Å b[.underline]##o## |Bodde |_Lived_
+|===
+
+For future tense, typically the present tense verb is used with a time
+adverbial to clarify it is a future action.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|De kommer på søndag. |_They are coming on Sunday._
+|Leksjonen starter snart. |_The lesson starts soon._
+|===
+
+=== Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En stor sirkel |_A big circle_ |Store sirkler |_Big
+circles_
+
+|En ny pensel |_A new paintbrush_ |Nye pensler |_New paintbrushes_
+
+.2+|*Neuter* |Et stort rektangel |_A big rectangle_ |Store rektangler |_Big
+rectangles_
+
+|Et nytt material |_A new material_ |Nye materialer |_New materials_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending
+(like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den store sirkelen |_The big circle_ |De store sirklene
+|_The big circles_
+
+|Denne nye penselen |_This new paintbrush_ |Disse nye penslene |_These
+new paintbrushes_
+
+.2+|*Neuter* |Det store rektanglet |_The big rectangle_ |De store
+rektanglene |_The big rectangles_
+
+|Dette nye materialet |_This new material_ |Disse nye materialene
+|_These new materials_
+|===
+
+== Arts & Crafts
+
+If you travel (or move) to Norway, you can find many types of art
+https://www.visitnorway.com/things-to-do/art-culture/museums/top-art-museums/[[.underline]#museums#],
+from classic art to modern art; from architecture to photography. One of
+the most well-known Norwegian artists is the painter Edvard Munch, who
+created the iconic piece titled, “The Scream.” In fact, the location
+that inspired the painting is Ekebergskrenten in Oslo.
+
+image:/images/haandverk/media/image1.png[image,width=381,height=481]
+
+In the mid-1700s, a popular form of artistic expression was rose
+painting (rosemaling). The styles vary greatly from region to region,
+but typically it includes organic patterns, flowers, scrollwork, and
+geometric designs on furniture and other household items, such as
+utensils. The designs were often painted on wood. During WWII, when
+Norway was occupied by Nazi forces, King Haakon VII was exiled and
+Norwegians flying the Norwegian flag could be imprisoned. What many
+Norwegians began to do, instead, was to incorporate the royal cypher (an
+“H” overlapping a “7”) in their rosemaling designs without getting in
+trouble by the Nazis. Many Christmas cards displayed the royal cypher in
+the center of rosemaling designs.
+
+image:/images/haandverk/media/image2.png[image,width=514,height=361]
+
+While “architecture” is not typically something that comes to mind when
+one hears the word “art,” when one looks at the Norwegian stave churches
+(stavkirker), it’s difficult to ignore the artistic beauty in their
+design. Stave churches are elaborately carved wooden churches that used
+to be found in many areas of northwestern Europe, however they are
+mostly only found in Norway now. The reason they are called “stave”
+churches is because they all feature corner posts (known as “staves”).
+The walls are made from planks standing on sills; these walls are called
+“stave walls.” The door frames and window frames feature ornamental
+carvings, typically in the patterns of dragons, leaf patterns, and
+tendrils. There are 28 stave churches in Norway, with the largest one,
+Heddal stave church, located in Telemark.
+
+image:/images/haandverk/media/image3.png[image,width=528,height=463]
+
+Many people enjoy doing different types of arts and crafts, whether to
+make money, just as a relaxing hobby, or something fun to do with your
+kids / siblings / nieces / nephews, etc. While this lesson is not an
+exhaustive list of craft terminology, it will provide a good foundation.
+
+*Verbs:*
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+|*_1_* |_To airbrush_ |Å airbrushe |_To alternate_ |Å bytte
+|*_2_* |_To attach_ |Å feste |_To assemble_ |Å sette samme
+|*_3_* |_To bend_ |Å bøye |_To carve_ |Å skjære
+|*_4_* |_To chisel_ |Å meisle |_To chop_ |Å hugge
+|*_5_* |_To colour_ |Å farge |_To contour_ |Å konturere
+|*_6_* |_To crochet_ |Å hekle |_To cut_ |Å kutte
+|*_7_* |_To dab_ |Å dabbe |_To decorate_ |Å dekorere
+|*_8_* |_To decrease_ |Å redusere |_To design_ |Å designe
+|*_9_* |_To detach_ |Å løsne |_To dilute_ |Å fortynne
+|*_10_* |_To draw_ |Å tegne |_To dry_ |Å tørke
+|*_11_* |_To embroider_ |Å brodere |_To engrave_ |Å gravere
+|*_12_* |_To etch_ |Å etse |_To erase_ |Å slette/fjerne
+|*_13_* |_To flatten_ |Å flate |_To fold_ |Å brette
+|*_14_* |_To fray_ |Å fryke |_To gild_ |Å forgylle
+|*_15_* |_To glaze_ |Å glasere |_To glue / paste_ |Å lime
+|*_16_* |_To hang up_ |Å henge opp |_To hammer_ |Å hamre
+|*_17_* |_To highlight_ |Å markere |_To increase_ |Å øke
+|*_18_* |_To join_ |Å feste / Skjøte på |_To knit_ |Å strikke
+|*_19_* |_To mark_ |Å markere |_To measure_ |Å måle
+|*_20_* |_To mix / blend_ |Å blande |_To outline_ |Å skissere
+|*_21_* |_To paint_ |Å male |_-_ |_-_
+|*_22_* |_To pull_ |Å trekke |_To repeat_ |Å gjenta
+|*_23_* |_To sand_ |Å slipe / Pusse |_To scrape_ |Å skrape
+|*_24_* |_To sew / stitch_ |Å sy |_To shade_ |Å sjattere
+|*_25_* |_To shape_ |Å forme |_To sharpen_ |Å skjerpe
+|*_26_* |_To sketch_ |Å skissere |_To soften_ |Å mykne
+|*_27_* |_To spread / smear_ |Å smøre |_To stamp_ |Å stemple
+|*_28_* |_To tape_ |Å tape |_To trim_ |Å trimme
+|*_29_* |_To turn over_ |Å snu |_To weave_ |Å veve
+|*_30_* |_To weld_ |Å sveise | |
+|===
+
+*Misc. Arts & Crafts Vocab:*
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+
+|*_1_* |_Animation_ |Animasjon (en) |_Art_ |Kunst (en)
+
+|*_2_* |_Artisan / craft maker_ |Håndverker (en) |_Artist_ |Kunstner
+(en)
+
+|*_3_* |_Blacksmith_ |Smed (en) |_Border_ |Ramme (en)
+
+|*_4_* |_Calligraphy_ |Kalligrafi (en) |_Cardboard_ |Papp (et)
+
+|*_5_* |_Ceramic_ |Keramikk!!? |_Chisel_ |Meisel (en)
+
+|*_6_* |_Circle_ |Sirkel (en) |_Clay_ |Leire (et)
+
+|*_7_* |_Collage_ |Collage (en) |_Colour_ |Farge (en)
+
+|*_8_* |_Colouring book_ |Fargebok (ei) |_Construction paper_ |Kartong
+(en)
+
+|*_9_* |_Copper_ |Kobber (et) |_Corner_ |Hjørne (et)
+
+|*_10_* |_Craft_ |Håndverk (et) |_Crayon_ |Fargestift (en)
+
+|*_11_* |_Crease_ |Fold (en) |_Creative_ |Kreativ
+
+|*_12_* |_Creativity_ |Kreativitet (en) |_Decoupage_ |Decoupage
+(uncountable)
+
+|*_13_* |_Diagonal_ |Diagonal (en) |_Dry_ |Tørr
+
+|*_14_* |_Edge_ |Kant (en) |_Enamel_ |Emalje (en)
+
+|*_15_* |_Felt_ |Filt (en) |_Flat_ |Flat
+
+|*_16_* |_Forge_ |Smi (en) |_Glass_ |Glass (et)
+
+|*_17_* |_Glassblower_ |Glassblåser (en) |_Glasswork_ |Glassarbeid (et)
+
+|*_18_* |_Glaze_ |Glasur (en) |_Glossy_ |Blank
+
+|*_19_* |_Glue_ |Lim (en) |_Gluestick_ |Limstift (en)
+
+|*_20_* |_Graphic design_ |Grafisk design |_Hammer_ |Hammer (en)
+
+|*_21_* |_Hobby_ |Hobby (en) |_Horizontal_ |Horisontal
+
+|*_22_* |_Hue_ |Nyanse (en) |_Ink pad_ |Stempelpute (en)
+
+|*_23_* |_Instructions_ |Instruksjoner |_Iron_ |Jern (et)
+
+|*_24_* |_Iron smith_ |Jernsmed (en) |_Line_ |Linje (en)
+
+|*_25_* |_Material_ |Materiale (et) |_Marker_ |Markør (en)
+
+|*_26_* |_Masking tape_ |Maskeringsbånd (en) |_Medium_ |Medium (et)
+
+|*_27_* |_Mosaic_ |Mosaikk (en) |_Paint_ |Maling (en)
+
+|*_28_* |_Paint brush_ |Pensel (en) / Malerpensel (en) |_Paper_ |Papir
+(et)
+
+|*_29_* |_Paper mache_ |Pappmasje (uncountable) |_Pattern_ |Mønster (et)
+
+|*_30_* |_Pen_ |Penn (en) |_Pencil_ |Blyant (en)
+
+|*_31_* |_Pencil sharpener_ |Blyantspisser (en) |_Pipe cleaner_
+|Piperenser (en)
+
+|*_32_* |_Point_ |Punkt (et) |_Poster_ |Plakat (en)
+
+|*_33_* |_Pottery_ |Keramikk (en) |_Pottery bowl_ |Keramikkskål (en)
+
+|*_34_* |_Pottery oven / Kiln_ |Keramikkovn (en) |_Pottery wheel_
+|Keramikkhjul (et)
+
+|*_35_* |_Prism_ |Prisme (en / et) |_Protractor_ |Vinkelmåler (en)
+
+|*_36_* |_Proportion_ |Proporsjon (en) |_Rectangle_ |Rektangel (et)
+
+|*_37_* |_Rubber_ |Gummi (en / et) |_Rubber stamp_ |Gummistempel (et)
+
+|*_38_* |_Ruler_ |Linjal (en) |_Safety_ |Sikkerhet (en)
+
+|*_39_* |_Safety precautions_ |Sikkerhetstiltak (en) |_Sandpaper_
+|Sandpapir (et)
+
+|*_40_* |_Scissors_ |Saks (en) |_Scrapbook_ |Utklippsbok (en)
+
+|*_41_* |_Scraper / Putty knife_ |Sparkelkniv (en) |_Sculpture_
+|Skulptur (en)
+
+|*_42_* |_Shape_ |Form (en) |_Silkscreen_ |Silketrykk (et)
+
+|*_43_* |_Square_ |Kvadrat (en) |_Stamp_ |Stempel (et)
+
+|*_44_* |_Stapler_ |Stiftemaskin (en) |_Step_ |Trinn (et)
+
+|*_45_* |_Sticker_ |Klistremerke (et) |_String / Thread_ |Streng / Tråd
+(en)
+
+|*_46_* |_Style_ |Stil (en) |_Surface_ |(Over)Flate (en)
+
+|*_47_* |_Tape_ |Teip (en) |_Tapestry_ |Tapet (en)
+
+|*_48_* |_Tool_ |Verktøy (et) |_Triangle_ |Triangel (en)
+
+|*_49_* |_Vertical_ |Vertikal |_Visual arts_ |Visuell kunst (en)
+
+|*_50_* |_Wax_ |Voks (en / et) |_Weaver_ |Vever (en)
+
+|*_51_* |_Wood_ |Tre (et) |_Woodwork_ |Trearbeid (et)
+
+|*_52_* |_Yarn_ |Garn(tråd) (et) |_-_ |-
+|===
+
+*[.underline]#NOTE:#* If you’re interested in more specific vocabulary
+related to drawing, painting, sewing, knitting, or crocheting, you can
+find it here:
+https://docs.google.com/document/d/1hbBzRuZFES1Q9R05rrnvziWsfHwAwJ0TQGPtSXyHuzw/edit?usp=sharing[[.underline]#Extra
+Vocab#]
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+https://www.visitnorway.com/things-to-do/art-culture/museums/top-art-museums/[[.underline]#Top 17 Art Museums#]
+
+https://www.visitnorway.com/things-to-do/whats-on/exhibitions/[[.underline]#Exhibitions in Norway#]
+
+https://www.visitnorway.com/things-to-do/art-culture/[[.underline]#Art and Culture in Norway#]
+
+https://www.dailyscandinavian.com/the-story-of-norwegian-rosemaling/[[.underline]#The Story of Norwegian Rosemaling#]
+
+https://hometonorway.com/history-of-rosemailing/[[.underline]#The History of Rosemaling#]
+
+http://www.rosemaling.org/history.htm[[.underline]#What is Norwegian Rosemaling?#]
+
+https://en.wikipedia.org/wiki/Rosem%C3%A5ling[[.underline]#Rosemaling (wiki)#]
+
+https://www.dailyscandinavian.com/art-culture-norway/[[.underline]#Art and Culture in Norway#]
+
+https://www.visitnorway.com/about/history-traditions/stave-churches/[[.underline]#Stave Churches#]
+
+https://www.garnstudio.com/glossary.php?langf=no&langt=us[[.underline]#DROPS Design: Ordliste#]
+
+https://heklestrikkemani.blogspot.com/2011/01/oversettelse-av-hekle-forkortelser-fra.html[[.underline]#Oversettelse av hekle forkortelser fra engelsk - norsk#]
+
+https://lysstreif.blogspot.com/2010/02/hekling-pa-engelsk.html[[.underline]#Hekling på Engelsk#]
+
+https://www.youtube.com/watch?v=Yz0H3wN5Rms[[.underline]#Learn Norwegian Knitting Language (YouTube)#]
+
+*[.underline]#Exercise:# Write a paragraph, either about your favorite
+piece of artwork, or your favorite hobby, or give instructions on how to
+make something.*

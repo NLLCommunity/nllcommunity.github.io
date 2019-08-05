@@ -1,0 +1,268 @@
+---
+title: "Continuous action, infinitive, imperative and genitive"
+date: "2019-07-21"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+== Continuous Action
+In English, to express that something is happening currently, we use
+the present continuous (also called “progressive”) form of the verb
+(i.e. adding -ing at the end; for example, “I am reading a book.”).
+Norwegian does not have this form so in order to express such a concept
+they either use the present tense (i.e. “Jeg leser en bok”), or they add
+“sitte,” “ligge,” and “stå” to add emphasis. Which verb is used is
+dependent on the position of the person performing the action. Let’s
+look at some examples:
+<!--more-->
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Hun ligger og leser en bok. |_She (is lying down and) is reading a
+book._
+
+|Han står og venter på en venn. |_He (is standing and) is waiting for a
+friend._
+
+|De hadde stått og pratet i timevis. |_They had stood chatting for
+hours._
+|===
+
+*[.underline]#NOTE:#* Norwegian does have an -ende ending which is
+equivalent to the English “-ing” ending but it is not used for
+continuous action; it’s used as a present participle.
+
+Ex: Naboen er irriterende.
+
+The neighbor is annoying.
+
+Norwegian has some phrases that can be used to express duration when the
+emphasis is on a specific action in progress.
+
+[cols=",,",]
+|===
+|*Phrase* |*Eksempel* |*English*
+
+.2+|*_Holde på med å -_* |Han holder på med å male huset akkurat nå. |_He
+is painting the house right now._
+
+|Sofia holder på med å vaske opp nå. |_Sofia is washing the dishes
+now._
+
+.2+|*_Drive og -_* |Kvinnen drev og reparerte bilen da han kom. |_The woman
+was in the process of repairing the car when he arrived._
+
+|Lukas drev og monterte den nye sengen da du ringte. |_Lukas was in
+the process of assembling the new bed when you called._
+|===
+
+*Mini-exercise 1: Say a sentence about doing something.*
+
+== Infinitive
+
+The infinitive verb form is the form where you put the infinitive marker
+(“å”) in front of the verb...but not always (I’ll explain in a minute).
+
+[cols=",,,",]
+|===
+|*Infinitive* |*English* |*Infinitive* |*English*
+|Å lese |_To read_ |Å snakke |_To talk_
+|Å drømme |_To dream_ |Å skrive |_To write_
+|===
+
+The infinitive form is used when there is another verb preceding it.
+
+[cols=",,",]
+|===
+|*Infinitive* |*Eksempel* |*English*
+
+|*Å lese* |Jeg _liker_ å lese. |_I like to read._
+
+|*Å skrive* |Isabella _begynte_ å skrive en ny bok. |_Isabella began
+writing a new book._
+
+|*Å besøke* |Markus _håper_ å besøke Norge snart. |_Markus hopes to
+visit Norway soon._
+|===
+
+It is also used when there is a modal verb. In this case, the “å” is
+dropped, but the verb retains the form.
+
+[cols=",,,",]
+|===
+|*Eksempel* |*Modal Verb* |*Infinitive* |*English*
+
+|Hun skal gjøre det snart. |*skal* |*gjøre* |_She will do it soon._
+
+|Lars vil se den nye filmen. |*vil* |*se* |_Lars wants to see the new
+film._
+
+|Moren min må rydde huset før besøkende kommer. |*må* |*rydde* |_My
+mother must clean the house before visitors arrive._
+|===
+
+*[.underline]#NOTE:#* In each of the above sentences, the infinitive
+verbs drop the infinitive marker “å” because they follow a modal verb.
+
+The “å” is also dropped after the following verbs:
+
+* Be (to ask)
+* Høre (to hear)
+* Kjenne (to know)
+* La (to let)
+* Se (to see)
+
+[cols=",,",]
+|===
+|*Verb* |*Eksempel* |*English*
+
+|*Be (To ask)* |Jeg ba ham komme. |_I begged him to come._
+
+|*Høre (To hear)* |Jeg hørte ham snakke med Maria. |_I heard him talking
+to Maria._
+
+|*La (To let)* |Han lot oss bruke bilen. |_He let us use the car_
+|===
+
+When there are a string of infinitives, the “å” is usually dropped after
+og and eller.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Han lærte å snakke og (å) skrive. |_He learned to read and (to) write._
+
+|Han må lære å snakke, (å) skrive og (å) lese. |_He must learn to speak,
+(to) write, and (to) read._
+|===
+
+*Mini-exercise 2: Say a sentence that uses the infinitive.*
+
+== Imperative
+
+Imperatives are basically directives that are aimed at one or more
+people. Verbs that cannot be used as directives, such as modal verbs, do
+not appear in the imperative form. Here is how the imperative is formed:
+
+[cols=",,,",]
+|===
+| |*Infinitive* |*Imperative* |*English*
+.2+|*Vowel Stem* |Gå |Gå! |_Go!_
+|Se |Se! |_Look!_
+.2+|*Consonant Stem* |Hjelpe |Hjelp! |_Help!_
+|Løpe |Løp! |_Run!_
+.2+|*Double Consonant* |Snakke |Snakk! |_Talk!_
+|Sitte |Sitt! |_Sit!_
+|===
+
+In some cases, whether the last letter is dropped or not is optional.
+This is the case with verbs that, in the infinitive, end with -dle or
+-kle, which tend to be hard to pronounce without the ‘’e’’. Therefore
+Norwegians tend to add an ‘’e’’ to these words, because it’s easier to
+pronounce.
+
+[cols=",,",]
+|===
+|*Infinitive* |*Imperative* |*Meaning*
+|Å handle |Handl+e! |_Shop!_
+|A forvandle |Forvandl+e! |_Transform!_
+|Å takle |Takl+e! |_Tackle / Manage!_
+|Å sykle |Sykl+e! |_Cycle!_
+|===
+
+If the verb ends in -ere, some people think that an accent mark is used
+over the last vowel but this is not the case.
+
+[cols=",,",]
+|===
+|*Infinitive* |*Imperative* |*Meaning*
+|Å kontrollere |Kontroller! |_Control!_
+|Å kalkulere |Kalkuler! |_Calculate!_
+|===
+
+== Genitive
+
+The genitive is the little ‘_s_ in English that demonstrates that
+something belongs to someone or something. In Norwegian, genitive is
+usually pretty easy; they just put an “s” at the end of the word without
+the apostrophe.
+
+[cols=",,,",]
+|===
+|*Eksempel* |*English* |*Eksempel* |*English*
+|Martins bil |_Martin’s car_ |Lærerens bok |_The teacher’s book_
+|Guttenes klær |_The boys’ clothes_ |Barnas leker |_The children’s toys_
+|===
+
+However, there are some exceptions to this rule in Norwegian. If the
+person’s name ends in -s, -z, or -x, then an apostrophe is added at the
+end of the name without the additional -s.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Det er Mads’ hus. |_It is Mads’s house._
+|Har du sett Max’ bil? |_Have you seen Max’s car?_
+|===
+
+If there are two or more in a group, the -s is added to the last one in
+the group.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Jentene og guttenes leker er på gulvet. |_The girls’ and boys’ toys are
+on the floor._
+
+|Oliver og Mathias’ sykler ser helt nye ut. |_Oliver’s and Mathias’s
+bikes look brand new._
+|===
+
+Genitive is used less and less frequently in spoken Norwegian; instead
+phrases using prepositions are being used more often.
+
+[cols=",,,",]
+|===
+|*Genitive* |*English* |*Prepositional Phrase* |*English*
+
+|Prestens datter |_The priest’s daughter_ |Datteren til presten |_The
+daughter of the priest_
+
+|Kjolens pris |_The dress’s price_ |Prisen på kjolen |_The price of the
+dress_
+
+|Norges konge |_Norway’s king_ |Kongen i Norge |_The king of Norway_
+|===
+
+In some idioms, the genitive is compulsory.
+
+[cols=",,,",]
+|===
+|*Idiom* |*English* |*Idiom* |*English*
+|Verdens ende |_The end of the world_ |En times tid |_An hour’s time_
+|Livets gang |_The passage of life_ |Sorgens time |_The hour of grief_
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+References:
+
+https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[[.underline]#Norwegian: An Essential Grammar (pg 12-16, 27, 65)#]
+
+https://www.ntnu.edu/learnnow/2/grammar[[.underline]#Learn Norwegian on the Web: 2 Grammar#] +
+https://typecraft.org/tc2wiki/Infinitives_in_Norwegian[[.underline]#Infinitives in Norwegian#]
+
+https://www.ntnu.edu/web/nox/4/grammar[[.underline]#Learn NoW: chapter 4 grammar (Imperatives)#]
+
+*Exercise: Write six sentences*
+
+[arabic]
+. *Two using continuous form*
+. *Two using infinitive*
+. *One using imperative*
+. *One using genitive*

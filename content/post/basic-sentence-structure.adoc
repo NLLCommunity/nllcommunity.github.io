@@ -1,0 +1,352 @@
+---
+title: "Basic sentence structure"
+date: "2019-07-14"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+== Interrogatives
+
+An interrogative word (also called a question word) is used to ask a
+question, such as what, when, where, who(m), why, and how.
+<!--more-->
+[cols=",,,,",]
+|===
+| |*Interrogative* |*Meaning* |*Example* |*English*
+
+|*1* |Hva |_What_ |Hva er navnet hennes? |_What is her name?_
+
+|*2* |Hvor |_Where_ |Hvor bor du? |_Where do you live?_
+
+|*3* |Når |_When_ |Når begynner filmen? |_When does the movie begin?_
+
+|*4* |Hvem |_Who_ |Hvem er moren din? |_Who is your mother?_
+
+|*5* |Hvordan |_How_ |Hvordan skjedde ulykken? |_How did the accident
+happen?_
+
+|*6* |Hvorfor |_Why_ |Hvorfor ringte du ham? |_Why did you call him?_
+
+|*7* |Hvor mye |_How much_ |Hvor mye koster det? |_How much does it
+cost?_
+
+|*8* |Hvor mange |_How many_ |Hvor mange søsken har du? |_How many
+siblings do you have?_
+
+|*9* |Hvor lenge |_How long_ |Hvor lenge har du lært norsk? |_How long
+have you learned Norwegian?_
+
+|*10* |Hvor høy(t) |_How high / tall_ |Hvor høyt er treet? |_How tall is
+the tree?_
+
+|*11* |Hvor lang(t) |_How far_ |Hvor langt unna er banken? |_How far
+away is the bank?_
+
+|*12* |Hvor gammel(t) |_How old_ |Hvor gammel er du? |_How old are you?_
+
+|*13* a|
+Hvem sin / sitt / si / sine
+
+Hvis (archaic)
+
+|_Whose_ |Hvem sin sykkel er dette? |_Whose bike is this?_
+
+.3+|*14* |Hvilken / Hvilket / Hvilke |_Which_ |Hvilken farge er bilen din?
+|_What color is your car?_
+
+| | |Hvilket år ble du uteksaminert? |_What year did you graduate?_
+
+| | |Hvilke bøker tilhører deg? |_Which books belong to you?_
+|===
+
+== Sentence Structure - SVO & V2
+
+Norwegian and English sentence structure are very similar; both follow a
+subject-verb-object (SVO) sentence structure. However, there are some
+instances in Norwegian when this is not the case, and for people
+learning the language, it can take some getting used to.
+
+First, let’s have a quick review of what a subject, verb, and object
+are.
+
+[cols=",,,,",]
+|===
+|*Grammar Term* |*Definition* |*Example* |*Ask yourself...* |*English*
+
+|*Subject* |Refers to a person or thing being discussed. .3+|Lucas drikker
+te. |Who is drinking tea? +
+ +
+“Lucas,” so that is the subject. .3+|_Lucas drinks tea._
+
+|*Verb* |Action taking place. |What is Lucas doing? +
+ +
+“Drikker,” so that is the verb..
+
+|*Object* |Refers to the person or thing that is receiving the action. |What is Lucas drinking? +
+ +
+“Te,” so that is the object.
+|===
+
+When the subject is first in the sentence, the sentence will follow the
+SVO sentence structure.
+
+[cols=",,,,,,",]
+|===
+|*Example* |*Subject* |*Verb* |*Adverb* |*Object* |*Adverbial +
+Phrase* |*English*
+
+|Jeg kjøpte en frakk i dag. |Jeg |kjøpte |---------- |en frakk |i dag.
+|_I bought a coat today._
+
+|Jeg kjøpte ikke en frakk i dag. |Jeg |kjøpte |ikke |en frakk |i dag.
+|_I did not buy a coat today._
+|===
+
+*[.underline]#Note:#* Pay attention to the placement of “ikke” in the
+above sentence.
+
+As you can see, the Norwegian sentences and the English sentence both
+have SVO. However, Norwegian has a V2 rule. This means that when the
+subject of a sentence is displaced by another word or phrase, then the
+subject and verb switch places, so that the verb remains in the second
+position.
+
+[cols=",,,,,,",]
+|===
+| |*Adverbial Phrase* |*Verb* |*Subject* |*Adverb* |*Object* |*English*
+
+|I dag kjøpte jeg en frakk. |I dag |kjøpte |jeg |---------- |en frakk.
+|_Today, I bought a coat._
+
+|I dag kjøpte jeg ikke en frakk. |I dag |kjøpte |jeg |ikke |en frakk.
+|_Today, I did not buy a coat._
+|===
+
+As you can see, the adverbial phrase, “I dag,” is in the first position,
+and so the verb, “kjøpte,” and the subject, “jeg,” are switched around.
+If these were literally translated to English, that first sentence would
+say, “Today bought I a coat,” and the second would say, “Today bought I
+not a coat.”
+
+When asking a question, inversion usually applies.
+
+[cols=",,,,,",]
+|===
+|*Example* |*Interrogative* |*Verb* |*Subject* |*Object* |*English*
+
+|Hvorfor lærer du norsk? |Hvorfor |lærer |du |norsk? |_Why are you
+learning Norwegian?_
+
+|Har du en bil? |-------------- |Har |du |en bil? |_Do you have a car?_
+|===
+
+If the question starts off with certain question words, there is no
+inversion.
+
+[cols=",,,,,,",]
+|===
+|*Example* |*Interrogative* |*Subject* |*Verb* |*Object* |*Pronoun*
+|*English*
+
+|Hvem har en bil? |Hvem |har |en bil? |--------------- |_Who has a car?_
+|
+
+|Hvem sitt hus er det? |Hvem sitt |hus |er |det? |----------------
+|_Whose house is that?_
+
+|Hvilket eple er ditt? |Hvilket |eple |er |--------- |ditt? |_Which
+apple is yours?_
+|===
+
+=== Main Clause & Subordinate Clause
+
+Many sentences are made up of a main clause and a subordinate clause.
+
+*Main clause* _(sometimes called an “independent clause”)_ - forms a
+complete sentence by itself; you could put a period at the end of a main
+clause and it would make perfect sense.
+
+*Subordinate clause* _(sometimes called a “dependent clause”_) - usually
+begins with a subordinating conjunction (aka subjunction) and cannot
+stand alone as a complete sentence, by itself; it is dependent on a main
+clause. There are a lot of subjunctions; you can see a lesson plan on
+them
+https://docs.google.com/document/d/1Pt0Q9RjHs2Cl_JfI3A4xLgAtxgrsVTSaOx22mh1675M/edit?usp=sharing[[.underline]#here.#]
+
+[cols=",,,",]
+|===
+|*Example* |*Main Clause* |*Subordinate Clause* |*English*
+
+|Jeg er trøtt, fordi jeg jobbet i dag. |Jeg er trøtt |fordi jeg jobbet i
+dag. |_I am tired because I worked today._
+
+|Jeg spiste pizza siden jeg var sulten. |Jeg spiste pizza |siden jeg var
+sulten. |_I ate pizza since I was hungry._
+|===
+
+Notice in the subordinate clauses, in the above sentences, the subject
+and verb are not inverted. However, if you were to place that entire
+subordinate clause in the front of the sentence, take a look at what
+happens to the main clause.
+
+[cols=",,,,",]
+|===
+|*Example* |*Subordinate Clause* 2.+|*Main Clause* |*English*
+
+| |*(1st)* |*(2nd)* | |
+
+|Siden jeg jobbet i dag, er jeg trøtt. |Siden jeg jobbet i dag, |er |jeg
+trøtt |_Since I worked today, I am tired._
+
+|Siden jeg var sulten, spiste jeg pizza. |Siden jeg var sulten, |spiste
+|jeg pizza |_Since I was hungry, I ate pizza._
+|===
+
+Inversion happens in the main clause because the subordinate clause is
+in the first position (displacing the subject of the main clause). In
+order to keep the verb in the second position, the verb and subject have
+to switch places in the main clause.
+
+=== Adverbs
+
+*Adverb* - word or phrase that describes a noun, adjective, or another
+adverb.
+
+The placement of an adverb, such as “ikke,” is dependent on if it is
+located in the main clause or the subordinate clause and whether or not
+there is inversion in the sentence.
+
+[cols=",,,,",]
+|===
+| |*Main or Subordinate Clause* |*Adverb Position* |*Example* |*English*
+
+.2+|*Without Inversion* |Main |_Placed after the conjugated verb_ |Jeg
+[.underline]#kjøpte# *ikke* en frakk i dag. |_I did not buy a coat
+today._
+
+|Subordinate |_Placed before the conjugated verb_ |Jeg kjøpte en
+frakk, siden den *ikke* [.underline]#var# dyr. |_I bought a coat since
+it was not expensive._
+
+.2+|*With Inversion* |Main |_Placed after the subject_ |I dag kjøpte
+[.underline]#jeg# i**kke** en frakk. |_Today, I did not buy a coat._
+
+|Subordinate |_Placed before the conjugated verb_ |Siden den *ikke*
+[.underline]#var# dyr, kjøpte jeg frakken. |_Since it wasn’t expensive,
+I bought the coat._
+|===
+
+If the sentence contains a compound verb (i.e. har brukt; har besøkt,
+etc), the adverb comes after the finite (conjugated) verb in the
+compound.
+
+Ex: Jeg _har_ *ikke* _brukt_ den nye frakken min ennå.
+
+I have not used my new coat yet.
+
+If a pronoun is added to a sentence, the placement can vary. It’s added
+in one of three different ways:
+
+[arabic]
+. Often it’s a preposition
+. Sometimes, it’s an indirect object, placed between the verb and
+adverb.
+. Sometimes, it’s an indirect object, placed after the adverb.
+
+*[.underline]#NOTE:#* When used as an indirect object, placement depends
+on the emphasis in the sentence.
+
+[cols=",,",]
+|===
+|*Placement* |*Eksempel* |*English*
+
+|*Preposition* |Jeg kjøpte ikke en frakk til henne i dag. |I did not buy
+her a coat today.
+
+a|
+*Indirect Object:*
+
+*Between Verb & Adverb*
+
+|Jeg ga henne ikke en gave i dag. |I did not give her *_a gift_* today.
+
+a|
+*Indirect Object:*
+
+*After Adverb*
+
+|Jeg ga ikke henne en gave i dag. |I did not give *_her_* a gift today.
+|===
+
+Here are some additional adverbs that are frequently used:
+
+[cols=",,,",]
+|===
+|_Aldri_ |Never |_Alltid_ |Always
+|_Muligvis_ |Possibly |_Allerede_ |Already
+|_Ofte_ |Often |_Kanskje_ |Maybe
+|_Snart_ |Soon |_Sikkert_ |Certainly
+|_Sannsynligvis_ |Probably |_Virkelig_ |Really
+|===
+
+*[.underline]#Frequency indicators#*
+
+Frequency indicators indicate the frequency of an action. Frequency
+indicators can move around in a sentence. Some examples of frequency
+indicators are:
+
+[cols=",,,",]
+|===
+|Ofte |_Often_ |Jevnlig |_Frequently, evenly_
+|Sjeldent |_Rarely_ |Av og til |_Sometimes_
+|Nå og da |_Now and then_ |Noen ganger |_Sometimes_
+|===
+
+Ex: Kommer du ofte hit?
+
+Kommer du hit ofte?
+
+Do you come here often?
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+References:
+
+http://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf[[.underline]#Norwegian on the Web pdf pgs 27-29#]
+
+https://wiki.ucl.ac.uk/display/ScanStuds/The+Quick+and+Dirty+guide+to+Norwegian+grammar[[.underline]#Norwegian Grammar#]
+
+https://docs.google.com/document/d/1E6XlRcQ3f0inPy3Z1Rdd7Yhz4XfEuwelASI9N6-G02Q/edit?usp=sharing[[.underline]#Lesson 32: Grammar Terms#]
+
+https://www.youtube.com/watch?v=KKrNJCGNcJg[[.underline]#Learning Norwegian Grammar: V2 Rule & Word Order (YouTube)#]
+
+https://www.youtube.com/watch?v=ZjE1b9X0pzc[[.underline]#Norwegian Sentence Structure, Part 1 (YouTube)#]
+
+https://www.youtube.com/watch?v=bbSyW6-Ewjw[[.underline]#Norwegian Sentence Structure, Part 2 (YouTube)#]
+
+https://youtu.be/BHO8JThWLWo[[.underline]#Norwegian Sentences. Main Clauses (YouTube)#]
+
+https://docs.google.com/document/d/1lbdiUqG2zYBM9QtIJMLVsJrCRtZqKOchVqA25OyaCWk/edit?usp=sharing[[.underline]#Lesson 17: Complex Sentence Structures#]
+
+*[.underline]#Exercise:# Rewrite the following sentences using
+inversion.*
+
+[arabic]
+. Markus spiste en sandwich til lunsj i dag.
+. Sofia lagde et teppe i forrige uke.
+. Mathias brukte en paraply siden det regnet.
+. Jakob jobbet ikke i dag fordi han er syk.
+. Emma er sliten i dag fordi hun ikke sov godt i går.
+. Sara har besøkt besteforeldrene sine i Tromsø hver sommer.
+. Oliver har ikke øvd på fiolin i de siste månedene.
+
+*[.underline]#Exercise 2:# Write three pairs of sentences; each pair
+must have one sentence with inversion and one without. +
+(Note: Try including an adverb in at least one pair).*
+
+*Ex: Jeg tegnet en blomst i går. (I drew a flower yesterday.) - _without
+inversion_*
+
+*I går tegnet jeg en blomst. (Yesterday, I drew a flower.) - _with
+inversion_*
