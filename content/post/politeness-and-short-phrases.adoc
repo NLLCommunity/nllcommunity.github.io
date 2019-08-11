@@ -1,0 +1,373 @@
+---
+title: "Politeness and short phrases"
+date: "2019-08-11"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+== Grammar Review
+
+=== Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English, Norwegian does have the V2 (verb second) rule. If
+an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+<!--more-->
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Nora bakte ei kake forrige uke. |_Nora baked a cake last week._
+
+|Liam leste Shakespeare da han gikk på skolen. |_Liam read Shakespeare
+when he was in school._
+
+.2+|*V2* |Forrige uke bakte Nora ei kake. |_Last week, Nora baked a cake._
+
+|Da Liam gikk på skolen, leste han Shakespeare. |_When Liam was in
+school, he read Shakespeare._
+|===
+
+*Verb Conjugation*
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å lese |Leser |_Reads_ |Å skrive |Skriver |_Writes_
+|Å spise |Spiser |_Eats_ |Å møte |Møter |_Meets_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et. (or in -a, really, even in
+BM)
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sna[.underline]##kk##e |Snakket |_Talked_
+|Å ø[.underline]##nsk##e |Ønsket |_Wished_
+.2+|*2* |Å læ[.underline]##r##e |Lærte |_Learned_
+|Å kjø[.underline]##p##e |Kjøpte |_Bought_
+.2+|*3* |Å le[.underline]##v##e |Levde |_Lived_
+|Å pl[.underline]##ei##e |Pleide |_Used_
+|*4* |Å b[.underline]##o## |Bodde |_Lived_
+|===
+
+For future tense, typically the present tense verb is used with a time
+adverbial to clarify it is a future action.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Sara reiser til Oslo neste uke. |_Sara is travelling to Oslo next
+week._
+
+|Vi spiser middag senere. |_We’re eating dinner later._
+|===
+
+*Adjective Basics*
+
+Adjectives typically have to agree with the gender and the number of the
+noun.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En stor hund |_A big dog_ |Store hunder |_Big dogs_
+
+|En morsom katt |_A funny cat_ |Morsomme katter |_Funny cats_
+
+.2+|*Feminine* |Ei stor bok |_A big book_ |Store bøker |_Big books_
+
+|Ei morsom avis |_A funny newspaper_ |Morsomme aviser |_Funny
+newspapers_
+
+.2+|*Neuter* |Et stort vindu |_A big window_ |Store vinduer |_Big windows_
+
+|Et morsomt barn |_A funny child_ |Morsomme barn |_Funny children_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending
+(like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den store hunden |_The big dog_ |De store hundene |_The
+big dogs_
+
+|Denne morsomme katten |_This funny cat_ |Disse morsomme kattene
+|_These funny cats_
+
+.2+|*Feminine* |Den store boka |_The big book_ |De store bøkene |_The big
+books_
+
+|Denne morsomme avisa |_This funny newspaper_ |Disse morsomme avisene
+|_These funny newspapers_
+
+.2+|*Neuter* |Det store vinduet |_The big window_ |De store vinduene |_The
+big windows_
+
+|Dette morsomme barnet |_This funny child_ |Disse morsomme barna
+|_These funny children_
+|===
+
+== Engaging in a Conversation
+
+=== Salutations
+
+Acknowledging someone upon seeing them or upon departing is an important
+part of having a conversation. Here’s some common salutations in
+Norwegian.
+
+[cols=",,,",]
+|===
+|*Norwegian* |*English* |*Norwegian* |*English*
+
+|_Hei sann._ |_Hi._ |Hallo der. |_Hi, there. +
+(Not commonly used anymore)_
+
+|_Hei, du...øøø..._ |_Hi, you...erm…._ a|
+God morgen. +
+God dag.* +
+God kveld.*
+
+_*(Not used often)_
+
+a|
+_Good morning._
+
+_Good day._
+
+_Good evening. +
+_
+
+|_Hei på deg._ |_Hello to you._ |Morn. |_Morning._
+
+|_Hva skjer? +
+Skjer ’a? +
+Skjer?_ |_What’s up?_ |Takk for sist. a|
+_Thank you for the last time (we saw each other)._
+
+_*Technically, a greeting when seeing someone again*_
+
+|_(Vi) Ses senere._ |_See you later._ |(Vi) Snakkes (senere). |_Talk to
+you later._
+
+|_Ha det (bra / fint / godt)._ |_Have it (good / fine)._ |Adjø +
+Farvel a|
+_Goodbye_
+
+_(For a long time; usually used by older people)._
+
+|_På gjensyn._ a|
+_Until we meet again._
+
+_(Usually used by older people)._
+
+|https://www.youtube.com/watch?v=5BFxJQR-on0&feature=youtu.be&t=1m14s[[.underline]#Morna#]
+|_Bye (slang)._
+
+|_Det var hyggelig å se deg._ |_It was nice to see you._ |Det var
+hyggelig å treffe deg. |_It was nice meeting you._
+
+|_Ha en god dag / kveld._ |_Have a good day / evening._ |God ferie / tur
+/ helg! |_Have a good holiday / trip / weekend!_
+|===
+
+=== Short Phrases
+
+Here are some basic short phrases that can help start a conversation
+after greeting someone.
+
+[cols=",,,",]
+|===
+|*Norwegian* |*English* |*Norwegian* |*English*
+
+|_Har du et øyeblikk?_ |_Do you have a moment?_ |_Har du tid et lite
+øyeblikk?_ |_Do you have time for a short moment?_
+
+|_Forstyrrer jeg?_ |_Am I disturbing / interrupting you?_ |_Kan jeg få
+forstyrre deg litt?_ |_May I interrupt you for a little bit?_
+
+|_Passer det nå?_ |_Is this a good time?_ |_Kan jeg komme inn?_ |_May I
+come in?_
+
+|_Jeg leter etter… (i.e. Peter)_ |_I’m looking for… (i.e. Peter)_ |_Er
+du opptatt?_ |_Are you busy?_
+
+|_Jeg skulle gjerne ha spurt deg om noe..._ |_I would like to ask you
+something…._ a|
+_Hvordan står det til?_
+
+_Står til?_
+
+_Hvordan går det? +
+Hvordan har du det?_
+
+a|
+_How is it going?_
+
+_(How are you?)_
+
+|_Alt bra med deg?_ |_Everything good with you?_ |_Har du hørt (fra)…?_
+|_Have you heard (from)…?_
+
+|_Har du sett…?_ |_Have you seen…?_ |_Har du snakket med…?_ |_Have you
+spoken to…?_
+
+|_Har du spurt (om)…?_ |_Have you asked (about)…?_ |_Har du noen planer
+for i dag?_ |_Do you have any plans for today?_
+|===
+
+=== Høflighet (Politeness / Courteousness)
+
+Norwegian does not have a direct translation for “please.” Instead, they
+will say “_vær så snill_” which literally translates into “be so kind.”
+Let’s look at some other polite words/phrases used in Norwegian:
+
+[cols=",,,",]
+|===
+|*Norwegian* |*English* |*Norwegian* |*English*
+
+|Takk |_Thank you_ |_Takk for maten._ |_Thank you for the food._
+
+|Takker. |_Thanks._ |_Det var snilt av deg._ |_That was kind of you._
+
+|Tusen takk. a|
+_Thanks a lot._
+
+_(Thousand thanks)_
+
+|_Takk skal du ha._ a|
+_Thank you_
+
+_(Literally “Thank you, shall you have”)_
+
+|Tusen hjertelig takk, (du er en engel). |_Thank you a lot, from the
+heart, (you are an angel)._ |_Takk for i dag._ |_Thanks for today._
+
+|Takk som byr. |_Thank you for offering._ a|
+_Takk, i like måte. +
+(actually pronounced “lige måde”)_
+
+_Takk, like (␣) ens_
+
+a|
+_Thank you, likewise._
+
+_(When someone wishes you well)._
+
+|Ja, takk. +
+Nei, takk. |_Yes, thanks. (Yes, please). +
+No, thanks._ |_Vær så god._ |_You’re welcome._
+
+|Det var da så lite. a|
+_You’re welcome /_
+
+_It’s nothing._
+
+|_Unnskyld._ |_Sorry._
+
+|Beklager. a|
+_I’m sorry._
+
+_(A bit more formal / serious)._
+
+|_Unnskyld meg._ |_Excuse me._
+
+|Unnskyld, kan du vise meg veien til… |_Excuse me, can you show me the
+way to..._ |_Dessverre_ |_Unfortunately_
+
+|Kan du hjelpe meg? |_Can you help me?_ |_Hjelp meg, er du snill._
+|_Help me, please._
+
+|Kan jeg hjelpe deg? |_Can I help you?_ | |
+|===
+
+=== Other useful phrases
+
+[cols=",,,",]
+|===
+|*Norwegian* |*English* |*Norwegian* |*English*
+
+|Hyggelig å møte deg. |_Nice to meet you._ |Vel bekomme. a|
+_You’re welcome_
+
+_(When thanked for food) / Bon appétit_
+
+|Kan du snakke saktere? |_Can you speak slower?_ |Kan du prate
+langsommere? |_Can you speak more slowly?_
+
+|Jeg forstår iikke. |_I don’t understand._ |Jeg vet ikke. |_I don’t
+know._
+
+|Hva koster dette? |_How much is this?_ |Bli med meg! |_Come with me!_
+
+|Jeg savnet deg! |_I missed you!_ |Lykke til! |_Good luck!_
+
+|Ro deg ned. |_Calm down._ |Slappe av. |_Relax_
+
+|Skål! |_Cheers!_ |Prosit. |_Bless you. +
+(When someone sneezes)._
+
+|God bedring. |_Get well soon._ |Kondolerer. |_My condolences._
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+https://blogs.transparent.com/norwegian/being-polite-in-norwegian/[[.underline]#Norwegian Language Blog: Being Polite in Norwegian#]
+
+https://youtu.be/jZuG1DJMonU[[.underline]#Spoken Norwegian: Common Expressions, Words, & Everyday Conversations (YouTube)#]
+
+https://youtu.be/jRwJkY00-EM[[.underline]#Norwegian Lesson: Basic Polite Phrases (YouTube)#]
+
+http://mylittlenorway.com/norwegian-lesson/greetings-and-popular-phrases/[[.underline]#My Little Norway: Greetings and Popular Phrases#]
+
+https://norskbloggen.no/get-attention-norwegian[[.underline]#NorskBloggen: How to get the Attention of a Norwegian#]
+
+https://youtu.be/I8a4HjA9NCo[[.underline]#Norwegian Lesson: Basic Hello & Goodbye (YouTube)#]
+
+https://youtu.be/bkzOLaKV0Mc[[.underline]#Learn Norwegian: How to say Hello and Goodbye (YouTube)#]
+
+https://youtu.be/4-z90-ftgY0[[.underline]#Simple Norwegian #2: Greetings, Introductions, and Goodbyes#]
+
+https://youtu.be/wLU_kjgVFgg[[.underline]#Simple Norwegian #3: Fundamental Words & Phrases#]
+
+[.underline]#Exercise:# Write a dialogue.
