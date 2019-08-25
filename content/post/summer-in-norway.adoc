@@ -1,6 +1,6 @@
 ---
 title: "Summer in Norway"
-date: "2019-08-18"
+date: "2019-08-25"
 author: "Dan"
 categories:
   - Sunday lessons
@@ -259,7 +259,7 @@ enough._
 |*31* a|
 _“One time grill” -_
 
-_A small disposable grill one can carry with them to use at the park or
+_ A small disposable grill one can carry with them to use at the park or
 wherever._
 
 |Engangsgrill (en) | |
