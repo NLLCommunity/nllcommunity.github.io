@@ -505,21 +505,21 @@ image:/images/going-places/media/image4.png[image,width=787,height=574]
 from...to….*
 
 [arabic]
-. Parkeringsplassen til biblioteket (Amanda)
-. Universitet til matbutikken (Birke)
-. Busstasjonen til kinoen (Dan)
-. Parkeringsplassen til bensinstasjonen (Oransje)
-. Banken til teateret (Serene)
-. Universitetet til bussholdeplassen (Tchaikovsky)
-. Ekornskogveien 3 til museet (Xero)
-. Hotellet til postkontoret (Amanda)
-. Busstasjonen til kjøpsenteret (Birke)
-. Hotellet til parken (Dan)
-. Bensinstasjonen til museet (Oransje)
+. Parkeringsplassen til biblioteket
+. Universitet til matbutikken
+. Busstasjonen til kinoen
+. Parkeringsplassen til bensinstasjonen
+. Banken til teateret
+. Universitetet til bussholdeplassen
+. Ekornskogveien 3 til museet
+. Hotellet til postkontoret
+. Busstasjonen til kjøpsenteret
+. Hotellet til parken
+. Bensinstasjonen til museet
 . Parkeringsplassen til Ekornskogen
-. Matbutikken til sykehuset (Kent)
-. Banken til hotellet (Tchaikovsky)
-. Universitetet til dagligvarebutikken (Xero)
+. Matbutikken til sykehuset
+. Banken til hotellet
+. Universitetet til dagligvarebutikken
 
 *[.underline]#Exercise 2:# Give directions to your favorite place
 (fictional or real).*
