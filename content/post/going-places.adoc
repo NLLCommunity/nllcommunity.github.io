@@ -1,0 +1,525 @@
+---
+title: "Going places"
+date: "2019-08-18"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+## Grammar review
+
+### Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+<!--more-->
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Oliver skrev ei bok i fjor. |_Oliver wrote a book last year._
+
+|Emma bodde i Oslo da hun var barn. |_Emma lived in Oslo when she was
+a child._
+
+.2+|*V2* |I fjor skrev Oliver ei bok. |_Last year, Oliver wrote a book._
+
+|Da Emma var barn, bodde hun i Oslo. |_When Emma was a child, she
+lived in Oslo._
+|===
+
+### Verb Conjugation
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å lese |Leser |_Reads_ |Å skrive |Skriver |_Writes_
+|Å møte |Møter |_Meets_ |Å synge |Synger |_Sings_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sna[.underline]##kk##e |Snakket |_Talked_
+|Å ø[.underline]##nsk##e |Ønsket |_Wished_
+.2+|*2* |Å læ[.underline]##r##e |Lærte |_Learned_
+|Å kjø[.underline]##p##e |Kjøpte |_Bought_
+.2+|*3* |Å le[.underline]##v##e |Levde |_Lived_
+|Å pl[.underline]##ei##e |Pleide |_Used_
+|*4* |Å b[.underline]##o## |Bodde |_Lived_
+|===
+
+For future tense, typically the present tense verb is used with a time
+adverbial to clarify it is a future action.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Emilie kjøper det nye spillet i morgen. |_Emilie is buying the new game
+tomorrow._
+
+|Forelesningene begynner neste uke. |_(University) classes begin next
+week._
+|===
+
+*Adjective Basics*
+
+Adjectives typically have to agree with the gender and the number of the
+noun.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En høy mann |_A tall man_ |Høye menn |_Tall men_
+
+|En tynn gren |_A thin branch_ |Tynne grener |_Thin branches_
+
+.2+|*Feminine* |Ei høy bro / bru |_A tall bridge_ |Høye broer /bruer |_Tall
+bridges_
+
+|Ei tynn jente |_A thin girl_ |Tynne jenter |_Thin girls_
+
+.2+|*Neuter* |Et høyt tre |_A tall tree_ |Høye trær |_Tall trees_
+
+|Et tynt barn |_A thin child_ |Tynne barn |_Thin children_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending
+(like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.3+|*Masculine* |Den høye mannen |_The tall man_ |De høye mennene |_The
+tall men_
+
+|Den tykke katten
+|_The chonky cat_
+|De tykke kattene
+|_The chonky cats_
+
+|Denne tynne grenen |_This thin branch_ |Disse tynne grenene |_These
+thin branches_
+
+.2+|*Feminine* |Den høye broa / brua |_The tall bridge_ |De høye broene /
+bruene |_The tall bridges_
+
+|Denne tynne jenta |_This thin girl_ |Disse tynne jentene |_These thin
+girls_
+
+.2+|*Neuter* |Det høye treet |_The tall tree_ |De høye trærne |_The tall
+trees_
+
+|Dette tynne barnet |_This thin child_ |Disse tynne barna |_These thin
+children_
+|===
+
+## Going places
+
+When you visit or live in another country, it is helpful to understand
+directions if you get lost (or to give directions if someone asks you).
+So we will look at some vocab associated with traveling and directions.
+
+### Directions
+
+To start out, let’s look at the most common directional words, found on
+a compass and any map.
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+|*1* |_East_ |Øst |_North_ |Nord
+|*2* |_Northeast_ |Nordøst |_Northwest_ |Nordvest
+|*3* |_South_ |Sør |_Southeast_ |Sørøst
+|*4* |_Southwest_ |Sørvest |_West_ |Vest
+|===
+
+### Prepositions
+
+Prepositions can also help tell us where something is located, for
+example, “Across from the library…”
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+|*1* |_Above_ |Over / Ovenfor |_Across_ |På tvers av...
+|*2* |_Across from_ |På tvers fra |_After_ |Etter
+|*3* |_Against / Toward_ |Mot |_Before_ |Før
+|*4* |_Behind_ |Bak |_Between_ |Mellom
+|*5* |_Face to face_ |Overfor |_In front of_ |Foran
+|*6* |_Inside_ |Inni (inne i) |_Near ..._ |I nærheten av ...
+|*7* |_Next to…._ |Ved siden av... |_On top of_ |På toppen av
+|*8* |_Outside_ |Utenfor |_Through_ |Gjennom
+|*9* |_To / Until_ |Til |_Under_ |Under
+|===
+
+### Directional Phrases
+
+Here are some common phrases that you may hear or that you may want to
+use when giving directions.
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+
+|*1* |_Around the corner_ |Rundt hjørnet. |_Downhill_ |Nedover(bakke)
+
+|*2* |_Downstairs_ |Ned trappa |_Follow the road._ |Følg veien.
+
+|*3* |_Follow the signs._ |Følg skiltene. |_Go back..._ |Gå tilbake...
+
+|*4* |_Go past..._ |Gå forbi... |_(Go) Straight forward_ |(Gå) Rett frem
+/ fram
+
+|*5* |_On the other side..._ |På den andre siden... |_Over there..._
+|Der borte...
+
+|*6* |_Parallel to…._ |Parallelt med... |_(Turn) to the left_ |(Gå / Snu
+/ Ta) Til venstre
+
+|*7* |_(Turn) to the right_ |(Gå / Snu / Ta) Til høyre |_Uphill_
+|Oppover(bakke)
+
+|*8* |_Upstairs_ |Opp trappa |_Watch for…._ |Se etter….
+|===
+
+### Locations
+
+Here is a short list of some locations that you may need directions in
+order to get to.
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+
+|*1* |_Airport_ |Flyplass (en) |_Amusement park_ |Fornøyelsespark (en)
+
+|*2* |_Area_ |Område (et) |_ATM_ |Minibank (en)
+
+|*3* |_Bank_ |Bank (en) |_Bay_ |Bukt (ei)
+
+|*4* |_Beach_ |Strand (ei) |_Border_ |Grense (en)
+
+|*5* |_Bridge_ |Bro / Bru (ei) |_Bus station_ |Busstasjon (en)
+
+|*6* |_Bus stop_ |Bussholdeplass (en) |_Capital_ |Hovedstad (en)
+
+|*7* |_Coast_ |Kyst (en) |_Convenience store_ |Nærbutikk (en)
+
+|*8* |_Corner_ |Hjørne (et) |_County_ |Fylke (et)
+
+|*9* |_Destination_ |Mål (et) |_Downtown (city ctr)_ |Sentrum (et)
+
+|*10* |_Fjord_ |Fjord (en) |_Forest_ |Skog (en)
+
+|*11* |_Gas station_ |Bensinstasjon (en) +
+(Bensert - Trøndersk; Bennaren - Bergensk) |_Grocery store_
+|Dagligvarebutikk / Matbutikk (en)
+
+|*12* |_Hospital_ |Sykehus (et) |_Hotel_ |Hotell (et)
+
+|*13* |_Island_ |Øy (ei) |_Lake_ |Innsjø (en)
+
+|*14* |_Library_ |Bibliotek (et) |_Mall_ |Kjøpesenter (et)
+
+|*15* |_Movie theatre_ |Kino (en) |_Municipality_ |Kommune (en)
+
+|*16* |_Museum_ |Museum (et) |_Park_ |Park (en)
+
+|*17* |_Parking lot_ |Parkeringsplass (en) |_Pharmacy / Drugstore_
+|Apotek (et)
+
+|*18* |_Post office_ |Postkontor (et) |_Restaurant_ |Restaurant (en)
+
+|*19* |_River_ |Elv (ei) |_Subway station_ |T-banestasjon (en)
+
+|*20* |_Theatre_ |Teater (et) |_Train station_ |Togstasjon (en)
+
+|*21* |_Valley_ |Dal (en) |_Village_ |Landsby (en) / Bygd (ei)
+|===
+
+### Car Terms
+
+If you rent a car or own a car in Norway, here are some important words
+to know.
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+
+|*1* |_Automatic_ |Automatgir (et) |_Brakes_ |Bremser (en)
+
+|*2* |_Car rental_ |Bilutleie (en) |_Engine_ |Motor (en)
+
+|*3* |_Gas / Petrol_ |Bensin (en) |_Headlight_ |Frontlykt (en)
+
+|*4* |_High beams / Brights_ |Fjernlys (et) |_Ignition_ |Tenning (en)
+
+|*5* |_Manual / Standard / Stick shift_ |Manuelt gir (et) |_Oil_ |Olje
+(en)
+
+|*6* |_Rearview mirror_ |Bakspeil (et) |_Side view mirror_ |Sidespeil
+(et)
+
+|*7* |_Steering wheel_ |Ratt (et) |_Taxi_ |Taxi (en) / Drosje
+
+|*8* |_Tire(s)_ |Dekk (et) |_Turn signal / Blinker_ |Blinklys (et)
+
+|*9* |_Windshield_ |Frontrute (en) |_Windshield wipers_ |Vindusviskere
+(en)
+|===
+
+### Driving Terms and Street Signs
+
+Here are some more important words to know if you drive in Norway.
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+
+|*1* |_Alley_ |Smug (et) |_Avenue_ |Allé (en)
+
+|*2* |_Bicycle lane_ |Sykkelfelt (et) |_Dead end_ |Blindvei (en)
+
+|*3* |_Detour_ |Omvei (en) |_Directions (driving)_ |Veibeskrivelse (en)
+
+|*4* |_(Driving) lane_ |(Kjøre)felt (et) |_Driveway_ |Innkjørsel (en)
+
+|*5* |_Exit (on highway)_ |Avkjøring (en) / Avkjørsel |_Highway_
+|Motorvei (en)
+
+|*6* |_Intersection_ |Veikryss (et) |_Merge_ |Flette
+
+|*7* |_No parking._ |Parkering forbudt |_One-way street_ |Enveiskjørt
+gate (en)
+
+|*8* |_Ramp_ |Rampe (en) |_Road_ |Vei (en)
+
+|*9* |_Road sign_ |Veiskilt (et) |_Roundabout_ |Rundkjøring (en)
+
+|*10* |_Route_ |Rute (en) |_Shoulder_ |Veiskulder (en)
+
+|*11* |_Speed limit_ |Fartsgrense (en) |_Stop sign_ |Stoppskilt (et)
+
+|*12* |_Street_ |Gate (en) |_Toll_ |Bompenger (en)
+
+|*13* |_Toll road_ |Bomvei (en) |_Toll roads surrounding e.g. a town_
+|Bomring (en)
+
+|*14* |_Toll station_ |Bompengestasjon (en) |_Traffic light_ |Trafikklys
+(et)
+
+|*15* |_U-Turn_ |U-sving (en) |_Yield_ |Vike
+
+|*16* |_Yield (markings painted on the road)_ |Vikelinje / Haitenner | |
+|===
+
+image:/images/going-places/media/image3.png[image,width=489,height=228]
+
+### Misc. Nouns
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+|*1* |_Bus_ |Buss (en) |_Compass_ |Kompass (et)
+|*2* |_Coordinates_ |Koordinater (en) |_Direction_ |Retning (en)
+|*3* |_Elevator_ |Heis (en) |_Escalator_ |Rulletrapp (en)
+|*4* |_Ferry_ |Ferje (ei) / Ferge (ei) |_Landmark_ |Landemerke (et)
+|*5* |_Latitude_ |Breddegrad (en) |_Longitude_ |Lengdegrad (en)
+|*6* |_Map_ |Kart (et) |_Mountain_ |Fjell (et)
+|*7* |_Stairs_ |Trapp (en) |_Subway_ |Undergrunnsbane (en)
+|*8* |_Ticket_ |Billett (en) |_Train_ |Tog (et)
+|*9* |_Tram_ |Trikk (en) |_Transportation_ |Transport (en)
+|*10* |_Window seat_ |Vindussete (et) | |
+|===
+ 
+### Verbs
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+
+|*1* |_To brake_ |Å bremse |_To drive_ |Å kjøre
+
+|*2* |_To fly_ |Å fly |_To go_ |Å dra
+
+|*3* |_To park_ |Å parkere |_To pay_ |Å betale
+
+|*4* |_To rent_ |Å leie |_To reverse_ |Å rygge
+
+|*5* |_To run_ |Å løpe |_To steer_ |Å styre
+
+|*6* |_To take (e.g. the ferry)_ |Å ta (f. eks. ferga) |_To travel_ |Å
+reise
+
+|*7* |_Turn (around)_ |Å snu (rundt) |_To walk_ |Å gå
+|===
+
+*A note on å gå and å dra:* +
+In English, we can say “I’m going to my grandmother’s house,” but
+there’s no specific mention of how we’re getting there (we could be
+walking, taking a bus, driving, etc). In Norwegian, the verb “å gå”
+typically refers specifically to walking (there are exceptions which are
+covered in this
+https://docs.google.com/document/d/1Nrt1yFbavIs5vnt-2bnGG6izueP_tn0nl6cwOlFiUYY/edit[[.underline]#lesson#]).
+If one wants to say they are going someplace, without specifying the
+mode of transportation, “å dra” is used instead. One can also use “å
+reise” as well to express travelling somewhere, typically further away.
+ 
+### Adjectives
+
+[cols=",,,",]
+|===
+|*English* |*Norwegian* |*English* |*Norwegian*
+|_Crowded_ |Folksom _(not common)_ |_Empty_ |Tom
+|_Occupied / Busy_ |Opptatt |_Vacant_ |Ledig
+|===
+
+### Questions / Phrases
+
+Finally, here are some important phrases you may use or hear with
+regards to traveling someplace or asking where things are located.
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+
+|*1* |_Can you help me?_ |Kan du hjelpe meg? |_Can you recommend any
+good…?_ |Kan du anbefale noe(n) bra…?
+
+|*2* |_Can you show me….?_ |Kan du vise meg…? |_Can you tell me how to
+get there from here?_ |Kan du fortelle meg hvordan jeg kommer meg dit
+herfra?
+
+|*3* |_Where am I?_ |Hvor er jeg? |_Where is the bathroom?_ |Hvor er
+toalettet?
+
+|*4* |_Where can I find…?_ |Hvor kan jeg finne…? |_How long does it take
+to get there?_ |Hvor lang tid tar det å komme seg dit?
+
+|*5* |_How much further is it?_ |Hvor mye lenger er det? |_How much is a
+ticket to…?_ |Hvor mye koster en billett til…?
+
+|*6* |_How can I get to…?_ |Hvordan kan jeg komme meg til…? |_Which
+direction is…?_ |(I) Hvilken retning er...?
+
+|*7* |_Have I gone too far?_ |Har jeg gått for langt? |_Must I go much
+further to reach…?_ |Må jeg gå mye lenger for å nå…?
+
+|*8* |_Does the bus stop at…?_ |Stopper bussen på…? |_I am looking
+for..._ |Jeg leter / ser etter...
+
+|*9* |_I am lost._ |Jeg har gått meg bort. |_I’m not from here._ |Jeg er
+ikke herfra.
+
+|*10* |_I have a flat tire._ |Jeg har punktert. |_I want (x) tickets,
+please._ |Jeg vil ha (x) billetter, takk.
+
+|*11* |_I’d like to buy a (return) ticket to..._ |Jeg vil gjerne kjøpe
+en (retur)billett til... |_I’d like to rent a car._ |Jeg vil gjerne leie
+en bil.
+
+|*12* |_I want full coverage insurance._ |Jeg vil ha kaskoforsikring.
+|_The car needs oil._ |Bilen trenger olje.
+
+|*13* |_You can walk there._ |Du kan gå dit. |_It’s within walking distance._ |Det er i gangavstand
+
+|*14* |_It’s near here._ |Det er i nærheten. |_It’s close._ |Det er
+nærme.
+
+|*15* |_It will take you about (x) minutes._ |Det vil ta deg cirka (x)
+minutter. |_It is right over here / there._ |Det er rett her / der
+borte.
+
+|*16* |_If you have gone past (the)..., you’ve gone too far._ |Hvis du
+har gått forbi…, har du gått for langt. |_You’re almost there._ |Du er
+nesten framme.
+
+|*17* |_Just up / down the road..._ |Bare opp / nedover gaten... |_It’s
+not far from here._ |Det er ikke langt herfra.
+
+|*18* |_Just a block away._ |Bare et kvartal unna. |_It’s on the second
+/ third / etc floor._ |Det er i andre / tredje / etc etasje.
+
+|*19* |_It’s far from here._ |Det er langt herfra. |_You should take the
+(x) bus / tram / train..._ |Du burde ta buss / trikk / tog (nummer x)..
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+References:
+
+https://ielanguages.com/norwegian-directions.html[[.underline]#Norwegian Directions#]
+
+http://ilovelanguages.org/norwegian_lesson4.php[[.underline]#Norwegian Prepositions & Directions#]
+
+http://www.cram.com/flashcards/norwegian-phrases-set-5-asking-for-directions-554343[[.underline]#Norwegian Phrases: Asking for Directions (flashcards)#]
+
+https://blogs.transparent.com/norwegian/how-to-ask-for-directions-in-norwegian[[.underline]#Norwegian Language Blog: How to ask for Directions in Norwegian#]
+
+https://youtu.be/2g42jbTXwRM[[.underline]#Norwegian Directions (YouTube)#]
+
+https://youtu.be/MLTOfICEIpY[[.underline]#Norwegian Language: Directions 2 & Small Sentences (YouTube)#]
+
+image:/images/going-places/media/image4.png[image,width=787,height=574]
+
+## Exercises
+
+*[.underline]#Exercise 1:#* *Using the map above, write directions out
+from...to….*
+
+[arabic]
+. Parkeringsplassen til biblioteket (Amanda)
+. Universitet til matbutikken (Birke)
+. Busstasjonen til kinoen (Dan)
+. Parkeringsplassen til bensinstasjonen (Oransje)
+. Banken til teateret (Serene)
+. Universitetet til bussholdeplassen (Tchaikovsky)
+. Ekornskogveien 3 til museet (Xero)
+. Hotellet til postkontoret (Amanda)
+. Busstasjonen til kjøpsenteret (Birke)
+. Hotellet til parken (Dan)
+. Bensinstasjonen til museet (Oransje)
+. Parkeringsplassen til Ekornskogen
+. Matbutikken til sykehuset (Kent)
+. Banken til hotellet (Tchaikovsky)
+. Universitetet til dagligvarebutikken (Xero)
+
+*[.underline]#Exercise 2:# Give directions to your favorite place
+(fictional or real).*
