@@ -1,0 +1,320 @@
+---
+title: "Summer in Norway"
+date: "2019-08-18"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+## Grammar Review
+
+### Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+<!--more-->
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Markus jobbet i hagen i går. |_Markus worked in the garden
+yesterday._
+
+|Sofia svømte i havet da hun var ung. |_Sofia swam in the ocean when
+she was young._
+
+.2+|*V2* |I går jobbet Markus i hagen. |_Yesterday, Markus worked in the
+garden._
+
+|Da Sofia var ung, svømte hun i havet. |_When Sofia was young, she
+swam in the ocean._
+|===
+
+### Verb Conjugation
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å svømme |Svømmer |_Swim(s)_ |Å sykle |Sykler |_Bike(s)_
+|Å seile |Seiler |_Sail(s)_ |Å fiske |Fisker |_Fish(es)_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sna[.underline]##kk##e |Snakket |_Talked_
+|Å ø[.underline]##nsk##e |Ønsket |_Wished_
+.2+|*2* |Å læ[.underline]##r##e |Lærte |_Learned_
+|Å kjø[.underline]##p##e |Kjøpte |_Bought_
+.2+|*3* |Å le[.underline]##v##e |Levde |_Lived_
+|Å pl[.underline]##ei##e |Pleide |_Used_
+|*4* |Å b[.underline]##o## |Bodde |_Lived_
+|===
+
+For future tense, typically the present tense verb is used with a time
+adverbial to clarify it is a future action.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|De drar hjem på søndag. |_They are going home on Sunday._
+|Festivalen er neste helg. |_The festival is next weekend._
+|===
+
+### Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En stor festival |_A big festival_ |Store festivaler |_Big
+festivals_
+
+|En tom kopp |_An empty cup_ |Tomme kopper |_Empty cups_
+
+.2+|*Feminine* |Ei stor bok |_A big book_ |Store bøker |_Big books_
+
+|Ei tom bokhylle |_An empty bookshelf_ |Tomme bokhyller |_Empty
+bookshelves_
+
+.2+|*Neuter* |Et stort bål |_A big bonfire_ |Store bål |_Big bonfires_
+
+|Et tomt hus |_An empty house_ |Tomme hus |_Empty houses_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending
+(like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den store festivalen |_The big festival_ |De store
+festivalene |_The big festivals_
+
+|Denne tomme koppen |_This empty cup_ |Disse tomme koppene |_These
+empty cups_
+
+.2+|*Feminine* |Den store boka |_The big book_ |De store bøkene |_The big
+books_
+
+|Denne tomme bokhylla |_This empty bookshelf_ |Disse tomme bokhyllene
+|_These empty bookshelves_
+
+.2+|*Neuter* |Det store bålet |_The big bonfire_ |De store bålene |_The big
+bonfires_
+
+|Dette tomme huset |_This empty house_ |Disse tomme husene |_These
+empty houses_
+|===
+
+## Summer in Norway
+
+Summertime is a great time to be in Norway. Temperatures in Norway
+typically do not get above the 80s F (27 C), (however, lately Norway has
+been experiencing higher-than-normal temperatures in the summer). If you
+are in Norway in August, be prepared for plenty of rain. If you travel
+above the Arctic Circle, the sun does not set during the summer months.
+This phenomenon is called the midnight sun.
+
+On 23 June, many Norwegians celebrate Sankthansaften (Midsummer Eve aka
+St John’s Eve). Many attend parties with big bonfires (sankthansbål),
+along the coast and up in the mountains. Some Norwegians will burn an
+effigy of a witch on the bonfire (this originated from German
+traditions).
+
+With the long coastline and the beautiful mountains, summer is the
+perfect time for swimming, fishing, boating, hiking, and camping. Some
+Norwegians travel to “sommerbyer” (summer cities) along the coast. These
+places are made up of white wooden houses along the narrow streets.
+
+For thrill seekers, there are a number of
+https://www.visitnorway.com/things-to-do/family-fun/theme-parks[[.underline]#amusement parks#] in Norway, including Tusenfryd in Oslo and a water park called
+Bø Sommarland in Telemark. The entrance to Tusenfryd is reached via an
+escalator that goes through one of the loops of Speed Monster, one of
+Tusenfryd’s six coasters. The park also has a VR roller coaster called
+Steampunk Hunters, as well as what is considered possibly the world’s
+smallest roller coaster, at only 2.5 meters (8 ft) tall.
+
+For music lovers, there are many music festivals that happen during the
+summer months. One of the biggest music festivals is the Øya Festival
+which takes place every August in Oslo and features indie, hip-hop, and
+electronic music. The Slottsfjell Festival focuses on pop and rock music
+and is held among the ruins of a medieval fortress in Tønsberg. The
+Bukta open air music festival is a 3 day event taking place every summer
+in Tromsø, featuring numerous rock artists. There are many other music
+festivals in Norway, focusing on different genres of music, such as
+jazz, blues, and contemporary music.
+
+### Summer Vocab
+
+[cols=",,,,",]
+|===
+| |*English* |*Norsk* |*English* |*Norsk*
+
+|*1* |_Amusement park_ |Fornøyelsespark (en) |_August_ |August
+
+|*2* |_Beach_ |Strand (en) |_Beach ball_ |Badeball (en)
+
+|*3* |_Blueberry_ |Blåbær (et) |_Bonfire_ |Bål (et)
+
+|*4* |_Campfire_ |(Leir)Bål (et) |_Campground_ |Campingplass (en)
+
+|*5* |_Canoe_ |Kano (en) |_Cherry_ |Kirsebær (et)
+
+|*6* |_Fan_ |Vifte (en) |_Festival_ |Festival (en)
+
+|*7* |_Flip-flops_ |Flipflopper / Slipper |_Flower_ |Blomst (en)
+
+|*8* |_Forest_ |Skog (en) |_Garden_ |Hage (en)
+
+|*9* |_Heat_ |Varme |_Hot_ |Varm(t)
+
+|*10* |_Holiday / Vacation_ |Ferie |_Humidity_ |Luftfuktighet (en)
+
+|*11* |_Ice cream_ |Is(krem) |_July_ |Juli
+
+|*12* |_June_ |Juni |_Lawnmower_ |Gressklipper (en)
+
+|*13* |_Lightning_ |Lyn |_Lightning bug / Firefly_ |Ildflue (et)
+
+|*14* |_Marshmallow_ |Marshmallow (en) |_Ocean_ |Hav (et)
+
+|*15* |_Outdoors_ |Utendørs |_Outside_ |Utenfor
+
+|*16* |_Parasol_ |Parasoll |_Park_ |Park (en)
+
+|*17* |_Picnic_ |Piknik (en) |_Road trip_ |Bilferie (en)
+
+|*18* |_Roller coaster_ |Berg-og-dal-bane (en) |_Rose_ |Rose (en)
+
+|*19* |_Sailboat_ |Seilbåt (en) |_Sand_ |Sand
+
+|*20* |_Sandals_ |Sandaler |_Sandcastle_ |Sandslott (et)
+
+|*21* |_Shorts_ |Shorts (en) |_Sleeping bag_ |Sovepose
+
+|*22* |_Strawberry_ |Jordbær (et) |_Summer_ |Sommer
+
+|*23* |_Sunburn_ |Solbrenthet |_Sunflower_ |Solsikke
+
+|*24* |_Sunglasses_ |Solbriller |_Sunscreen_ |Solkrem
+
+|*25* |_Sunshine_ |Solskinn |_Suntan_ |Solbrun
+
+|*26* |_Swimsuit / Bathing suit_ |Badedrakt (ei) |_Swimming trunks_
+|Badebukse (ei)
+
+|*27* |_Tent_ |Telt (et) |_T-shirt_ |T-skjorte (ei)
+
+|*28* |_Thunder_ |Torden |_Thunderstorm_ |Tordenvær
+
+|*29* |_Undertow / Undercurrent_ |Understrøm (en) |_Watermelon_
+|Vannmelon (en)
+
+|*30* |_Wave_ |Bølge (en) a|
+_“Outdoor beer” -_
+
+_A beer one takes outside to drink, when the weather is finally warm
+enough._
+
+|Utepils
+
+|*31* a|
+_“One time grill” -_
+
+_A small disposable grill one can carry with them to use at the park or
+wherever._
+
+|Engangsgrill (en) | |
+|===
+
+*Verbs:*
+
+[cols=",,,,",]
+|===
+| |*English* |*Norsk* |*English* |*Norsk*
+|*1* |_To bike_ |Å sykle |_To build a sandcastle_ |Å bygge et sandslott.
+|*2* |_To camp_ |Å campe |_To fish_ |Å fiske
+|*3* |_To garden_ |Å jobbe i hagen |_To grill_ |Å grille
+|*4* |_To mow the lawn_ |Å klippe plenen |_To relax_ |Å slappe av
+|*5* |_To sail (boat)_ |Å seile |_To swim_ |Å svømme
+|*6* |_To travel_ |Å reise |_To visit_ |Å besøke
+|===
+
+*[.underline]#NOTE:#* In English, if one is good at growing plants and
+such, they are said to have a “green thumb.” In Norwegian, one has
+“grønne fingre” (green fingers).
+
+Here are a few helpful phrases to know and use during summer:
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Slikke sol |_To soak up the sun_
+|Sola skinner |_The sun is shining._
+|Jeg svetter som en gris. |_I’m sweating like a pig._
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+https://www.visitnorway.com/plan-your-trip/seasons-climate/summer[[.underline]#Summer in Norway#]
+
+https://www.visitnorway.com/things-to-do/whats-on/festivals[[.underline]#Festivals in Norway#]
+
+https://www.visitnorway.com/plan-your-trip/seasons-climate/summer/10-charming-summer-spots[[.underline]#Where the locals go: 10 charming summer spots#]
+
+https://en.wikipedia.org/wiki/Tusenfryd[[.underline]#Tusenfryd (Wiki)#]
+
+https://en.wikipedia.org/wiki/Bukta_Troms%C3%B8_Open_Air_Festival[[.underline]#Bukta Tromsø Open Air Festival (Wiki)#]
+
+https://no.wikipedia.org/wiki/Sankthans[[.underline]#Sankthans (Wiki)#]
+
+https://blogs.transparent.com/norwegian/norwegian-summer-phrases[[.underline]#Norwegian Language Blog: Summer Phrases#]
+
+https://www.youtube.com/watch?v=bCVeoynrYRw[[.underline]#Learn Norwegian - Loving Summer Sentences (YouTube)#]
+
+Reading Practice: +
+https://www.nrk.no/hordaland/varsler-sommertemperaturer-i-hele-landet_-_-vi-far-en-smak-av-sommer-igjen-1.14673748[[.underline]#Varsler sommertemperaturer i hele landet: – Vi får en smak av sommer igjen#]
+
+*[.underline]#Exercise:# Write a paragraph about what you did this
+summer.*
