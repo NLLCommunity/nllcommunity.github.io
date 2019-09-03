@@ -1,0 +1,350 @@
+---
+title: "To change, to go"
+date: "2019-09-01"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+## Grammar Review
+
+### Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+<!--more-->
+
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Sofia ryddet huset i går. |_Sofia cleaned up the house
+yesterday._
+
+|Jakob spilte Minecraft da han var barn. |_Jakob played Minecraft when
+he was a child._
+
+.2+|*V2* |I går ryddet Sofia huset. |_Yesterday, Sofia cleaned up the
+house._
+
+|Da Jakob var barn, spilte han Minecraft. |_When Jakob was a child, he
+played Minecraft._
+|===
+
+### Verb Conjugation
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kjøre |Kjører |_Drive(s)_ |Å sykle |Sykler |_Bike(s)_
+|Å reise |Reiser |_Travel(s)_ |Å besøke |Besøker |_Visit(s)_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sna[.underline]##kk##e |Snakket |_Talked_
+|Å ø[.underline]##nsk##e |Ønsket |_Wished_
+.2+|*2* |Å læ[.underline]##r##e |Lærte |_Learned_
+|Å kjø[.underline]##p##e |Kjøpte |_Bought_
+.2+|*3* |Å le[.underline]##v##e |Levde |_Lived_
+|Å pl[.underline]##ei##e |Pleide |_Used_
+|*4* |Å b[.underline]##o## |Bodde |_Lived_
+|===
+
+For future tense, typically the present tense verb is used with a time
+adverbial to clarify it is a future action.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Jeg jobber på søndag. |_I work on Sunday._
+|Den nye kinoen åpner neste uke. |_The new cinema opens next week._
+|===
+
+*Adjective Basics*
+
+Adjectives typically have to agree with the gender and the number of the
+noun.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En morsom gutt |_A funny boy_ |Morsomme gutter |_Funny
+boys_
+
+|En rød sirkel |_A red circle_ |Røde sirkler |_Red circles_
+
+.2+|*Feminine* |Ei morsom jente |_A funny girl_ |Morsomme jenter |_Funny
+girls_
+
+|Ei rød badedrakt |_A red swimsuit_ |Røde badedrakter |_Red swimsuits_
+
+.2+|*Neuter* |Et morsomt barn |_A funny child_ |Morsomme barn |_Funny
+children_
+
+|Et rødt jordbær |_A red strawberry_ |Røde jordbær |_Red strawberries_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending
+(like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den morsomme gutten |_The funny boy_ |De morsomme guttene
+|_The funny boys_
+
+|Denne røde sirkelen |_This red circle_ |Disse røde sirklene |_These
+red circles_
+
+.2+|*Feminine* |Den morsomme jenta |_The funny girl_ |De morsomme jentene
+|_The funny girls_
+
+|Denne røde badedrakta |_This red swimsuit_ |Disse røde badedraktene
+|_These red swimsuits_
+
+.2+|*Neuter* |Det morsomme barnet |_The funny child_ |De morsomme barna
+|_The funny children_
+
+|Dette røde jordbæret |_This red strawberry_ |Disse røde jordbærene
+|_These red strawberries_
+|===
+
+## How to Change
+
+In Norwegian, there are several words that translate into English as
+“change,” however they are used in different ways.
+
+[cols=",,,",]
+|===
+|*Verb* |*Use* |*Eksempel* |*English*
+
+.2+|*Endre* .2+|To alter something |Jeg endret et par ting på profilen min.
+|_I changed a few things in my profile._
+
+|Forfatteren endret dialogen i kapittelet. |_The writer changed the
+dialogue in the chapter._
+
+.2+|*Forandre seg* .2+|Change, with regards to looks or manner of people |Han
+har forandret seg mye siden i fjor. |_He has changed a lot since last
+year._
+
+|Karina forandret seg helt, etter at hun flyttet til Oslo. |_Karina
+changed completely after she moved to Oslo._
+
+.2+|*Skifte* .2+|To change trains, clothes, gears (in a car) etc. |Mannen
+skiftet buss i Trondheim. |_The man changed buses in Trondheim._
+
+|Erik skiftet klær etter jobb. |_Erik changed clothes after work._
+
+.2+|*Bytte* .2+|To exchange; to trade; to swap |De byttet bøker med hverandre.
+|_They exchanged books with each other._
+
+|Faren min og moren min byttet plass med hverandre. |_My father and
+my mother changed / traded places with each other._
+|===
+
+*[.underline]#NOTE:#* If one wants to say “to exchange money,” the verb
+is “å veksle” instead of “å bytte.”
+
+## How to Go
+
+In English, we can use “to go” in many ways. When one says, in English,
+“I’m going to my mom’s house,” we don’t mean specifically that we are
+walking there (though, it can mean that). If one wants to express they
+are going somewhere, in Norwegian, but they are not walking, then there
+are other verbs one can use.
+
+[cols=",,,",]
+|===
+|*Verb* |*Use* |*Eksempel* |*English*
+
+.2+|*Kjøre* .2+|To go (by car; public transportation; etc); to drive |Tobias
+kjørte med buss til Bergen. |_Tobias went by bus to Bergen._
+
+|Maria kjørte til sin fars hus. |_Maria drove to her father’s
+house._
+
+.2+|*Dra / Stikke* .2+|To go |Kvinnen dro til sin mors hus. |_The woman went
+to her mother’s house._
+
+|Kan jeg stikke på rulleskøytebanen? |_Can I go to the roller
+skating rink?_
+
+.2+|*Reise* .2+|To travel (longer distances) |De reiste til Tyskland. |_They
+traveled to Germany._
+
+|Vi reiser til Danmark neste helg. |_We’re travelling to Denmark
+next weekend._
+
+.2+|*Gå* .2+|To walk; progress of things |Lukas gikk til parken. |_Lukas
+walked to the park._
+
+|Det går fint. |_It’s going well._
+|===
+
+### Fixed Expressions
+
+There are a few fixed expressions in Norwegian that do use “å gå” but do
+not necessarily refer to walking:
+
+[cols=",,,",]
+|===
+|*Expressions* |*English* |*Eksempel* |*English*
+
+|Gå på skole |_Attend school_ |Datteren min går på skolen i byen. |_My
+daughter attends the school in the city._
+
+|Gå på kino / konsert / teater |_Going to the cinema / concert /
+theatre_ |Vi gikk på kino i går. |_We went to the cinema yesterday._
+
+|Gå til sengs |_Go to bed_ |Jeg er sliten så jeg går til sengs nå. |_I’m
+tired, so I’m going to bed now._
+
+|Gå til legen |_Go to the doctor_ |Hvis du er syk, gå til legen. |_If
+you are sick, go to the doctor._
+
+|Gå i kirken |_Go to church_ |Bestemoren min går i kirken hver søndag.
+|_My grandmother goes to church every Sunday._
+|===
+
+*[.underline]#NOTE:#* It is common to use a directional adverb relative
+to the direction one is walking. Some directional adverbs, that one
+might use, are:
+
+[cols=",,,",]
+|===
+|*Adverb* |*English* |*Eksempel* |*English*
+
+|Ned |_Down_ |Tomas gikk ned til butikken. |_Tomas walked down to the
+shop._
+
+|Opp |_Up_ |Leah gikk opp bakken. |_Leah walked up the hill._
+
+|Bort |_Away (over)_ |Emma går bort til huset hans nå. |_Emma is going
+over to his house now._
+|===
+
+Dra and gå have a few other meanings as well.
+
+[cols=",,,",]
+|===
+|*Verb* |*Use* |*Eksempel* |*English*
+
+.2+|*Å dra + obj* .2+|To pull or to drag |Lukas drar en slede opp bakken.
+|_Lukas is pulling a sled up the hill._
+
+|Jeg drar ham med meg. |_I’m dragging him with me._
+
+.2+|*Å gå* .2+|To succeed or to express that something worked out |Det går jo
+ikke! |_It’s not possible!_
+
+|Ja! Det gikk! |_Yes! It worked!_
+|===
+
+*[.underline]#NOTE:#* One can also use “å dra til + obj” to mean “to
+punch” however it is dated and most just use “å slå” instead. I’m just
+mentioning it in case you come across it (like in an old movie or
+something).
+
+*[.underline]#To leave#*
+
+“Å gå” can also be used when expressing that you are leaving someplace.
+“Å dra avsted” and “å dra av gårde” can also be used to express this
+concept.
+
+[cols=",,",]
+|===
+|*Phrase* |*Eksempel* |*English*
+
+.2+|*Å gå* |Jeg må gå kl. 13. |_I have to go / leave at 1pm._
+
+|Slå av lysene når du går. |_Turn off the light when you go / leave._
+
+|*Å dra avsted* |Liam må dra avsted kl. 8. |_Liam has to go / leave at
+8._
+
+|*Å dra av gårde* |De spiste middag og etterpå dro de av gårde. |_They
+ate dinner and afterwards they left._
+|===
+
+### Phrases
+
+Lastly, there are a few phrases that use “å gå” that don’t have anything
+to do with travel. Here are some examples.
+
+[cols=",,,",]
+|===
+|*Phrase* |*English* |*Eksempel* |*English*
+
+|Å gå i stykker |_To break (an object)_ |Tekoppen gikk i stykker. |_The
+teacup broke._
+
+|Å gå ut på |_To be about something_ |Oppgaven hans går ut på
+klimaforandringer. |_His thesis is about climate change._
+
+|Å gå utover |_To have a negative effect on something_ |Sigaretter går
+utover ens helse. |_Cigarettes have a negative effect on one’s health._
+|===
+
+*[.underline]#NOTE:#* In English, we can say someone is “going bald,”
+but in Norwegian you would not say this. Instead, one would say someone
+is “becoming bald.”
+
+Ex: Han blir skallet
+
+He is becoming bald.
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+https://docs.google.com/document/d/1hrUNiYP6GAIXM9YDnZiiHjsmIK1CiRA95ZbQqnNa9Fs/edit[[.underline]#Verb document#]
+
+http://www.verbix.com[[.underline]#Verbix Verb Conjugator#]
+
+https://www.youtube.com/watch?v=JxWy7iw_LD4[[.underline]#Lær norsk: Dra eller reise? med Karense (YouTube på norsk)#]
+
+http://lang-8.com/394668/journals/156388219183672134529053365429917663952[[.underline]#Lang 8: Norwegian Lesson Å gå vs Å dra#]
+
+https://forum.wordreference.com/threads/norwegian-%C3%A5-dra-versus-%C3%A5-reise.2598215[[.underline]#Language Forum: Å Dra vs Å Reise#]
+
+*[.underline]#Exercise:# Write 6 sentences; 3 using “how to change” and
+3 using “how to go.”*
