@@ -1,0 +1,421 @@
+---
+title: Vitenskap
+date: 2019-09-11
+author: Dan
+categories:
+  - Sunday lessons
+---
+
+Science is a part of our everyday lives, in the form of the plants and
+trees around us, the sun that shines, the ground beneath our feet, the
+chemicals we use to clean with, the electricity we use, etc. In this
+lesson, we’re going to learn about some famous Norwegian scientists and
+the discoveries they have made, as well as learn some science related
+vocabulary in Norwegian.
+<!--more-->
+
+## Grammar Review
+
+### Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Markus jobbet i laboratoriet i går. |_Markus worked in the
+laboratory yesterday._
+
+|Sofia studerte biologi da hun gikk på universitetet. |_Sofia studied
+biology when she was at university._
+
+.2+|*V2* |I går jobbet Markus i laboratoriet. |_Yesterday, Markus worked in
+the laboratory._
+
+|Da Sofia gikk på universitetet, studerte hun biologi. |_When Sofia
+was at university, she studied biology._
+|===
+
+### Verb Conjugation
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å studere |Studerer |_Studying / Studies_ |Å måle |Måler |_Measuring /
+Measures_
+
+|Å lese |Leser |_Reading / Reads_ |Å jobbe |Jobber |_Working / Works_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sna[.underline]##kk##e |Snakket |_Talked_
+|Å ø[.underline]##nsk##e |Ønsket |_Wished_
+.2+|*2* |Å læ[.underline]##r##e |Lærte |_Learned_
+|Å kjø[.underline]##p##e |Kjøpte |_Bought_
+.2+|*3* |Å le[.underline]##v##e |Levde |_Lived_
+|Å pl[.underline]##ei##e |Pleide |_Used_
+|*4* |Å b[.underline]##o## |Bodde |_Lived_
+|===
+
+For future tense, typically the present tense verb is used with a time
+adverbial to clarify it is a future action. (Future can also be
+expressed with modal verbs, but this is just a brief overview).
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Eksamenen er på onsdag. |_The exam is on Wednesday._
+|Konferansen er neste måned. |_The conference is next month._
+|===
+
+### Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En fjern planet |_A distant planet_ |Fjerne planeter
+|_Distant planets_
+
+|En ren kopp |_A clean cup_ |Rene kopper |_Clean cups_
+
+.2+|*Feminine* |Ei fjern stjerne |_A distant star_ |Fjerne stjerner
+|_Distant stars_
+
+|Ei ren væske |_A clean liquid_ |Rene væsker |_Clean liquids_
+
+.2+|*Neuter* |Et fjernt lys |_A distant light_ |Fjerne lys |_Distant
+lights_
+
+|Et rent speil |_A clean mirror_ |Rene speil |_Clean mirrors_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending
+(like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den fjerne planeten |_The distant planet_ |De fjerne
+planetene |_The distant planets_
+
+|Denne rene koppen |_This clean cup_ |Disse rene koppene |_These clean
+scups_
+
+.2+|*Feminine* |Den fjerne stjerna |_The distant star_ |De fjerne stjernene
+|_The distant stars_
+
+|Denne rene væska |_This clean liquid_ |Disse rene væskene |_These
+clean liquids_
+
+.2+|*Neuter* |Det fjerne lyset |_The distant star_ |De fjerne lysene / lysa
+|_The distant stars_
+
+|Dette rene speilet |_This clean mirror_ |Disse rene speilene / speila
+|_These clean mirrors_
+|===
+
+## Science in Norway
+
+There have been a number of Norwegians who have made major discoveries
+and advancements in varying scientific fields. For this lesson, let’s
+look at a few of them.
+
+One of the most famous Norwegian scientists is Kristian Birkeland, born
+in 1867 in what is now called Oslo. He went on several trips to the
+northern parts of Norway, setting up a number of observatories to obtain
+magnetic field information. During his research, he noticed that an
+electron beam, focused on a magnetized ball, was guided toward the
+“poles” and produced rings of light. He realized that this could be the
+reason for the aurora borealis (northern lights). His theory, that polar
+electric currents were connected to other currents that were along the
+geometric field lines (now known as Birkeland currents) that led into
+and away from the polar region, was heavily debated for decades. Many
+dismissed his ideas long after his death. It wasn’t until 1967 that his
+theory was proven true after a probe was sent into space. Birkeland was
+featured on the 200 kr bank note, along with his diagram of
+field-aligned currents (the Birkeland currents).
+
+image:/images/vitenskap/media/image1.png[image,width=500,height=249]
+
+Odd Hassel was born in 1897 in what is now known as Oslo. He was a
+physical chemist and focused much of his work on inorganic chemistry and
+later on molecular structures. From 1925 until 1964, he worked at the
+University of Oslo. In 1943, he and other university staff members were
+arrested by the Nasjonal Samling (the Norwegian far-right party active
+during the time of occupation by Nazi forces). He spent time in a number
+of detention camps until 1944 when he was released. In 1969, he received
+the Nobel Prize in Chemistry for his discovery that molecules existed on
+more than one plane.
+
+Physical chemist and theoretical physicist Lars Onsager was born in 1903
+in Oslo. As part of his research, he determined that the Debye-Hückel
+theory of electrolyte solutions had an error. He published his findings
+in 1926 and traveled to Zürich to confront Peter Debye, telling the
+scientist that he was wrong. A few years later, during his time
+conducting research at Brown University, Onsager produced the Onsager
+reciprocal relations which is a set of equations used in thermodynamics.
+This work earned him the Nobel Prize in Chemistry in 1968.
+
+Nobel Laureates May-Britt Moser (born 1963 in Fosnavåg) and Edvard Moser
+(born 1962 in Ålesund) are both neuroscientists who worked together to
+better understand how the brain works with regards to spatial location.
+May-Britt and Edvard met in university and married in 1985 (divorced in
+2016). Over the course of their careers, they founded the Centre for
+Neural Computation as well as the Kavli Institute for Systems
+Neuroscience. In 2014, the Mosers received the Nobel Prize in Physiology
+or Medicine for discovering a type of cell (called a grid cell), located
+in the hippocampus, which is important in determining one’s location.
+
+### Science Vocab
+
+#### Nouns & Adjectives
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+
+|*1* |_Acid_ |Syre |_Air_ |Luft (ei)
+
+|*2* |_Alkaline_ |Alkalisk |_Asteroid_ |Asteroide (en)
+
+|*3* |_Astronomy_ |Astronomi |_Atmosphere_ |Atmosfære (en)
+
+|*4* |_Atom_ |Atom (et) |_Axis_ |Akse (en)
+
+|*5* |_Beaker_ |Begerglass (et) |_Bias (i.e. statistical bias)_
+|Systematisk feil / Statistisk avvik
+
+|*6* |_Biochemistry_ |Biokjemi |_Biology_ |Biologi
+
+|*7* |_Botany_ |Botanikk |_Cell_ |Celle (ei)
+
+|*8* |_Chemical_ |Kjemisk stoff (et) |_Chemistry_ |Kjemi
+
+|*9* |_Climate_ |Klima |_Climate change_ |Klimaendringer
+
+|*10* |_Comet_ |Komet (en) |_Condensation_ |Kondensasjon
+
+|*11* |_Constellation_ |Konstellasjon (en) |_Data_ |Data
+
+|*12* |_Dirt_ |Skitt / jord |_Earth_ |Jord
+
+|*13* |_Ecology_ |Økologi |_Electrical_ |Elektrisk
+
+|*14* |_Electricity_ |Elektrisitet |_Electron_ |Elektron (et)
+
+|*15* |_Element_ |Element (et) a|
+_Energy_
+
+* _Chemical_
+* _Nuclear_
+* _Potential_
+* _Thermal_
+* _Solar_
+
+a|
+Energi
+
+* Kjemisk energi
+* Kjernekraft
+* Potensiell energi
+* Termisk energi
+* Solenergi
+
+|*16* |_Entomology_ |Entomologi |_Erosion_ |Erosjon
+
+|*17* |_Evolution_ |Evolusjon |_Experiment_ |Eksperiment (et)
+
+|*18* |_Extinct_ |Utryddet |_Fact_ |Faktum
+
+|*19* |_Flask_ |Kolbe (en) |_Food chain_ |Næringskjede
+
+|*20* |_Fossil_ |Fossil (et) |_Frequency_ |Frekvens
+
+|*21* |_Friction_ |Friksjon |_Funnel_ |Trakt (ei)
+
+|*22* |_Galaxy_ |Galakse (en) |_Genetics_ |Genetikk
+
+|*23* |_Geology_ |Geologi |_Graduated cylinder_ |Målesylinder (en)
+
+|*24* |_Gravitational pull_ |Gravitasjonskraft |_Gravity_ |Tyngdekraft /
+Gravitasjon
+
+|*25* |_Habitat_ |Habitat (et) |_Hypothesis_ |Hypotese (en)
+
+|*26* |_Laboratory_ |Laboratorium (et) |_Liquid_ |Væske (ei)
+
+|*27* |_Light year_ |Lysår (et) |_Magnetic field_ |Magnetfelt (et)
+
+|*28* |_Magnifying glass_ |Forstørrelsesglass (et) |_Mass_ |Masse
+
+|*29* |_Matter_ |Materie |_Measurement_ |Måling (ei)
+
+|*30* |_Meteor_ |Meteor (en) |_Meteorology_ |Meteorologi
+
+|*31* |_Microbiology_ |Mikrobiologi |_Microscope_ |Mikroskop (et)
+
+|*32* |_Mineral_ |Mineral (et) |_Mitosis_ |Mitose
+
+|*33* |_Molecule_ |Molekyl (et) |_Motion_ |Bevegelse
+
+|*34* |_Neutron_ |Nøytron (et) |_Nucleus_ |Kjerne (en)
+
+|*35* |_Observatory_ |Observatorium (et) |_Orbit_ |Bane (en)
+
+|*36* |_Organism_ |Organisme (en) |_Ozone layer_ |Ozonlag
+
+|*37* |_Paleontology_ |Palæontologi |_Particle_ |Partikkel (en)
+
+|*38* |_Periodic table / chart_ |Periodesystemet / Periodetabellen
+|_Petri dish_ |Petriskål (ei)
+
+|*39* |_Phase_ |Fase (en) |_Photosynthesis_ |Fotosyntese
+
+|*40* |_Physics_ |Fysikk |_Planet_ |Planet (en)
+
+|*41* |_Plant_ |Plante (ei) |_Pipette_ |Pipette (en)
+
+|*42* |_Pollution_ |Forurensning |_Proton_ |Proton (et)
+
+|*43* |_Quantum physics_ |Kvantefysikk |_Radiation_ |Stråling
+
+|*44* |_Renewable resource_ |Fornybar ressurs (en) |_Research_
+|Forskning
+
+|*45* |_Researcher_ |Forsker (en) |_Rock_ |Stein (en)
+
+|*46* |_Satellite_ |Satellitt (en) |_Scale_ |Skala (en)
+
+|*47* |_Science_ |Vitenskap |_Scientific method_ |Vitenskapelig metode
+
+|*48* |_Scientist_ |Vitenskapsmann (en) |_Solar system_ |Solsystem (et)
+
+|*49* |_Solid_ |Faststoff (et) |_Sound_ |Lyd (en)
+
+|*50* |_Sound wave_ |Lydbølge (ei) |_Space (i.e. outer space)_
+|(Verdens)rom (et) / Det ytre rom
+
+|*51* |_Species_ |Art (en) |_Specimen_ |Eksemplar (et)
+
+|*52* |_Speed_ |Fart |_Star_ |Stjerne (ei)
+
+|*53* |_Symbiosis_ |Symbiose |_Telescope_ |Teleskop (et)
+
+|*54* |_Temperature_ |Temperatur |_Test tube_ |Reagensrør (et) /
+Reagensglass (et)
+
+|*55* |_Theory_ |Teori (en) |_Thermometer_ |Termometer (et)
+
+|*56* |_Tissue_ |Vev (et) |_Trait_ |Egenskap (en)
+
+|*57* |_Universe_ |Univers (et) |_Variable_ |Variabel (en)
+
+|*58* |_Velocity_ |Hastighet |_Volume_ |Volum
+
+|*59* |_Weather_ |Vær |_Weight_ |Vekt (ei)
+|===
+
+#### Verbs
+
+[cols=",,,,",]
+|===
+| |*English* |*Norwegian* |*English* |*Norwegian*
+|*1* |_To accelerate_ |Å akselerere |_To add_ |Å legge til
+|*2* |_To alter_ |Å endre |_To boil_ |Å koke
+|*3* |_To burn_ |Å brenne |_To combine_ |Å kombinere
+|*4* |_To condense_ |Å kondensere |_To consume_ |Å forbruke
+|*5* |_To dilute_ |Å fortynne |_To dissect_ |Å dissekere
+|*6* |_To divide_ |Å dele |_To erode_ |Å erodere
+|*7* |_To evaporate_ |Å fordampe |_To evolve_ |Å utvikle
+|*8* |_To experiment_ |Å eksperimentere |_To freeze_ |Å fryse
+.2+|*9* |_To grow_ |Å vokse |_To hibernate_ |Å gå i dvale
+|_To grow (i.e. plants)_ |Å gro | |
+|*10* |_To measure_ |Å måle |_To melt_ |Å smelte
+|*11* |_To orbit_ |Å gå i bane |_To plant_ |Å plante
+|*12* |_To recycle_ |Å resirkulere |_To reproduce_ |Å reprodusere
+|*13* |_To research_ |Å forske |_To separate_ |Å skille
+|*14* |_To weigh_ |Å veie | |
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+References:
+
+https://www.thefamouspeople.com/norwegian-scientists.php[[.underline]#Famous Norwegian Scientists#]
+
+https://www.nobelprize.org/prizes/chemistry/1969/hassel/biographical[[.underline]#The Nobel Prize: Odd Hassel#]
+
+https://en.wikipedia.org/wiki/Odd_Hassel[[.underline]#Odd Hassel (Wiki)#]
+
+https://www.nobelprize.org/prizes/chemistry/1968/onsager/biographical[[.underline]#The Nobel Prize: Lars Onsager#]
+
+https://en.wikipedia.org/wiki/Lars_Onsager[[.underline]#Lars Onsager (Wiki)#]
+
+https://www.ntnu.edu/employees/may-britt.moser[[.underline]#NTNU: May-Britt Moser#]
+
+https://www.ntnu.edu/employees/edvard.moser[[.underline]#NTNU: Edvard Moser#]
+
+https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/facts[[.underline]#The Nobel Prize: May-Britt Moser#]
+
+https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/facts[[.underline]#The Nobel Prize: Edvard Moser#]
+
+https://en.wikipedia.org/wiki/May-Britt_Moser[[.underline]#May-Britt Moser (Wiki)#]
+
+https://en.wikipedia.org/wiki/Edvard_Moser[[.underline]#Edvard Moser (Wiki)#]
+
+https://sciencenorway.no/forskningno-norway-scientific-theory/the-king-of-northern-lights/1445232[[.underline]#The King of Northern Lights#]
+
+https://en.wikipedia.org/wiki/Kristian_Birkeland[[.underline]#Kristian Birkeland (Wiki)#]
+
+*[.underline]#Reading Practice:#*
+
+[arabic]
+. https://www.nrk.no/viten/mulig-beboelig-planet-oppdaget-i-nytt-solsystem-1.14646363[[.underline]#Mulig beboelig planet oppdaget i nytt solsystem#]
+. https://www.nrk.no/nordland/norge-skal-gi-navn-til-et-solsystem-1.14690371[[.underline]#Norge skal gi navn til et solsystem#]
+. https://www.nrk.no/viten/xl/periodesystemet-har-holdt-orden-pa-grunnstoffene-i-150-ar-1.14500275[[.underline]#Rot i systemet#]
+. https://www.nrk.no/viten/insekt-over-hele-verden-dor-av-endringer-i-mattilgang-og-bosted-1.14557564[[.underline]#Derfor dør insektene#]
+. https://www.nrk.no/viten/nasa-sender-ut-drone-som-skal-se-etter-tegn-til-liv-rundt-titan-1.14607376[[.underline]#Ny drone skal jakte liv på Titan#]
+. https://www.nrk.no/viten/sann-sa-vi-ut-for-fire-millioner-ar-siden-1.14677552[[.underline]#Sånn så vi ut for fire millioner år siden#]
