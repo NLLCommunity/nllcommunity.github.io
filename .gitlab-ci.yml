@@ -15,9 +15,9 @@ test:
 
 pages:
   script:
-  - hugo -v --log --verboseLog --debug
-  - ls
-  - ls /target
+  - hugo
+  - mkdir public
+  - mv /target/* public
   artifacts:
     paths:
     - public
