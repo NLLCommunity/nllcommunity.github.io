@@ -17,7 +17,7 @@ pages:
   script:
   - hugo -v --log --verboseLog --debug
   - ls
-  - ls public
+  - ls /target
   artifacts:
     paths:
     - public
