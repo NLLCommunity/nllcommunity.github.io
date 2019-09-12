@@ -16,6 +16,8 @@ test:
 pages:
   script:
   - hugo -d _public
+  - ls
+  - ls _public
   - mkdir public
   - mv _public/* public
   artifacts:
