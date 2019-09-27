@@ -282,18 +282,12 @@ min. |_Since it was nice outside, I had not brought my coat (with me)._
 
 ### Adding Personal Pronouns
 
-[arabic]
 . *SVO* - The personal pronoun comes between the verb and the adverb.
-
-[loweralpha]
-. If the personal pronoun is part of a prepositional phrase, the
+.. If the personal pronoun is part of a prepositional phrase, the
 preposition + the personal pronoun are moved to after the object.
 
-[arabic, start=2]
 . *V2* - The personal pronoun is placed between the subject and adverb.
-
-[loweralpha]
-. If the personal pronoun is part of a prepositional phrase, the
+.. If the personal pronoun is part of a prepositional phrase, the
 preposition + the personal pronoun are moved to after the object.
 
 [cols=",,",]
@@ -558,31 +552,22 @@ https://www.youtube.com/watch?v=bbSyW6-Ewjw[[.underline]#Norwegian Sentence Stru
 
 *[.underline]#Exercise 1:# Rewrite the following sentences.*
 
-[arabic]
 . Put the adverb, that is in ( ), in the proper space:
+.. Jeg trenger en frakk fordi det er varmt ute. (ikke)
+.. Siden solen skinner, trenger jeg en paraply. (ikke)
+.. Moren min er gammel men hun jobber hver dag. (fortsatt)
+.. Hun har sett den nye filmen ennå. (ikke)
+.. Siden jeg har hodepine, tar jeg medisin. (ofte)
 
-[loweralpha]
-. Jeg trenger en frakk fordi det er varmt ute. (ikke)
-. Siden solen skinner, trenger jeg en paraply. (ikke)
-. Moren min er gammel men hun jobber hver dag. (fortsatt)
-. Hun har sett den nye filmen ennå. (ikke)
-. Siden jeg har hodepine, tar jeg medisin. (ofte)
-
-[arabic, start=2]
 . Put the personal pronoun, that is in ( ), in the proper location:
+.. Moren leste ei bok i går. (til ham)
+.. Siden jeg ikke hadde penger, kjøpte jeg ikke ringen. (henne)
+.. Han sendte ikke et brev i dag. (henne)
 
-[loweralpha]
-. Moren leste ei bok i går. (til ham)
-. Siden jeg ikke hadde penger, kjøpte jeg ikke ringen. (henne)
-. Han sendte ikke et brev i dag. (henne)
-
-[arabic, start=3]
 . Combine the sentences to form a single sentence:
-
-[loweralpha]
-. Normalt drikker hun ikke kaffe. Hun drakk kaffe ofte da hun jobbet på
+.. Normalt drikker hun ikke kaffe. Hun drakk kaffe ofte da hun jobbet på
 kaffebutikken.
-. Da hun bodde i Oslo, jobbet hun hver dag. Hun har ikke jobbet siden
+.. Da hun bodde i Oslo, jobbet hun hver dag. Hun har ikke jobbet siden
 hun flyttet.
 
 https://docs.google.com/document/d/1yihKjZIzJPrY1shwCDx7SzilSeorCszYPN6nC4sHAJ8/edit?usp=sharing[[.underline]#Answer Key#]
