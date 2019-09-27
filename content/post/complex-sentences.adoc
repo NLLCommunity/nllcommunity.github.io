@@ -1,0 +1,590 @@
+---
+title: "Complex sentences"
+date: "2019-09-22"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+The previous lesson went over basic sentence structure. This lesson goes
+over more complex sentences in Norwegian.
+<!--more-->
+
+## Grammar Review
+
+### Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Oliver skrev et dikt i går. |_Oliver wrote a poem yesterday._
+
+|Emilie gikk på ski da hun var i Norge. |_Emilie went skiing when she
+was in Norway._
+
+.2+|*V2* |I går skrev Oliver et dikt. |_Yesterday, Oliver wrote a poem._
+
+|Da Emilie var i Norge, gikk hun på ski. |_When Emilie was in Norway,
+she went skiing._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Han prøvde å bygge et slott i Minecraft i går. |_He tried to
+build a castle in Minecraft yesterday._
+
+|Filip begynte å sykle siden været har blitt varmere. |_Filip began
+biking since the weather has become warmer._
+
+.2+|*V2* |I går prøvde han å bygge et slott i Minecraft. |_Yesterday, he
+tried to build a castle in Minecraft._
+
+|Siden været har blitt varmere, begynte Filip å sykle. |_Since the
+weather has become warmer, Filip began biking._
+|===
+
+### Verb Conjugation
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kjøre |Kjører |_Drives / Driving_ |Å sykle |Sykler |_Bikes / Biking_
+|Å lese |Leser |_Reads / Reading_ |Å lære |Lærer |_Learns / Learning_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sna[.underline]##kk##e |Snakket |_Talked_
+|Å ø[.underline]##nsk##e |Ønsket |_Wished_
+.2+|*2* |Å læ[.underline]##r##e |Lærte |_Learned_
+|Å kjø[.underline]##p##e |Kjøpte |_Bought_
+.2+|*3* |Å le[.underline]##v##e |Levde |_Lived_
+|Å pl[.underline]##ei##e |Pleide |_Used_
+|*4* |Å b[.underline]##o## |Bodde |_Lived_
+|===
+
+For future tense, typically the present tense verb is used with a time
+adverbial to clarify it is a future action.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Vi reiser til Tromsø på søndag. |_We are traveling to Tromsø on
+Sunday._
+
+|Filmen starter snart. |_The film starts soon._
+|===
+
+### Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En ung mann |_A young man_ |Unge menn |_Young men_
+
+|En full kopp |_A full cup_ |Fulle kopper |_Full cups_
+
+.2+|*Feminine* |Ei ung lærer |_A young teacher_ |Unge lærere |_Young
+teachers_
+
+|Ei full bokhylle |_A full bookshelf_ |Fulle bokhyller |_Full
+bookshelves_
+
+.2+|*Neuter* |Et ungt tre |_A young tree_ |Unge trær |_Young trees_
+
+|Et fullt hus |_A full house_ |Fulle hus |_Full houses_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending
+(like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den unge mannen |_The young man_ |De unge mennene |_The
+young men_
+
+|Denne fulle koppen |_This full cup_ |Disse fulle koppene |_These full
+cups_
+
+.2+|*Feminine* |Den unge læreren |_The young teacher_ |De unge lærerne
+|_The young teachers_
+
+|Denne fulle bokhylla |_This full bookshelf_ |Disse fulle bokhyllene
+|_These full bookshelves_
+
+.2+|*Neuter* |Det unge treet |_The young tree_ |De unge trærne |_The young
+trees_
+
+|Dette fulle huset |_This full house_ |Disse fulle husene |_These full
+houses_
+|===
+
+## More complex sentences
+Before learning about more complex sentence structure, let’s take a
+moment to review some grammar terms:
+
+*Main Clause* - Part of a sentence that can form a complete stand-alone
+sentence (sometimes called an “independent clause”).
+
+*Subordinate Clause* - Part of a sentence that cannot form a complete
+stand-alone sentence (sometimes called a “dependent clause”).
+
+*Adverb* - A word or phrase that describes an adjective, verb, or
+another adverb.
+
+*Time Adverbial* - An adverb that specifically describes the time
+something happened.
+
+*Prepositional Phrase* - A phrase that includes a preposition, its
+object, and sometimes words that modify the object.
+
+*Personal Pronoun* - A pronoun used to substitute the proper name of a
+person.
+
+Now that that’s out of the way, let’s begin learning about more complex
+sentences in Norwegian.
+
+### Adding Adverbs
+
+When adding adverbs to a sentence, such as “ikke,” word order becomes a
+little more tricky.
+
+If the adverb is in the main clause:
+
+[arabic]
+. *SVO* - The adverb is placed after the finite (i.e. conjugated) verb.
+. *V2* - The adverb is placed after the subject.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Jeg kjøpte *ikke* en frakk i dag. |_I did not buy a coat today._
+
+|Liam leser *ofte* ei bok før legger seg. |_Liam often reads a book
+before he goes to bed._
+
+.2+|*V2* |I dag kjøpte jeg *ikke* en frakk. |_Today, I did not buy a coat._
+
+|Før Liam legger seg, leser han *ofte* ei bok. |_Before Liam goes to
+bed, he often reads a book._
+|===
+
+If the adverb is in the subordinate clause, the adverb comes before the
+finite verb, regardless of whether there is inversion.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Jeg kjøpte en frakk, siden den *ikke* var dyr. |_I bought a coat
+since it was not expensive._
+
+|Karin besøker ofte moren sin, siden hun *ikke* bor langt unna.
+|_Karin visits her mother often since she doesn’t live far._
+
+.2+|*V2* |Siden den *ikke* var dyr, kjøpte jeg frakken. |_Since it was not
+expensive, I bought the coat._
+
+|Siden hun *ikke* bor langt unna, besøker Karin ofte moren sin.
+|_Since she doesn’t live far, Karin visits her mother often._
+|===
+
+If the sentence contains a compound verb (i.e. har brukt; har besøkt,
+etc),
+
+[arabic]
+. *SVO* - The adverb comes after the finite verb in the compound.
+. *V2* - The subject comes after the finite verb of the compound,
+followed by the adverb, then the second verb in the compound.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Jeg har *ikke* brukt den nye frakken min ennå. |_I have not used
+my new coat yet._
+
+|Martin har *ikke* kjøpt det nye spillet. |_Martin has not bought the
+new game._
+
+.2+|*V2* |Siden det var deilig ute, hadde jeg *ikke* tatt med meg frakken
+min. |_Since it was nice outside, I had not brought my coat (with me)._
+
+|Siden Martin ikke har penger, har han *ikke* kjøpt det nye spillet.
+|_Since Martin doesn’t have money, he has not bought the new game._
+|===
+
+### Additional Adverbs
+
+[cols=",,,,",]
+|===
+|*1* |Aldri |_Never_ |Alltid |_Always_
+|*2* |Sannsynligvis |_Probably_ |Allerede |_Already_
+|*3* |Muligens |_Possibly_ |Kanskje |_Maybe_
+|*4* |Ofte |_Often_ |Sikkert |_Probably_
+|*5* |Sjeldent |_Seldom / Rarely_ |Snart |_Soon_
+|*6* |Vanligvis |_Usually_ |Virkelig |_Really_
+|*7* |Senere |_Later_ |Sist |_Last_
+|*8* |Noen ganger |_Sometimes_ |Av og til / Iblant |_Occasionally_
+|===
+
+### Adding Personal Pronouns
+
+[arabic]
+. *SVO* - The personal pronoun comes between the verb and the adverb.
+
+[loweralpha]
+. If the personal pronoun is part of a prepositional phrase, the
+preposition + the personal pronoun are moved to after the object.
+
+[arabic, start=2]
+. *V2* - The personal pronoun is placed between the subject and adverb.
+
+[loweralpha]
+. If the personal pronoun is part of a prepositional phrase, the
+preposition + the personal pronoun are moved to after the object.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Jeg ringte *henne* ikke i går. |_I did not call her yesterday._
+
+|Jeg kjøpte ikke en frakk *til henne* i dag. |_I did not buy a coat
+for her today._
+
+.2+|*V2* |Siden telefonen min ikke fungerte, ringte jeg *henne* ikke i går.
+|_Since my phone wasn’t working, I didn’t call her yesterday.._
+
+|Siden frakken ikke var til salgs i dag, kjøpte jeg den ikke *til
+henne*. |_Since the coat was not on sale today, I didn’t buy it for
+her._
+|===
+
+### Two Main Clauses
+
+When there is more than just one main clause and...
+
+[arabic]
+. A subordinate clause
+. The sentence begins with one main clause
+
+Then inversion will be in the second main clause
+
+[cols=",,,",]
+|===
+| |*First Main Clause* |*Subordinate Clause* |*Second Main Clause*
+
+|*Eksempel* |Jeg har ikke gått på ski på mange år |men da jeg var ung
+|*pleide jeg* å gå på ski med familien min hver vinter.
+
+|*English* |_I haven’t gone skiing in many years_ |_but when I was
+young_ |_I used to go skiing with my family every winter._
+
+|*Eksempel* |Nora bor i Oslo nå |men da hun gikk på universitetet
+|*bodde hun* i Trondheim.
+
+|*English* |_Nora lives in Oslo now_ |_but when she was in university_
+|_she lived in Trondheim._
+|===
+
+*BUT…* if the sentence begins with the subordinate clause then…
+
+[arabic]
+. Inversion happens in the first main clause
+. Inversion does not happen in the second main clause
+
+[cols=",,,",]
+|===
+| |*Subordinate Clause* |*First Main Clause* |*Second Main Clause*
+
+|*Eksempel* |Da jeg var ung |*pleide jeg* å gå på ski med familien min
+hver eneste vinter |men jeg har ikke gått på ski på mange år.
+
+|*English* |_When I was young_ |_I used to ski with my family every
+single winter_ |_but I haven’t gone skiing in many years._
+
+|*Eksempel* |Da Nora gikk på universitetet, |*bodde hun* i Trondheim
+|men hun bor i Oslo nå.
+
+|*English* |_When Nora was in university,_ |_she lived in Trondheim_
+|_but she lives in Oslo now._
+|===
+
+*BUT…* if you add a time adverbial (such as “siden da”) into the second
+main clause then
+
+[arabic]
+. Inversion will happen in both main clauses
+. Same applies if you add a prepositional phrase
+
+[cols=",,,",]
+|===
+| |*Subordinate Clause* |*First Main Clause* |*Second Main Clause*
+
+|*Eksempel* |Da jeg var ung |*pleide jeg* å gå på ski med familien min
+hver eneste vinter |men siden da *har jeg* ikke gått på ski.
+
+|*English* |_When I was young_ |_I used to ski with my family every
+single winter_ |_but since then, I have not gone skiing._
+
+|*Eksempel* |Da Nora gikk på universitetet |*bodde hun* i Trondheim,
+|men etter endt utdanning, *flyttet hun* til Oslo.
+
+|*English* |_When Nora was in university_ |_she lived in Trondheim_
+|_but after finishing school, she moved to Oslo._
+|===
+
+### Overview
+
+[cols=",,",]
+|===
+|*Type of Sentence* |*Norwegian* |*English*
+
+|*SVO* |Jeg kjøpte en frakk. |_I bought a coat._
+
+|*V2* |I dag kjøpte jeg en frakk. |_Today, I bought a coat._
+
+|*V2* |Siden været er dårlig, kjøpte jeg en frakk. |_Since the weather
+is bad, I bought a coat._
+
+a|
+*SVO*
+
+* *With 2 verbs*
+
+|Jeg prøvde å finne en ny frakk. |_I tried to find a new coat._
+
+a|
+*V2*
+
+* *With 2 verbs*
+
+|I går prøvde jeg å finne den gamle frakken min**.** |_Yesterday, I
+tried to find my old coat._
+
+a|
+*SVO*
+
+* *With adverb*
+
+|Jeg kjøpte ikke en frakk. |_I did not buy a coat._
+
+a|
+*V2*
+
+* *With adverb*
+
+|I dag kjøpte jeg ikke en frakk. |_Today, I did not buy a coat._
+
+a|
+*SVO*
+
+* *Adverb in subord. clause*
+
+|Jeg kjøpte en frakk, siden den ikke var dyr. |_I bought a coat since it
+was not expensive._
+
+a|
+*V2*
+
+* *Adverb in subord. clause*
+
+|Siden den ikke var dyr, kjøpte jeg frakken**.** |_Since it wasn’t
+expensive, I bought the coat._
+
+a|
+*SVO*
+
+* *With compound verb and adverb.*
+
+|Jeg har ikke brukt den nye frakken min ennå. |_I have not used my new
+coat yet._
+
+a|
+*V2*
+
+* *With compound verb and adverb*
+
+|Siden det var deilig ute, hadde jeg ikke tatt med frakken min. |_Since
+it was nice out, I had not brought my coat._
+
+a|
+*SVO*
+
+* *With personal pronoun and adverb*
+
+|Jeg ringte henne ikke i går. |_I did not call her yesterday._
+
+a|
+*SVO*
+
+* *With prepositional phrase and adverb*
+
+|Jeg kjøpte ikke en frakk til henne i dag. |_I didn’t buy a coat for her
+today._
+
+a|
+*V2*
+
+* *With personal pronoun and adverb*
+
+|Siden telefonen min ikke fungerte, ringte jeg henne ikke i går. |_Since
+my phone wasn’t working, I didn’t call her yesterday.._
+
+a|
+*V2*
+
+* *With two adverbs and prepositional phrase*
+
+|Siden frakken ikke var til salgs i dag, kjøpte jeg den ikke til henne.
+|_Since the coat was not on sale today, I didn’t buy it for her._
+
+a|
+*With 2 main clauses*
+
+* *Inversion in second main clause*
+
+|Jeg har ikke gått på ski på mange år, men da jeg var ung, pleide jeg å
+gå på ski med familien min hver vinter. |_I haven’t gone skiing in many
+years but when I was young, I used to go skiing with my family every
+winter._
+
+a|
+*With two main clauses*
+
+* *But subordinate clause starts sentence*
+
+|Da jeg var ung, pleide jeg å gå på ski med familien min hver eneste
+vinter, men jeg har ikke gått på ski på mange år. |_When I was young, I
+used to ski with my family every single winter, but I have not gone
+skiing in many years._
+
+a|
+*With two main clauses*
+
+* *Subordinate clause starts sentence*
+* *Has a time adverbial*
+
+|Da jeg var ung, pleide jeg å gå på ski med familien min hver eneste
+vinter, men siden da har jeg ikke gått på ski på mange år. a|
+_When I was young, I used to ski with my family every single winter, but
+since then, I have not_
+
+_gone skiing in many years._
+
+a|
+*With two main clauses,*
+
+* *Subordinate clause starts sentence*
+* *Has a prepositional phrase*
+
+|Da Nora gikk på universitetet, *bodde hun* i Trondheim, men etter endt
+utdanning, *flyttet hun* til Oslo. |When Nora was in university, she
+lived in Trondheim, but after finishing school, she moved to Oslo.
+|===
+
+*HUGE THANK YOU TO VEGARD, HENBRUAS, AND ARTHEMAX FOR THEIR HELP WITH
+THIS LESSON!*
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+http://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf[[.underline]#Norwegian on the Web pdf pgs 27-29#]
+
+https://wiki.ucl.ac.uk/display/ScanStuds/The+Quick+Guide+to+Norwegian+grammar[[.underline]#Norwegian Grammar#]
+
+https://docs.google.com/document/d/1E6XlRcQ3f0inPy3Z1Rdd7Yhz4XfEuwelASI9N6-G02Q/edit?usp=sharing[[.underline]#Lesson 32: Grammar Terms#]
+
+https://www.youtube.com/watch?v=KKrNJCGNcJg[[.underline]#Learning Norwegian Grammar: V2 Rule & Word Order (YouTube)#]
+
+https://www.youtube.com/watch?v=ZjE1b9X0pzc[[.underline]#Norwegian Sentence Structure, Part 1 (YouTube)#]
+
+https://www.youtube.com/watch?v=bbSyW6-Ewjw[[.underline]#Norwegian Sentence Structure, Part 2 (YouTube)#]
+
+*[.underline]#Exercise 1:# Rewrite the following sentences.*
+
+[arabic]
+. Put the adverb, that is in ( ), in the proper space:
+
+[loweralpha]
+. Jeg trenger en frakk fordi det er varmt ute. (ikke)
+. Siden solen skinner, trenger jeg en paraply. (ikke)
+. Moren min er gammel men hun jobber hver dag. (fortsatt)
+. Hun har sett den nye filmen ennå. (ikke)
+. Siden jeg har hodepine, tar jeg medisin. (ofte)
+
+[arabic, start=2]
+. Put the personal pronoun, that is in ( ), in the proper location:
+
+[loweralpha]
+. Moren leste ei bok i går. (til ham)
+. Siden jeg ikke hadde penger, kjøpte jeg ikke ringen. (henne)
+. Han sendte ikke et brev i dag. (henne)
+
+[arabic, start=3]
+. Combine the sentences to form a single sentence:
+
+[loweralpha]
+. Normalt drikker hun ikke kaffe. Hun drakk kaffe ofte da hun jobbet på
+kaffebutikken.
+. Da hun bodde i Oslo, jobbet hun hver dag. Hun har ikke jobbet siden
+hun flyttet.
+
+https://docs.google.com/document/d/1yihKjZIzJPrY1shwCDx7SzilSeorCszYPN6nC4sHAJ8/edit?usp=sharing[[.underline]#Answer Key#]
+
+*[.underline]#Exercise 2:# Write 5 sentences in Norwegian.*
