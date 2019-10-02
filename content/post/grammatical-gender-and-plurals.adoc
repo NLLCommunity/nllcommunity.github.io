@@ -1,5 +1,5 @@
 ---
-title: "Going places"
+title: "Grammatical gender and plurals"
 date: "2019-09-29"
 author: "Dan"
 categories:
