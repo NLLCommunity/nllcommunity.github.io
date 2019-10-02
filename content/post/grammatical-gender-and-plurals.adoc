@@ -1,0 +1,507 @@
+---
+title: "Going places"
+date: "2019-09-29"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+This lesson goes over the three grammatical genders and plural nouns in
+Norwegian as well as how the gender of a noun affects adjectives,
+demonstratives, and possessive pronouns.
+<!--more-->
+
+## Grammar Review
+
+### Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Erik syklet på jobb i går. |_Erik biked to work yesterday._
+
+|Nora leser ei bok i lunsjpausen sin. |_Nora reads a book during her
+lunch break._
+
+.2+|*V2* |I går syklet Erik på jobb. |_Yesterday, Erik biked to work._
+
+|I lunsjpausen sin leser Nora ei bok. |_During her lunch break, Nora
+reads a book._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Jakob begynte å lage middag da han kom hjem. |_Jakob started
+making dinner when he came home._
+
+|Sofia lærte å svømme i fjor sommer. |_Sofia learned to swim last
+summer._
+
+.2+|*V2* |Da Jakob kom hjem, begynte han å lage middag. |_When Jakob came
+home, he started making dinner._
+
+|I fjor sommer lærte Sofia å svømme. |_Last summer, Sofia learned to
+swim._
+|===
+
+### Verb Conjugation
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å kjøpe |Kjøper |_Buys / Buying_ |Å sykle |Sykler |_Bikes / Biking_
+
+|Å lese |Leser |_Reads / Reading_ |Å studere |Studerer |_Studies /
+Studying_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sna[.underline]##kk##e |Snakket |_Talked_
+|Å ø[.underline]##nsk##e |Ønsket |_Wished_
+.2+|*2* |Å læ[.underline]##r##e |Lærte |_Learned_
+|Å kjø[.underline]##p##e |Kjøpte |_Bought_
+.2+|*3* |Å le[.underline]##v##e |Levde |_Lived_
+|Å pl[.underline]##ei##e |Pleide |_Used_
+|*4* |Å b[.underline]##o## |Bodde |_Lived_
+|===
+
+For future tense, typically the present tense verb is used with a time
+adverbial to clarify it is a future action.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Hun kjører til Oslo i morgen. |_She is driving to Oslo tomorrow._
+|Jeg jobber neste helg. |_I am working next weekend._
+|===
+
+*Adjective Basics*
+
+Adjectives typically have to agree with the gender and the number of the
+noun.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En rød fugl |_A red bird_ |Røde fugler |_Red birds_
+
+|En grønn sirkel |_A green circle_ |Grønne sirkler |_Green circles_
+
+.2+|*Feminine* |Ei rød hytte |_A red cabin_ |Røde hytter |_Red cabins_
+
+|Ei grønn drakt |_A green costume_ |Grønne drakter |_Green costumes_
+
+.2+|*Neuter* |Et rødt lys |_A red light_ |Røde lys |_Red lights_
+
+|Et grønt rektangel |_A green rectangle_ |Grønne rektangler |_Green
+rectangles_
+|===
+
+When the noun is in the definite form, the adjective usually takes an -e
+ending (like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den røde fuglen |_The red bird_ |De røde fuglene |_The red
+birds_
+
+|Denne grønne sirkelen |_This green circle_ |Disse grønne sirkelene
+|_These green circles_
+
+.2+|*Feminine* |Den røde hytta |_The red cabin_ |De røde hyttene |_The red
+cabins_
+
+|Denne grønne drakta |_This green costume_ |Disse grønne draktene
+|_These green costumes_
+
+.2+|*Neuter* |Det røde lyset |_The red light_ |De røde lysa / lysene |_The
+red lights_
+
+|Dette grønne rektanglet |_This green rectangle_ a|
+Disse grønne rektangla /
+
+rektanglene
+
+|_These green rectangles_
+|===
+
+## Norwegian Articles and Grammatical Gender
+
+Unlike English, many languages have grammatical genders for their nouns.
+And in many of those languages, it is fairly easy to recognize what
+gender a noun is. Unfortunately, this is not the case with Norwegian.
+Norwegian has three grammatical genders for words: masculine, feminine,
+and neuter, and the only way to know which gender a noun is, is by
+memorization. We’ll look at singular nouns first.
+
+### Indefinite
+
+The indefinite articles are: “en” for masculine gender nouns, “ei” for
+feminine, and “et” for neuter.
+
+*[.underline]#NOTE:#* In some dialects, “en” is used for feminine gender
+nouns, instead of “ei.” This is also allowed for written bokmål.
+
+[cols=",,,,,",]
+|===
+|*Masculine* |*English* |*Feminine* |*English* |*Neuter Gender*
+|*English*
+
+|En mann |_A man_ |Ei / en bok |_A book_ |Et hus |_A house_
+
+|En katt |_A cat_ |Ei / en avis |_A newspaper_ |Et eple |_An apple_
+
+|En bil |_A car_ |Ei / en hytte |_A cabin_ |Et kontor |_An office_
+|===
+
+The indefinite form of a noun is used similarly in Norwegian as in
+English. However, when the noun is a profession, occupation, or office,
+the article is dropped.
+
+Ex. Jeg er elektriker.
+
+I am an electrician.
+
+### Definite
+
+The grammatical gender of a noun determines the definite form of a word.
+In the definite form, the indefinite article (for masculine and neuter)
+gets added to the end of the word. For feminine nouns, the article
+changes to “a” and gets added to the end.
+
+[cols=",,,,,",]
+|===
+|*Masculine Gender* |*English* a|
+*Feminine*
+
+*Gender*
+
+|*English* |*Neuter Gender* |*English*
+|Mannen |_The man_ |Boka |_The book_ |Huset |_The house_
+|Katten |_The cat_ |Avisa |_The newspaper_ |Eplet |_The apple_
+|Bilen |_The car_ |Hytta |_The cabin_ |Kontoret |_The office_
+|===
+
+*[.underline]#NOTE:#* If you use “en” in the feminine form for the
+indefinite, then in the definite form, the “en” article gets added to
+the end of the word (though some dialects use “en” for indefinite and
+the -a ending for definite).
+
+[cols=",,,,,",]
+|===
+|*Ei Indefinite* |*Ei Definite* |*En Indefinite* |*En Definite*
+|*English Indefinite* |*English Definite*
+
+|Ei kvinne |Kvinna |En kvinne |Kvinnen |_A woman_ |_The woman_
+
+|Ei bokhylle |Bokhylla |En bokhylle |Bokhyllen |_A bookshelf_ |_The
+bookshelf_
+|===
+
+I often see people ask how to learn the gender of the nouns. My
+suggestion is to memorize the nouns in the definite form, then you will
+know, based on the end of the word, what the word’s gender is. For
+example, memorize “mannen” for “the man” instead of just memorizing
+“mann.”’
+
+### Plurals
+
+Norwegian has three different forms for plurals: -(e)r; -e; and no
+ending. The majority of nouns take the -(e)r ending in the plural form.
+
+[cols=",,,",]
+|===
+|*Ending* |*Singular* |*Plural* |*English*
+.3+|*-(e)r* |En bil |Bil__er__ |_Cars_
+|Ei hytte |Hytt__er__ |_Cabins_
+|Et eple |Epl__er__ |_Apples_
+.2+|*-e* |En finger |Fingr__e__ |_Fingers_
+|Et øye |Øyne |_Eyes_
+.3+|*No ending* |En fisk |Fisk |_Fish_
+|Ei mus |Mus |_Mice_
+|Et dyr |Dyr |_Animals_
+|===
+
+There are many nouns that have a vowel change in the plural form.
+
+[cols=",,,",]
+|===
+|*Ending* |*Singular* |*Plural* |*English*
+.3+|*-(e)r* |En tann |Tenner |_Teeth_
+|En hånd |Hender |_Hands_
+|Ei bok |Bøker |_Books_
+.4+|*-e* |En far |Fedre |_Fathers_
+|En bror |Brødre |_Brothers_
+|En mor |Mødre |_Mothers_
+|Ei datter |Døtre |_Daughters_
+.2+|*No ending* |En mann |Menn |_Men_
+|Et tre |Trær |_Trees_
+|===
+
+Many nouns in the singular form, that end in -el, -en, or -er, drop the
+-e- from the stem in the plural form. If the noun has a double consonant
+in singular, it usually becomes a single consonant in plural.
+
+[cols=",,,",]
+|===
+|*Ending* |*Singular* |*Plural* |*English*
+.2+|*-(e)r* |En sykkel |Sykler |_Bicycles_
+|Et eksempel |Eksempler |_Examples_
+.2+|*-e* |Ei datter |Døtre |_Daughters_
+|Ei søster |Søstre |_Sisters_
+|===
+
+### Plural Endings in the Definite Form
+
+The plural ending for most nouns in the definite form is -(e)ne for all
+genders.
+
+[cols=",,,,",]
+|===
+|*Gender* |*Singular Indefinite* |*Plural Indefinite* |*Plural Definite*
+|*English*
+
+.3+|*Masculine* |En bil |Biler |Bilene |_The cars_
+
+|En finger |Fingre |Fingrene |_The fingers_
+
+|En mann |Menn |Mennene |_The men_
+
+.3+|*Feminine* |Ei hytte |Hytter |Hyttene |_The cabins_
+
+|Ei avis |Aviser |Avisene |_The newspapers_
+
+|Ei datter |Døtre |Døtrene |_The daughters_
+
+.3+|*Neuter* |Et eple |Epler |Eplene |_The apples_
+
+|Et tre |Trær |Trærne |_The trees_
+
+|Et eksempel |Eksempler |Eksemplene |_The examples_
+|===
+
+*[.underline]#NOTE:#* Most neuter nouns can take an -a ending in the
+definite plural form. A common one is for “child.”
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+|*Singular Indefinite* |Et barn |_A child_
+|*Plural Indefinite* |Barn |_Children_
+|*Singular Definite* |Barnet |_The child_
+|*Plural Definite* |Barna***** |_The children_
+|===
+
+*[.underline]#*NOTE:#* “Barnene” is allowed however it is not very
+common.
+
+### Compound Nouns
+
+When a noun is a compound, it always takes the gender of the second noun
+in the compound.
+
+[cols=",,,",]
+|===
+|*First Noun* |*Second Noun* |*Compound Word* |*English*
+|En skole |Et kjøkken |Et skolekjøkken |_A school kitchen_
+|Et kjøkken |En kniv |En kjøkkenkniv |_A kitchen knife_
+|===
+
+### Adjectives
+
+As we learned earlier, gender affects the adjectives that describe a
+noun since the adjective typically has to agree with the gender and
+number of the noun. For example, for neuter nouns, the adjective usually
+gets a -t ending added. For plural nouns (regardless of gender), the
+adjective usually takes an -e ending and the noun must retain the
+definite article at the end. .
+
+[cols=",,,,,",]
+|===
+|*Masculine* |*English* |*Feminine* |*English* |*Neuter* |*English*
+
+|En stor bil |_A big car_ |Ei stor bok |_A big book_ |Et stort hus |_A
+big house_
+
+|Store biler |_Big cars_ |Store bøker |_Big books_ |Store hus |_Big
+houses_
+
+|Den store bilen |_The big car_ |Den store boka |_The big book_ |Det
+store huset |_The big house_
+
+|Den røde bilen |_The red car_ |Den røde hytta |_The red cabin_ |Det
+røde huset |_The red house_
+
+|De søte kattene |_The sweet cats_ |De gamle avisene |_The old
+newspapers_ |De brune husene |_The brown houses_
+|===
+
+There are some exceptions to these rules. For additional information on
+adjectives, check this
+https://docs.google.com/document/d/1Bg71uhF2jXPyqo-9XGiP9mzs7cwEcTS2Zpo9D1YccDM/edit?usp=sharing[[.underline]#lesson#].
+
+As seen in the above table, gender also affects what demonstrative
+pronoun (den, det, de) is used when drawing attention to a specific
+thing or when an adjective is used.
+
+[cols=",,",]
+|===
+|*Gender* |*Example* |*English*
+.3+|*Masculine* |Den bilen er min. |_That car is mine._
+|Denne bilen er min. |_This car is mine._
+|Disse bilene er mine. |_These cars are mine_
+.3+|*Feminine* |Den boka er mi. |_That book is mine._
+|Denne boka er mi. |_This book is mine._
+|Disse bøkene er mine. |_These books are mine._
+.3+|*Neuter* |Det eplet er ditt. |_That apple is yours._
+|Dette eplet er ditt. |_This apple is yours._
+|Disse eplene er dine. |_These apples are yours._
+|===
+
+*[.underline]#NOTE:#* When a demonstrative pronoun is used, the noun
+still takes the definite ending.
+
+Additionally, gender determines what pronouns you use when you want to
+express something belongs to you or someone else. Note that in
+Norwegian, the pronoun is usually placed after the noun and the noun
+retains the definite ending.
+
+[cols=",,",]
+|===
+|*Gender* |*Example* |*English*
+.4+|*Masculine* |Katten min |_My cat_
+|Hatten din |_Your hat_
+|Bilen sin |_His / her / their (own) car_
+|Hunden vår |_Our dog_
+.4+|*Feminine* |Boka mi |_My book_
+|Avisa di |_Your newspaper_
+|Boka si |_His / her / their (own) book_
+|Hytta vår |_Our cabin_
+.4+|*Neuter* |Eplet ditt |_Your apple_
+|Huset mitt |_My house_
+|Barnet sitt |_His / her / their (own) child_
+|Huset vårt |_Our house_
+|===
+*[.underline]#NOTE:#* “Sin / si / sitt / sine” are reflexive possessive pronouns,
+meaning the subject of the sentence owns the object being discussed. If
+the object belongs to someone other than the subject, then “hans /
+hennes / deres” is used and it does not change based on the grammatical
+gender of the object.
+
+[cols=",,,",]
+|===
+|*Eksempel* |*English* |*Eksempel* |*English*
+
+|Han kysser kona sin. |_He is kissing his (own) wife._ |Han kysser kona
+hans. |_He is kissing his (someone else’s) wife._
+
+|Kvinna kjører bilen sin. |_The woman is driving her (own) car._ |Kvinna
+kjører bilen hennes. |_The woman is driving her (someone else’s) car._
+
+|Barnet spiller spillet sitt. |_The child is playing his (own) game._
+|Barnet spiller spillet hans. |_The child is playing his (someone
+else’s) game._
+
+|Koret synger sangene sine. |_The choir is singing their (own) songs._
+|Koret synger sangene deres. |_The choir is singing their (someone
+else’s) songs._
+|===
+
+It is possible to put the pronoun before the noun (without the definite
+ending), however this is usually only used when one wants to emphasize
+who the thing belongs to.
+
+Ex: Hunden min er brun. Vs Det er min hund!
+
+My dog is brown. That is my dog!
+
+The grammatical gender of the noun does not affect the possessive
+pronoun, if the noun is plural. In this case, you just use “mine / dine
+/ sine / våre” across all three grammatical genders.
+
+[cols=",,,",]
+|===
+|*Singular* |*English* |*Plural* |*English*
+
+|Katten min |_My cat_ |Kattene mine |_My cats_
+
+|Boka di |_Your book_ |Bøkene dine |_Your books_
+
+|Hunden sin |_His / Her / Their (own) dog_ |Hundene sine |_His / Her /
+Their (own) dogs_
+
+|Huset vårt |_Our house_ |Husene våre |_Our houses_
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[[.underline]#Norwegian: An Essential Grammar (pgs 45-63)#]
+
+https://www.ntnu.edu/web/now/2/grammar[[.underline]#Norwegian on the Web: Grammar ch 2#]
+
+https://www.ntnu.edu/web/now/3/grammar[[.underline]#Norwegian on the Web: Grammar ch 3#]
+
+https://youtu.be/tAngjeoGogo[[.underline]#Norwegian Nouns and Articles - Singular and Plural (YouTube)#]
+
+https://youtu.be/Tw4SJl20A_4[[.underline]#Learn Norwegian! Lesson #8 - definite and indefinite nouns in the singular and plural (YouTube)#]
+
+https://youtu.be/c3vCVXUSk3w[[.underline]#Norwegian Grammar: Masculine Nouns (YouTube)#]
+
+https://youtu.be/EdGd2m5W7-c[[.underline]#Norwegian Grammar: Feminine Nouns (YouTube)#]
+
+https://youtu.be/XgbXIgMOyr4[[.underline]#Norwegian Lesson: Hans, Hennes, Sin, sitt, sine (YouTUbe)#]
+
+https://www.ntnu.edu/now/8/grammar[[.underline]#Norwegian on the Web: Ch 8 Grammar#]
+
+*[.underline]#Exercise:# Write 5 sentences containing plurals.*
