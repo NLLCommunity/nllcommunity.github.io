@@ -116,7 +116,7 @@ adverbial to clarify it is a future action.
 |Jeg jobber neste helg. |_I am working next weekend._
 |===
 
-*Adjective Basics*
+### Adjective Basics
 
 Adjectives typically have to agree with the gender and the number of the
 noun.
