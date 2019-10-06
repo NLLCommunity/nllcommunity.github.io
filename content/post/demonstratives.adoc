@@ -1,0 +1,220 @@
+---
+title: Demonstratives
+date: 2019-02-17
+author: Dan
+categories:
+  - Sunday lessons
+---
+
+Demonstratives are words that we use to direct the attention to an
+object or objects, i.e. this, that, these, etc. In Norwegian, some of
+the demonstratives have to agree with the gender and number of the noun,
+while others do not.
+<!--more-->
+*Den, det, de* - “That, those;” used to indicate that the person,
+object, or idea is distant in time or space.
+
+*Denne, dette, disse* - “This, these;” used to indicate that the person,
+object, or idea is close in time or space.
+
+[cols=",,,,,",]
+|===
+| |*Gender* |*Close* |*Far* |*Example* |*English*
+
+.6+|*Singular* .2+|_Masculine_ .2+|Denne .2+|Den |Denne katten er til salgs. |_This
+cat is for sale._
+
+|Den butikken åpnet nettopp. |_That shop just opened._
+
+.2+|_Feminine_ .2+|Denne .2+|Den |Denne boka er fantastisk. |_This book is
+fantastic._
+
+|Den hytta tilhører bestemora mi. |_That cabin belongs to my
+grandmother._
+
+.2+|_Neutral_ .2+|Dette .2+|Det |Dette barnet er bortkomment. |_This child is
+lost._
+
+|Det bildet er gammelt. |_That picture is old._
+
+.2+|*Plural* .2+|_Masc; Fem; Neut_ .2+|Disse .2+|De |Disse bøkene er hennes. |_These
+books are hers._
+
+|De husene er nye. |_Those houses are new._
+|===
+
+*[.underline]#NOTE:#* In a sentence where “that / this / those / these”
+are the subject of the verb “to be,” the neuter form (det / dette) will
+always be used, regardless of the gender or number of the noun it refers
+to.
+
+Ex: Det er en stor bil. That is a big car.
+
+Dette er en stor bok. This is a big book.
+
+Det er store sko. Those are big shoes.
+
+Dette er store hytter. These are big cabins.
+
+Keep in mind this is different than when using a demonstrative to mean
+“it.”
+
+Ex: Det er en stor bil. Den er blå.
+
+That is a big car. It is blue.
+
+*[.underline]#NOTE:#* “Det” and “dette” can refer to an entire phrase.
+
+Ex: Ingrid studerte men det hjalp ikke.
+
+Ingrid studied but that didn’t help.
+
+Han prøvde å reparere sykkelen selv men det gikk ikke
+
+He tried to repair the bike himself, but that didn’t work..
+
+*Slik* - “Such, that / this kind;” refers to something that is mentioned
+or experienced earlier.
+
+*Sånn* - “Such, that / this kind;” synonym for slik.
+
+[cols=",,,,",]
+|===
+| |*Gender* |*Declension* |*Example* |*English*
+
+.8+|*Singular* .4+|_Masculine; Feminine_ .2+|Slik |En slik kake vil jeg ha til
+bursdagen min.. |_I would like such a cake for my birthday._
+
+|Han eier ei slik hytte. |_He owns such a cabin._
+
+.2+|Sånn |En sånn kake vil jeg ha til bursdagen min.. |_I would like
+such a cake for my birthday._
+
+|Han eier ei sånn hytte. |_He owns such a cabin._
+
+.4+|_Neutral_ .2+|Slikt |Et slikt hus er dyrt. |_Such a house is expensive._
+
+|Har du sett et slikt maleri? |_Have you seen such a painting?_
+
+.2+|Sånt |Et sånt hus er dyrt. |_Such a house is expensive._
+
+|Har du sett et sånt maleri? |_Have you seen such a painting?_
+
+.4+|*Plural* .4+|_Masc; Fem; Neut_ .2+|Slike |Slike bøker liker jeg. |_I like
+such books._
+
+|Slike gamle hus trenger ofte reparasjoner. |_Such old houses
+often need repairs._
+
+.2+|Sånne |Sånne bøker liker jeg. |_I like such books._
+
+|Sånne gamle hus trenger ofte reparasjoner. |_Such old houses
+often need repairs._
+|===
+
+*Samme* - “Same;” used to indicate something is identical to another
+thing; it’s not declined.
+
+[cols=",,,",]
+|===
+| |*Gender* |*Example* |*English*
+
+.3+|*Singular* |_Masculine_ |De bruker den samme bilen. |_They use the same
+car._
+
+|_Feminine_ |Jeg liker den samme boka som Emil. |_I like the same book
+as Emil._
+
+|_Neutral_ |Vennene går på samme universitet. |_The friends go to the
+same university._
+
+.2+|*Plural* .2+|_Masc; Fem; Neut_ |Lars og jeg har de samme hunderasene.
+|_Lars and I have the same breeds of dogs._
+
+|Ella og Karin har de samme klærne. |_Ella and Karin have the same
+clothes._
+|===
+
+*[.underline]#NOTE:#* Do not confuse “samme” with “sammen;” the latter
+means “together.”
+
+Ex: De bor sammen. They live together.
+
+De bor i samme leiligheten. They live in the same apartment.
+
+*Selv* - “Self;” is a demonstrative that does not decline; it emphasizes
+nouns or pronouns.
+
+[cols=",,",]
+|===
+|*Emphasizes* |*Example* |*English*
+|*Meg* |Jeg vil skrive det selv. |_I will write it myself._
+|*Deg* |Kan du lese det selv? |_Can you read it yourself_
+.2+|*Seg* |Markus reparerte bilen selv. |_Markus fixed the car himself._
+|Hun lagde måltidet selv. |_She made the meal herself._
+|===
+
+*Begge* - “Both;” can be used as an adjective before a noun
+
+*Både...og* - “Both...and;” connects two or more units of any kind.
+
+*Begge to* - “Both of them;” refers to two persons or two countable,
+concrete objects.
+
+*Begge deler* - “Both kinds;” refers to uncountable objects, general
+concepts or actions.
+
+[cols=",,,",]
+|===
+| |*Meaning* |*Example* |*English*
+
+.2+|*Begge* .2+|_Both_ |Begge kattene er vennlige. |_Both cats are friendly._
+
+|Hun vil ha begge hundene. |_She wants both dogs._
+
+.2+|*Både...og* .2+|_Both...and_ |Jeg liker både kaffe og te. |_I like both
+coffee and tea._
+
+|Jeg liker både kaffe, te, og brus. |_I like (both) coffee, tea, and
+soda._
+
+.2+|*Begge to* .2+|_Both of them_ |Person 1: Har du sett Per og Kari? +
+Person 2: Ja, jeg har sett begge to i dag. |_Person 1: Have you seen Per
+and Kari? +
+Person 2: Yes; I have seen both of them today._
+
+|Person 1: Vil du ha den røde pillen eller den blå pillen? +
+Person 2: Kan jeg ha begge to? |_Person 1: Do you want the red pill or
+the blue pill? +
+Person 2: Can I have both?_
+
+.2+|*Begge deler* .2+|_Both kinds_ |Person 1: Hva er best? Kaffe eller te? +
+Person 2: Jeg liker begge deler. |_Person 1: What is best? Coffee or
+tea? +
+Person 2: I like both._
+
+|Folk diskuterer hva som er bedre, katter eller hunder, men begge
+deler er bra. |_People debate about which is better, cats or dogs, but
+both are good._
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[[.underline]#Norwegian: An Essential Grammar (pgs 112 - 117)#]
+
+http://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf[[.underline]#Norwegian on the Web (pgs 19 - 20)#]
+
+https://www.ntnu.edu/now/4/grammar[[.underline]#NTNU: Demonstrative Pronouns#]
+
+https://youtu.be/4MuWKlAE8Bw[This, That, These, Those. Norwegian Language: Bokmål (YouTube)]
+
+*[.underline]#Exercise:# Write 7 sentences.*
+
+[arabic]
+. Three sentences using den, det, dette, denne, de, disse.
+. One using slik or sånn
+. One using samme
+. Two using begge, begge to, både...og, or begge deler.
