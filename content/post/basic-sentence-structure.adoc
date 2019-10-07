@@ -52,12 +52,12 @@ Hvis (archaic)
 
 |_Whose_ |Hvem sin sykkel er dette? |_Whose bike is this?_
 
-.3+|*14* |Hvilken / Hvilket / Hvilke |_Which_ |Hvilken farge er bilen din?
+.3+|*14* .3+|Hvilken / Hvilket / Hvilke .3+|_Which_ |Hvilken farge er bilen din?
 |_What color is your car?_
 
-| | |Hvilket år ble du uteksaminert? |_What year did you graduate?_
+|Hvilket år ble du uteksaminert? |_What year did you graduate?_
 
-| | |Hvilke bøker tilhører deg? |_Which books belong to you?_
+|Hvilke bøker tilhører deg? |_Which books belong to you?_
 |===
 
 == Sentence Structure - SVO & V2
