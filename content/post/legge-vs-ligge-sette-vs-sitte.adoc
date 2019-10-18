@@ -1,0 +1,198 @@
+---
+title: Legge vs ligge; Sette vs sitte
+date: 2019-03-10
+author: Dan
+categories:
+  - Sunday lessons
+---
+
+In English, often we use “lay” and “lie” interchangeably, even if they
+are not meant to be used in that manner, and yet most people never even
+notice when we use them incorrectly. In Norwegian, however, people will
+notice when you use “å ligge” instead of “å legge” (or vice versa) or “å
+sitte” instead of “å sette.” For learners, the difference can be
+difficult to remember, so we will go over them today.
+<!--more-->
+
+== Å legge eller å ligge
+
+When object placement is horizontal, then you would use “å ligge” or “å
+legge.” The easiest way to learn and memorize when to use “å ligge” vs
+“å legge” is to consider if movement (bevegelse) is happening or not.
+
+* If there is movement (bev**[.underline]#e#**gelse), then you would use
+“å l**[.underline]#e#**gge” in the sentence.
+* If there there is no movement (**[.underline]#i#**kke bevegelse), then
+you would use “å l**[.underline]#i#**gge” in the sentence.
+
+[cols=",,",]
+|===
+| |*Example* |*English*
+.2+a|
+*Å legge*
+
+* With movement (bev**[.underline]#e#**gelse)
+
+|Jeg vil legge meg ned. |_I want to lay down._
+|Jeg legger meg i sengen. |_I’m laying (down) in the bed._
+.2+a|
+*Å ligge*
+
+* Without movement (**[.underline]#i#**kke bevegelse)
+
+|Katten ligger på gulvet. |_The cat is lying on the floor._
+|Jeg ligger i sengen. |_I’m (already) lying in the bed._
+|===
+
+“Å ligge” is also used for “to be (located)” when referring to a
+geographical location.
+
+[cols=",,",]
+|===
+| |*Example* |*English*
+.2+|*Geographical Location* |Hvor ligger Trondheim? a|
+_Where is Trondheim?_
+
+_(Where does Trondheim lie?)_
+
+|Norge ligger vest for Sverige. |_Norway is located west of Sweden._
+|===
+
+“Å legge” is used any time an object is put inside a bag (veska eller
+posen).
+
+[cols=",,",]
+|===
+| |*Example* |*English*
+
+.2+|*Inside a bag* |Han la melk i posen. |_He put the milk in the bag._
+
+|Hun legger mobiltelefonen sin i veska si. |_She puts her cell phone
+in her purse._
+|===
+
+== Å sette eller å sitte
+
+If the object placement is vertical, then you would use “å sitte” or “å
+sette.”
+
+It is easier to know when to use “å sitte” or “å sette” because of
+context of the sentence (sit versus put). However, there may be
+occasional sentences when, in English, either word would work well. In
+these cases, whether to use “å sitte” or “å sette” can be determined in
+the same manner as you would for “å ligge” or “å legge.”
+
+* If there is movement (bev**[.underline]#e#**gelse), then you would use
+“å s**[.underline]#e#**tte” in the sentence.
+* If there there is no movement (**[.underline]#i#**kke bevegelse), then
+you would use “å s**[.underline]#i#**tte” in the sentence.
+
+[cols=",,",]
+|===
+| |*Example* |*English*
+.2+a|
+*Å sette*
+
+* With movement (bev**[.underline]#e#**gelse)
+
+|Jeg setter koppen på bordet. |_I am sitting the cup on the table._
+|Jeg setter meg på en stol. |_I am sitting (down) in a chair._
+.2+a|
+*Å sitte*
+
+* Without movement (**[.underline]#i#**kke bevegelse)
+
+|Jeg sitter under treet. |_I am sitting under the tree._
+|Jeg sitter på en stol. |_I am (already) sitting in a chair._
+|===
+
+*[.underline]#Note:#* If the object is inanimate and there’s no
+movement, then you would use “å stå.”.
+
+But wait... you may be asking, “What about å putte?”
+
+“Å putte” is used in sentences where in English you could replace the
+word “put” with “insert.” Whereas, “å sette” is used when putting
+something somewhere in an upright position or somewhere in general.
+
+[cols=",,",]
+|===
+| |*Example* |*English*
+
+.2+|*Å putte* |Han puttet hånden i lommen. |_He put his hand in the
+pocket._
+
+|Jeg puttet pengen i lommeboken min. |_I put the money in my wallet._
+
+.2+|*Å sette* |Hun satte vasen på bordet. |_She put the vase on the table._
+
+|Han satte et frimerke på brevet. |_He put a stamp on the letter._
+|===
+
+http://norskstudy.blogspot.com/2015/08/different-between-sittersetter-and.html[Let's take a look at some examples here.]
+
+Here is how the verbs are conjugated:
+
+[cols=",,,",]
+|===
+|*INFINITIVE* |*PRESENS* |*PRETERITUM* |*PERFEKTUM*
+|å ligge |ligger |lå |har ligget
+|å legge |legger |la |har lagt
+|å sitte |sitter |satt |har sittet
+|å sette |setter |satte |har satt
+|å putte |putter |puttet |har puttet
+|===
+
+For additional conjugations, check out
+http://www.verbix.com/[Verbix.]
+
+Here’s a flowchart to help you remember which word to use when:
+
+image::/images/legge-vs-ligge-sette-vs-sitte/media/image1.png[Flowchart for picking verb for placing something,width=565,height=484]
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
+
+References:
+
+* https://www.youtube.com/watch?v=ZAla2mlyZOE[Verbene: sitte og sette
+(YouTube; på norsk)]
+* https://www.youtube.com/watch?v=eQb_2o5JPmg[Norsk: Sitte/Sette
+(YouTube, på norsk)]
+* https://www.youtube.com/watch?v=tvvtffWAj3M[Norsk i bruk: Sette eller
+legge (YouTube; på norsk)]
+* https://www.youtube.com/watch?v=L_f_g8hdpq0[Lær Norsk! Stå eller
+Ligge? Sette eller Legge? (YouTube, på norsk)]
+* http://norskstudy.blogspot.com/2015/08/different-between-sittersetter-and.html[Norsk
+Nå: Difference between Sitter/Setter and Ligger/Legger]
+* https://docs.google.com/document/d/1hrUNiYP6GAIXM9YDnZiiHjsmIK1CiRA95ZbQqnNa9Fs/edit?usp=sharing[Difficult
+verbs document]
+
+*[.underline]#Exercise 1:# Fill in the blank with å ligge / å legge / å
+sitte / å sette / å putte. (Be sure to conjugate).*
+
+[arabic]
+. ____ deg ned og hold kjeft!
+{empty} +
+(Sit down and shut up!)
+
+. Hunden min ____ i sengen sin.
+{empty} +
+(My dog is lying on his bed.)
+
+. Moren sa til barnet sitt, “____ hånden din i votten.”
+{empty} +
+(The mother said to her child, “Put your hand in the mitten.)
+
+. Kan du ____ tallerkenene på bordet?
+{empty} +
+(Can you put the plates on the table?)
+
+. Katten ____ i vinduet.
+{empty} +
+(The cat was sitting in the window).
+
+https://docs.google.com/document/d/1J2F001smIWG5PVHpp6NTGe5EYsJ-wBn4SiS7d3H5WG4/edit?usp=sharing[Answer key]
+
+*[.underline]#Exercise 2:# Write 6 sentences using å sitte / å sette / å
+ligge / å legge / å putte.*
