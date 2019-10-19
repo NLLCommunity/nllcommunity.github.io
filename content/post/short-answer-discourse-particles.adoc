@@ -1,0 +1,280 @@
+---
+title: "Short Answer & Discourse Particles"
+date: "2019-03-31"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+== Short answer 
+
+In English, when you’re asked a question, you might give a short
+answer in reply, such as “Yes, I do” or “No, I don’t.”. In Norwegian,
+there are a few ways to write short answers.
+<!--more-->
+1. To answer questions starting with har and er, you use har and er in
+the answer.
++
+[cols=",,,",]
+|===
+|*Spørsmål* |*Svar* |*Question* |*Answer*
+
+.2+|Har du ei fiskestang? |Ja, det har jeg. .2+|_Do you have a fishing rod?_
+|_Yes, I have._
+
+|Nei, det har jeg ikke. |_No, I don’t._
+
+.2+|Er du norsk? |Ja, det er jeg. .2+|_Are you Norwegian?_ |_Yes, I am._
+
+|Nei, det er jeg ikke. |_No, I’m not._
+
+.2+|Er han ny? |Ja, det er han. .2+|_Is he new?_ |_Yes, he is._
+
+|Nei, det er han ikke. |_No, he isn’t._
+|===
+
+2. To answer questions starting with modal verbs, you use the
+modal verb in the answer:
++
+[cols=",,,",]
+|===
+|*Spørsmål* |*Svar* |*Question* |*Answer*
+
+.2+|Kan vi gå på kino? |Ja, det kan vi. .2+|_Can we go to the theatre?_ |_Yes,
+we can._
+
+|Nei, det kan vi ikke. |_No, we can’t._
+
+.2+|Skal du gå på konserten? |Ja, det skal jeg. .2+|_Are you going to the
+concert?_ |_Yes, I am going_
+
+|Nei, det skal jeg ikke. |_No, I’m not going._
+
+.2+|Vil du se byen? |Ja, det vil jeg. .2+|_Do you want to see the city?_
+|_Yes, I do._
+
+|Nei, det vil jeg ikke. |_No, I don’t._
+
+.2+|Må du ringe ham? |Ja, det må jeg. .2+|_Must you call him?_ |_Yes, I must._
+
+|Nei, det må jeg ikke. |_No, I don’t._
+|===
+
+3. When the question contain other verbs than the ones mentioned
+above, you use gjør in your answer:
++
+[cols=",,,",]
+|===
+|*Spørsmål* |*Svar* |*Question* |*Answer*
+
+.2+|Liker du musikk? |Ja, det gjør jeg. .2+|_Do you like music?_ |_Yes, I do._
+
+|Nei, det gjør jeg ikke. |_No, I don’t._
+
+.2+|Skriver du ei bok? |Ja, det gjør jeg. .2+|_Are you writing a book?_ |_Yes,
+I am._
+
+|Nei, det gjør jeg ikke. |_No, I’m not._
+
+.2+|Snakker du norsk? |Ja, det gjør jeg. .2+|_Do you speak Norwegian?_ |_Yes,
+I do._
+
+|Nei, det gjør jeg ikke. |_No, I don’t._
+|===
+
+*[.underline]#NOTE:#* When the subject in the question is det / den /
+de, the verb in the short answer is followed by det / den / de.
+
+[cols=",,,",]
+|===
+|*Spørsmål* |*Svar* |*Question* |*Answer*
+.2+|Er det kaldt? |Ja, det er det. .2+|_Is it cold?_ |_Yes, it is._
+|Nei, det er det ikke. |_No, it isn’t._
+.2+a|
+Person peker på en sitron:
+
+Er den sur?
+
+|Ja, det er den. 
+.2+a|
+_Person points at a lemon:_
+
+_Is it sour?_
+
+|_Yes, it is._
+|Nei, det er den ikke. |_No, it isn’t._
+.2+|Er de gamle? |Ja, det er de. .2+|_Are they old?_ |_Yes, they are._
+|Nei, det er de ikke. |_No, they aren’t._
+|===
+
+== Discourse Particles
+
+Discourse particles are words which are used - most often in the spoken
+language - to express an attitude or as a comment on the part of the
+speaker, to what is being said. The most common discourse particles in
+Norwegian are the following:
+
+Da, jo, mon tro, nok, nå, vel, visst
+
+It is not always possible to provide a literal translation for each of
+these words. A lot of it depends on the speaker, the listener’s
+perception, and the context of the sentence. As a rough guide, however,
+the following translations may generally be used to convey their
+intended meaning:
+
+[cols=",",]
+|===
+|*Discourse Particle* |*General Meaning*
+
+|Da |Surely (*[.underline]#Note#*: also can mean “when,” explained in
+https://docs.google.com/document/d/17arxsz5FkkEEhVMrSmYi3cU4HI2zj-HsMd9n5Pv8cMY/edit?usp=sharing[lesson 28].)
+
+|Jo |(As) you know; yes (to negative question)
+
+|Mon tro |I wonder
+
+|Nok |Probably, I suppose
+
+|Nå |As a matter of a fact
+
+|Vel |I think; you’ll agree
+
+|Visst |I think; it appears; supposedly
+|===
+
+=== Jo
+
+Jo is a confusing concept for many Norwegian learners. It can be used in
+a couple of ways.
+
+First, it is used to answer positively to a negative question.
+
+[cols=",,,,",]
+|===
+| |*Spørsmål* |*Svar* |*Question* |*Answer*
+
+.3+|*Regular question* |Snakker du norsk? |Ja. |_Do you speak Norwegian?_
+|_Yes._
+
+|Tegner du? |Ja. |_Do you draw?_ |_Yes._
+
+|Liker du spill? |Ja. |_Do you like games?_ |_Yes._
+
+.3+|*Negative question* |Snakker du ikke norsk? |Jo. |_Don’t you speak
+Norwegian?_ |_Yes (I do)._
+
+|Tegner du ikke? |Jo. |_Don’t you draw?_ |_Yes (I do)._
+
+|Liker du ikke spill? |Jo. |_Don’t you like games?_ |_Yes (I do)._
+|===
+
+It can also be used to express or emphasize something that is obvious.
+
+[cols=",,,",]
+|===
+2.+|*Eksempel* 2.+|*English*
+
+|*Person 1* |*Person 2* |*Person 1* |*Person 2*
+
+|Det er kaldt i dag. |Det er jo vinter. |_It is cold today._ |_It is
+winter (obviously)._
+
+|Dressen er dyr. |Det er jo Armani. |_The suit is expensive._ |_It is
+Armani._
+
+|Maten er sterk. |Det er jo indisk mat. |_The food is spicy._ |_It is
+Indian food._
+|===
+
+=== Da, Jo, Nå
+
+Da, jo, and nå are often used to express some conviction, on the part of
+the speaker, about what is being said:
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.3+|*Da* |Han er da i Oslo. |_He’s surely in Oslo._
+
+|Isabella er da gift. |_Isabella surely is married._
+
+|Hun besøker da moren sin. |_She is surely visiting her mother._
+
+.3+|*Jo* |Han er jo i Oslo. |_He’s in Oslo, you know._
+
+|Isabella er jo gift. |_Isabella is married, you know._
+
+|Hun besøker jo moren sin. |_She is visiting her mother, you know._
+
+.3+|*Nå* |Han er nå i Oslo. |_As a matter of fact, he’s in Oslo._
+
+|Isabella er nå gift. |_As a matter of fact, Isabella is married._
+
+|Hun besøker nå moren sin. |_As a matter of fact, she’s visiting her
+mother._
+|===
+
+*[.underline]#NOTE:#* “Jo da” can be used to express stronger
+conviction, for example, “Yes, of course.”
+
+=== Nok, Vel, Visst
+
+These three words may be used to express some measure of probability or
+uncertainty and / or to seek some sort of confirmation from the listener
+about what is being said.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+.3+|*Nok* |Han er nok i Oslo. |_He’s probably in Oslo._
+|Isabella er nok gift. |_Isabella probably is married._
+|Hun besøker nok moren sin. |_She is probably visiting her mother._
+.3+|*Vel* |Han er vel i Oslo. |_I think he’s in Oslo._
+|Isabella er vel gift. |_I think Isabella is married._
+|Hun besøker vel moren sin. |_I think she is visiting her mother._
+.3+|*Visst* |Han er visst i Oslo. |_He’s supposedly in Oslo._
+|Isabella er visst gift. |_Isabella is supposedly married._
+|Hun besøker visst moren sin. |_She’s supposedly visiting her mother._
+|===
+
+=== Mon tro
+
+Mon tro is used to express doubt or uncertainty. Unlike the other
+discourse particles, it usually introduces a clause or appears directly
+after an interrogative (i.e. hvem, hvor, etc), and can also stand as a
+response in its own right:
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Mon tro om han er hjemme i dag? |_I wonder if he’s home today?_
+
+|Hvem, mon tro, har tid til å spille videospill hele dagen? |_I wonder
+who has time to play videogames all day?_
+
+|Hvor, mon tro, er Carmen Sandiego? |_Where, I wonder, is Carmen
+Sandiego?_
+|===
+
+_**{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}**_
+
+Resources:
+
+* https://youtu.be/bXjdpuZlsP4[Learn Norwegian: When to use the word
+"Jo" (YouTube)]
+* https://youtu.be/taJL53-ieqM[When to use the Norwegian word "Jo"
+(YouTube)]
+* https://youtu.be/lot4axa3EoM[Norwegian words with more than one meaning (Da) (YouTube)]
+* https://blogs.transparent.com/norwegian/da-da-da/[Norwegian Language Blog: Da Da Da]
+* https://blogs.transparent.com/norwegian/the-little-words-you-always-need/[Norwegian
+Language Blog: The Little Words You Always Need]
+* http://www.ntnu.edu/learnnow/10/grammar/#adjectives[NTNU: Adjective
+Comparisons]
+* http://www.ntnu.edu/learnnow/11/grammar/#short_answers[NTNU: Short
+Answers; Ja/Jo]
+
+*[.underline]#Exercise:# Write a short dialogue; be sure to use short
+answers and discourse particles.*
