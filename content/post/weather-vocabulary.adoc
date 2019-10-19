@@ -1,0 +1,276 @@
+---
+title: "Weather vocabulary"
+date: "2019-05-05"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+== Norway’s Climate
+
+Norway is a long country with different types of terrain features. The
+southeast area of Norway has a lot of forests and hills. The west has
+fjords, mountains, and glaciers; the middle of Norway has many glaciers,
+and the north has fjords, mountains, and glaciers also. The Scandinavian
+Mountain range stretches from the south to the north which has led to
+the formation of many valleys throughout the country.
+<!--more-->
+
+image::/images/weather-vocabulary/media/image3.png[A map of Norway,width=323,height=353]
+
+The weather can vary a lot depending on what part of the country you are
+in. Due to the mild temperatures of the Gulf Stream waters, the coastal
+areas of Norway tend to have a milder climate than other areas that are
+at the same latitude, such as Alaska. Further inland and up north is
+where the coldest temperatures (and snow) are found during the winter
+months. The summers inland tend to be dry and hot.
+
+=== Seasons
+
+Spring (March - May) brings with it longer days, warmer weather
+(typically), and flowers. Some places, particularly further north, may
+still get snow. Elsewhere, melting snow can create waterfalls.
+
+Summertime (June - August) brings warm (but not too hot) temperatures.
+In some places, the sun does not even set; this phenomenon is referred
+to as the midnight sun. It can be seen in places around (and above) the
+Arctic Circle. In Svalbard, the midnight sun lasts from 20 April to 22
+August. The Oslo area receives quite a bit of rainfall during the year
+but August is the wettest month for the area. On average, the high
+temperatures in Norway, during summer, are between high 60s to low 70s F
+(20 to 22C). The peak tourist time for Norway is June - July.
+
+image::/images/weather-vocabulary/media/image4.png[A map of Norway,width=305,height=466]
+
+Autumn (September - November) typically brings with it rain (and in some
+places snow in November). Trees begin to change colors, creating a
+beautiful patchwork of reds, oranges, and yellows. This is a great time
+to go hiking, if one isn’t fond of the summer heat. October is one of
+the cheapest months to visit Norway, because it isn’t quite ski season
+yet, however many of the summer attractions are closed.
+
+Winter (December - February) is the time for cold weather (frequently
+below freezing) and snow...and lots of it, depending on where in Norway
+one lives (or visits). This is a great time for those who enjoy skiing.
+If you do like to ski, just be sure to follow the
+https://www.visitnorway.com/plan-your-trip/safety-first/mountain-safety/the-mountain-code/[Norwegian mountain code] (fjellvettreglene), which consists of 9 rules, including
+paying attention to weather and avalanche warnings; be prepared for bad
+weather; choose safe routes, etc. During the winter, the days are short
+and the nights are long. Areas north of the Arctic Circle may not see
+the sun for weeks or even months. This is also a great time to see the
+https://youtu.be/0I1hZCD7sT0[Northern Lights] (nordlys),
+particularly in areas north of the Arctic Circle, around the coasts of
+Tromsø. If one is not fond of cold weather, the Oslo area has some of
+the warmest temperatures during the winter months.
+
+== Weather Vocab
+
+[cols=",,,,",]
+|===
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+|*1* |Advarsel |_Warning_ |Atlanterhavet |_The Atlantic Ocean_
+
+|*2* |Bris |_Breeze_ |Dam |_Puddle_
+
+|*3* |Delvis skyet |_Partly cloudy_ |Delvis sol |_Partly sunny_
+
+|*4* |Døgn |_Day and night (24 hours)_ |Enkelte |_Some_
+
+|*5* |Farlig |_Dangerous_ |Fjell |_Mountain_
+
+|*6* |Fjellvettreglene |_Norwegian mountain code_ |Flom |_Flooding_
+
+|*7* |Flomfare |_Flood risk_ |Foss |_Waterfall_
+
+|*8* |Frost |_Frost_ |Frysepunkt a|
+_Freezing point_
+
+_(i.e. 0C / 32F)_
+
+|*9* |Fuktig |_Humid / Muggy_ |Gjørmete |_Muddy_
+
+|*10* |Golfstrømmen |_The Gulf Stream_ |Grader |_Degrees_
+
+|*11* |Grå himmel |_Grey skies_ |Grålig vær |_Greyish weather_
+
+|*12* |Hagl |_Hail_ |Hansker |_Gloves_
+
+|*13* |Hyppig |_Frequent_ |Høst |_Autumn_
+
+|*14* |Høysnue |_Hay fever_ |Høytrykk |_High pressure_
+
+|*15* |Jordskjelv |_Earthquake_ |Klar himmel |_Clear skies_
+
+|*16* |Klima |_Climate_ |Klimaendringer |_Climate change_
+
+|*17* |Kjeledress |_Snowsuit_ |Kramsnø |_“Firm” / heavy / wet snow_
+
+|*18* |Kyst |_Coast_ |Langrenn |_Cross-country skiing_
+
+|*19* |Lavtrykk |_Low pressure_ |Luftfuktighet |_Humidity_
+
+|*20* |Lyn |_Lightning_ |Meteorolog |_Meteorologist_
+
+|*21* |Monsun |_Monsoon_ |Nedbør |_Precipitation_
+
+|*22* |Nord |_North_ |Nordlig |_Northern_
+
+|*23* |Nordlys |_Northern lights_ |Nordsjøen |_The North Sea_
+
+|*24* |Nysnø |_Fresh snow_ |Orkan |_Hurricane_
+
+|*25* |Overskyet |_Overcast_ |Paraply |_Umbrella_
+
+|*26* |Pollenvarsel |_Pollen forecast_ |Puddersnø |_Powdery snow_
+
+|*27* |Regn |_Rain_ |Regnbue |_Rainbow_
+
+|*28* |Regnbyger |_Rain showers_ |Regndråpe |_Raindrop_
+
+|*29* |Regnjakke |_Raincoat_ |Regnskyll |_Downpour_
+
+|*30* |Regnvær |_Rainy weather_ |Skare |_Icy layer that develops on top
+of soft snow_
+
+|*31* |Skjerf |_Scarf_ |Skog |_Forest_
+
+|*32* |Skogbrannfare |_Forest fire risk_ |Skuffe |_Shovel_
+
+|*33* |Skybrudd |_Cloudburst_ |Skyformasjon |_Cloud formation_
+
+|*34* |Skydekke |_Cloud cover_ |Slalåm / Utfor |_Alpine / downhill
+skiing_
+
+|*35* |Slede |_Sled_ |Sludd / slafs / slaps |_Sleet_
+
+|*36* |Smeltende snø |_Melting snow_ |Snø |_Snow_
+
+|*37* |Snøbyge |_Squall / Strong wind with snow_ |Snøfnugg |_Snowflake_
+
+|*38* |Snøfreser |_Snowblower_ |Snøplog |_Snow plow_
+
+|*39* |Snøscooter |_Snow mobile_ |Snøskred |_Avalanche_
+
+|*40* |Snøstorm |_Blizzard / Snow storm_ |Sol |_Sun_
+
+|*41* |Solbrenthet |_Sunburn_ |Solbriller |_Sunglasses_
+
+|*42* |Solfylt |_Sunny_ |Solkrem |_Sunscreen_
+
+|*43* |Solskinn |_Sunshine_ |Sommer |_Summer_
+
+|*44* |Spark |_Kicksled_ |Sporadisk |_Occasional_
+
+|*45* |Sterk kuling eller liten storm |_Gale winds (depends on wind
+speed; kuling: 10.8-20.7 m/s)_ |Stillvær |_Calm weather_
+
+|*46* |Storm |_Storm_ |Styrtflom |_Flash flood_
+
+|*47* |Støvler |_Rain boots_ |Sør |_South_
+
+|*48* |Sørlig |_Southernly_ |Temperatur (en) |_Temperature_
+
+|*49* |Torden |_Thunder_ |Tordenvær |_Thunderstorm_
+
+|*50* |Tornado |_Tornado_ |Tørr |_Dry_
+
+|*51* |Tåke |_Fog_ |Tåkete |_Foggy_
+
+|*52* |Utbredt |_Widespread_ |UV-nivåer |_UV Levels_
+
+|*53* |Uvær / Dårlig vær |_Bad weather_ |Vest |_West_
+
+|*54* |Vestlig |_Western_ |Vind |_Wind_
+
+|*55* |Vindkast |_Gusts_ |Vinter |_Winter_
+
+|*56* |Vintersko |_Snow boots_ |Voldsomt vær |_Violent weather_
+
+|*57* |Votter |_Mittens_ |Vær |_Weather_
+
+|*58* |Værforhold |_Weather conditions_ |Værmelding |_Weather forecast_
+
+|*59* |Værradar |_Weather radar_ |Vår |_Spring_
+
+|*60* |Øst |_East_ |Østlig |_Eastern_
+
+|*61* |Årstider |_Seasons_ | |
+|===
+
+image::/images/weather-vocabulary/media/image1.png[A man on a kicksled,width=550,height=413]
+
+=== Phrases
+
+[cols=",,,",]
+|===
+|*Norwegian* |*English* |*Norwegian* |*English*
+
+|Hvordan er været? |_How’s the weather?_ |Har du sett værmeldinga?
+|_Have you seen the weather forecast?_
+
+|Hvor mange grader er det? |_What temperature is it?_ |Det blåser.
+|_It’s windy._
+
+|Det lyner. |_There’s lightning._ |Det tordner. |_It’s thundering._
+
+|Sola skinner. |_The sun is shining._ |Det er pent. |_It’s beautiful._
+
+|Det er dårlig. |_It’s bad._ |Det lysner. |_It’s clearing._
+
+|Det blir storm. |_It’s going to storm._ |Veien er isete. |_The road is
+icy._
+
+|Det er iskaldt. |_It’s freezing._ |Det hagler. |_It’s hailing._
+
+|Hele dagen |_The whole day._ |Her og der |_Here and there_
+
+.2+|Av og til .2+|_Now and then_ |Temperaturen vil falle. |_The temperature
+will drop._
+
+|Temperaturen falt. |_The temperature dropped._
+|===
+
+Most important Norwegian weather-related phrase:
+
+Det finnes ikke dårlig vær, bare dårlige klær.
+
+There’s no bad weather, only bad clothes.
+
+Article:
+https://www.nrk.no/hordaland/april-har-aldri-vaert-varmere-_-na-sender-meteorologene-ut-farevarsel-for-sno-i-mai-1.14536014[April
+har aldri vært varmere – nå sender meteorologene ut farevarsel for snø i
+mai]
+
+https://radio.nrk.no/serie/vaermelding-radio[NRK audio weather
+forecasts]
+
+Weather forecasts: https://www.yr.no/[Været for Norge i Verden]
+
+_**{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}**_
+
+
+Resources:
+
+* https://www.visitnorway.com/things-to-do/nature-attractions/midnight-sun/[The
+midnight sun]
+* https://www.visitnorway.com/plan-your-trip/seasons-climate/[The Way
+North is Not Always Icy]
+* https://www.studyinnorway.no/living-in-norway/nature-weather-and-climate[Living
+in Norway: Nature, Weather and Climate]
+* https://www.visitnorway.com/plan-your-trip/safety-first/mountain-safety/the-mountain-code/[The
+mountain code]
+* https://www.visitnorway.com/things-to-do/great-outdoors/skiing/ski-touring/norwegian-snow-conditions/[Norwegian
+Snow Conditions]
+* https://www.visitnorway.com/things-to-do/nature-attractions/northern-lights/[Northern
+Lights]
+* https://www.tripsavvy.com/weather-in-norway-4111770[Weather in Norway:
+Climate, Seasons, and Average Monthly Temperature]
+* https://www.climatestotravel.com/climate/norway[World Climate Guide:
+Norway]
+* https://en.wikipedia.org/wiki/Geography_of_Norway[Geography of Norway
+(Wiki)]
+
+*[.underline]#Exercise:# Write a brief weather forecast for your local
+area.*
