@@ -131,67 +131,67 @@ birthplace of the famous playwright Henrik Ibsen.
 
 **Vocabulary:**
 
-|        | **English**                    | **Norwegian**                | **English**                   | **Norwegian**                |
-|--------|--------------------------------|------------------------------|-------------------------------|------------------------------|
-| **1**  | *Agriculture*                  | Jordbruk                     | *Archipelago*                 | Øygruppe (en)                |
-| **2**  | *(The) Arctic Circle*          | Polarsirkelen                | *Area*                        | Område (et)                  |
-| **3**  | *Atlas*                        | Atlas (et)                   | *Average*                     | Gjennomsnitt (et)            |
-| **4**  | *(The) Baltic Sea*             | Østersjøen                   | *(The) Barents Sea*           | Barentshavet                 |
-| **5**  | *Bay*                          | Bukt (ei)                    | *Border*                      | Grense (en)                  |
-| **6**  | *Canal*                        | Kanal (en)                   | *Canyon*                      | Canyon (en)                  |
-| **7**  | *Capital*                      | Hovedstad (en)               | *City*                        | By (en)                      |
-| **8**  | *Climate*                      | Klima (et)                   | *Coast*                       | Kyst (en)                    |
-| **9**  | *Coastline*                    | Kystlinje (ei)               | *Compass*                     | Kompass (et)                 |
-| **10** | *Continent*                    | Kontinent (et)               | Contour lines                 | Kote / Høydekurve (en)       |
-| **11** | *Coordinates*                  | Koordinater                  | *Coral reef*                  | Korallrev (en)               |
-| **12** | *Country*                      | Land (et)                    | *County*                      | Fylke (en)                   |
-| **13** | *Creek*                        | Bekk (en)                    | *Current*                     | Strøm (en)                   |
-| **14** | *Degrees*                      | Grader                       | *Delta*                       | Elvedelta (et)               |
-| **15** | *Denmark*                      | Danmark                      | *Desert*                      | Ørken (en)                   |
-| **16** | *Earth*                        | Jord (ei)                    | *Earthquake*                  | Jordskjelv (et)              |
-| **17** | *East*                         | Øst                          | *Elevation*                   | Høyde (en)                   |
-| **18** | *Equator*                      | Ekvator (en)                 | *Europe*                      | Europa                       |
-| **19** | *Farmland*                     | Dyrket mark                  | *Faroe Islands*               | Færøyene                     |
-| **20** | *Ferry*                        | Ferje (ei)                   | *Finland*                     | Finland                      |
-| **21** | *Fjord*                        | Fjord (en)                   | *Flat (adj)*                  | Flatt                        |
-| **22** | *Forest*                       | Skog (en)                    | *Frozen*                      | Frossen                      |
-| **23** | *Geography*                    | Geografi (en)                | *Glacier*                     | (Is)bre (en)                 |
-| **24** | *Globe*                        | Globus (en)                  | *Greenland*                   | Grønland                     |
-| **25** | *Gulf*                         | Golf (en)**\*\***            | *Hemisphere*                  | Halvkule (ei)                |
-| **26** | *Hill*                         | Bakke (en)                   | *Iceland*                     | Island                       |
-| **27** | *Inlet*                        | Innløp (et)                  | *International Date Line*     | Internasjonal datolinje (ei) |
-| **28** | *Island*                       | Øy (ei)                      | *Isthmus*                     | Eid (et)                     |
-| **29** | *Jungle*                       | Jungel (en)                  | *Lake*                        | Innsjø (en)                  |
-| **30** | *Landscape*                    | Landskap (et)                | *Latitude*                    | Breddegrad (en)              |
-| **31** | *Legend (on a map)*            | Tegnforklaring(en)           | *Longitude*                   | Lengdegrad (en)              |
-| **32** | *Lowlands*                     | Lavlandet                    | *Map*                         | Kart (et)                    |
-| **33** | *Mesa*                         | Mesa (en)                    | *Midnight sun*                | Midnattsol (ei)              |
-| **34** | *Mountain*                     | Fjell (et)                   | *Mountain range*              | Fjellkjede (en)              |
-| **35** | *Municipality*                 | Kommune (en)                 | *North*                       | Nord                         |
-| **36** | *Northeast*                    | Nordøst                      | *Northern lights*             | Nordlys (et)                 |
-| **37** | *North pole*                   | Nordpol (en)                 | *(The) North Sea*             | Nordsjøen                    |
-| **38** | *Northwest*                    | Nordvest                     | *(The) Norwegian Sea*         | Norskehavet                  |
-| **39** | *Oasis*                        | Oase (en)                    | *Ocean*                       | Hav (et)                     |
-| **40** | *Parallel*                     | Breddegrad (en)              | *Peak*                        | Fjelltopp (en)               |
-| **41** | *Peninsula*                    | Halvøy (ei)                  | *Plain (noun)*                | Slette (ei)                  |
-| **42** | *Plateau*                      | Platå (et)                   | *Polar night*                 | Polarnatt (ei)               |
-| **43** | *Population*                   | Befolkning (ei)              | *Prime meridian*              | Nullmeridian (en)            |
-| **44** | *Region*                       | Region (en)                  | *River*                       | Elv (ei)                     |
-| **45** | *Russia*                       | Russland                     | *Sand dune*                   | Sanddyne (en)                |
-| **46** | *(The) Scandinavian Mountains* | Den skandinaviske fjellkjede | *Sea*                         | Hav (et)                     |
-| **47** | *Sea level*                    | Havnivå (et)                 | *South*                       | Sør                          |
-| **48** | *Southeast*                    | Sørøst                       | *South pole*                  | Sørpol (en)                  |
-| **49** | *Southwest*                    | Sørvest                      | *Strait*                      | Stred (et)                   |
-| **50** | *Swamp*                        | Sump (en)                    | *Sweden*                      | Sverige                      |
-| **51** | *Terrain*                      | Terreng (et)                 | *Territory*                   | Territorium (et)             |
-| **52** | *Time zone*                    | Tidssone (ei)                | *Topography*                  | Topografi (en)               |
-| **53** | *Tributary*                    | Sideelv (ei)                 | *Tropic of Cancer*            | Krepsens vendekrets          |
-|        |                                |                              | *Tropic of Capricorn*         | Stenbukkens vendekrets       |
-| **54** | *Tropical*                     | Tropisk                      | *(The) Tropics*               | Tropene                      |
-| **55** | *Tundra*                       | Tundra (en)                  | *Valley*                      | Dal (en)                     |
-| **56** | *Village*                      | Landsby (en)                 | *Volcanic eruption*           | Vulkanutbrudd                |
-| **57** | *Volcano*                      | Vulkan (en)                  | *Waterfall*                   | Foss (en)                    |
-| **58** | *West*                         | Vest                         | *Runs (i.e. a river / creek)* | Renner                       |
+| **English**                    | **Norwegian**                | **English**                   | **Norwegian**                |
+|--------------------------------|------------------------------|-------------------------------|------------------------------|
+| *Agriculture*                  | Jordbruk                     | *Archipelago*                 | Øygruppe (en)                |
+| *(The) Arctic Circle*          | Polarsirkelen                | *Area*                        | Område (et)                  |
+| *Atlas*                        | Atlas (et)                   | *Average*                     | Gjennomsnitt (et)            |
+| *(The) Baltic Sea*             | Østersjøen                   | *(The) Barents Sea*           | Barentshavet                 |
+| *Bay*                          | Bukt (ei)                    | *Border*                      | Grense (en)                  |
+| *Canal*                        | Kanal (en)                   | *Canyon*                      | Canyon (en)                  |
+| *Capital*                      | Hovedstad (en)               | *City*                        | By (en)                      |
+| *Climate*                      | Klima (et)                   | *Coast*                       | Kyst (en)                    |
+| *Coastline*                    | Kystlinje (ei)               | *Compass*                     | Kompass (et)                 |
+| *Continent*                    | Kontinent (et)               | Contour lines                 | Kote / Høydekurve (en)       |
+| *Coordinates*                  | Koordinater                  | *Coral reef*                  | Korallrev (en)               |
+| *Country*                      | Land (et)                    | *County*                      | Fylke (en)                   |
+| *Creek*                        | Bekk (en)                    | *Current*                     | Strøm (en)                   |
+| *Degrees*                      | Grader                       | *Delta*                       | Elvedelta (et)               |
+| *Denmark*                      | Danmark                      | *Desert*                      | Ørken (en)                   |
+| *Earth*                        | Jord (ei)                    | *Earthquake*                  | Jordskjelv (et)              |
+| *East*                         | Øst                          | *Elevation*                   | Høyde (en)                   |
+| *Equator*                      | Ekvator (en)                 | *Europe*                      | Europa                       |
+| *Farmland*                     | Dyrket mark                  | *Faroe Islands*               | Færøyene                     |
+| *Ferry*                        | Ferje (ei)                   | *Finland*                     | Finland                      |
+| *Fjord*                        | Fjord (en)                   | *Flat (adj)*                  | Flatt                        |
+| *Forest*                       | Skog (en)                    | *Frozen*                      | Frossen                      |
+| *Geography*                    | Geografi (en)                | *Glacier*                     | (Is)bre (en)                 |
+| *Globe*                        | Globus (en)                  | *Greenland*                   | Grønland                     |
+| *Gulf*                         | Golf (en)**\*\***            | *Hemisphere*                  | Halvkule (ei)                |
+| *Hill*                         | Bakke (en)                   | *Iceland*                     | Island                       |
+| *Inlet*                        | Innløp (et)                  | *International Date Line*     | Internasjonal datolinje (ei) |
+| *Island*                       | Øy (ei)                      | *Isthmus*                     | Eid (et)                     |
+| *Jungle*                       | Jungel (en)                  | *Lake*                        | Innsjø (en)                  |
+| *Landscape*                    | Landskap (et)                | *Latitude*                    | Breddegrad (en)              |
+| *Legend (on a map)*            | Tegnforklaring(en)           | *Longitude*                   | Lengdegrad (en)              |
+| *Lowlands*                     | Lavlandet                    | *Map*                         | Kart (et)                    |
+| *Mesa*                         | Mesa (en)                    | *Midnight sun*                | Midnattsol (ei)              |
+| *Mountain*                     | Fjell (et)                   | *Mountain range*              | Fjellkjede (en)              |
+| *Municipality*                 | Kommune (en)                 | *North*                       | Nord                         |
+| *Northeast*                    | Nordøst                      | *Northern lights*             | Nordlys (et)                 |
+| *North pole*                   | Nordpol (en)                 | *(The) North Sea*             | Nordsjøen                    |
+| *Northwest*                    | Nordvest                     | *(The) Norwegian Sea*         | Norskehavet                  |
+| *Oasis*                        | Oase (en)                    | *Ocean*                       | Hav (et)                     |
+| *Parallel*                     | Breddegrad (en)              | *Peak*                        | Fjelltopp (en)               |
+| *Peninsula*                    | Halvøy (ei)                  | *Plain (noun)*                | Slette (ei)                  |
+| *Plateau*                      | Platå (et)                   | *Polar night*                 | Polarnatt (ei)               |
+| *Population*                   | Befolkning (ei)              | *Prime meridian*              | Nullmeridian (en)            |
+| *Region*                       | Region (en)                  | *River*                       | Elv (ei)                     |
+| *Russia*                       | Russland                     | *Sand dune*                   | Sanddyne (en)                |
+| *(The) Scandinavian Mountains* | Den skandinaviske fjellkjede | *Sea*                         | Hav (et)                     |
+| *Sea level*                    | Havnivå (et)                 | *South*                       | Sør                          |
+| *Southeast*                    | Sørøst                       | *South pole*                  | Sørpol (en)                  |
+| *Southwest*                    | Sørvest                      | *Strait*                      | Stred (et)                   |
+| *Swamp*                        | Sump (en)                    | *Sweden*                      | Sverige                      |
+| *Terrain*                      | Terreng (et)                 | *Territory*                   | Territorium (et)             |
+| *Time zone*                    | Tidssone (ei)                | *Topography*                  | Topografi (en)               |
+| *Tributary*                    | Sideelv (ei)                 | *Tropic of Cancer*            | Krepsens vendekrets          |
+|                                |                              | *Tropic of Capricorn*         | Stenbukkens vendekrets       |
+| *Tropical*                     | Tropisk                      | *(The) Tropics*               | Tropene                      |
+| *Tundra*                       | Tundra (en)                  | *Valley*                      | Dal (en)                     |
+| *Village*                      | Landsby (en)                 | *Volcanic eruption*           | Vulkanutbrudd                |
+| *Volcano*                      | Vulkan (en)                  | *Waterfall*                   | Foss (en)                    |
+| *West*                         | Vest                         | *Runs (i.e. a river / creek)* | Renner                       |
 
 **<span class="underline">\*\*Note:</span>** In Norwegian, some gulfs
 are called “bays” (bukt).

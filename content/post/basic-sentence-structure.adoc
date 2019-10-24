@@ -11,48 +11,48 @@ categories:
 An interrogative word (also called a question word) is used to ask a
 question, such as what, when, where, who(m), why, and how.
 <!--more-->
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*Interrogative* |*Meaning* |*Example* |*English*
+|*Interrogative* |*Meaning* |*Example* |*English*
 
-|*1* |Hva |_What_ |Hva er navnet hennes? |_What is her name?_
+|Hva |_What_ |Hva er navnet hennes? |_What is her name?_
 
-|*2* |Hvor |_Where_ |Hvor bor du? |_Where do you live?_
+|Hvor |_Where_ |Hvor bor du? |_Where do you live?_
 
-|*3* |Når |_When_ |Når begynner filmen? |_When does the movie begin?_
+|Når |_When_ |Når begynner filmen? |_When does the movie begin?_
 
-|*4* |Hvem |_Who_ |Hvem er moren din? |_Who is your mother?_
+|Hvem |_Who_ |Hvem er moren din? |_Who is your mother?_
 
-|*5* |Hvordan |_How_ |Hvordan skjedde ulykken? |_How did the accident
+|Hvordan |_How_ |Hvordan skjedde ulykken? |_How did the accident
 happen?_
 
-|*6* |Hvorfor |_Why_ |Hvorfor ringte du ham? |_Why did you call him?_
+|Hvorfor |_Why_ |Hvorfor ringte du ham? |_Why did you call him?_
 
-|*7* |Hvor mye |_How much_ |Hvor mye koster det? |_How much does it
+|Hvor mye |_How much_ |Hvor mye koster det? |_How much does it
 cost?_
 
-|*8* |Hvor mange |_How many_ |Hvor mange søsken har du? |_How many
+|Hvor mange |_How many_ |Hvor mange søsken har du? |_How many
 siblings do you have?_
 
-|*9* |Hvor lenge |_How long_ |Hvor lenge har du lært norsk? |_How long
+|Hvor lenge |_How long_ |Hvor lenge har du lært norsk? |_How long
 have you learned Norwegian?_
 
-|*10* |Hvor høy(t) |_How high / tall_ |Hvor høyt er treet? |_How tall is
+|Hvor høy(t) |_How high / tall_ |Hvor høyt er treet? |_How tall is
 the tree?_
 
-|*11* |Hvor lang(t) |_How far_ |Hvor langt unna er banken? |_How far
+|Hvor lang(t) |_How far_ |Hvor langt unna er banken? |_How far
 away is the bank?_
 
-|*12* |Hvor gammel(t) |_How old_ |Hvor gammel er du? |_How old are you?_
+|Hvor gammel(t) |_How old_ |Hvor gammel er du? |_How old are you?_
 
-|*13* a|
+a|
 Hvem sin / sitt / si / sine
 
 Hvis (archaic)
 
 |_Whose_ |Hvem sin sykkel er dette? |_Whose bike is this?_
 
-.3+|*14* .3+|Hvilken / Hvilket / Hvilke .3+|_Which_ |Hvilken farge er bilen din?
+.3+|Hvilken / Hvilket / Hvilke .3+|_Which_ |Hvilken farge er bilen din?
 |_What color is your car?_
 
 |Hvilket år ble du uteksaminert? |_What year did you graduate?_

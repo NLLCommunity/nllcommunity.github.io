@@ -65,137 +65,137 @@ the warmest temperatures during the winter months.
 
 == Weather Vocab
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*Norwegian* |*English* |*Norwegian* |*English*
+|*Norwegian* |*English* |*Norwegian* |*English*
 
-|*1* |Advarsel |_Warning_ |Atlanterhavet |_The Atlantic Ocean_
+|Advarsel |_Warning_ |Atlanterhavet |_The Atlantic Ocean_
 
-|*2* |Bris |_Breeze_ |Dam |_Puddle_
+|Bris |_Breeze_ |Dam |_Puddle_
 
-|*3* |Delvis skyet |_Partly cloudy_ |Delvis sol |_Partly sunny_
+|Delvis skyet |_Partly cloudy_ |Delvis sol |_Partly sunny_
 
-|*4* |Døgn |_Day and night (24 hours)_ |Enkelte |_Some_
+|Døgn |_Day and night (24 hours)_ |Enkelte |_Some_
 
-|*5* |Farlig |_Dangerous_ |Fjell |_Mountain_
+|Farlig |_Dangerous_ |Fjell |_Mountain_
 
-|*6* |Fjellvettreglene |_Norwegian mountain code_ |Flom |_Flooding_
+|Fjellvettreglene |_Norwegian mountain code_ |Flom |_Flooding_
 
-|*7* |Flomfare |_Flood risk_ |Foss |_Waterfall_
+|Flomfare |_Flood risk_ |Foss |_Waterfall_
 
-|*8* |Frost |_Frost_ |Frysepunkt a|
+|Frost |_Frost_ |Frysepunkt a|
 _Freezing point_
 
 _(i.e. 0C / 32F)_
 
-|*9* |Fuktig |_Humid / Muggy_ |Gjørmete |_Muddy_
+|Fuktig |_Humid / Muggy_ |Gjørmete |_Muddy_
 
-|*10* |Golfstrømmen |_The Gulf Stream_ |Grader |_Degrees_
+|Golfstrømmen |_The Gulf Stream_ |Grader |_Degrees_
 
-|*11* |Grå himmel |_Grey skies_ |Grålig vær |_Greyish weather_
+|Grå himmel |_Grey skies_ |Grålig vær |_Greyish weather_
 
-|*12* |Hagl |_Hail_ |Hansker |_Gloves_
+|Hagl |_Hail_ |Hansker |_Gloves_
 
-|*13* |Hyppig |_Frequent_ |Høst |_Autumn_
+|Hyppig |_Frequent_ |Høst |_Autumn_
 
-|*14* |Høysnue |_Hay fever_ |Høytrykk |_High pressure_
+|Høysnue |_Hay fever_ |Høytrykk |_High pressure_
 
-|*15* |Jordskjelv |_Earthquake_ |Klar himmel |_Clear skies_
+|Jordskjelv |_Earthquake_ |Klar himmel |_Clear skies_
 
-|*16* |Klima |_Climate_ |Klimaendringer |_Climate change_
+|Klima |_Climate_ |Klimaendringer |_Climate change_
 
-|*17* |Kjeledress |_Snowsuit_ |Kramsnø |_“Firm” / heavy / wet snow_
+|Kjeledress |_Snowsuit_ |Kramsnø |_“Firm” / heavy / wet snow_
 
-|*18* |Kyst |_Coast_ |Langrenn |_Cross-country skiing_
+|Kyst |_Coast_ |Langrenn |_Cross-country skiing_
 
-|*19* |Lavtrykk |_Low pressure_ |Luftfuktighet |_Humidity_
+|Lavtrykk |_Low pressure_ |Luftfuktighet |_Humidity_
 
-|*20* |Lyn |_Lightning_ |Meteorolog |_Meteorologist_
+|Lyn |_Lightning_ |Meteorolog |_Meteorologist_
 
-|*21* |Monsun |_Monsoon_ |Nedbør |_Precipitation_
+|Monsun |_Monsoon_ |Nedbør |_Precipitation_
 
-|*22* |Nord |_North_ |Nordlig |_Northern_
+|Nord |_North_ |Nordlig |_Northern_
 
-|*23* |Nordlys |_Northern lights_ |Nordsjøen |_The North Sea_
+|Nordlys |_Northern lights_ |Nordsjøen |_The North Sea_
 
-|*24* |Nysnø |_Fresh snow_ |Orkan |_Hurricane_
+|Nysnø |_Fresh snow_ |Orkan |_Hurricane_
 
-|*25* |Overskyet |_Overcast_ |Paraply |_Umbrella_
+|Overskyet |_Overcast_ |Paraply |_Umbrella_
 
-|*26* |Pollenvarsel |_Pollen forecast_ |Puddersnø |_Powdery snow_
+|Pollenvarsel |_Pollen forecast_ |Puddersnø |_Powdery snow_
 
-|*27* |Regn |_Rain_ |Regnbue |_Rainbow_
+|Regn |_Rain_ |Regnbue |_Rainbow_
 
-|*28* |Regnbyger |_Rain showers_ |Regndråpe |_Raindrop_
+|Regnbyger |_Rain showers_ |Regndråpe |_Raindrop_
 
-|*29* |Regnjakke |_Raincoat_ |Regnskyll |_Downpour_
+|Regnjakke |_Raincoat_ |Regnskyll |_Downpour_
 
-|*30* |Regnvær |_Rainy weather_ |Skare |_Icy layer that develops on top
+|Regnvær |_Rainy weather_ |Skare |_Icy layer that develops on top
 of soft snow_
 
-|*31* |Skjerf |_Scarf_ |Skog |_Forest_
+|Skjerf |_Scarf_ |Skog |_Forest_
 
-|*32* |Skogbrannfare |_Forest fire risk_ |Skuffe |_Shovel_
+|Skogbrannfare |_Forest fire risk_ |Skuffe |_Shovel_
 
-|*33* |Skybrudd |_Cloudburst_ |Skyformasjon |_Cloud formation_
+|Skybrudd |_Cloudburst_ |Skyformasjon |_Cloud formation_
 
-|*34* |Skydekke |_Cloud cover_ |Slalåm / Utfor |_Alpine / downhill
+|Skydekke |_Cloud cover_ |Slalåm / Utfor |_Alpine / downhill
 skiing_
 
-|*35* |Slede |_Sled_ |Sludd / slafs / slaps |_Sleet_
+|Slede |_Sled_ |Sludd / slafs / slaps |_Sleet_
 
-|*36* |Smeltende snø |_Melting snow_ |Snø |_Snow_
+|Smeltende snø |_Melting snow_ |Snø |_Snow_
 
-|*37* |Snøbyge |_Squall / Strong wind with snow_ |Snøfnugg |_Snowflake_
+|Snøbyge |_Squall / Strong wind with snow_ |Snøfnugg |_Snowflake_
 
-|*38* |Snøfreser |_Snowblower_ |Snøplog |_Snow plow_
+|Snøfreser |_Snowblower_ |Snøplog |_Snow plow_
 
-|*39* |Snøscooter |_Snow mobile_ |Snøskred |_Avalanche_
+|Snøscooter |_Snow mobile_ |Snøskred |_Avalanche_
 
-|*40* |Snøstorm |_Blizzard / Snow storm_ |Sol |_Sun_
+|Snøstorm |_Blizzard / Snow storm_ |Sol |_Sun_
 
-|*41* |Solbrenthet |_Sunburn_ |Solbriller |_Sunglasses_
+|Solbrenthet |_Sunburn_ |Solbriller |_Sunglasses_
 
-|*42* |Solfylt |_Sunny_ |Solkrem |_Sunscreen_
+|Solfylt |_Sunny_ |Solkrem |_Sunscreen_
 
-|*43* |Solskinn |_Sunshine_ |Sommer |_Summer_
+|Solskinn |_Sunshine_ |Sommer |_Summer_
 
-|*44* |Spark |_Kicksled_ |Sporadisk |_Occasional_
+|Spark |_Kicksled_ |Sporadisk |_Occasional_
 
-|*45* |Sterk kuling eller liten storm |_Gale winds (depends on wind
+|Sterk kuling eller liten storm |_Gale winds (depends on wind
 speed; kuling: 10.8-20.7 m/s)_ |Stillvær |_Calm weather_
 
-|*46* |Storm |_Storm_ |Styrtflom |_Flash flood_
+|Storm |_Storm_ |Styrtflom |_Flash flood_
 
-|*47* |Støvler |_Rain boots_ |Sør |_South_
+|Støvler |_Rain boots_ |Sør |_South_
 
-|*48* |Sørlig |_Southernly_ |Temperatur (en) |_Temperature_
+|Sørlig |_Southernly_ |Temperatur (en) |_Temperature_
 
-|*49* |Torden |_Thunder_ |Tordenvær |_Thunderstorm_
+|Torden |_Thunder_ |Tordenvær |_Thunderstorm_
 
-|*50* |Tornado |_Tornado_ |Tørr |_Dry_
+|Tornado |_Tornado_ |Tørr |_Dry_
 
-|*51* |Tåke |_Fog_ |Tåkete |_Foggy_
+|Tåke |_Fog_ |Tåkete |_Foggy_
 
-|*52* |Utbredt |_Widespread_ |UV-nivåer |_UV Levels_
+|Utbredt |_Widespread_ |UV-nivåer |_UV Levels_
 
-|*53* |Uvær / Dårlig vær |_Bad weather_ |Vest |_West_
+|Uvær / Dårlig vær |_Bad weather_ |Vest |_West_
 
-|*54* |Vestlig |_Western_ |Vind |_Wind_
+|Vestlig |_Western_ |Vind |_Wind_
 
-|*55* |Vindkast |_Gusts_ |Vinter |_Winter_
+|Vindkast |_Gusts_ |Vinter |_Winter_
 
-|*56* |Vintersko |_Snow boots_ |Voldsomt vær |_Violent weather_
+|Vintersko |_Snow boots_ |Voldsomt vær |_Violent weather_
 
-|*57* |Votter |_Mittens_ |Vær |_Weather_
+|Votter |_Mittens_ |Vær |_Weather_
 
-|*58* |Værforhold |_Weather conditions_ |Værmelding |_Weather forecast_
+|Værforhold |_Weather conditions_ |Værmelding |_Weather forecast_
 
-|*59* |Værradar |_Weather radar_ |Vår |_Spring_
+|Værradar |_Weather radar_ |Vår |_Spring_
 
-|*60* |Øst |_East_ |Østlig |_Eastern_
+|Øst |_East_ |Østlig |_Eastern_
 
-|*61* |Årstider |_Seasons_ | |
+|Årstider |_Seasons_ | |
 |===
 
 image::/images/weather-vocabulary/media/image1.png[A man on a kicksled,width=550,height=413]

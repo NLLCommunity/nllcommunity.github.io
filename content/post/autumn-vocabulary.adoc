@@ -213,214 +213,214 @@ the local haunts.
 
 === Nouns & Adjectives
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
 
-|*_1_* |_Autumn_ |Høst (en) |_Acorn_ |Eikenøtt (ei)
+|_Autumn_ |Høst (en) |_Acorn_ |Eikenøtt (ei)
 
-|*_2_* |_Autumn equinox_ |Høstjevndøgn (en) |_Apple cider_ |Eplesider
+|_Autumn equinox_ |Høstjevndøgn (en) |_Apple cider_ |Eplesider
 (en)
 
-|*_3_* |_Apple orchard_ |Eplehage (en) |_Apple pie_ |Eplepai (en)
+|_Apple orchard_ |Eplehage (en) |_Apple pie_ |Eplepai (en)
 
-|*_4_* |_Bat_ |Flaggermus (ei) |_Beast_ |Beist (et)
+|_Bat_ |Flaggermus (ei) |_Beast_ |Beist (et)
 
-|*_5_* |_Bonfire_ |Bål (et) |_Bounty_ |Dusør (en)
+|_Bonfire_ |Bål (et) |_Bounty_ |Dusør (en)
 
-|*_6_* |_Brisk_ |Rask |_Caramel apple_ |Karamelleple (et)
+|_Brisk_ |Rask |_Caramel apple_ |Karamelleple (et)
 
-|*_7_* |_Cauldron / Kettle_ |Kjele (en) |_Cemetery / Graveyard_
+|_Cauldron / Kettle_ |Kjele (en) |_Cemetery / Graveyard_
 |Gravplass (en) / +
 Kirkegård (en)
 
-|*_8_* |_Chestnut_ |Kastanje (en) |_Chilly_ |Kjølig
+|_Chestnut_ |Kastanje (en) |_Chilly_ |Kjølig
 
-|*_9_* |_Cobweb_ |Spindelvev (et) |_Coffin_ |Kiste (en)
+|_Cobweb_ |Spindelvev (et) |_Coffin_ |Kiste (en)
 
-|*_10_* |_Colorful_ |Fargerik |_Corn (on the cob)_ |Mais(kolbe) (en)
+|_Colorful_ |Fargerik |_Corn (on the cob)_ |Mais(kolbe) (en)
 
-|*_11_* |_Cornfield_ |Maisåker (en) |_Cornucopia (aka “Horn of Plenty”)_
+|_Cornfield_ |Maisåker (en) |_Cornucopia (aka “Horn of Plenty”)_
 a|
 Overflødighetshorn (et)
 
 _(se bildet på side 8)_
 
-|*_12_* |_Corpse_ |Lik (et) |_Cozy_ |Koselig
+|_Corpse_ |Lik (et) |_Cozy_ |Koselig
 
-|*_13_* |_Cranberry_ |Tranebær (et) |_Creature_ |Skapning (en)
+|_Cranberry_ |Tranebær (et) |_Creature_ |Skapning (en)
 
-|*_14_* |_Crisp_ |Sprø |_Crop_ |Avling (ei)
+|_Crisp_ |Sprø |_Crop_ |Avling (ei)
 
-|*_15_* |_Crow_ |Kråke (ei) |_Danger_ |Fare (en)
+|_Crow_ |Kråke (ei) |_Danger_ |Fare (en)
 
-|*_16_* |_Dangerous_ |Farlig |_Darkness_ |Mørke (et)
+|_Dangerous_ |Farlig |_Darkness_ |Mørke (et)
 
-|*_17_* |_Death_ |Døden |_Deciduous_ |Lauvfellende
+|_Death_ |Døden |_Deciduous_ |Lauvfellende
 
-|*_18_* |_Demon_ |Demon (en) |_Devil_ |Djevel (en)
+|_Demon_ |Demon (en) |_Devil_ |Djevel (en)
 
-|*_19_* |_Dusk / Twilight_ |Skumring (en) |_Eerie_ |Uhyggelig
+|_Dusk / Twilight_ |Skumring (en) |_Eerie_ |Uhyggelig
 
-|*_20_* |_Eggnog_ |Eggelikør (en) |_Evil / Wicked_ |Ond
+|_Eggnog_ |Eggelikør (en) |_Evil / Wicked_ |Ond
 
-|*_21_* |_Falling leaves_ |Fallende blader |_Fear_ |Frykt (en)
+|_Falling leaves_ |Fallende blader |_Fear_ |Frykt (en)
 
-|*_22_* |_Feast_ |Festmåltid (et) |_Fireplace_ |Peis (en)
+|_Feast_ |Festmåltid (et) |_Fireplace_ |Peis (en)
 
-|*_23_* |_Fog_ |Tåke (ei) |_Foggy_ |Tåkete
+|_Fog_ |Tåke (ei) |_Foggy_ |Tåkete
 
-|*_24_* |_Foliage_ |Løvverk (et) |_Ghost_ |Spøkelse (et) / Gjenferd (et)
+|_Foliage_ |Løvverk (et) |_Ghost_ |Spøkelse (et) / Gjenferd (et)
 
-|*_25_* |_Ghost story_ |Spøkelseshistorie (en) |_Goblin_ |Goblin (en)
+|_Ghost story_ |Spøkelseshistorie (en) |_Goblin_ |Goblin (en)
 
-|*_26_* |_Goose / Geese_ |Gås (ei) / Gjess |_Goosebumps_ |Gåsehud (en)
+|_Goose / Geese_ |Gås (ei) / Gjess |_Goosebumps_ |Gåsehud (en)
 
-|*_27_* |_Gourd_ |Kalebass (en) |_Grave_ |Grav (ei)
+|_Gourd_ |Kalebass (en) |_Grave_ |Grav (ei)
 
-|*_28_* |_Gravestone / Tombstone_ |Gravstein (en) |_Grim Reaper_ |Mannen
+|_Gravestone / Tombstone_ |Gravstein (en) |_Grim Reaper_ |Mannen
 med ljåen
 
-|*_29_* |_Grotesque_ |Grotesk |_Harvest_ |Innhøsting (en)
+|_Grotesque_ |Grotesk |_Harvest_ |Innhøsting (en)
 
-|*_30_* |_Haunted_ |Hjemsøkt |_Hay_ |Høy (et)
+|_Haunted_ |Hjemsøkt |_Hay_ |Høy (et)
 
-|*_31_* |_Haybale_ |Høyball (en) |_Hazelnut_ |Hasselnøtt (ei)
+|_Haybale_ |Høyball (en) |_Hazelnut_ |Hasselnøtt (ei)
 
-|*_32_* |_Hearth_ |Ildsted (et) |_Hoodie_ |Hettegenser (en)
+|_Hearth_ |Ildsted (et) |_Hoodie_ |Hettegenser (en)
 
-|*_33_* |_Horror film_ |Skrekkfilm (en) |_Hurricane_ |Orkan (en)
+|_Horror film_ |Skrekkfilm (en) |_Hurricane_ |Orkan (en)
 
-|*_34_* |_Jack-o-lantern_ |Gresskarlykt (ei) |_Magic_ |Magi (en)
+|_Jack-o-lantern_ |Gresskarlykt (ei) |_Magic_ |Magi (en)
 
-|*_35_* |_Maple syrup_ |Lønnesirup (en) |_Maple tree_ |Lønnetre (et)
+|_Maple syrup_ |Lønnesirup (en) |_Maple tree_ |Lønnetre (et)
 
-|*_36_* |_Midnight_ |Midnatt |_Monster_ |Monster (et)
+|_Midnight_ |Midnatt |_Monster_ |Monster (et)
 
-|*_37_* |_Murder_ |Mord (et) |_Murderer_ |Morder (en)
+|_Murder_ |Mord (et) |_Murderer_ |Morder (en)
 
-|*_38_* |_Murderous_ |Morderisk |_Mysterious_ |Mystisk
+|_Murderous_ |Morderisk |_Mysterious_ |Mystisk
 
-|*_39_* |_Mystery_ |Mysterium (et) |_Nature_ |Natur (en)
+|_Mystery_ |Mysterium (et) |_Nature_ |Natur (en)
 
-|*_40_* |_Nightmare_ |Mareritt (et) |_Nocturnal animal_ |Nattdyr (et)
+|_Nightmare_ |Mareritt (et) |_Nocturnal animal_ |Nattdyr (et)
 
-|*_41_* |_November_ |November |_Nut_ |Nøtt (ei)
+|_November_ |November |_Nut_ |Nøtt (ei)
 
-|*_42_* |_October_ |Oktober |_Occult_ |Okkult
+|_October_ |Oktober |_Occult_ |Okkult
 
-|*_43_* |_Odor_ |Lukt (ei) |_Omen_ |Jærtegn (et)
+|_Odor_ |Lukt (ei) |_Omen_ |Jærtegn (et)
 
-|*_44_* |_Ominous_ |Illevarslende |_Orchard_ |Frukthage (en)
+|_Ominous_ |Illevarslende |_Orchard_ |Frukthage (en)
 
-|*_45_* |_Owl_ |Ugle (en) |_Pale_ |Blek
+|_Owl_ |Ugle (en) |_Pale_ |Blek
 
-|*_46_* |_Paranormal_ |Paranormal |_Phenomenon_ |Fenomen (et)
+|_Paranormal_ |Paranormal |_Phenomenon_ |Fenomen (et)
 
-|*_47_* |_Pinecone_ |Kongle (ei) |_Pine tree_ |Furutre (et)
+|_Pinecone_ |Kongle (ei) |_Pine tree_ |Furutre (et)
 
-|*_48_* |_Predator_ |Rovdyr (et) |_Prey_ |Bytte(dyr) (et)
+|_Predator_ |Rovdyr (et) |_Prey_ |Bytte(dyr) (et)
 
-|*_49_* |_Pumpkin_ |Gresskar (et) |_Pumpkin patch_ |Gresskaråker (en)
+|_Pumpkin_ |Gresskar (et) |_Pumpkin patch_ |Gresskaråker (en)
 
-|*_50_* |_Pumpkin pie_ |Gresskarpai (en) |_Quilt_ a|
+|_Pumpkin pie_ |Gresskarpai (en) |_Quilt_ a|
 Lappeteppe (et) /
 
 Kvilt (en)
 
-|*_51_* |_Rain_ |Regn (et) |_Raincoat_ |Regnjakke (en)
+|_Rain_ |Regn (et) |_Raincoat_ |Regnjakke (en)
 
-|*_52_* |_Raven_ |Ravn (en) |_Risk_ |Risiko (en)
+|_Raven_ |Ravn (en) |_Risk_ |Risiko (en)
 
-|*_53_* |_Ritual_ |Ritual (et) |_Scarf_ |Skjerf (et)
+|_Ritual_ |Ritual (et) |_Scarf_ |Skjerf (et)
 
-|*_54_* |_Scarecrow_ |Fugleskremsel (et) |_Scary_ |Skummelt
+|_Scarecrow_ |Fugleskremsel (et) |_Scary_ |Skummelt
 
-|*_55_* |_Scream_ |Skrik (et) |_Scythe_ |Ljå (en)
+|_Scream_ |Skrik (et) |_Scythe_ |Ljå (en)
 
-|*_56_* |_Season_ |Årstid (en) |_September_ |September
+|_Season_ |Årstid (en) |_September_ |September
 
-|*_57_* |_Shadow_ |Skygge (en) |_Shapeshifter_ |Hamløper (en)
+|_Shadow_ |Skygge (en) |_Shapeshifter_ |Hamløper (en)
 
-|*_58_* |_Sinister_ |Ondskapsfull / Skremmende / Skummel |_Skeleton_
+|_Sinister_ |Ondskapsfull / Skremmende / Skummel |_Skeleton_
 |Skjelett (et)
 
-|*_59_* |_Sorcery_ |Trolldom (en) |_Soul_ |Sjel (ei)
+|_Sorcery_ |Trolldom (en) |_Soul_ |Sjel (ei)
 
-|*_60_* |_Spell_ |Trylleformel (en) |_Spellbound_ |Trollbundet
+|_Spell_ |Trylleformel (en) |_Spellbound_ |Trollbundet
 
-|*_61_* |_Spider_ |Edderkopp (en) |_Spirit_ |Ånd (en)
+|_Spider_ |Edderkopp (en) |_Spirit_ |Ånd (en)
 
-|*_62_* |_Spooky / Creepy_ |Skummel |_Squash_ |Squash (en)
+|_Spooky / Creepy_ |Skummel |_Squash_ |Squash (en)
 
-|*_63_* |_Squirrel_ |Ekorn (et) |_Stench_ |Stank (en)
+|_Squirrel_ |Ekorn (et) |_Stench_ |Stank (en)
 
-|*_64_* |_Strange_ |Rar |_Straw (hay)_ |Strå (et)
+|_Strange_ |Rar |_Straw (hay)_ |Strå (et)
 
-|*_65_* |_Supernatural_ |Overnaturlig |_Superstition_ |Overtro (ei)
+|_Supernatural_ |Overnaturlig |_Superstition_ |Overtro (ei)
 
-|*_66_* |_Sweat_ |Svette (en) |_Sweater_ |Genser (en)
+|_Sweat_ |Svette (en) |_Sweater_ |Genser (en)
 
-|*_67_* |_Sweet potato_ |Søtpotet (en) |_Sweet potato pie_ |Søtpotetpai
+|_Sweet potato_ |Søtpotet (en) |_Sweet potato pie_ |Søtpotetpai
 (en)
 
-|*_68_* |_Terror_ |Skrekk |_Tractor_ |Traktor (en)
+|_Terror_ |Skrekk |_Tractor_ |Traktor (en)
 
-|*_69_* |_Turkey_ |Kalkun (en) |_Umbrella_ |Paraply (en)
+|_Turkey_ |Kalkun (en) |_Umbrella_ |Paraply (en)
 
-|*_70_* |_Vampire_ |Vampyr (en) |_Wagon_ |Vogn (ei)
+|_Vampire_ |Vampyr (en) |_Wagon_ |Vogn (ei)
 
-|*_71_* |_Walnut_ |Valnøtt (ei) |_Werewolf_ |Varulv (en)
+|_Walnut_ |Valnøtt (ei) |_Werewolf_ |Varulv (en)
 
-|*_72_* |_Wheat_ |Hvete |_Whisper_ |Hvisk (et)
+|_Wheat_ |Hvete |_Whisper_ |Hvisk (et)
 
-|*_73_* |_Witch_ |Heks (en) |_Wolf_ |Ulv (en)
+|_Witch_ |Heks (en) |_Wolf_ |Ulv (en)
 
-|*_74_* |_Zombie_ |Zombie (en) | |
+|_Zombie_ |Zombie (en) | |
 |===
 
 image::/images/autumn-vocabulary/media/image1.png[Overflødighetshorn,width=454,height=228]
 
 === *Verbs*
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
 
-|*_1_* |_To be afraid_ |Å være redd |_To be startled_ |Å kveppe / kvekke
+|_To be afraid_ |Å være redd |_To be startled_ |Å kveppe / kvekke
 / skvette
 
-|*_2_* |_To cackle_ |Å kakle |_To cast a spell_ |Å kaste en forbannelse
+|_To cackle_ |Å kakle |_To cast a spell_ |Å kaste en forbannelse
 
-|*_3_* |_To chant_ |Å messe |_To conjure_ |Å trylle
+|_To chant_ |Å messe |_To conjure_ |Å trylle
 
-|*_4_* |_To crackle_ |Å knitre |_To crawl_ |Å krabbe
+|_To crackle_ |Å knitre |_To crawl_ |Å krabbe
 
-|*_5_* |_To creak_ |Å knirke |_To creep_ |Å krype
+|_To creak_ |Å knirke |_To creep_ |Å krype
 
-|*_6_* |_To crochet_ |Å hekle |_To fear_ |Å frykte
+|_To crochet_ |Å hekle |_To fear_ |Å frykte
 
-|*_7_* |_To grab / grip_ |Å gripe |_To harvest / reap_ |Å høste
+|_To grab / grip_ |Å gripe |_To harvest / reap_ |Å høste
 
-|*_8_* |_To haunt_ |Å hjemsøke |_To hibernate_ |Å gå i dvale
+|_To haunt_ |Å hjemsøke |_To hibernate_ |Å gå i dvale
 
-|*_9_* |_To hide_ |Å gjemme |_To howl_ |Å hyle / Å ule
+|_To hide_ |Å gjemme |_To howl_ |Å hyle / Å ule
 
-|*_10_* |_To groan_ |Å stønne |_To growl_ |Å knurre
+|_To groan_ |Å stønne |_To growl_ |Å knurre
 
-|*_11_* |_To kill_ |Å drepe |_To knit_ |Å strikke
+|_To kill_ |Å drepe |_To knit_ |Å strikke
 
-|*_12_* |_To murder_ |Å myrde |_To possess (i.e. by a ghost)_ |Å besette
+|_To murder_ |Å myrde |_To possess (i.e. by a ghost)_ |Å besette
 
-|*_13_* |_To quilt_ |Å kvilte |_To rake (i.e. leaves)_ |Å rake
+|_To quilt_ |Å kvilte |_To rake (i.e. leaves)_ |Å rake
 
-|*_14_* |_To rustle_ |Å rasle |_To scare_ |Å skremme
+|_To rustle_ |Å rasle |_To scare_ |Å skremme
 
-|*_15_* |_To scream_ |Å skrike |_To shapeshift_ |Å skifte ham
+|_To scream_ |Å skrike |_To shapeshift_ |Å skifte ham
 
-|*_16_* |_To shiver_ |Å skjelve |_To spook_ |Å spøke
+|_To shiver_ |Å skjelve |_To spook_ |Å spøke
 
-|*_17_* |_To stab_ |Å stikke |_To torture_ |Å torturere
+|_To stab_ |Å stikke |_To torture_ |Å torturere
 
-|*_18_* |_To whisper_ |Å hviske |_To yell_ |Å rope
+|_To whisper_ |Å hviske |_To yell_ |Å rope
 |===
 
 === Phrases

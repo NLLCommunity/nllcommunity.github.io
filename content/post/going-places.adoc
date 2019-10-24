@@ -160,13 +160,13 @@ So we will look at some vocab associated with traveling and directions.
 To start out, let’s look at the most common directional words, found on
 a compass and any map.
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
-|*1* |_East_ |Øst |_North_ |Nord
-|*2* |_Northeast_ |Nordøst |_Northwest_ |Nordvest
-|*3* |_South_ |Sør |_Southeast_ |Sørøst
-|*4* |_Southwest_ |Sørvest |_West_ |Vest
+|*English* |*Norwegian* |*English* |*Norwegian*
+|_East_ |Øst |_North_ |Nord
+|_Northeast_ |Nordøst |_Northwest_ |Nordvest
+|_South_ |Sør |_Southeast_ |Sørøst
+|_Southwest_ |Sørvest |_West_ |Vest
 |===
 
 ### Prepositions
@@ -174,18 +174,18 @@ a compass and any map.
 Prepositions can also help tell us where something is located, for
 example, “Across from the library…”
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
-|*1* |_Above_ |Over / Ovenfor |_Across_ |På tvers av...
-|*2* |_Across from_ |På tvers fra |_After_ |Etter
-|*3* |_Against / Toward_ |Mot |_Before_ |Før
-|*4* |_Behind_ |Bak |_Between_ |Mellom
-|*5* |_Face to face_ |Overfor |_In front of_ |Foran
-|*6* |_Inside_ |Inni (inne i) |_Near ..._ |I nærheten av ...
-|*7* |_Next to…._ |Ved siden av... |_On top of_ |På toppen av
-|*8* |_Outside_ |Utenfor |_Through_ |Gjennom
-|*9* |_To / Until_ |Til |_Under_ |Under
+|*English* |*Norwegian* |*English* |*Norwegian*
+|_Above_ |Over / Ovenfor |_Across_ |På tvers av...
+|_Across from_ |På tvers fra |_After_ |Etter
+|_Against / Toward_ |Mot |_Before_ |Før
+|_Behind_ |Bak |_Between_ |Mellom
+|_Face to face_ |Overfor |_In front of_ |Foran
+|_Inside_ |Inni (inne i) |_Near ..._ |I nærheten av ...
+|_Next to…._ |Ved siden av... |_On top of_ |På toppen av
+|_Outside_ |Utenfor |_Through_ |Gjennom
+|_To / Until_ |Til |_Under_ |Under
 |===
 
 ### Directional Phrases
@@ -193,29 +193,29 @@ example, “Across from the library…”
 Here are some common phrases that you may hear or that you may want to
 use when giving directions.
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
+|*English* |*Norwegian* |*English* |*Norwegian*
 
-|*1* |_Around the corner_ |Rundt hjørnet. |_Downhill_ |Nedover(bakke)
+|_Around the corner_ |Rundt hjørnet. |_Downhill_ |Nedover(bakke)
 
-|*2* |_Downstairs_ |Ned trappa |_Follow the road._ |Følg veien.
+|_Downstairs_ |Ned trappa |_Follow the road._ |Følg veien.
 
-|*3* |_Follow the signs._ |Følg skiltene. |_Go back..._ |Gå tilbake...
+|_Follow the signs._ |Følg skiltene. |_Go back..._ |Gå tilbake...
 
-|*4* |_Go past..._ |Gå forbi... |_(Go) Straight forward_ |(Gå) Rett frem
+|_Go past..._ |Gå forbi... |_(Go) Straight forward_ |(Gå) Rett frem
 / fram
 
-|*5* |_On the other side..._ |På den andre siden... |_Over there..._
+|_On the other side..._ |På den andre siden... |_Over there..._
 |Der borte...
 
-|*6* |_Parallel to…._ |Parallelt med... |_(Turn) to the left_ |(Gå / Snu
+|_Parallel to…._ |Parallelt med... |_(Turn) to the left_ |(Gå / Snu
 / Ta) Til venstre
 
-|*7* |_(Turn) to the right_ |(Gå / Snu / Ta) Til høyre |_Uphill_
+|_(Turn) to the right_ |(Gå / Snu / Ta) Til høyre |_Uphill_
 |Oppover(bakke)
 
-|*8* |_Upstairs_ |Opp trappa |_Watch for…._ |Se etter….
+|_Upstairs_ |Opp trappa |_Watch for…._ |Se etter….
 |===
 
 ### Locations
@@ -223,54 +223,54 @@ use when giving directions.
 Here is a short list of some locations that you may need directions in
 order to get to.
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
+|*English* |*Norwegian* |*English* |*Norwegian*
 
-|*1* |_Airport_ |Flyplass (en) |_Amusement park_ |Fornøyelsespark (en)
+|_Airport_ |Flyplass (en) |_Amusement park_ |Fornøyelsespark (en)
 
-|*2* |_Area_ |Område (et) |_ATM_ |Minibank (en)
+|_Area_ |Område (et) |_ATM_ |Minibank (en)
 
-|*3* |_Bank_ |Bank (en) |_Bay_ |Bukt (ei)
+|_Bank_ |Bank (en) |_Bay_ |Bukt (ei)
 
-|*4* |_Beach_ |Strand (ei) |_Border_ |Grense (en)
+|_Beach_ |Strand (ei) |_Border_ |Grense (en)
 
-|*5* |_Bridge_ |Bro / Bru (ei) |_Bus station_ |Busstasjon (en)
+|_Bridge_ |Bro / Bru (ei) |_Bus station_ |Busstasjon (en)
 
-|*6* |_Bus stop_ |Bussholdeplass (en) |_Capital_ |Hovedstad (en)
+|_Bus stop_ |Bussholdeplass (en) |_Capital_ |Hovedstad (en)
 
-|*7* |_Coast_ |Kyst (en) |_Convenience store_ |Nærbutikk (en)
+|_Coast_ |Kyst (en) |_Convenience store_ |Nærbutikk (en)
 
-|*8* |_Corner_ |Hjørne (et) |_County_ |Fylke (et)
+|_Corner_ |Hjørne (et) |_County_ |Fylke (et)
 
-|*9* |_Destination_ |Mål (et) |_Downtown (city ctr)_ |Sentrum (et)
+|_Destination_ |Mål (et) |_Downtown (city ctr)_ |Sentrum (et)
 
-|*10* |_Fjord_ |Fjord (en) |_Forest_ |Skog (en)
+|_Fjord_ |Fjord (en) |_Forest_ |Skog (en)
 
-|*11* |_Gas station_ |Bensinstasjon (en) +
+|_Gas station_ |Bensinstasjon (en) +
 (Bensert - Trøndersk; Bennaren - Bergensk) |_Grocery store_
 |Dagligvarebutikk / Matbutikk (en)
 
-|*12* |_Hospital_ |Sykehus (et) |_Hotel_ |Hotell (et)
+|_Hospital_ |Sykehus (et) |_Hotel_ |Hotell (et)
 
-|*13* |_Island_ |Øy (ei) |_Lake_ |Innsjø (en)
+|_Island_ |Øy (ei) |_Lake_ |Innsjø (en)
 
-|*14* |_Library_ |Bibliotek (et) |_Mall_ |Kjøpesenter (et)
+|_Library_ |Bibliotek (et) |_Mall_ |Kjøpesenter (et)
 
-|*15* |_Movie theatre_ |Kino (en) |_Municipality_ |Kommune (en)
+|_Movie theatre_ |Kino (en) |_Municipality_ |Kommune (en)
 
-|*16* |_Museum_ |Museum (et) |_Park_ |Park (en)
+|_Museum_ |Museum (et) |_Park_ |Park (en)
 
-|*17* |_Parking lot_ |Parkeringsplass (en) |_Pharmacy / Drugstore_
+|_Parking lot_ |Parkeringsplass (en) |_Pharmacy / Drugstore_
 |Apotek (et)
 
-|*18* |_Post office_ |Postkontor (et) |_Restaurant_ |Restaurant (en)
+|_Post office_ |Postkontor (et) |_Restaurant_ |Restaurant (en)
 
-|*19* |_River_ |Elv (ei) |_Subway station_ |T-banestasjon (en)
+|_River_ |Elv (ei) |_Subway station_ |T-banestasjon (en)
 
-|*20* |_Theatre_ |Teater (et) |_Train station_ |Togstasjon (en)
+|_Theatre_ |Teater (et) |_Train station_ |Togstasjon (en)
 
-|*21* |_Valley_ |Dal (en) |_Village_ |Landsby (en) / Bygd (ei)
+|_Valley_ |Dal (en) |_Village_ |Landsby (en) / Bygd (ei)
 |===
 
 ### Car Terms
@@ -278,29 +278,29 @@ order to get to.
 If you rent a car or own a car in Norway, here are some important words
 to know.
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
+|*English* |*Norwegian* |*English* |*Norwegian*
 
-|*1* |_Automatic_ |Automatgir (et) |_Brakes_ |Bremser (en)
+|_Automatic_ |Automatgir (et) |_Brakes_ |Bremser (en)
 
-|*2* |_Car rental_ |Bilutleie (en) |_Engine_ |Motor (en)
+|_Car rental_ |Bilutleie (en) |_Engine_ |Motor (en)
 
-|*3* |_Gas / Petrol_ |Bensin (en) |_Headlight_ |Frontlykt (en)
+|_Gas / Petrol_ |Bensin (en) |_Headlight_ |Frontlykt (en)
 
-|*4* |_High beams / Brights_ |Fjernlys (et) |_Ignition_ |Tenning (en)
+|_High beams / Brights_ |Fjernlys (et) |_Ignition_ |Tenning (en)
 
-|*5* |_Manual / Standard / Stick shift_ |Manuelt gir (et) |_Oil_ |Olje
+|_Manual / Standard / Stick shift_ |Manuelt gir (et) |_Oil_ |Olje
 (en)
 
-|*6* |_Rearview mirror_ |Bakspeil (et) |_Side view mirror_ |Sidespeil
+|_Rearview mirror_ |Bakspeil (et) |_Side view mirror_ |Sidespeil
 (et)
 
-|*7* |_Steering wheel_ |Ratt (et) |_Taxi_ |Taxi (en) / Drosje
+|_Steering wheel_ |Ratt (et) |_Taxi_ |Taxi (en) / Drosje
 
-|*8* |_Tire(s)_ |Dekk (et) |_Turn signal / Blinker_ |Blinklys (et)
+|_Tire(s)_ |Dekk (et) |_Turn signal / Blinker_ |Blinklys (et)
 
-|*9* |_Windshield_ |Frontrute (en) |_Windshield wipers_ |Vindusviskere
+|_Windshield_ |Frontrute (en) |_Windshield wipers_ |Vindusviskere
 (en)
 |===
 
@@ -308,86 +308,86 @@ to know.
 
 Here are some more important words to know if you drive in Norway.
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
+|*English* |*Norwegian* |*English* |*Norwegian*
 
-|*1* |_Alley_ |Smug (et) |_Avenue_ |Allé (en)
+|_Alley_ |Smug (et) |_Avenue_ |Allé (en)
 
-|*2* |_Bicycle lane_ |Sykkelfelt (et) |_Dead end_ |Blindvei (en)
+|_Bicycle lane_ |Sykkelfelt (et) |_Dead end_ |Blindvei (en)
 
-|*3* |_Detour_ |Omvei (en) |_Directions (driving)_ |Veibeskrivelse (en)
+|_Detour_ |Omvei (en) |_Directions (driving)_ |Veibeskrivelse (en)
 
-|*4* |_(Driving) lane_ |(Kjøre)felt (et) |_Driveway_ |Innkjørsel (en)
+|_(Driving) lane_ |(Kjøre)felt (et) |_Driveway_ |Innkjørsel (en)
 
-|*5* |_Exit (on highway)_ |Avkjøring (en) / Avkjørsel |_Highway_
+|_Exit (on highway)_ |Avkjøring (en) / Avkjørsel |_Highway_
 |Motorvei (en)
 
-|*6* |_Intersection_ |Veikryss (et) |_Merge_ |Flette
+|_Intersection_ |Veikryss (et) |_Merge_ |Flette
 
-|*7* |_No parking._ |Parkering forbudt |_One-way street_ |Enveiskjørt
+|_No parking._ |Parkering forbudt |_One-way street_ |Enveiskjørt
 gate (en)
 
-|*8* |_Ramp_ |Rampe (en) |_Road_ |Vei (en)
+|_Ramp_ |Rampe (en) |_Road_ |Vei (en)
 
-|*9* |_Road sign_ |Veiskilt (et) |_Roundabout_ |Rundkjøring (en)
+|_Road sign_ |Veiskilt (et) |_Roundabout_ |Rundkjøring (en)
 
-|*10* |_Route_ |Rute (en) |_Shoulder_ |Veiskulder (en)
+|_Route_ |Rute (en) |_Shoulder_ |Veiskulder (en)
 
-|*11* |_Speed limit_ |Fartsgrense (en) |_Stop sign_ |Stoppskilt (et)
+|_Speed limit_ |Fartsgrense (en) |_Stop sign_ |Stoppskilt (et)
 
-|*12* |_Street_ |Gate (en) |_Toll_ |Bompenger (en)
+|_Street_ |Gate (en) |_Toll_ |Bompenger (en)
 
-|*13* |_Toll road_ |Bomvei (en) |_Toll roads surrounding e.g. a town_
+|_Toll road_ |Bomvei (en) |_Toll roads surrounding e.g. a town_
 |Bomring (en)
 
-|*14* |_Toll station_ |Bompengestasjon (en) |_Traffic light_ |Trafikklys
+|_Toll station_ |Bompengestasjon (en) |_Traffic light_ |Trafikklys
 (et)
 
-|*15* |_U-Turn_ |U-sving (en) |_Yield_ |Vike
+|_U-Turn_ |U-sving (en) |_Yield_ |Vike
 
-|*16* |_Yield (markings painted on the road)_ |Vikelinje / Haitenner | |
+|_Yield (markings painted on the road)_ |Vikelinje / Haitenner | |
 |===
 
 image:/images/going-places/media/image3.png[image,width=489,height=228]
 
 ### Misc. Nouns
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
-|*1* |_Bus_ |Buss (en) |_Compass_ |Kompass (et)
-|*2* |_Coordinates_ |Koordinater (en) |_Direction_ |Retning (en)
-|*3* |_Elevator_ |Heis (en) |_Escalator_ |Rulletrapp (en)
-|*4* |_Ferry_ |Ferje (ei) / Ferge (ei) |_Landmark_ |Landemerke (et)
-|*5* |_Latitude_ |Breddegrad (en) |_Longitude_ |Lengdegrad (en)
-|*6* |_Map_ |Kart (et) |_Mountain_ |Fjell (et)
-|*7* |_Stairs_ |Trapp (en) |_Subway_ |Undergrunnsbane (en)
-|*8* |_Ticket_ |Billett (en) |_Train_ |Tog (et)
-|*9* |_Tram_ |Trikk (en) |_Transportation_ |Transport (en)
-|*10* |_Window seat_ |Vindussete (et) | |
+|*English* |*Norwegian* |*English* |*Norwegian*
+|_Bus_ |Buss (en) |_Compass_ |Kompass (et)
+|_Coordinates_ |Koordinater (en) |_Direction_ |Retning (en)
+|_Elevator_ |Heis (en) |_Escalator_ |Rulletrapp (en)
+|_Ferry_ |Ferje (ei) / Ferge (ei) |_Landmark_ |Landemerke (et)
+|_Latitude_ |Breddegrad (en) |_Longitude_ |Lengdegrad (en)
+|_Map_ |Kart (et) |_Mountain_ |Fjell (et)
+|_Stairs_ |Trapp (en) |_Subway_ |Undergrunnsbane (en)
+|_Ticket_ |Billett (en) |_Train_ |Tog (et)
+|_Tram_ |Trikk (en) |_Transportation_ |Transport (en)
+|_Window seat_ |Vindussete (et) | |
 |===
  
 ### Verbs
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
+|*English* |*Norwegian* |*English* |*Norwegian*
 
-|*1* |_To brake_ |Å bremse |_To drive_ |Å kjøre
+|_To brake_ |Å bremse |_To drive_ |Å kjøre
 
-|*2* |_To fly_ |Å fly |_To go_ |Å dra
+|_To fly_ |Å fly |_To go_ |Å dra
 
-|*3* |_To park_ |Å parkere |_To pay_ |Å betale
+|_To park_ |Å parkere |_To pay_ |Å betale
 
-|*4* |_To rent_ |Å leie |_To reverse_ |Å rygge
+|_To rent_ |Å leie |_To reverse_ |Å rygge
 
-|*5* |_To run_ |Å løpe |_To steer_ |Å styre
+|_To run_ |Å løpe |_To steer_ |Å styre
 
-|*6* |_To take (e.g. the ferry)_ |Å ta (f. eks. ferga) |_To travel_ |Å
+|_To take (e.g. the ferry)_ |Å ta (f. eks. ferga) |_To travel_ |Å
 reise
 
-|*7* |_Turn (around)_ |Å snu (rundt) |_To walk_ |Å gå
+|_Turn (around)_ |Å snu (rundt) |_To walk_ |Å gå
 |===
 
 *A note on å gå and å dra:* +
@@ -415,68 +415,68 @@ reise” as well to express travelling somewhere, typically further away.
 Finally, here are some important phrases you may use or hear with
 regards to traveling someplace or asking where things are located.
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
+|*English* |*Norwegian* |*English* |*Norwegian*
 
-|*1* |_Can you help me?_ |Kan du hjelpe meg? |_Can you recommend any
+|_Can you help me?_ |Kan du hjelpe meg? |_Can you recommend any
 good…?_ |Kan du anbefale noe(n) bra…?
 
-|*2* |_Can you show me….?_ |Kan du vise meg…? |_Can you tell me how to
+|_Can you show me….?_ |Kan du vise meg…? |_Can you tell me how to
 get there from here?_ |Kan du fortelle meg hvordan jeg kommer meg dit
 herfra?
 
-|*3* |_Where am I?_ |Hvor er jeg? |_Where is the bathroom?_ |Hvor er
+|_Where am I?_ |Hvor er jeg? |_Where is the bathroom?_ |Hvor er
 toalettet?
 
-|*4* |_Where can I find…?_ |Hvor kan jeg finne…? |_How long does it take
+|_Where can I find…?_ |Hvor kan jeg finne…? |_How long does it take
 to get there?_ |Hvor lang tid tar det å komme seg dit?
 
-|*5* |_How much further is it?_ |Hvor mye lenger er det? |_How much is a
+|_How much further is it?_ |Hvor mye lenger er det? |_How much is a
 ticket to…?_ |Hvor mye koster en billett til…?
 
-|*6* |_How can I get to…?_ |Hvordan kan jeg komme meg til…? |_Which
+|_How can I get to…?_ |Hvordan kan jeg komme meg til…? |_Which
 direction is…?_ |(I) Hvilken retning er...?
 
-|*7* |_Have I gone too far?_ |Har jeg gått for langt? |_Must I go much
+|_Have I gone too far?_ |Har jeg gått for langt? |_Must I go much
 further to reach…?_ |Må jeg gå mye lenger for å nå…?
 
-|*8* |_Does the bus stop at…?_ |Stopper bussen på…? |_I am looking
+|_Does the bus stop at…?_ |Stopper bussen på…? |_I am looking
 for..._ |Jeg leter / ser etter...
 
-|*9* |_I am lost._ |Jeg har gått meg bort. |_I’m not from here._ |Jeg er
+|_I am lost._ |Jeg har gått meg bort. |_I’m not from here._ |Jeg er
 ikke herfra.
 
-|*10* |_I have a flat tire._ |Jeg har punktert. |_I want (x) tickets,
+|_I have a flat tire._ |Jeg har punktert. |_I want (x) tickets,
 please._ |Jeg vil ha (x) billetter, takk.
 
-|*11* |_I’d like to buy a (return) ticket to..._ |Jeg vil gjerne kjøpe
+|_I’d like to buy a (return) ticket to..._ |Jeg vil gjerne kjøpe
 en (retur)billett til... |_I’d like to rent a car._ |Jeg vil gjerne leie
 en bil.
 
-|*12* |_I want full coverage insurance._ |Jeg vil ha kaskoforsikring.
+|_I want full coverage insurance._ |Jeg vil ha kaskoforsikring.
 |_The car needs oil._ |Bilen trenger olje.
 
-|*13* |_You can walk there._ |Du kan gå dit. |_It’s within walking distance._ |Det er i gangavstand
+|_You can walk there._ |Du kan gå dit. |_It’s within walking distance._ |Det er i gangavstand
 
-|*14* |_It’s near here._ |Det er i nærheten. |_It’s close._ |Det er
+|_It’s near here._ |Det er i nærheten. |_It’s close._ |Det er
 nærme.
 
-|*15* |_It will take you about (x) minutes._ |Det vil ta deg cirka (x)
+|_It will take you about (x) minutes._ |Det vil ta deg cirka (x)
 minutter. |_It is right over here / there._ |Det er rett her / der
 borte.
 
-|*16* |_If you have gone past (the)..., you’ve gone too far._ |Hvis du
+|_If you have gone past (the)..., you’ve gone too far._ |Hvis du
 har gått forbi…, har du gått for langt. |_You’re almost there._ |Du er
 nesten framme.
 
-|*17* |_Just up / down the road..._ |Bare opp / nedover gaten... |_It’s
+|_Just up / down the road..._ |Bare opp / nedover gaten... |_It’s
 not far from here._ |Det er ikke langt herfra.
 
-|*18* |_Just a block away._ |Bare et kvartal unna. |_It’s on the second
+|_Just a block away._ |Bare et kvartal unna. |_It’s on the second
 / third / etc floor._ |Det er i andre / tredje / etc etasje.
 
-|*19* |_It’s far from here._ |Det er langt herfra. |_You should take the
+|_It’s far from here._ |Det er langt herfra. |_You should take the
 (x) bus / tram / train..._ |Du burde ta buss / trikk / tog (nummer x)..
 |===
 

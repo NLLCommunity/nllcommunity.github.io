@@ -193,217 +193,217 @@ involved with in Norway.
 
 *Verbs:*
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
+|*English* |*Norwegian* |*English* |*Norwegian*
 
-|*1* |_To bike_ |Å sykle |_Bouldering_ |buldring
+|_To bike_ |Å sykle |_Bouldering_ |buldring
 
-|*2* |_To bowl_ |Å bowle |_To box_ |Å bokse
+|_To bowl_ |Å bowle |_To box_ |Å bokse
 
-|*3* |_To catch_ |Å fange |_To cheer_ |Å heie på
+|_To catch_ |Å fange |_To cheer_ |Å heie på
 
-|*4* |_To climb_ |Å klatre |_To compete_ |Å konkurrere
+|_To climb_ |Å klatre |_To compete_ |Å konkurrere
 
-|*5* |_To defend_ |Å forsvare |_To dive_ |Å dykke
+|_To defend_ |Å forsvare |_To dive_ |Å dykke
 
-|*6* |_To exercise_ |Å trene |_To fence_ |Å fekte
+|_To exercise_ |Å trene |_To fence_ |Å fekte
 
-|*7* |_To fish_ |Å fiske |_To golf_ |Å spille golf
+|_To fish_ |Å fiske |_To golf_ |Å spille golf
 
-|*8* |_To hike_ |Å vandre |_To ice skate_ |Å skøyte
+|_To hike_ |Å vandre |_To ice skate_ |Å skøyte
 
-|*9* |_To jog_ |Å jogge |_To jump_ |Å hoppe / (s)pringe
+|_To jog_ |Å jogge |_To jump_ |Å hoppe / (s)pringe
 
-|*10* |_To kick_ |Å sparke |_To lift weights_ |Å løfte vekter
+|_To kick_ |Å sparke |_To lift weights_ |Å løfte vekter
 
-|*11* |_To lose_ |Å tape |_To move_ |Å bevege
+|_To lose_ |Å tape |_To move_ |Å bevege
 
-|*12* |_To pass_ |Å sentre |_To pitch_ |Å kaste
+|_To pass_ |Å sentre |_To pitch_ |Å kaste
 
-|*13* |_To play_ |Å spille |_To practice_ |Å øve
+|_To play_ |Å spille |_To practice_ |Å øve
 
-|*14* |_To roller skate_ |Å gå på rulleskøyter |_To row_ |Å ro
+|_To roller skate_ |Å gå på rulleskøyter |_To row_ |Å ro
 
-|*15* |_To run_ |Å løpe |_To sail_ |Å seile
+|_To run_ |Å løpe |_To sail_ |Å seile
 
-|*16* |_To score_ |Å score |_To scuba dive_ |Å dykke
+|_To score_ |Å score |_To scuba dive_ |Å dykke
 
-|*17* |_To ski_ |Å gå på ski |_To snowboard_ |Å stå på snowboard / Å
+|_To ski_ |Å gå på ski |_To snowboard_ |Å stå på snowboard / Å
 snowboarde
 
-|*18* |_To stretch_ |Å strekke / tøye |_To surf_ |Å surfe
+|_To stretch_ |Å strekke / tøye |_To surf_ |Å surfe
 
-|*19* |_To swim_ |Å svømme |_To throw_ |Å kaste
+|_To swim_ |Å svømme |_To throw_ |Å kaste
 
-|*20* |_To tie / draw_ |Å spille uavgjort |_To win_ |Å vinne
+|_To tie / draw_ |Å spille uavgjort |_To win_ |Å vinne
 
-|*21* |_To work out_ |Å trene |_To wrestle_ |Å bryte
+|_To work out_ |Å trene |_To wrestle_ |Å bryte
 |===
 
 *Nouns & Adjectives:*
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
+|*English* |*Norwegian* |*English* |*Norwegian*
 
-|*1* |_Aerobics_ |Aerobic |_Archery_ |Bueskyting
+|_Aerobics_ |Aerobic |_Archery_ |Bueskyting
 
-|*2* |_Arrow_ |Pil (ei) |_Athlete_ |Atlet (en)
+|_Arrow_ |Pil (ei) |_Athlete_ |Atlet (en)
 
-|*3* |_Athletic_ |Atletisk |_Badminton_ |Badminton
+|_Athletic_ |Atletisk |_Badminton_ |Badminton
 
-|*4* |_Bait_ |Agn (ei) |_Ball_ |Ball (en)
+|_Bait_ |Agn (ei) |_Ball_ |Ball (en)
 
-|*5* |_Base_ |Base (en) |_Baseball_ |Baseball
+|_Base_ |Base (en) |_Baseball_ |Baseball
 
-|*6* |_Baseball glove_ |Baseballhanske (en) |_Basketball_ |Basketball
+|_Baseball glove_ |Baseballhanske (en) |_Basketball_ |Basketball
 
-|*7* |_Basketball hoop_ |Basketballnett (et) |_Bat_ |Balltre
+|_Basketball hoop_ |Basketballnett (et) |_Bat_ |Balltre
 
-|*8* |_Biathlete_ |Skiskytter (en) |_Biathlon_ |Skiskyting (en)
+|_Biathlete_ |Skiskytter (en) |_Biathlon_ |Skiskyting (en)
 
-|*9* |_Bicycle_ |Sykkel (en) |_Billiard_ |Biljard
+|_Bicycle_ |Sykkel (en) |_Billiard_ |Biljard
 
-|*10* |_Birdie / Shuttlecock_ |Fjærball (en) |_Boat_ |Båt (en)
+|_Birdie / Shuttlecock_ |Fjærball (en) |_Boat_ |Båt (en)
 
-|*11* |_Bow_ |Bue (en) |_Bowling ball_ |Bowlingball (en)
+|_Bow_ |Bue (en) |_Bowling ball_ |Bowlingball (en)
 
-|*12* |_Boxer_ |Bokser (en) |_Boxing gloves_ |Boksehansker (en)
+|_Boxer_ |Bokser (en) |_Boxing gloves_ |Boksehansker (en)
 
 |*12.5* |_Brännboll_ |Brennball / Slåball |_Canoe_ |Kano (en)
 
-|*14* |_Champion_ |Mester (en) |_Championship_ |Mesterskap (et)
+|_Champion_ |Mester (en) |_Championship_ |Mesterskap (et)
 
-|*15* |_Cheerleader_ |Cheerleader (en) |_Cleats_ |Fotballsko (en)
+|_Cheerleader_ |Cheerleader (en) |_Cleats_ |Fotballsko (en)
 
-|*16* |_Coach / Trainer_ |Trener (en) |_Competition_ |Konkurranse (en)
+|_Coach / Trainer_ |Trener (en) |_Competition_ |Konkurranse (en)
 
-|*17* |_Court_ |Bane (en) |_Cricket_ |Cricket
+|_Court_ |Bane (en) |_Cricket_ |Cricket
 
-|*18* |_Croquet_ |Krokket |_Cross Country Ski_ |Langrenn (et)
+|_Croquet_ |Krokket |_Cross Country Ski_ |Langrenn (et)
 
-|*19* |_Curling_ |Curling |_Dart_ |(Dart)pil (en)
+|_Curling_ |Curling |_Dart_ |(Dart)pil (en)
 
-|*20* |_Darts_ |Dart (spillet) |_Dartboard_ |Dartskive (en)
+|_Darts_ |Dart (spillet) |_Dartboard_ |Dartskive (en)
 
-|*21* |_Defense_ |Forsvar (et) |_Diver_ |Dykker (en)
+|_Defense_ |Forsvar (et) |_Diver_ |Dykker (en)
 
-|*22* |_Dodgeball_ |Kanonball |_Downhill skiing (Alpine)_ |_Slalåm_
+|_Dodgeball_ |Kanonball |_Downhill skiing (Alpine)_ |_Slalåm_
 
-|*23* |_Equestrian / Riding_ |Ridning |_Equipment / Gear_ |Utstyr (et)
+|_Equestrian / Riding_ |Ridning |_Equipment / Gear_ |Utstyr (et)
 
-|*24* |_Exercise_ |Trening (ei) |_Field_ |Bane (en)
+|_Exercise_ |Trening (ei) |_Field_ |Bane (en)
 
-|*25* |_Field hockey_ |Landhockey |_Fishing boat_ |Fiskebåt (en)
+|_Field hockey_ |Landhockey |_Fishing boat_ |Fiskebåt (en)
 
-|*26* |_Fishing hook_ |Fiskekrok (en) |_Fishing rod_ |Fiskestang (ei)
+|_Fishing hook_ |Fiskekrok (en) |_Fishing rod_ |Fiskestang (ei)
 
-|*27* |_Football (Soccer)_ |Fotball |_Foul_ |Uærlig spill / Fusk / Juks
+|_Football (Soccer)_ |Fotball |_Foul_ |Uærlig spill / Fusk / Juks
 
-|*28* |_Frisbee_ |Frisbee (en) |_Game_ |Spill (et)
+|_Frisbee_ |Frisbee (en) |_Game_ |Spill (et)
 
-|*29* |_Goal_ |Mål (et) |_Goalie / Goalkeeper_ |Keeper / Målmann (en)
+|_Goal_ |Mål (et) |_Goalie / Goalkeeper_ |Keeper / Målmann (en)
 
-|*30* |_Golf_ |Golf |_Golf ball_ |Golfball (en)
+|_Golf_ |Golf |_Golf ball_ |Golfball (en)
 
-|*31* a|
+a|
 _Golf club_
 
 _(to hit the ball with)_
 
 |Golfkølle (ei) |_Golf course_ |Golfbane (en)
 
-|*32* |_Gym_ |Treningsstudio |_Gymnast_ |Gymnast (en)
+|_Gym_ |Treningsstudio |_Gymnast_ |Gymnast (en)
 
-|*33* |_Gymnastics_ |Gymnastikk |_Handball_ |Håndball (en)
+|_Gymnastics_ |Gymnastikk |_Handball_ |Håndball (en)
 
-|*34* |_Helmet_ |Hjelm (en) |_(Ice) Hockey_ |Ishockey
+|_Helmet_ |Hjelm (en) |_(Ice) Hockey_ |Ishockey
 
-|*35* |_Hole-in-one_ |_Hole-in-one_ |_Home field_ |Hjemmebane (en)
+|_Hole-in-one_ |_Hole-in-one_ |_Home field_ |Hjemmebane (en)
 
-|*36* |_Horseshoes_ |Hestesko (en) |_Ice skates_ |Skøyter (ei)
+|_Horseshoes_ |Hestesko (en) |_Ice skates_ |Skøyter (ei)
 
-|*37* |_Judo_ |Judo |_Jump rope_ |Hoppetau (et)
+|_Judo_ |Judo |_Jump rope_ |Hoppetau (et)
 
-|*38* |_Karate_ |Karate |_Kayak_ |Kajakk (en)
+|_Karate_ |Karate |_Kayak_ |Kajakk (en)
 
-|*39* |_Kite_ |Drage (en) |_Lacrosse_ |Lacrosse
+|_Kite_ |Drage (en) |_Lacrosse_ |Lacrosse
 
-|*40* |_League_ |Liga (en) |_Mallet / Club_ |Klubbe (ei)
+|_League_ |Liga (en) |_Mallet / Club_ |Klubbe (ei)
 
-|*41* |_Marathon_ |Maraton (en) / Maratonløp (et) |_Martial arts_
+|_Marathon_ |Maraton (en) / Maratonløp (et) |_Martial arts_
 |Kampsport (en)
 
-|*42* |_Mouthguard_ |Munnbeskyttelse (en) |_Net_ |Nett (et)
+|_Mouthguard_ |Munnbeskyttelse (en) |_Net_ |Nett (et)
 
-|*43* |_Oar_ |Åre (ei) |_Offense_ |Angrep
+|_Oar_ |Åre (ei) |_Offense_ |Angrep
 
-|*44* |_Opponent_ |Motstander (en) |_Paddle_ |Padleåre
+|_Opponent_ |Motstander (en) |_Paddle_ |Padleåre
 
-|*45* |_Paintball_ |Paintball |_Pastime_ |Tidsfordriv (et)
+|_Paintball_ |Paintball |_Pastime_ |Tidsfordriv (et)
 
-|*46* |_Penalty_ |Straff (en) |_Ping pong_ |Bordtennis
+|_Penalty_ |Straff (en) |_Ping pong_ |Bordtennis
 
-|*47* |_Pitcher_ |Kaster (en) |_Player_ |Spiller (en)
+|_Pitcher_ |Kaster (en) |_Player_ |Spiller (en)
 
-|*48* |_Playoffs_ |Playoff-kamp / Sluttspill |_Pool_ |Svømmebasseng (et)
+|_Playoffs_ |Playoff-kamp / Sluttspill |_Pool_ |Svømmebasseng (et)
 
-|*49* |_Pool table_ |Biljardbord (et) |_Puck_ |Puck (en)
+|_Pool table_ |Biljardbord (et) |_Puck_ |Puck (en)
 
-|*50* |_Race_ |Løp (et) |_Racket_ |Racket (en)
+|_Race_ |Løp (et) |_Racket_ |Racket (en)
 
-|*51* |_Raft_ |Flåte (en) |_Recreation_ |Rekreasjon (en)
+|_Raft_ |Flåte (en) |_Recreation_ |Rekreasjon (en)
 
-|*52* |_Referee_ |Dommer (en) |_Rink_ |Skøytebane (en)
+|_Referee_ |Dommer (en) |_Rink_ |Skøytebane (en)
 
-|*53* |_Roller skates_ |Rulleskøyter (ei) |_Rugby_ |Rugby
+|_Roller skates_ |Rulleskøyter (ei) |_Rugby_ |Rugby
 
-|*54* |_Runner_ |Løper (en) |_Score_ |Poengsum
+|_Runner_ |Løper (en) |_Score_ |Poengsum
 
-|*55* |_Skateboard_ |Rullebrett (et) |_Skier_ |Skiløper (en)
+|_Skateboard_ |Rullebrett (et) |_Skier_ |Skiløper (en)
 
-|*56* |_Ski pole_ |Skistav (en) |_Skis_ |Ski
+|_Ski pole_ |Skistav (en) |_Skis_ |Ski
 
-|*57* |_Ski slope_ |Skibakke (en) / Løypa (ei) |_Snowboard_ |Snøbrett
+|_Ski slope_ |Skibakke (en) / Løypa (ei) |_Snowboard_ |Snøbrett
 (et)
 
-|*58* |_Somersault_ |_Rulle (en) - på bakken_ |_Sport_ |Sport (en)
+|_Somersault_ |_Rulle (en) - på bakken_ |_Sport_ |Sport (en)
 
 | | |_Salto(mortale)_ (en) - i luften | |
 
-|*59* |_Sportsmanship_ |Sportsånd (en) |_Stadium_ |Stadion (et)
+|_Sportsmanship_ |Sportsånd (en) |_Stadium_ |Stadion (et)
 
-|*60* a|
+a|
 _Strike_
 
 _(bowling)_
 
 |Strike (en) |_Surfboard_ |Surfebrett (et)
 
-|*61* |_Surfer_ |Surfer (en) |_Swimmer_ |Svømmer (en)
+|_Surfer_ |Surfer (en) |_Swimmer_ |Svømmer (en)
 
-|*62* |_Swimsuit_ |Badedrakt (ei) |_Taekwondo_ |Taekwondo
+|_Swimsuit_ |Badedrakt (ei) |_Taekwondo_ |Taekwondo
 
-|*63* |_Target_ |Mål (et) |_Team_ |Lag (et)
+|_Target_ |Mål (et) |_Team_ |Lag (et)
 
-|*64* |_Teammate_ |Lagkamerat (en) |_Teamwork_ |Samarbeid (et)
+|_Teammate_ |Lagkamerat (en) |_Teamwork_ |Samarbeid (et)
 
-|*65* |_Tennis_ |Tennis |_Tie_ |Uavgjort
+|_Tennis_ |Tennis |_Tie_ |Uavgjort
 
-|*66* |_Tug-of-war_ |Tautrekking |_Uniform_ |Uniform (ei)
+|_Tug-of-war_ |Tautrekking |_Uniform_ |Uniform (ei)
 
-|*67* |_Volleyball_ |Volleyball (en) |_Water polo_ |Vannpolo (en)
+|_Volleyball_ |Volleyball (en) |_Water polo_ |Vannpolo (en)
 
-|*67* |_Wave_ |Bølge (ei) |_Weights_ |Vekter
+|_Wave_ |Bølge (ei) |_Weights_ |Vekter
 
-|*69* |_Wetsuit_ |Våtdrakt (ei) |_Whistle_ |Fløyte (ei)
+|_Wetsuit_ |Våtdrakt (ei) |_Whistle_ |Fløyte (ei)
 
-|*70* |_Winner_ |Vinner (en) |_Wrestler_ |Bryter (en)
+|_Winner_ |Vinner (en) |_Wrestler_ |Bryter (en)
 
-|*71* |_Wrestling match_ |Brytekamp (en) |_Victory_ |Seier (en)
+|_Wrestling match_ |Brytekamp (en) |_Victory_ |Seier (en)
 
-|*72* |_Yoga_ |Yoga |_Floorball_ |Innebandy
+|_Yoga_ |Yoga |_Floorball_ |Innebandy
 |===
 
 *_{asterisk}{asterisk}If the lesson was beneficial, please consider

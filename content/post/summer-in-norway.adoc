@@ -184,71 +184,71 @@ jazz, blues, and contemporary music.
 
 ### Summer Vocab
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norsk* |*English* |*Norsk*
+|*English* |*Norsk* |*English* |*Norsk*
 
-|*1* |_Amusement park_ |Fornøyelsespark (en) |_August_ |August
+|_Amusement park_ |Fornøyelsespark (en) |_August_ |August
 
-|*2* |_Beach_ |Strand (en) |_Beach ball_ |Badeball (en)
+|_Beach_ |Strand (en) |_Beach ball_ |Badeball (en)
 
-|*3* |_Blueberry_ |Blåbær (et) |_Bonfire_ |Bål (et)
+|_Blueberry_ |Blåbær (et) |_Bonfire_ |Bål (et)
 
-|*4* |_Campfire_ |(Leir)Bål (et) |_Campground_ |Campingplass (en)
+|_Campfire_ |(Leir)Bål (et) |_Campground_ |Campingplass (en)
 
-|*5* |_Canoe_ |Kano (en) |_Cherry_ |Kirsebær (et)
+|_Canoe_ |Kano (en) |_Cherry_ |Kirsebær (et)
 
-|*6* |_Fan_ |Vifte (en) |_Festival_ |Festival (en)
+|_Fan_ |Vifte (en) |_Festival_ |Festival (en)
 
-|*7* |_Flip-flops_ |Flipflopper / Slipper |_Flower_ |Blomst (en)
+|_Flip-flops_ |Flipflopper / Slipper |_Flower_ |Blomst (en)
 
-|*8* |_Forest_ |Skog (en) |_Garden_ |Hage (en)
+|_Forest_ |Skog (en) |_Garden_ |Hage (en)
 
-|*9* |_Heat_ |Varme |_Hot_ |Varm(t)
+|_Heat_ |Varme |_Hot_ |Varm(t)
 
-|*10* |_Holiday / Vacation_ |Ferie |_Humidity_ |Luftfuktighet (en)
+|_Holiday / Vacation_ |Ferie |_Humidity_ |Luftfuktighet (en)
 
-|*11* |_Ice cream_ |Is(krem) |_July_ |Juli
+|_Ice cream_ |Is(krem) |_July_ |Juli
 
-|*12* |_June_ |Juni |_Lawnmower_ |Gressklipper (en)
+|_June_ |Juni |_Lawnmower_ |Gressklipper (en)
 
-|*13* |_Lightning_ |Lyn |_Lightning bug / Firefly_ |Ildflue (et)
+|_Lightning_ |Lyn |_Lightning bug / Firefly_ |Ildflue (et)
 
-|*14* |_Marshmallow_ |Marshmallow (en) |_Ocean_ |Hav (et)
+|_Marshmallow_ |Marshmallow (en) |_Ocean_ |Hav (et)
 
-|*15* |_Outdoors_ |Utendørs |_Outside_ |Utenfor
+|_Outdoors_ |Utendørs |_Outside_ |Utenfor
 
-|*16* |_Parasol_ |Parasoll |_Park_ |Park (en)
+|_Parasol_ |Parasoll |_Park_ |Park (en)
 
-|*17* |_Picnic_ |Piknik (en) |_Road trip_ |Bilferie (en)
+|_Picnic_ |Piknik (en) |_Road trip_ |Bilferie (en)
 
-|*18* |_Roller coaster_ |Berg-og-dal-bane (en) |_Rose_ |Rose (en)
+|_Roller coaster_ |Berg-og-dal-bane (en) |_Rose_ |Rose (en)
 
-|*19* |_Sailboat_ |Seilbåt (en) |_Sand_ |Sand
+|_Sailboat_ |Seilbåt (en) |_Sand_ |Sand
 
-|*20* |_Sandals_ |Sandaler |_Sandcastle_ |Sandslott (et)
+|_Sandals_ |Sandaler |_Sandcastle_ |Sandslott (et)
 
-|*21* |_Shorts_ |Shorts (en) |_Sleeping bag_ |Sovepose
+|_Shorts_ |Shorts (en) |_Sleeping bag_ |Sovepose
 
-|*22* |_Strawberry_ |Jordbær (et) |_Summer_ |Sommer
+|_Strawberry_ |Jordbær (et) |_Summer_ |Sommer
 
-|*23* |_Sunburn_ |Solbrenthet |_Sunflower_ |Solsikke
+|_Sunburn_ |Solbrenthet |_Sunflower_ |Solsikke
 
-|*24* |_Sunglasses_ |Solbriller |_Sunscreen_ |Solkrem
+|_Sunglasses_ |Solbriller |_Sunscreen_ |Solkrem
 
-|*25* |_Sunshine_ |Solskinn |_Suntan_ |Solbrun
+|_Sunshine_ |Solskinn |_Suntan_ |Solbrun
 
-|*26* |_Swimsuit / Bathing suit_ |Badedrakt (ei) |_Swimming trunks_
+|_Swimsuit / Bathing suit_ |Badedrakt (ei) |_Swimming trunks_
 |Badebukse (ei)
 
-|*27* |_Tent_ |Telt (et) |_T-shirt_ |T-skjorte (ei)
+|_Tent_ |Telt (et) |_T-shirt_ |T-skjorte (ei)
 
-|*28* |_Thunder_ |Torden |_Thunderstorm_ |Tordenvær
+|_Thunder_ |Torden |_Thunderstorm_ |Tordenvær
 
-|*29* |_Undertow / Undercurrent_ |Understrøm (en) |_Watermelon_
+|_Undertow / Undercurrent_ |Understrøm (en) |_Watermelon_
 |Vannmelon (en)
 
-|*30* |_Wave_ |Bølge (en) a|
+|_Wave_ |Bølge (en) a|
 _“Outdoor beer” -_
 
 _A beer one takes outside to drink, when the weather is finally warm
@@ -256,10 +256,10 @@ enough._
 
 |Utepils
 
-|*31* a|
+a|
 _“One time grill” -_
 
-_A small disposable grill one can carry with them to use at the park or
+_ A small disposable grill one can carry with them to use at the park or
 wherever._
 
 |Engangsgrill (en) | |
@@ -267,15 +267,15 @@ wherever._
 
 *Verbs:*
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norsk* |*English* |*Norsk*
-|*1* |_To bike_ |Å sykle |_To build a sandcastle_ |Å bygge et sandslott.
-|*2* |_To camp_ |Å campe |_To fish_ |Å fiske
-|*3* |_To garden_ |Å jobbe i hagen |_To grill_ |Å grille
-|*4* |_To mow the lawn_ |Å klippe plenen |_To relax_ |Å slappe av
-|*5* |_To sail (boat)_ |Å seile |_To swim_ |Å svømme
-|*6* |_To travel_ |Å reise |_To visit_ |Å besøke
+|*English* |*Norsk* |*English* |*Norsk*
+|_To bike_ |Å sykle |_To build a sandcastle_ |Å bygge et sandslott.
+|_To camp_ |Å campe |_To fish_ |Å fiske
+|_To garden_ |Å jobbe i hagen |_To grill_ |Å grille
+|_To mow the lawn_ |Å klippe plenen |_To relax_ |Å slappe av
+|_To sail (boat)_ |Å seile |_To swim_ |Å svømme
+|_To travel_ |Å reise |_To visit_ |Å besøke
 |===
 
 *[.underline]#NOTE:#* In English, if one is good at growing plants and

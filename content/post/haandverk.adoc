@@ -178,159 +178,159 @@ exhaustive list of craft terminology, it will provide a good foundation.
 
 *Verbs:*
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
-|*_1_* |_To airbrush_ |Å airbrushe |_To alternate_ |Å bytte
-|*_2_* |_To attach_ |Å feste |_To assemble_ |Å sette samme
-|*_3_* |_To bend_ |Å bøye |_To carve_ |Å skjære
-|*_4_* |_To chisel_ |Å meisle |_To chop_ |Å hugge
-|*_5_* |_To colour_ |Å farge |_To contour_ |Å konturere
-|*_6_* |_To crochet_ |Å hekle |_To cut_ |Å kutte
-|*_7_* |_To dab_ |Å dabbe |_To decorate_ |Å dekorere
-|*_8_* |_To decrease_ |Å redusere |_To design_ |Å designe
-|*_9_* |_To detach_ |Å løsne |_To dilute_ |Å fortynne
-|*_10_* |_To draw_ |Å tegne |_To dry_ |Å tørke
-|*_11_* |_To embroider_ |Å brodere |_To engrave_ |Å gravere
-|*_12_* |_To etch_ |Å etse |_To erase_ |Å slette/fjerne
-|*_13_* |_To flatten_ |Å flate |_To fold_ |Å brette
-|*_14_* |_To fray_ |Å fryke |_To gild_ |Å forgylle
-|*_15_* |_To glaze_ |Å glasere |_To glue / paste_ |Å lime
-|*_16_* |_To hang up_ |Å henge opp |_To hammer_ |Å hamre
-|*_17_* |_To highlight_ |Å markere |_To increase_ |Å øke
-|*_18_* |_To join_ |Å feste / Skjøte på |_To knit_ |Å strikke
-|*_19_* |_To mark_ |Å markere |_To measure_ |Å måle
-|*_20_* |_To mix / blend_ |Å blande |_To outline_ |Å skissere
-|*_21_* |_To paint_ |Å male |_-_ |_-_
-|*_22_* |_To pull_ |Å trekke |_To repeat_ |Å gjenta
-|*_23_* |_To sand_ |Å slipe / Pusse |_To scrape_ |Å skrape
-|*_24_* |_To sew / stitch_ |Å sy |_To shade_ |Å sjattere
-|*_25_* |_To shape_ |Å forme |_To sharpen_ |Å skjerpe
-|*_26_* |_To sketch_ |Å skissere |_To soften_ |Å mykne
-|*_27_* |_To spread / smear_ |Å smøre |_To stamp_ |Å stemple
-|*_28_* |_To tape_ |Å tape |_To trim_ |Å trimme
-|*_29_* |_To turn over_ |Å snu |_To weave_ |Å veve
-|*_30_* |_To weld_ |Å sveise | |
+|*English* |*Norwegian* |*English* |*Norwegian*
+|_To airbrush_ |Å airbrushe |_To alternate_ |Å bytte
+|_To attach_ |Å feste |_To assemble_ |Å sette samme
+|_To bend_ |Å bøye |_To carve_ |Å skjære
+|_To chisel_ |Å meisle |_To chop_ |Å hugge
+|_To colour_ |Å farge |_To contour_ |Å konturere
+|_To crochet_ |Å hekle |_To cut_ |Å kutte
+|_To dab_ |Å dabbe |_To decorate_ |Å dekorere
+|_To decrease_ |Å redusere |_To design_ |Å designe
+|_To detach_ |Å løsne |_To dilute_ |Å fortynne
+|_To draw_ |Å tegne |_To dry_ |Å tørke
+|_To embroider_ |Å brodere |_To engrave_ |Å gravere
+|_To etch_ |Å etse |_To erase_ |Å slette/fjerne
+|_To flatten_ |Å flate |_To fold_ |Å brette
+|_To fray_ |Å fryke |_To gild_ |Å forgylle
+|_To glaze_ |Å glasere |_To glue / paste_ |Å lime
+|_To hang up_ |Å henge opp |_To hammer_ |Å hamre
+|_To highlight_ |Å markere |_To increase_ |Å øke
+|_To join_ |Å feste / Skjøte på |_To knit_ |Å strikke
+|_To mark_ |Å markere |_To measure_ |Å måle
+|_To mix / blend_ |Å blande |_To outline_ |Å skissere
+|_To paint_ |Å male |_-_ |_-_
+|_To pull_ |Å trekke |_To repeat_ |Å gjenta
+|_To sand_ |Å slipe / Pusse |_To scrape_ |Å skrape
+|_To sew / stitch_ |Å sy |_To shade_ |Å sjattere
+|_To shape_ |Å forme |_To sharpen_ |Å skjerpe
+|_To sketch_ |Å skissere |_To soften_ |Å mykne
+|_To spread / smear_ |Å smøre |_To stamp_ |Å stemple
+|_To tape_ |Å tape |_To trim_ |Å trimme
+|_To turn over_ |Å snu |_To weave_ |Å veve
+|_To weld_ |Å sveise | |
 |===
 
 *Misc. Arts & Crafts Vocab:*
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
+|*English* |*Norwegian* |*English* |*Norwegian*
 
-|*_1_* |_Animation_ |Animasjon (en) |_Art_ |Kunst (en)
+|_Animation_ |Animasjon (en) |_Art_ |Kunst (en)
 
-|*_2_* |_Artisan / craft maker_ |Håndverker (en) |_Artist_ |Kunstner
+|_Artisan / craft maker_ |Håndverker (en) |_Artist_ |Kunstner
 (en)
 
-|*_3_* |_Blacksmith_ |Smed (en) |_Border_ |Ramme (en)
+|_Blacksmith_ |Smed (en) |_Border_ |Ramme (en)
 
-|*_4_* |_Calligraphy_ |Kalligrafi (en) |_Cardboard_ |Papp (et)
+|_Calligraphy_ |Kalligrafi (en) |_Cardboard_ |Papp (et)
 
-|*_5_* |_Ceramic_ |Keramikk!!? |_Chisel_ |Meisel (en)
+|_Ceramic_ |Keramikk!!? |_Chisel_ |Meisel (en)
 
-|*_6_* |_Circle_ |Sirkel (en) |_Clay_ |Leire (et)
+|_Circle_ |Sirkel (en) |_Clay_ |Leire (et)
 
-|*_7_* |_Collage_ |Collage (en) |_Colour_ |Farge (en)
+|_Collage_ |Collage (en) |_Colour_ |Farge (en)
 
-|*_8_* |_Colouring book_ |Fargebok (ei) |_Construction paper_ |Kartong
+|_Colouring book_ |Fargebok (ei) |_Construction paper_ |Kartong
 (en)
 
-|*_9_* |_Copper_ |Kobber (et) |_Corner_ |Hjørne (et)
+|_Copper_ |Kobber (et) |_Corner_ |Hjørne (et)
 
-|*_10_* |_Craft_ |Håndverk (et) |_Crayon_ |Fargestift (en)
+|_Craft_ |Håndverk (et) |_Crayon_ |Fargestift (en)
 
-|*_11_* |_Crease_ |Fold (en) |_Creative_ |Kreativ
+|_Crease_ |Fold (en) |_Creative_ |Kreativ
 
-|*_12_* |_Creativity_ |Kreativitet (en) |_Decoupage_ |Decoupage
+|_Creativity_ |Kreativitet (en) |_Decoupage_ |Decoupage
 (uncountable)
 
-|*_13_* |_Diagonal_ |Diagonal (en) |_Dry_ |Tørr
+|_Diagonal_ |Diagonal (en) |_Dry_ |Tørr
 
-|*_14_* |_Edge_ |Kant (en) |_Enamel_ |Emalje (en)
+|_Edge_ |Kant (en) |_Enamel_ |Emalje (en)
 
-|*_15_* |_Felt_ |Filt (en) |_Flat_ |Flat
+|_Felt_ |Filt (en) |_Flat_ |Flat
 
-|*_16_* |_Forge_ |Smi (en) |_Glass_ |Glass (et)
+|_Forge_ |Smi (en) |_Glass_ |Glass (et)
 
-|*_17_* |_Glassblower_ |Glassblåser (en) |_Glasswork_ |Glassarbeid (et)
+|_Glassblower_ |Glassblåser (en) |_Glasswork_ |Glassarbeid (et)
 
-|*_18_* |_Glaze_ |Glasur (en) |_Glossy_ |Blank
+|_Glaze_ |Glasur (en) |_Glossy_ |Blank
 
-|*_19_* |_Glue_ |Lim (en) |_Gluestick_ |Limstift (en)
+|_Glue_ |Lim (en) |_Gluestick_ |Limstift (en)
 
-|*_20_* |_Graphic design_ |Grafisk design |_Hammer_ |Hammer (en)
+|_Graphic design_ |Grafisk design |_Hammer_ |Hammer (en)
 
-|*_21_* |_Hobby_ |Hobby (en) |_Horizontal_ |Horisontal
+|_Hobby_ |Hobby (en) |_Horizontal_ |Horisontal
 
-|*_22_* |_Hue_ |Nyanse (en) |_Ink pad_ |Stempelpute (en)
+|_Hue_ |Nyanse (en) |_Ink pad_ |Stempelpute (en)
 
-|*_23_* |_Instructions_ |Instruksjoner |_Iron_ |Jern (et)
+|_Instructions_ |Instruksjoner |_Iron_ |Jern (et)
 
-|*_24_* |_Iron smith_ |Jernsmed (en) |_Line_ |Linje (en)
+|_Iron smith_ |Jernsmed (en) |_Line_ |Linje (en)
 
-|*_25_* |_Material_ |Materiale (et) |_Marker_ |Markør (en)
+|_Material_ |Materiale (et) |_Marker_ |Markør (en)
 
-|*_26_* |_Masking tape_ |Maskeringsbånd (en) |_Medium_ |Medium (et)
+|_Masking tape_ |Maskeringsbånd (en) |_Medium_ |Medium (et)
 
-|*_27_* |_Mosaic_ |Mosaikk (en) |_Paint_ |Maling (en)
+|_Mosaic_ |Mosaikk (en) |_Paint_ |Maling (en)
 
-|*_28_* |_Paint brush_ |Pensel (en) / Malerpensel (en) |_Paper_ |Papir
+|_Paint brush_ |Pensel (en) / Malerpensel (en) |_Paper_ |Papir
 (et)
 
-|*_29_* |_Paper mache_ |Pappmasje (uncountable) |_Pattern_ |Mønster (et)
+|_Paper mache_ |Pappmasje (uncountable) |_Pattern_ |Mønster (et)
 
-|*_30_* |_Pen_ |Penn (en) |_Pencil_ |Blyant (en)
+|_Pen_ |Penn (en) |_Pencil_ |Blyant (en)
 
-|*_31_* |_Pencil sharpener_ |Blyantspisser (en) |_Pipe cleaner_
+|_Pencil sharpener_ |Blyantspisser (en) |_Pipe cleaner_
 |Piperenser (en)
 
-|*_32_* |_Point_ |Punkt (et) |_Poster_ |Plakat (en)
+|_Point_ |Punkt (et) |_Poster_ |Plakat (en)
 
-|*_33_* |_Pottery_ |Keramikk (en) |_Pottery bowl_ |Keramikkskål (en)
+|_Pottery_ |Keramikk (en) |_Pottery bowl_ |Keramikkskål (en)
 
-|*_34_* |_Pottery oven / Kiln_ |Keramikkovn (en) |_Pottery wheel_
+|_Pottery oven / Kiln_ |Keramikkovn (en) |_Pottery wheel_
 |Keramikkhjul (et)
 
-|*_35_* |_Prism_ |Prisme (en / et) |_Protractor_ |Vinkelmåler (en)
+|_Prism_ |Prisme (en / et) |_Protractor_ |Vinkelmåler (en)
 
-|*_36_* |_Proportion_ |Proporsjon (en) |_Rectangle_ |Rektangel (et)
+|_Proportion_ |Proporsjon (en) |_Rectangle_ |Rektangel (et)
 
-|*_37_* |_Rubber_ |Gummi (en / et) |_Rubber stamp_ |Gummistempel (et)
+|_Rubber_ |Gummi (en / et) |_Rubber stamp_ |Gummistempel (et)
 
-|*_38_* |_Ruler_ |Linjal (en) |_Safety_ |Sikkerhet (en)
+|_Ruler_ |Linjal (en) |_Safety_ |Sikkerhet (en)
 
-|*_39_* |_Safety precautions_ |Sikkerhetstiltak (en) |_Sandpaper_
+|_Safety precautions_ |Sikkerhetstiltak (en) |_Sandpaper_
 |Sandpapir (et)
 
-|*_40_* |_Scissors_ |Saks (en) |_Scrapbook_ |Utklippsbok (en)
+|_Scissors_ |Saks (en) |_Scrapbook_ |Utklippsbok (en)
 
-|*_41_* |_Scraper / Putty knife_ |Sparkelkniv (en) |_Sculpture_
+|_Scraper / Putty knife_ |Sparkelkniv (en) |_Sculpture_
 |Skulptur (en)
 
-|*_42_* |_Shape_ |Form (en) |_Silkscreen_ |Silketrykk (et)
+|_Shape_ |Form (en) |_Silkscreen_ |Silketrykk (et)
 
-|*_43_* |_Square_ |Kvadrat (en) |_Stamp_ |Stempel (et)
+|_Square_ |Kvadrat (en) |_Stamp_ |Stempel (et)
 
-|*_44_* |_Stapler_ |Stiftemaskin (en) |_Step_ |Trinn (et)
+|_Stapler_ |Stiftemaskin (en) |_Step_ |Trinn (et)
 
-|*_45_* |_Sticker_ |Klistremerke (et) |_String / Thread_ |Streng / Tråd
+|_Sticker_ |Klistremerke (et) |_String / Thread_ |Streng / Tråd
 (en)
 
-|*_46_* |_Style_ |Stil (en) |_Surface_ |(Over)Flate (en)
+|_Style_ |Stil (en) |_Surface_ |(Over)Flate (en)
 
-|*_47_* |_Tape_ |Teip (en) |_Tapestry_ |Tapet (en)
+|_Tape_ |Teip (en) |_Tapestry_ |Tapet (en)
 
-|*_48_* |_Tool_ |Verktøy (et) |_Triangle_ |Triangel (en)
+|_Tool_ |Verktøy (et) |_Triangle_ |Triangel (en)
 
-|*_49_* |_Vertical_ |Vertikal |_Visual arts_ |Visuell kunst (en)
+|_Vertical_ |Vertikal |_Visual arts_ |Visuell kunst (en)
 
-|*_50_* |_Wax_ |Voks (en / et) |_Weaver_ |Vever (en)
+|_Wax_ |Voks (en / et) |_Weaver_ |Vever (en)
 
-|*_51_* |_Wood_ |Tre (et) |_Woodwork_ |Trearbeid (et)
+|_Wood_ |Tre (et) |_Woodwork_ |Trearbeid (et)
 
-|*_52_* |_Yarn_ |Garn(tråd) (et) |_-_ |-
+|_Yarn_ |Garn(tråd) (et) |_-_ |-
 |===
 
 *[.underline]#NOTE:#* If you’re interested in more specific vocabulary

@@ -268,16 +268,16 @@ min. |_Since it was nice outside, I had not brought my coat (with me)._
 
 ### Additional Adverbs
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-|*1* |Aldri |_Never_ |Alltid |_Always_
-|*2* |Sannsynligvis |_Probably_ |Allerede |_Already_
-|*3* |Muligens |_Possibly_ |Kanskje |_Maybe_
-|*4* |Ofte |_Often_ |Sikkert |_Probably_
-|*5* |Sjeldent |_Seldom / Rarely_ |Snart |_Soon_
-|*6* |Vanligvis |_Usually_ |Virkelig |_Really_
-|*7* |Senere |_Later_ |Sist |_Last_
-|*8* |Noen ganger |_Sometimes_ |Av og til / Iblant |_Occasionally_
+|Aldri |_Never_ |Alltid |_Always_
+|Sannsynligvis |_Probably_ |Allerede |_Already_
+|Muligens |_Possibly_ |Kanskje |_Maybe_
+|Ofte |_Often_ |Sikkert |_Probably_
+|Sjeldent |_Seldom / Rarely_ |Snart |_Soon_
+|Vanligvis |_Usually_ |Virkelig |_Really_
+|Senere |_Later_ |Sist |_Last_
+|Noen ganger |_Sometimes_ |Av og til / Iblant |_Occasionally_
 |===
 
 ### Adding Personal Pronouns

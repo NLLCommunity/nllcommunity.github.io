@@ -212,40 +212,40 @@ in the hippocampus, which is important in determining one’s location.
 
 #### Nouns & Adjectives
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
+|*English* |*Norwegian* |*English* |*Norwegian*
 
-|*1* |_Acid_ |Syre |_Air_ |Luft (ei)
+|_Acid_ |Syre |_Air_ |Luft (ei)
 
-|*2* |_Alkaline_ |Alkalisk |_Asteroid_ |Asteroide (en)
+|_Alkaline_ |Alkalisk |_Asteroid_ |Asteroide (en)
 
-|*3* |_Astronomy_ |Astronomi |_Atmosphere_ |Atmosfære (en)
+|_Astronomy_ |Astronomi |_Atmosphere_ |Atmosfære (en)
 
-|*4* |_Atom_ |Atom (et) |_Axis_ |Akse (en)
+|_Atom_ |Atom (et) |_Axis_ |Akse (en)
 
-|*5* |_Beaker_ |Begerglass (et) |_Bias (i.e. statistical bias)_
+|_Beaker_ |Begerglass (et) |_Bias (i.e. statistical bias)_
 |Systematisk feil / Statistisk avvik
 
-|*6* |_Biochemistry_ |Biokjemi |_Biology_ |Biologi
+|_Biochemistry_ |Biokjemi |_Biology_ |Biologi
 
-|*7* |_Botany_ |Botanikk |_Cell_ |Celle (ei)
+|_Botany_ |Botanikk |_Cell_ |Celle (ei)
 
-|*8* |_Chemical_ |Kjemisk stoff (et) |_Chemistry_ |Kjemi
+|_Chemical_ |Kjemisk stoff (et) |_Chemistry_ |Kjemi
 
-|*9* |_Climate_ |Klima |_Climate change_ |Klimaendringer
+|_Climate_ |Klima |_Climate change_ |Klimaendringer
 
-|*10* |_Comet_ |Komet (en) |_Condensation_ |Kondensasjon
+|_Comet_ |Komet (en) |_Condensation_ |Kondensasjon
 
-|*11* |_Constellation_ |Konstellasjon (en) |_Data_ |Data
+|_Constellation_ |Konstellasjon (en) |_Data_ |Data
 
-|*12* |_Dirt_ |Skitt / jord |_Earth_ |Jord
+|_Dirt_ |Skitt / jord |_Earth_ |Jord
 
-|*13* |_Ecology_ |Økologi |_Electrical_ |Elektrisk
+|_Ecology_ |Økologi |_Electrical_ |Elektrisk
 
-|*14* |_Electricity_ |Elektrisitet |_Electron_ |Elektron (et)
+|_Electricity_ |Elektrisitet |_Electron_ |Elektron (et)
 
-|*15* |_Element_ |Element (et) a|
+|_Element_ |Element (et) a|
 _Energy_
 
 * _Chemical_
@@ -263,120 +263,120 @@ Energi
 * Termisk energi
 * Solenergi
 
-|*16* |_Entomology_ |Entomologi |_Erosion_ |Erosjon
+|_Entomology_ |Entomologi |_Erosion_ |Erosjon
 
-|*17* |_Evolution_ |Evolusjon |_Experiment_ |Eksperiment (et)
+|_Evolution_ |Evolusjon |_Experiment_ |Eksperiment (et)
 
-|*18* |_Extinct_ |Utryddet |_Fact_ |Faktum
+|_Extinct_ |Utryddet |_Fact_ |Faktum
 
-|*19* |_Flask_ |Kolbe (en) |_Food chain_ |Næringskjede
+|_Flask_ |Kolbe (en) |_Food chain_ |Næringskjede
 
-|*20* |_Fossil_ |Fossil (et) |_Frequency_ |Frekvens
+|_Fossil_ |Fossil (et) |_Frequency_ |Frekvens
 
-|*21* |_Friction_ |Friksjon |_Funnel_ |Trakt (ei)
+|_Friction_ |Friksjon |_Funnel_ |Trakt (ei)
 
-|*22* |_Galaxy_ |Galakse (en) |_Genetics_ |Genetikk
+|_Galaxy_ |Galakse (en) |_Genetics_ |Genetikk
 
-|*23* |_Geology_ |Geologi |_Graduated cylinder_ |Målesylinder (en)
+|_Geology_ |Geologi |_Graduated cylinder_ |Målesylinder (en)
 
-|*24* |_Gravitational pull_ |Gravitasjonskraft |_Gravity_ |Tyngdekraft /
+|_Gravitational pull_ |Gravitasjonskraft |_Gravity_ |Tyngdekraft /
 Gravitasjon
 
-|*25* |_Habitat_ |Habitat (et) |_Hypothesis_ |Hypotese (en)
+|_Habitat_ |Habitat (et) |_Hypothesis_ |Hypotese (en)
 
-|*26* |_Laboratory_ |Laboratorium (et) |_Liquid_ |Væske (ei)
+|_Laboratory_ |Laboratorium (et) |_Liquid_ |Væske (ei)
 
-|*27* |_Light year_ |Lysår (et) |_Magnetic field_ |Magnetfelt (et)
+|_Light year_ |Lysår (et) |_Magnetic field_ |Magnetfelt (et)
 
-|*28* |_Magnifying glass_ |Forstørrelsesglass (et) |_Mass_ |Masse
+|_Magnifying glass_ |Forstørrelsesglass (et) |_Mass_ |Masse
 
-|*29* |_Matter_ |Materie |_Measurement_ |Måling (ei)
+|_Matter_ |Materie |_Measurement_ |Måling (ei)
 
-|*30* |_Meteor_ |Meteor (en) |_Meteorology_ |Meteorologi
+|_Meteor_ |Meteor (en) |_Meteorology_ |Meteorologi
 
-|*31* |_Microbiology_ |Mikrobiologi |_Microscope_ |Mikroskop (et)
+|_Microbiology_ |Mikrobiologi |_Microscope_ |Mikroskop (et)
 
-|*32* |_Mineral_ |Mineral (et) |_Mitosis_ |Mitose
+|_Mineral_ |Mineral (et) |_Mitosis_ |Mitose
 
-|*33* |_Molecule_ |Molekyl (et) |_Motion_ |Bevegelse
+|_Molecule_ |Molekyl (et) |_Motion_ |Bevegelse
 
-|*34* |_Neutron_ |Nøytron (et) |_Nucleus_ |Kjerne (en)
+|_Neutron_ |Nøytron (et) |_Nucleus_ |Kjerne (en)
 
-|*35* |_Observatory_ |Observatorium (et) |_Orbit_ |Bane (en)
+|_Observatory_ |Observatorium (et) |_Orbit_ |Bane (en)
 
-|*36* |_Organism_ |Organisme (en) |_Ozone layer_ |Ozonlag
+|_Organism_ |Organisme (en) |_Ozone layer_ |Ozonlag
 
-|*37* |_Paleontology_ |Palæontologi |_Particle_ |Partikkel (en)
+|_Paleontology_ |Palæontologi |_Particle_ |Partikkel (en)
 
-|*38* |_Periodic table / chart_ |Periodesystemet / Periodetabellen
+|_Periodic table / chart_ |Periodesystemet / Periodetabellen
 |_Petri dish_ |Petriskål (ei)
 
-|*39* |_Phase_ |Fase (en) |_Photosynthesis_ |Fotosyntese
+|_Phase_ |Fase (en) |_Photosynthesis_ |Fotosyntese
 
-|*40* |_Physics_ |Fysikk |_Planet_ |Planet (en)
+|_Physics_ |Fysikk |_Planet_ |Planet (en)
 
-|*41* |_Plant_ |Plante (ei) |_Pipette_ |Pipette (en)
+|_Plant_ |Plante (ei) |_Pipette_ |Pipette (en)
 
-|*42* |_Pollution_ |Forurensning |_Proton_ |Proton (et)
+|_Pollution_ |Forurensning |_Proton_ |Proton (et)
 
-|*43* |_Quantum physics_ |Kvantefysikk |_Radiation_ |Stråling
+|_Quantum physics_ |Kvantefysikk |_Radiation_ |Stråling
 
-|*44* |_Renewable resource_ |Fornybar ressurs (en) |_Research_
+|_Renewable resource_ |Fornybar ressurs (en) |_Research_
 |Forskning
 
-|*45* |_Researcher_ |Forsker (en) |_Rock_ |Stein (en)
+|_Researcher_ |Forsker (en) |_Rock_ |Stein (en)
 
-|*46* |_Satellite_ |Satellitt (en) |_Scale_ |Skala (en)
+|_Satellite_ |Satellitt (en) |_Scale_ |Skala (en)
 
-|*47* |_Science_ |Vitenskap |_Scientific method_ |Vitenskapelig metode
+|_Science_ |Vitenskap |_Scientific method_ |Vitenskapelig metode
 
-|*48* |_Scientist_ |Vitenskapsmann (en) |_Solar system_ |Solsystem (et)
+|_Scientist_ |Vitenskapsmann (en) |_Solar system_ |Solsystem (et)
 
-|*49* |_Solid_ |Faststoff (et) |_Sound_ |Lyd (en)
+|_Solid_ |Faststoff (et) |_Sound_ |Lyd (en)
 
-|*50* |_Sound wave_ |Lydbølge (ei) |_Space (i.e. outer space)_
+|_Sound wave_ |Lydbølge (ei) |_Space (i.e. outer space)_
 |(Verdens)rom (et) / Det ytre rom
 
-|*51* |_Species_ |Art (en) |_Specimen_ |Eksemplar (et)
+|_Species_ |Art (en) |_Specimen_ |Eksemplar (et)
 
-|*52* |_Speed_ |Fart |_Star_ |Stjerne (ei)
+|_Speed_ |Fart |_Star_ |Stjerne (ei)
 
-|*53* |_Symbiosis_ |Symbiose |_Telescope_ |Teleskop (et)
+|_Symbiosis_ |Symbiose |_Telescope_ |Teleskop (et)
 
-|*54* |_Temperature_ |Temperatur |_Test tube_ |Reagensrør (et) /
+|_Temperature_ |Temperatur |_Test tube_ |Reagensrør (et) /
 Reagensglass (et)
 
-|*55* |_Theory_ |Teori (en) |_Thermometer_ |Termometer (et)
+|_Theory_ |Teori (en) |_Thermometer_ |Termometer (et)
 
-|*56* |_Tissue_ |Vev (et) |_Trait_ |Egenskap (en)
+|_Tissue_ |Vev (et) |_Trait_ |Egenskap (en)
 
-|*57* |_Universe_ |Univers (et) |_Variable_ |Variabel (en)
+|_Universe_ |Univers (et) |_Variable_ |Variabel (en)
 
-|*58* |_Velocity_ |Hastighet |_Volume_ |Volum
+|_Velocity_ |Hastighet |_Volume_ |Volum
 
-|*59* |_Weather_ |Vær |_Weight_ |Vekt (ei)
+|_Weather_ |Vær |_Weight_ |Vekt (ei)
 |===
 
 #### Verbs
 
-[cols=",,,,",]
+[cols=",,,",]
 |===
-| |*English* |*Norwegian* |*English* |*Norwegian*
-|*1* |_To accelerate_ |Å akselerere |_To add_ |Å legge til
-|*2* |_To alter_ |Å endre |_To boil_ |Å koke
-|*3* |_To burn_ |Å brenne |_To combine_ |Å kombinere
-|*4* |_To condense_ |Å kondensere |_To consume_ |Å forbruke
-|*5* |_To dilute_ |Å fortynne |_To dissect_ |Å dissekere
-|*6* |_To divide_ |Å dele |_To erode_ |Å erodere
-|*7* |_To evaporate_ |Å fordampe |_To evolve_ |Å utvikle
-|*8* |_To experiment_ |Å eksperimentere |_To freeze_ |Å fryse
-.2+|*9* |_To grow_ |Å vokse |_To hibernate_ |Å gå i dvale
+|*English* |*Norwegian* |*English* |*Norwegian*
+|_To accelerate_ |Å akselerere |_To add_ |Å legge til
+|_To alter_ |Å endre |_To boil_ |Å koke
+|_To burn_ |Å brenne |_To combine_ |Å kombinere
+|_To condense_ |Å kondensere |_To consume_ |Å forbruke
+|_To dilute_ |Å fortynne |_To dissect_ |Å dissekere
+|_To divide_ |Å dele |_To erode_ |Å erodere
+|_To evaporate_ |Å fordampe |_To evolve_ |Å utvikle
+|_To experiment_ |Å eksperimentere |_To freeze_ |Å fryse
+|_To grow_ |Å vokse |_To hibernate_ |Å gå i dvale
 |_To grow (i.e. plants)_ |Å gro | |
-|*10* |_To measure_ |Å måle |_To melt_ |Å smelte
-|*11* |_To orbit_ |Å gå i bane |_To plant_ |Å plante
-|*12* |_To recycle_ |Å resirkulere |_To reproduce_ |Å reprodusere
-|*13* |_To research_ |Å forske |_To separate_ |Å skille
-|*14* |_To weigh_ |Å veie | |
+|_To measure_ |Å måle |_To melt_ |Å smelte
+|_To orbit_ |Å gå i bane |_To plant_ |Å plante
+|_To recycle_ |Å resirkulere |_To reproduce_ |Å reprodusere
+|_To research_ |Å forske |_To separate_ |Å skille
+|_To weigh_ |Å veie | |
 |===
 
 *_{asterisk}{asterisk}If the lesson was beneficial, please consider
