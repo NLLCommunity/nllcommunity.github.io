@@ -1,0 +1,484 @@
+---
+title: "Telling time and daily activities"
+date: "2019-11-10"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+In an earlier lesson, we went over numbers and how to count in
+Norwegian. In this lesson, we’ll be focused on how to tell time in
+Norwegian and different daily activities.
+<!--more-->
+== *[.underline]#Telling Time#*
+
+One of the most useful things to know, in any language you learn, is how
+to tell time, whether it’s so you can meet with friends, catch a train
+or bus, go to the movies, etc. Let’s first look at how Norwegians break
+the day up into different parts.
+
+Time of day (*_note:* this is just a general guideline_):
+
+[cols=",,,",]
+|===
+|Morgen |06.00 to 09.00 |Natt |Midnight to 06.00
+|Formiddag |09.00 to 12.00 |Midnatt |00:00
+|Ettermiddag |12.00 to 18.00 |Døgn |24 hours; one full day and night
+|Kveld |18.00 to midnight | |
+|===
+
+*_(Table 1)_*
+
+=== *Hva er klokka? (What time is it?)*
+In Norwegian, both the 12 hour clock and 24 hour clock are used,
+depending on the situation. Typically, the 24 hour clock is used in
+writing and verbally for news, appointments, schedules, etc. Hours and
+minutes are usually separated by a dot or colon, and sometimes also by
+making the minutes superscript: 13.46, 13:46, 13^[.underline]#46#^
+
+If using the 12 hour clock, 9am would be just “klokka ni” but for 9pm,
+you could add “om kvelden,” to clarify, if needed.
+(*[.underline]#Note:#* For afternoon, it’s “på ettermiddagen”).
+
+[cols=",,",]
+|===
+|*7am* |Klokka 7 |7 om morgenen
+|*1pm* |Klokka 1 |1 på ettermiddagen
+|*8pm* |Klokka 8 |8 om kvelden
+|===
+
+When the time is at the half-hour mark, Norwegians think ahead to the
+next hour; think of it as “halfway til.”
+
+[cols=",",]
+|===
+|*_2:30_* |Halv tre
+|*_5:30_* |Halv seks
+|*_9:30_* |Halv ti
+|===
+
+For 1 minute - 29 minutes after the hour, time can be expressed as “x
+minutes past x hour.” However, once it is 20 minutes after the hour,
+time can be expressed as “10 minutes til half x hour.”
+
+[cols=",,",]
+|===
+|*2:05* |Fem (minutter) over to |--------------------------------
+|*2:25* a|
+Tjuefem (minutter) over to
+
+_(rarely used)_
+
+|Fem (minutter) på halv tre
+|===
+
+For time from 31 minutes - 59 minutes after the hour, time can be
+expressed as “x minutes til x hour.” However, for the first ten minutes
+after the half hour, time can be expressed as “x minutes after half x
+hour.”
+
+[cols=",,",]
+|===
+|*2:35* a|
+Tjuefem (minutter) på tre
+
+_(rarely used)_
+
+|Fem (minutter) over halv tre
+|*2:55* |Fem (minutter) på tre |--------------------------------
+|===
+
+Usually time is rounded up or down to the nearest 5 minutes, however, if
+one needs to be specific about the precise time, then one can use this
+format:
+
+[cols=",",]
+|===
+|*09:24* |Ni tjuefire
+|*13:38* |Tretten trettiåtte
+|*21:12* |Tjueén tolv
+|===
+
+For quarter hours, one would use “kvart over” (quarter after) or “kvart
+på” (quarter til).
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+
+|Han ankom (kl.) kvart over ti. |He arrived at 10:15.
+
+|Festen begynner (kl.) kvart på to (om ettermiddagen). |The party begins
+at 13:45.
+|===
+
+Let’s look at some more examples:
+
+[cols=",,,",]
+|===
+|9:00 |Klokka ni |9:05 |(Klokka) fem (minutter) over ni
+
+|9:10 |(Klokka) ti (minutter) over ni |9:15 |(Klokka) kvart over ni
+
+.2+|9:23 a|
+(Klokka) fem (minutter) på halv ti.
+
+_(*[.underline]#note:#* rounded up)._
+
+.2+|9:30 .2+|(Klokka) halv ti
+
+|(Klokka) ni tjuetre.
+
+|9:35 |(Klokka) fem (minutter) over halv ti |9:40 |(Klokka) ti
+(minutter) over halv ti.
+
+|9:45 |(Klokka) kvart på ti. |9:55 |(Klokka) fem (minutter) på ti
+|===
+
+*_(Table 2)_*
+
+== *[.underline]#Prepositions#*
+
+Prepositions can be tricky when learning a language. Here’s how
+prepositions are used for time in Norwegian.
+
+[cols=",,,",]
+|===
+|*Preposition* |*Usage* |*Example* |*English*
+
+.6+|*I* .4+|Past |Jeg besøkte vennen min i går. |_I visited my friend
+yesterday._
+
+|Hun var syk i to dager. |_She was sick for two days._
+
+|Jeg spiste egg i går morges. |_I ate eggs yesterday morning._
+
+|Kollegaen min har vært på ferie i tre dager. |_My coworker has been
+on vacation for 3 days._
+
+|Present |Emil jobber i butikken i dag. |_Emil is working in the shop
+today._
+
+|Future |De skal være her i to måneder. |_They will be here for two
+months._
+
+|*Til* |Future |Jeg skal besøke bestemoren min til våren. |_I will visit
+my grandmother this spring._
+
+.4+|*Om* .2+|Something that occurs every time. |Jeg svømmer om sommeren. |_I
+go swimming in the summer._
+
+|Erik drikker kaffe om morgenen. |_Erik drinks coffee in the
+morning._
+
+.2+|Future |De skal være her om to måneder. |_They will be here in two
+months._
+
+|Vi skal flytte om to dager. |_We will move in two days._
+
+.4+|*På* |Past |Jeg så musen på tirsdag |_I saw the mouse on (this past)
+Tuesday._
+
+|Future |Jeg skal se vennen min på tirsdag. |_I will see my friend on
+(this coming) Tuesday._
+
+.2+|Something that occurs every time. |Jeg besøker faren min på
+tirsdager. |_I visit my dad on Tuesdays._
+
+|Jeg har te med vennen min på onsdager. |_I have tea with my friend
+on Wednesdays._
+
+.2+|*For...siden* .2+|Past (but no longer happening) |Vi besøkte museet for to
+uker siden. |_We visited the museum two weeks ago._
+
+|Emma dro til butikken for en time siden. |_Emma went to the store
+an hour ago._
+|===
+
+*_(Table 3)_*
+
+If you want to express something happened the previous day, you include
+“går.”
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+
+|Jeg spiste et eple i går morges. |I ate an apple yesterday morning.
+
+|Jeg spiste et eple i går ettermiddag. |I ate an apple yesterday
+afternoon.
+|===
+
+If you want to refer to something that occurred earlier in the same day,
+there’s a few ways to express this.
+
+[cols=",",]
+|===
+|*Norwegian* |*English*
+
+|Jeg spiste et eple i morges. _(A bit formal, depending on dialect.)_ .3+|I
+ate an apple (earlier) today.
+
+|Jeg spiste et eple tidligere i dag.
+
+|Jeg spiste et eple i dag tidlig.
+|===
+
+*[.underline]#Note#*: Do not confuse “i morgen tidlig” with “tidligere i
+morgen.” The former means “tomorrow morning.”
+
+=== *Other ways to refer to time periods*
+
+[cols=",,,",]
+|===
+|*Time* |*English* |*Example* |*English*
+
+|Sist |_Last_ |Han kjøpte en katt sist uke. |_He bought a cat last
+week._
+
+|Neste |_Next_ |Neste uke skal hun bake en kake. |_Next week, she
+will bake a cake._
+
+|Denne |_This_ |Jeg vil gjerne besøke bestemoren min denne uken.
+|_I would like to visit my grandmother this week._
+
+|Forrige |_Past / Previous_ |I forrige uke kjøpte han en katt.
+|_The previous week he bought a cat._
+
+|i forgårs |_The day before yesterday_ |I forgårs kjøpte jeg en
+katt. |_The day before yesterday, I bought a cat._
+
+a|
+i overimorgen /
+
+I overmorgen
+
+|_The day after tomorrow_ |I over(i)morgen skal han bake en kake. |_The
+day after tomorrow, he will bake a cake._
+
+.2+a|
+i timevis /
+
+i flere timer
+
+.2+|_(something lasts) hours_ |Han har spilt spillet i timevis nå. .2+|_He has
+played the game for hours now._
+
+|Han har spilt spillet i flere timer nå.
+
+.2+a|
+på dagevis /
+
+på flere dager
+
+.2+|_(something lasts) days_ |Jeg har ikke spilt spillet på dagevis. .2+|_I
+have not played the game in days._
+
+|Jeg har ikke spilt spillet på flere dager.
+
+.2+a|
+i ukevis /
+
+i flere uker
+
+.2+|_(something lasts) weeks_ |Hun har vært syk i ukevis. .2+|_She has been
+sick for weeks._
+
+|Hun har vært syk i flere uker.
+
+.2+a|
+i månedsvis /
+
+i flere måneder.
+
+.2+|_(something lasts) months_ |Graviditet varer i månedsvis. .2+|_Pregnancy
+lasts for (several) months._
+
+|Graviditet varer i flere måneder.
+
+.2+a|
+i årevis /
+
+i flere år
+
+.2+|_(something lasts) many years_ |Jeg har ikke sett ham på årevis. .2+|_I
+have not seen him in many years._
+
+|Jeg har ikke sett ham på flere år.
+
+|i fjor |_Last year_ |Anna ferierte i Italia i fjor. |_Anna
+vacationed in Italy last year._
+
+|i tide |_On time_ |Jeg kommer aldri i tide. |_I am never on
+time._
+|===
+
+*_(Table 4)_*
+
+== *[.underline]#Phrases & Idioms#*
+
+There are many different phrases that one should know when referring to
+time. There are also idioms that languages often have that express
+lengths of time.
+
+[cols=",,,",]
+|===
+|_Hva er klokka?_ |What time is it? |_Klokka er..._ |It
+is….(insert time)
+
+|_Når åpner butikken?_ |What time does the store open? |_Når
+stenger det?_ |When does it close?
+
+|_Når starter filmen?_ |When does the movie start? |_Når begynner
+det?_ |What time does it begin?
+
+|_Når slutter det?_ |When does it end? |_Hvor lenge varer det?_
+|How long does it last?
+
+|_Når kommer toget / bussen?_ |When does the train / bus arrive?
+|_Når går toget / bussen?_ |When does the train / bus leave?
+
+|_Er toget / flyet i tide?_ |Is the train / plane on time? |_Er
+toget / flyet forsinket?_ |Is the train / plane delayed?
+
+|_Taxien kommer om 10 minutter._ |The taxi will arrive in 10
+minutes. |_Flyet er én time forsinket._ |The flight has an hour delay.
+
+|_Det tar 10 minutter._ |It takes 10 minutes. |_Bussen gikk for 10
+minutter siden._ |The bus left 10 minutes ago.
+
+|_Det var en gang..._ |Once upon a time a|
+_År og dag. +
+Vinter og vår. +
+År ut og år inn._
+
+_F. eks: Jeg har ikke sett deg på år og dag._
+
+a|
+“A long time”
+
+_Ex: I haven’t seen you for a long time._
+
+a|
+_Ørten år siden_
+
+_F. eks: Noen ganger leser jeg bøker jeg likte for ørten år siden, for å
+se om de fortsatt er gode._
+
+a|
+Unspecified number of years ago.
+
+Ex: “Sometimes I read books I liked years ago, to see if they are still
+good.”
+
+| |
+|===
+
+*_(Table 5)_*
+
+== *[.underline]#Daily Activities#*
+
+Often, during conversations, we may talk about things we did that day
+(or the day before), for example, “Kattene mine vekket meg kl. 6 i
+morges.” (My cats woke me up at 6am this morning.) Here are some “daily
+activities” that may come up in conversations.
+
+[cols=",,,",]
+|===
+|Å våkne opp |_To wake up_ |Å vekke (opp) |_To wake (someone else)
+up_
+
+|Å ta en lur |_To take a nap_ |Å re opp sengen |_To make the bed_
+
+|Å kle av seg |_To undress oneself_ |Å kle på seg |_To dress
+oneself_
+
+|Å vaske seg |_To wash oneself_ |Å bade |_To bathe oneself_
+
+|Å barbere seg |_To shave_ |Å pusse tennene sine |_To brush one’s
+teeth_
+
+|Å ta på seg sokker / sko |_To put on socks / shoes_ |Å ta på seg
+tøfler |_To put on slippers_
+
+|Å lage frokost / lunsj / middag |_To make breakfast / lunch /
+dinner_ |Å lage kaffe |_To make coffee_
+
+|Å spise frokost |_To eat breakfast_ |Å lese avisen |_To read the
+newspaper_
+
+|Å ta på seg en jakke / frakk |_To put on a coat_ |Å lukke / låse
+døren |_To close / lock the door_
+
+|Å vaske klær |_To wash clothes +
+_ |Å vaske opp / å ta oppvasken |_To wash dishes_
+
+|Å feie / moppe gulvet |_To sweep / mop the floor_ |Å støvsuge
+|_To vacuum_
+
+|Å ta ut søppelet |_To take out the garbage_ |Å gå tur med hunden
+|_To walk the dog_
+
+|Å løpe ærend |_To run errands_ |Å kjøpe (daglig)varer |_To buy
+groceries_
+
+|Å tørke støv |_To dust_ |Å vaske / rengjøre kjøkkenet |_To clean
+the kitchen_
+
+|Å vaske / rengjøre badet |_To clean the bathroom_ |Å vaske /
+rengjøre / rydde stua |_To clean the living room_
+
+|Å vaske / rengjøre / rydde soverommet |_To clean the bedroom_ |Å
+hente posten |_To pick up the mail_
+
+|Å gå / dra på jobb |_To go to work_ | |
+|===
+
+*_(Table 6)_*
+
+== *[.underline]#Measurements#*
+
+When cooking or crafting something, you may need to take measurements.
+So let’s look at some measurements in Norwegian.
+
+[cols=",,,",]
+|===
+|*⅛* |En åttendedel |*⅔* |To tredjedeler
+|*¼* |En kvart / En fjerdedel |*¾* |Trekvart / Tre fjerdedeler
+|*⅓* |En tredjedel |*1½* |En-og-en-halv / Halvannen
+|*½* |En halv |*2½* |To-og-en-halv (etc)
+|===
+
+*_(Table 7)_*
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+* https://skolekassa.no/matematikk/tall/?lang=en[Skolekassa.no: Numbers]
+* http://norsk.rkevin.com/learn-how-to-tell-the-time-in-norwegian/[Learn
+How To Tell Time In Norwegian]
+* http://blogs.transparent.com/norwegian/hva-er-klokka/[Hva er klokka?]
+* https://youtu.be/euFaHbmmQOM[Norwegian Lesson: The Clock / Tell Time
+(YouTube)]
+* https://youtu.be/I0beMOBtT4U[Norwegian Numbers - Counting (YouTube)]
+* https://youtu.be/feCYL8H9e4k[Numbers, A Second Way of Counting in
+Norwegian (YouTube)]
+* https://youtu.be/OCYxVHii9No[Simple Norwegian #4: Counting & Numbers
+(YouTube)]
+* https://youtu.be/P9o_duleE8M[Norwegian Ordinal Numbers (YouTube)]
+* http://norsk.rkevin.com/learn-about-time-prepositions-in-norwegian-part-1/[Learn
+About Time Prepositions in Norwegian Part 1]
+* http://norsk.rkevin.com/learn-about-time-prepositions-in-norwegian-part-2/[Learn
+About Time Prepositions in Norwegian Part 2]
+* http://norsk.rkevin.com/learn-about-time-prepositions-in-norwegian-part-3/[Learn
+About Time Prepositions in Norwegian Part 3]
+
+*[.underline]#Exercise 1:# Write out the times on these clocks.*
+
+image::/images/telling-time-and-daily-activities/media/image1.png[8 clocks displaying different times,width=707,height=334]
+
+*[.underline]#Exercise 2:# Write 5 sentences; 2 of the sentences should
+use time periods (from table 4).*
