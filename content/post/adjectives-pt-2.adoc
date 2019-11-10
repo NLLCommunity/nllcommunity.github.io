@@ -6,7 +6,7 @@ categories:
   - Sunday lessons
 ---
 As we learned in the
-https://norwegianlanguagelearning.no/post/adjectives-pt-1[[.underline]#previous lesson,#] in Norwegian adjectives agree with the number and gender of
+https://norwegianlanguagelearning.no/post/adjectives-pt-1/[previous lesson], in Norwegian adjectives agree with the number and gender of
 the noun and that the plural form is the same across all genders.
 However, there are many irregular adjectives, which we’ll go over a few
 today. We’ll also go over comparatives and superlatives.
