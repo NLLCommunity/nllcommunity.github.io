@@ -1,0 +1,399 @@
+---
+title: "Winter in Norway"
+date: "2019-11-24"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+:figure-caption!:
+== Grammar Review
+
+===  Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+<!--more-->
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Erik spilte det nye spillet i går. |_Erik played the new game
+yesterday._
+
+|Emilie hadde på seg sin nye frakken siden det var kaldt ute. |_Emilie
+wore her new coat since it was cold outside._
+
+.2+|*V2* |I går spilte Erik det nye spillet. |_Yesterday, Erik played the
+new game._
+
+|Siden det var kaldt ute, hadde Emilie på seg sin nye frakken. |_Since
+it was cold outside, Emilie wore her new coat._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Sofie begynte å spille fotball i fjor. |_Sofie began playing
+football last year._
+
+|Lukas prøvde å synge en ny sang på generalprøven i går. |_Lukas tried
+to sing a new song at rehearsal yesterday.l_
+
+.2+|*V2* |I fjor begynte Sofie å spille fotball. |_Last year, Sofie began
+playing football._
+
+|På generalprøven i går prøvde Lukas å synge en ny sang. |_At
+rehearsal yesterday, Lukas tried to sing a new song._
+|===
+
+=== Verb Conjugation
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å tegne |Tegner |_Draws / Drawing_ |Å spille |Spiller |_Plays /
+Playing_
+
+|Å synge |Synger |_Sings / Singing_ |Å løpe |Løper |_Runs / Running_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sna[.underline]##kk##e |Snakket |_Talked_
+|Å ø[.underline]##nsk##e |Ønsket |_Wished_
+.2+|*2* |Å læ[.underline]##r##e |Lærte |_Learned_
+|Å kjø[.underline]##p##e |Kjøpte |_Bought_
+.2+|*3* |Å le[.underline]##v##e |Levde |_Lived_
+|Å pl[.underline]##ei##e |Pleide |_Used_
+|*4* |Å b[.underline]##o## |Bodde |_Lived_
+|===
+
+For future tense, typically the present tense verb is used with a time
+adverbial to clarify it is a (near) future action. Modal verbs can also
+be used to express future actions.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Isabella kjører til butikken i morgen. |_Isabella will drive to the
+store tomorrow._
+
+|Butikken åpner neste helg. |_The store is opening next weekend._
+|===
+
+=== Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En varm genser |_A warm sweater_ |Varme gensere |_Warm
+sweaters_
+
+|En rød hanske |_A red glove_ |Røde hansker |_Red gloves_
+
+.2+|*Feminine* |Ei varm kåpe |_A warm robe_ |Varme kåper |_Warm robes_
+
+|Ei rød hytte |_A red cabin_ |Røde hytter |_Red cabins_
+
+.2+|*Neuter* |Et varmt teppe |_A warm blanket_ |Varme tepper |_Warm
+blankets_
+
+|Et rødt skjerf |_A red scarf_ |Røde skjerf |_Red scarves_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending
+(like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den varme genseren |_The warm sweater_ |De varme genserne
+|_The warm sweaters_
+
+|Denne røde hansken |_This red glove_ |Disse røde hanskene |_These red
+gloves_
+
+.2+|*Feminine* |Den varme kåpa |_The warm robe_ |De varme kåpene |_The warm
+robes_
+
+|Denne røde hytta |_This red cabin_ |Disse nye hyttene |_These red
+cabins_
+
+.2+|*Neuter* |Det varme teppet |_The warm blanket_ |De varme teppa |_The
+warm blankets_
+
+|Dette røde skjerfet |_This red scarf_ |Disse røde skjerfa |_These red
+scarves_
+|===
+
+== Winter in Norway
+
+=== Weather
+
+Winter officially starts in December and ends in February, however, it
+is not uncommon to see snow in November in Norway (sometimes even as
+early as October). Furthermore, snow can linger into April, depending on
+the area in Norway. Typically, the temperatures during the winter months
+are below the freezing point (0 C / 32 F) with the temperature in some
+areas dropping as low as -40 C / F. The coldest months tend to be
+January and February. If you’re not particularly fond of cold weather,
+then Oslo has some of the warmer temperatures during the winter months.
+
+Winter days are very short and the nights are long. In areas north of
+the Arctic Circle, the sun doesn’t even rise from November til January.
+Winter is a good time to see the Northern Lights (nordlys) in areas of
+Northern Norway, especially around the coasts of Tromsø.
+
+=== Things to Do
+
+There are a number of things to do and see in Norway during the winter.
+Of course, one of the most popular things to do in the winter is skiing,
+whether it be
+https://www.visitnorway.com/things-to-do/great-outdoors/skiing/cross-country-skiing/[cross-country]
+or
+https://www.visitnorway.com/things-to-do/great-outdoors/skiing/alpine-skiing/[alpine].
+If you don’t want to ski, you can strap on some snowshoes and go on a
+hike. If you’re going to go skiing or hiking, however, make sure that
+you check the weather forecast and also follow the
+https://www.visitnorway.com/plan-your-trip/safety-first/mountain-safety/the-mountain-code/[Norwegian
+mountain code] (fjellvettreglene).
+
+If you enjoy fishing during the summer, why not fish in the winter also?
+Fishing spots aren’t as busy or crowded, allowing for better chances of
+catching fish. Due to the Gulf Stream, a lot of the fjords remain
+ice-free and the waters that are frozen, you can drill a hole in the
+ice, put your line in and wait for the fish to bite. After winter
+fishing, many will relax in a sauna or in front of an open fire.
+
+https://www.visitnorway.com/things-to-do/great-outdoors/dog-sledding/[Dog 
+sledding] is another activity one can experience during the winter in
+Norway. As part of many dog sledding tours, one can pet and feed the
+huskies. You can either choose to be the musher yourself or you can just
+enjoy being a passenger along for the ride. Just be aware that it can be
+a work out, if you choose to drive your own team of dogs.
+
+If you’re looking at unique places to visit or stay the night, you can
+see the https://youtu.be/VCoP2F6nh-0[Sorrisniva Igloo
+Hotel] and the https://youtu.be/63Wd_RPZVxQ[Kirkenes Snow
+Hotel], both located in Northern Norway. Both hotels are built over the
+course of a number of weeks in November / December, and feature ice and
+snow sculptures, beautiful lighting, and different themes each year.
+
+.Kirkenes Snow Hotel
+image::/images/winter-in-norway/media/image1.png[Kirkenes snow hotel,width=346,height=249]
+.Sorrisniva Igloo Hotel
+image::/images/winter-in-norway/media/image2.png[Sorrisnivam igloo hotel,width=383,height=254]
+
+One of the most important aspects of Norwegian winters is the concept of
+“kos.” The word loosely translates into English as “coziness” but can be
+explained as that warm feeling you get when you’re with family and / or
+friends, having a relaxing and enjoyable time. The word might bring to
+mind the image of sitting in front of a fireplace, with a warm cup of
+hot chocolate (or tea or coffee), wearing a warm marius sweater, and
+enjoying the company of one’s friends. Of course “kos” can also mean
+sitting on the couch, snuggled closely with a significant other,
+watching old movies, or having a game of cards with some friends. It’s a
+feeling of closeness, happiness, kindness, and belonging.
+
+image::/images/winter-in-norway/media/image3.png[Two pair of feet with wool socks in front of the fireplace,width=461,height=303]
+
+No matter what winter activities you are enjoying, be aware that when
+traveling, there will be a lot of closed roads due to the weather.
+Furthermore, if you are driving, make sure that your car has studded
+winter tires or snow chains, etc. It’s also a good idea to keep a
+blanket, snacks, and a shovel, just in case you get stuck someplace.
+
+=== Vocabulary
+
+==== Nouns & Adjectives
+
+[cols=",,,",]
+|===
+
+|_Biathlete_ |Skiskytter (en) |_Biathlon_ |Skiskyting (en)
+
+|_Black ice_ |Svart is |_Blanket_ |Teppe (et)
+
+|_Blizzard_ |Snøstorm (en) |_Boot_ |Støvel (en)
+
+|_Candle_ |Stearinlys (et) |_Comforter_ |Dyne (ei)
+
+|_Cross-country skiing competition_ |Langrenn (et) |_Dangerous_
+|Farlig
+
+|_December_ |Desember |_Dogsled_ |Hundeslede
+
+|_Ear muffs_ |Ørevarmere (en) |_February_ |Februar
+
+|_Fireplace_ |Peis (en) |_“Firm” / heavy / wet snow_ |Kramsnø
+
+|_Flannel_ |Flanell |_Flurry_ |Snøbyge (ei)
+
+a|
+_Freezing point_
+
+_(i.e. 0C / 32F)_
+
+|Frysepunkt |_Frost_ |Frost (en)
+
+|_Frostbite_ |Frostskader |_Gloves_ |Hansker
+
+|_Hat_ |Hatt (en) |_Heater_ |Varmeapparat (et)
+
+|_Hot chocolate_ |Varm sjokolade (en) |_Ice_ |Is (en)
+
+|_Iceberg_ |Isfjell (et) |_Ice hockey_ |Ishockey
+
+|_Ice scraper_ |Isskrape (en) |_Ice skate (noun)_ |Skøyte (ei)
+
+|_Ice skating rink_ |Skøytebane (en) |_Icicle_ |Istapp (en)
+
+|_January_ |Januar |_Kicksled_ |Spark(støtting) (en)
+
+|_Mitten_ |Vott (en) |_Mountain_ |Fjell (et)
+
+|_Mulled wine_ |Gløgg (en) |_Musher_ |Hundekjører
+
+|_Northern Lights_ |Nordlys |_Norwegian mountain code_
+|Fjellvettreglene
+
+|_Pine tree_ |Furutre (et) |_Precipitation_ |Nedbør
+
+|_Scarf_ |Skjerf (et) |_Ski_ |Ski (en)
+
+|_Ski lift_ |Skiheis (en) |_Ski slope_ |Skibakke (en)
+
+|_Sled / Sleigh_ |Slede (en) |_Snow_ |Snø (en)
+
+|_Snowball_ |Snøball (en) |_Snowball fight_ |Snøballkrig (en)
+
+|_Snowblower_ |Snøfreser (en) |_Snowflake_ |Snøfnugg (et)
+
+|_Snowman_ |Snømann (en) |_Snowmobile_ |Snøscooter (en)
+
+|_Snow plow (en)_ |Snøplog (en) |_Snowshoes_ |Truger
+
+|_Snow shovel_ |Snøskuffe (ei) |_Snowsuit_ |Kjeledress (en)
+
+|_Spruce tree_ |Grantre (et) |_Sweater_ |Genser (en)
+
+|_Thermal underwear +
+(synthetic; wool)_ |Superundertøy (et) / ullundertøy (et) |_Toboggan /
+Sled_ |Kjelke (en)
+
+|_Warmth_ |Varme (en) |_Warning_ |Advarsel
+
+|_Winter tire_ |Vinterdekk (et) |_Wool_ |Ull (en)
+
+|_Wool sweater_ |Ullgenser (en) |_Hill intended for sledding_
+|Akebakke (en)
+|===
+
+==== Verbs
+
+[cols=",,,,",]
+|===
+|_To build a snowman_ |Å lage en snømann |_To buy_ |Å kjøpe
+
+|_To chop down a tree_ |Å hugge ned et tre |_To decorate_ |Å
+dekorere
+
+|_To freeze_ |Å fryse |_To go sledding_ |Å ake
+
+|_To have an accident_ |Å havne i en ulykke |_To ice fish_ |Å
+isfiske
+
+|_To ice skate_ |Å skøyte |_To shop_ |Å handle
+
+|_To shovel_ |Å måke |_To ski +
+(cross country; alpine)_ a|
+Å gå på ski /
+
+Å stå på ski
+
+|_To slip_ |Å skli |_To snow_ |Å snø
+
+|_To snowboard_ a|
+Å stå på snowboard /
+
+Å snowboarde
+
+|_To visit_ |Å besøke
+|===
+.Mariusgenser
+image::/images/winter-in-norway/media/image4.png[A Mariusgenser,width=245,height=271]
+.Spark
+image::/images/winter-in-norway/media/image5.png[A child on a spark with a man standing on it,width=331,height=255]
+
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
+
+References:
+
+* https://www.tripsavvy.com/weather-in-norway-4111770[Weather in Norway]
+* https://www.visitnorway.com/plan-your-trip/seasons-climate/winter/[Winter
+in Norway]
+* https://www.visitnorway.com/things-to-do/great-outdoors/skiing/ski-touring/norwegian-snow-conditions/[Norwegian
+Snow Conditions]
+* https://www.visitnorway.com/typically-norwegian/kos-means-having-a-good-time/["Kos"
+is Norwegian for Having a Good Time]
+* https://www.lifeinnorway.net/norway-in-the-winter/[Norway in the
+Winter]
+* https://www.dangerous-business.com/things-to-do-in-northern-norway-winter/[10
+Reasons Why Northern Norway in Winter is Awesome]
+* https://www.heartmybackpack.com/norway/tips-norwegian-winter/[11
+Things you Should Know About Traveling to Norway in the Winter]
+* https://www.lifeinnorway.net/love-winter-in-norway/[8 Reasons to Love
+Winter in Norway]
+* https://youtu.be/C-SRnt-m1tU[Kirkenes Snow Hotel video story
+(YouTube)]
+
+*[.underline]#Exercise:# Write five sentences about wintertime.*
