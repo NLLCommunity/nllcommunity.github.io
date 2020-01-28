@@ -6,6 +6,8 @@ categories:
   - Sunday lessons
 ---
 :figure-caption!:
+<!--more-->
+
 == Grammar Review
 
 ===  Sentence structure
