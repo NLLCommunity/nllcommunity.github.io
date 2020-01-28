@@ -1,0 +1,417 @@
+---
+title: "Possessive and reciprocal pronouns"
+date: "2020-01-12"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+In this lesson, we’ll go over possessive pronouns (min, mitt, mi, etc.),
+including a discussion on when to use “sin, sitt, si, sine.” We’ll also
+go over the reciprocal pronoun, “hverandre.”
+<!--more-->
+
+== Grammar Review
+
+=== Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Nora reiste til Tromsø i fjor. |_Nora traveled to Tromsø last
+year._
+
+|Markus spiste pizza da han var sulten tidligere. |_Markus ate pizza
+when he was hungry earlier._
+
+.2+|*V2* |I fjor reiste Nora til Tromsøt. |_Last year, Nora traveled to
+Tromsø._
+
+|Da Markus var sulten tidligere, spiste han pizza. |_When Markus was
+hungry earlier, he ate pizza._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Ella begynte å skrive for avisen forrige måned. |_Ella began
+writing for the newspaper last month._
+
+|Oliver prøvde å male et portrett av moren sin til bursdagen hennes.
+|_Oliver tried to paint a portrait of his mother for her birthday._
+
+.2+|*V2* |Forrige måned begynte Ella å skrive for avisen. |_Last month,
+Ella began writing for the newspaper._
+
+|Til bursdagen hennes prøvde Oliver å male et portrett av moren sin.
+|_For her birthday, Oliver tried to paint a portrait of his mother._
+|===
+
+
+=== Verb Conjugation
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å tegne |Tegner |_Draws / Drawing_ |Å spille |spiller |_Plays /
+Playing_
+
+|Å besøke |Besøker |_Visits / Visiting_ |Å snakke |snakker |_Talks /
+Talking_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sna[.underline]##kk##e |Snakket |_Talked_
+|Å ø[.underline]##nsk##e |Ønsket |_Wished_
+.2+|*2* |Å læ[.underline]##r##e |Lærte |_Learned_
+|Å kjø[.underline]##p##e |Kjøpte |_Bought_
+.2+|*3* |Å le[.underline]##v##e |Levde |_Lived_
+|Å pl[.underline]##ei##e |Pleide |_Used_
+|*4* |Å b[.underline]##o## |Bodde |_Lived_
+|===
+
+For future tense, typically the present tense verb is used with a time
+adverbial to clarify it is a future action. (*[.underline]#Note#*: There
+are ways to form future sentences using modals; that is covered in a
+more in-depth lesson).
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|De spiser middag senere. |_They are eating dinner later._
+|Spillet kommer ut neste uke. |_The game comes out next week._
+|===
+
+=== Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En gul banan |_A yellow banana_ |Gule bananer |_Yellow
+bananas_
+
+|En stor katt |_A big cat_ |Store katter |_Big cats_
+
+.2+|*Feminine* |Ei gul dyne |_A yellow duvet_ |Gule dyner |_Yellow duvets_
+
+|Ei stor stjerne |_A big star_ |Store stjerner |_Big stars_
+
+.2+|*Neuter* |Et gult hus |_A yellow house_ |Gule hus |_Yellow houses_
+
+|Et stort jordbær |_A big strawberry_ |Store jordbær |_Big
+strawberries_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending
+(like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den gule bananen |_The yellow banana_ |De gule bananene
+|_The yellow bananas_
+
+|Denne store katten |_This big cat_ |Disse store kattene |_These big
+cats_
+
+.2+|*Feminine* |Den gule dyna |_The yellow duvet_ |De gule dynene |_The
+yellow duvets_
+
+|Denne store stjerna |_This big star_ |Disse store stjernene |_These
+big stars_
+
+.2+|*Neuter* |Det gule huset |_The yellow house_ |De gule husa |_The yellow
+houses_
+
+|Dette store jordbæret |_This big strawberry_ |Disse store jordbæra
+|_These big strawberries_
+|===
+
+== Reciprocal Pronouns
+
+In Norwegian, there is basically only one reciprocal pronoun that is in
+use: Hverandre.
+
+This word implies that the action taking place is happening with two or
+more people or things. It cannot be the subject of a sentence; it refers
+back to plural subjects.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|De elsker hverandre. |_They love each other._
+|Stoler dere på hverandre? |_Do you trust each other?_
+|De har møtt hverandres foreldre. |_They have met each other’s parents._
+|===
+
+== Possessive Pronouns
+
+Possessive pronouns just indicate possession of something. In Norwegian,
+the possessive pronouns is determined by the grammatical gender and
+number of the noun.
+
+[cols=",,,,,",]
+|===
+| |*English* |*Masculine Gender* a|
+*Feminine*
+
+*Gender*
+
+|*Neuter Gender* |*Plural*
+
+|*1st person singular* |_My; mine_ |Min |Mi |Mitt |Mine
+
+|*2nd person singular* |_Your; yours_ |Din |Di |Ditt |Dine
+
+.3+|*3rd person singular* |_His_ |Hans / sin* |Hans / si* |Hans / sitt*
+|Hans / sine*
+
+|_Her; hers_ |Hennes / sin* |Hennes / si* |Hennes / sitt* |Hennes /
+sine*
+
+|_Its_ |Dens / dets / sin* |Dens / dets / si* |Dens / dets / sitt*
+|Dens / dets / sine*
+
+|*1st person plural* |_Our; ours_ |Vår |Vår |Vårt |Våre
+
+|*2nd person plural* |_Your; yours (plural)_ |Deres |Deres |Deres |Deres
+
+|*3rd person plural* |_Their; theirs_ |Deres |Deres |Deres |Deres
+|===
+
+Note that in Norwegian, when using possessive pronouns,
+
+* It is usually placed after the noun and the noun is in the definite
+form
+* The possessive pronoun does not change form based on its position in
+the sentence
+* 1st person (singular & plural) and 2nd person (singular) pronouns have
+to agree with the gender and number of the noun..
+
+[cols=",,,,",]
+|===
+| |*Eksempel* |*English* |*Eksempel* |*English*
+
+|*1* |Det er bilen min. |_It is *my* car._ |Bilen er min. |_The car is
+*mine*._
+
+|*2* |Det er eplet ditt. |_It is your apple._ |Eplet er ditt. |_The
+apple is yours._
+
+|*3* |De svarte kattene er mine. |_The black cats are mine._ |Disse
+gamle kartene er dine. |_These old maps are yours._
+
+|*4* |Er det boka di? |_Is it your book?_ |Det er boka hans. |_It is his
+book._
+
+|*5* |Det er moren hennes. |_That is her mother._ |Dette er huset vårt.
+|_This is our house._
+
+|*6* |Dette nye huset er vårt. |_This new house is ours._ |Gutten er
+deres barn. |_The boy is their child._
+|===
+
+In Norwegian, when referring to parts of the body or articles of
+clothing, often the definite article is used instead of the possessive
+pronoun, if ownership is obvious.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Han har brukket beinet. a|
+_He has broken his leg._
+
+_(Literally: He has broken the leg)._
+
+|Ta av skoene! a|
+_Take off your shoes!_
+
+_(Literally: Take off the shoes!)_
+
+|===
+
+=== When to use “sin, si, sitt, sine”
+
+The easiest way to know if you should use “sin, si, sitt, sine” is ask
+yourself if “own” can be inserted into the sentence in English and make
+sense.
+
+Ex: Hun kysser mannen sin.
+
+She kisses her (own) husband.
+
+This helps to avoid a lot of ambiguity that is present in English.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Tobias så Karin kysse mannen sin. |_Tobias saw Karin kiss her (own)
+husband._
+
+|Tobias så Karin kysse mannen hennes. |_Tobias saw Karin kiss her
+(someone else’s) husband._
+
+|Jakob spiste lunsjen sin. |_Jakob ate his (own) lunch._
+
+|Jakob spiste lunsjen hans. |_Jakob ate his (someone else’s) lunch._
+|===
+
+“Sin, si, sitt, sine” can also be used when there is inversion in a
+sentence:
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Til bursdagen sin fikk hun ei bok. |_For her (own) birthday, she got a
+book._
+
+|På bryllupsdagen sin hadde hun på seg en svart kjole. |_On her (own)
+wedding day, she wore a black dress._
+
+|I går spilte Ella spillet sitt. |_Yesterday, Ella played her (own)
+game._
+
+|Forrige måned reiste Benjamin til hytta si med vennene sine. |_Last
+month, Benjamin traveled to his (own) cabin with his friends._
+|===
+
+If the possessive pronoun is in a separate clause from the subject, then
+“sin, si, sitt, sine” is not used. Let’s compare…
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*Same Clause* |Hun elsker mannen sin. |_She loves her (own) husband._
+
+|*Separate Clause* |Hun synes at mannen hennes er kjekk. |She thinks
+that her husband is handsome.
+|===
+
+In the second sentence, there is a main clause (“She thinks”) and a
+subordinate clause (“that her husband is handsome”). In this sentence,
+“her husband” is the subject of the subordinate clause, so therefore
+“hennes” must be used instead of “sin.” Therefore there is some
+ambiguity. +
+ +
+*[.underline]#NOTE:#* In spoken language, these rules aren’t as strict
+and there are variations among dialects.
+
+Additionally, “sin, si, sitt, sine” are not used when there are
+“coordinated subjects.”
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.3+|*No Coordinated Subjects* |Mari bor sammen med kona si. |_Mari lives
+with her wife._
+
+|Tor så på filmen sammen med broren sin. |_Tor watched the movie with
+his brother._
+
+|Per dro til stranden sammen med vennene sine. |_Per went to the beach
+with his friends._
+
+.3+|*With Coordinated Subjects* |Mari og kona hennes bor sammen. |_Mari and
+her wife live together._
+
+|Tor og broren hans så på filmen sammen. |_Tor and his brother watched
+the film together._
+
+|Per og vennene hans dro til stranden sammen. |_Per and his friends
+went to the beach together._
+|===
+
+*[.underline]#NOTE:#* “Sin, si, sitt, sine” cannot be used at the end of
+a simple sentence.
+
+Ex: Hvem er det? Det er søsteren til Tobias. Det er søsteren
+[line-through]*sin* hans.
+
+Who is that? It is Tobias’s sister. It is his sister.
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
+
+References:
+
+* https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[Norwegian:
+An Essential Grammar (pgs 103; 109 - 112; 120 - 122; 125)]
+* https://ndla.no/en/node/17166?fag=42[NDLA: Relative Pronouns]
+* https://forum.duolingo.com/comment/12888397/Relative-pronouns[Duolingo:
+Relative Pronouns]
+* http://grammatikk.com/pdf/Som.pdf[Som Setninger (på norsk)]
+
+*[.underline]#Exercise 1:#* *Copy and paste into a separate document and
+fill in the blanks.*
+
+*In ( ), you will see the hint as to what pronoun to use.*
+
+[arabic]
+. Emma og Emil spiller +___+ (their) nye spill sammen.
+. Morten mater hunden +______+ (his [someone else’s]).
+. Olivia sitter barnevakt for søsknene +_____+ (her [own]).
+. Er disse hundene +_____+ (yours)?.
+. Nils vet at moren +______+ (his [own]) vil bli sint.
+. Sofia og kjæresten +______+ (her [own]) ser på TV sammen.
+. På den nye jobben +____+ (his [own]) har Isak +____+ (his [own]) eget
+kontor.
+. Emilie rydder opp i hytta+ _____+ (her [own]).
+. Elias vil rydde opp i hytta +_____+ (ours) før du ankommer.
+. Jacob, Frida og jeg liker det nye huset +_____+ (their).
+. Jeg liker bøkene +____+ (hers).
+. Mari kjøpte ei katteseng til katten +____+ (her [someone else’s]).
+
+*[.underline]#Exercise 2:# Write 3 sentences using possessive pronouns.*

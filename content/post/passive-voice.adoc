@@ -1,24 +1,199 @@
 ---
-title: Passive voice
-date: 2019-03-03
-author: Dan
+title: "Passive voice"
+date: "2020-01-26"
+author: "Dan"
 categories:
   - Sunday lessons
 ---
+This lesson will go over passive voice, which is often used in Norwegian.
+<!--more-->
+
+== Grammar Review
+
+=== Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Markus flyttet til Oslo sist måned. |_Markus moved to Oslo last
+month._
+
+|Ellas familie reiste til Spania hver sommer da hun var ung. |_Ella’s
+family traveled to Spain every summer when she was young._
+
+.2+|*V2* |Sist måned flytta (flyttet) Markus til Oslo. |_Last month, Markus
+moved to Oslo._
+
+|Da Ella var ung, reiste Ellas familie til Spania kvar (hver)
+somma(e)r. |_When Ella was young, her family traveled to Spain every
+summer._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Jenta prøvde å sykle uten støttehjul i går. |_The girl tried to
+ride her bike without training wheels yesterday._
+
+|Emil liker å tegne når han har tid. |_Emil likes to draw when he has
+time._
+
+.2+|*V2* |I går prøvde jenta å sykle uten støttehjul. |_Yesterday, the girl
+tried to ride her bike without training wheels._
+
+|Når Emil har tid, liker han å tegne. |_When Emil has time, he likes
+to draw._
+|===
+
+=== Verb Conjugation
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å kysse |Kysser |_Kisses / Kissing_ |Å svømme |Svømmer |_Swims /
+Swimming_
+
+|Å drømme |Drømmer |_Dreams / Dreaming_ |Å planlegge |Planlegger |_Plans
+/ Planning_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å lytte |Lyttet |_Listened_
+|Å sparke |Sparket |_Kicked_
+.2+|*2* |Å låse |Låste |_Locked_
+|Å reparere |reparerte |_Repaired_
+.2+|*3* |Å prøve |Prøvde |_Tried_
+|Å eie |Eide |_Owned_
+.2+|*4* |Å skje |Skjedde |_Happened_
+|Å bry |Brydde |_Cared_
+|===
+
+For future tense, often the present tense verb is used with a time
+adverbial to clarify it is a future action. (*[.underline]#Note#*: There
+are ways to form future sentences using modals; that is covered in a
+more in-depth lesson).
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Johannes drar til Oslo i morgen. |_Johannes is going to Oslo tomorrow._
+
+|Jeg tar oppvasken senere i kveld. |_I’ll wash the dishes later
+tonight._
+|===
+
+
+=== Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun. If the noun is neuter gender, then in the singular indefinite
+form, the adjective takes a *-t ending*. In the plural indefinite, the
+adjective takes an *-e ending*. Note there are exceptions.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En svak uttalelse |_A weak statement_ |Svake uttalelser
+|_Weak statements_
+
+|En lang vei |_A long road_ |Lange veier |_Long roads_
+
+.2+|*Feminine* |Ei svak unnskyldning |_A weak excuse_ |Svake unnskyldninger
+|_Weak excuses_
+
+|Ei lang linje |_A long line_ |Lange linjer |_Long lines_
+
+.2+|*Neuter* |Et svakt spark |_A weak kick_ |svake spark |_Weak kicks_
+
+|Et langt dikt |_A long poem_ |lange dikt |_Long poems_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den svake uttalelsen |_The weak statement_ |De svake
+uttalelsene |_The weak statements_
+
+|Denne lange veien |_This long road_ |Disse lange veiene |_These long
+roads_
+
+.2+|*Feminine* |Den svake unnskyldninga |_The weak excuse_ |De svake
+unnskyldningene |_The weak excuses_
+
+|Denne lange linja |_This long line_ |Disse lange linjene |_These long
+lines_
+
+.2+|*Neuter* |Det svake sparket |_The weak kick_ |De svake sparkene |_The
+weak kicks_
+
+|Dette lange diktet |_This long poem_ |Disse lange diktene |_These
+long poems_
+|===
+
+
+== Passive Voice
+
 Active and passive sentences are syntactically related.
 
 * An active sentence tells who or what did something.
-+
-Ex: Markus vasker bilen.
-+
-Markus washes the car.
-
 * A passive sentence tells us what happened and to who / what.
-+
-Ex: Bilen vaskes av Markus.
-+
-The car is washed by Markus.
-<!--more-->
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+|*Active* |Markus vasker bilen. |_Markus washes the car._
+|*Passive* |Bilen vaskes av Markus. |_The car is washed by Markus._
+|===
 
 In the above examples, the active sentence tells us who is washing the
 car: Markus. Meanwhile, the passive sentence tells us what is being
@@ -38,35 +213,46 @@ in the passive sentence.
 
 [cols=",,,,",]
 |===
-.3+|*Active* |*Subject* |*Active Verb* |*Object* |*English*
+.4+|*Active* |*Subject* |*Active Verb* |*Object* |*English*
 |Løven |jager / jaget |sebraen. |_The lion chases / chased the zebra._
-|Lukas |spiser / spiste |kaken. |_Lukas is eating / ate the cake._
+|Karin |synger / sang |sangen. |_Karin is singing / sang the song._
+|Nora |kjører / kjørte |bussen. |_Nora is driving / drove the bus._
 |===
 {empty} +
 [cols=",,,,",]
 |===
-.3+|*Passive* |*Subject* |*Passive Verb* |*Preposition Complement*
+.4+|*Passive* |*Subject* |*Passive Verb* |*Preposition Complement*
 |*English*
 
 |Sebraen |jages / ble jaget |av løven. |_The zebra is being / was
 chased by the lion._
 
-|Kaken |spises / ble spist |av Lukas. |_The cake is being / was eaten
-by Lukas._
+|Sangen |synges / ble sunget |av Karin. |_The song is being sang / was
+sung by Karin._
+
+|Bussen |kjøres / ble kjørt |av Nora. |_The bus is being driven / was
+drove by Nora._
 |===
 
 There are two types of passive construction in Norwegian:
 
-*-s passive:* Dørene lukkes kl. 7. The doors will close at 7.
-
-*Å bli passive:* Dørene ble lukket nå. The doors were closed now.
+[cols=",,",]
+|===
+|*Construction* |*Eksempel* |*English*
+|*-s passive* |Dørene lukkes kl. 7. |_The doors will close at 7._
+|*Å bli passive* |Dørene ble lukket nå. |_The doors were closed now._
+|===
 
 There’s also a third construction which is not technically “passive
 voice,” however it’s still listed in some grammar books.
 
-*Være passive:* Dørene er lukket nå. The doors are closed now.
+[cols=",,",]
+|===
+|*Construction* |*Eksempel* |*English*
+|*Være “passive”* |Dørene er lukket nå. |_The doors are closed now._
+|===
 
-== The -s passive
+=== The -s Passive
 
 The -s passive is formed by adding an -s to the end of the infinitive
 verb. It is more limited in its usage.
@@ -81,7 +267,7 @@ with verbs expressing possession, and opinion.
 
 [cols=",,",]
 |===
-|*Usage* |*Example* |*English*
+|*Usage* |*Eksempel* |*English*
 
 .3+a|
 Often used for:
@@ -93,9 +279,11 @@ Often used for:
 
 |Trinn 1: Papiret brettes i to. |_Step 1: The paper is folded in half._
 
-|Egget kokes i 12 minutter. |_The egg is boiled for 12 minutes._
+|Egget kokes (å koke) i 12 minutter. |_The egg is boiled for 12
+minutes._
 
-|Morderen søkes av politiet. |_The murderer is sought by police._
+|Tyven etterlyses (å etterlyse) av politiet. |_The thief is sought by
+police._
 
 .4+a|
 With modal verbs to express:
@@ -105,15 +293,17 @@ With modal verbs to express:
 * Prohibition
 * Volition
 
-|Kaken kan spises nå. |_The cake may be eaten now. (permission)_
+|Gavene kan åpnes (å åpne) nå. |_The gifts may be opened now.
+(permission)_
 
-|Brevet skal sendes i dag. |_The letter should be sent today.
-(obligation)_
+|Pakken skal sendes (å sende) i dag. |_The package should be sent
+today. (obligation)_
 
-|Gresset må ikke trås på. |_Do not walk on the grass. (prohibition)_
+|Gresset må ikke trås (å trå) på. |_Do not walk on the grass.
+(prohibition)_
 
-|Han vil klippes nå. |_He wants to have his hair cut right now.
-(volition)_
+|Han vil klippes (å klippe) nå. |_He wants to have his hair cut right
+now. (volition)_
 
 .3+a|
 Also used for:
@@ -125,10 +315,11 @@ Or with verbs to express:
 * Possession
 * Opinion
 
-|Middagen serveres hver dag klokka 18. |_Dinner is served every day at
-6pm._
+|Lunsj serveres hver dag klokka 12. |_Lunch is served every day at
+12pm._
 
-|Statuen eies av biblioteket. |_The statue is owned by the library._
+|Herskapshuset eies av millionæren. |_The mansion is owned by the
+millionaire._
 
 |Det antas å være sant. |_It is thought to be true._
 |===
@@ -136,7 +327,7 @@ Or with verbs to express:
 *[.underline]#Note:#* Some verbs can only form the passive using -s, for
 example eie (own), vite (know).
 
-== The bli passive
+=== The Bli Passive
 
 This passive form is created by using a form of bli + past participle.
 This is the most commonly used form of passive voice. (For information
@@ -158,10 +349,11 @@ possibility, logical necessity, and future promises.
 activity or event |Vi blir hentet på stasjonen. |_We’ll be picked up at
 the station._
 
-|Trehytten blir bygd i morgen. |_The treehouse will be built
+|Trehytten blir bygd (å bygge) i morgen. |_The treehouse will be built
 tomorrow._
 
-|Boken blir anmeldt neste uke. |_The book will be reviewed next week._
+|Filmen blir anmeldt (å anmelde) neste uke. |_The film will be
+reviewed next week._
 
 .3+a|
 “Bli” infinitive used with modals to express:
@@ -172,11 +364,11 @@ tomorrow._
 
 |Hun kan bli forfremmet. |_She may be promoted. (It may happen)._
 
-|Møtet må bli utsatt. |_The meeting must be delayed. (Seems
+|Turen må bli utsatt (å utsette). |_The trip must be delayed. (Seems
 necessary)_
 
-|Boken skal bli vurdert. |_The book shall be reviewed. (i.e.
-promise)._
+|Eksamen skal bli rettet (å rette) i morgen. |_The exam will be
+corrected tomorrow. (i.e. promise)._
 
 .3+a|
 Bli passive also used for:
@@ -184,15 +376,16 @@ Bli passive also used for:
 * Past tense
 * Composite tense
 
-|Hun ble veltet av sykkelen. |_She was knocked off her bike._
+|Han ble dyttet av avsatsen. |_He was pushed off the ledge._
 
-|Idéen ble stjålet av firmaet. |_The idea was stolen by the firm._
+|Oppfinnelsen ble godkjent (å godkjenne) av firmaet. |_The invention
+was approved by the company._
 
-|Pasienten ble hjulpet av legen. |_The patient was helped by the
-doctor._
+|Eleven ble hjulpet (å hjelpe) av læreren. |_The student was helped by
+the teacher._
 |===
 
-== The være passive
+=== The Være “Passive”
 
 As mentioned, previously, while this is “technically” not a passive
 form, it is listed with other passive forms in the grammar book, so I am
@@ -200,9 +393,9 @@ including it in this lesson. The være “passive” is formed by using være
 + past participle.
 
 [arabic]
-. When the participle is a verb - this construction usually describes
-the result of a completed action; it emphasizes the state of something
-instead of the action that brought it about.
+. When the participle is a verb - usually describes the result of a
+completed action; it emphasizes the state of something instead of the
+action that brought it about.
 . When the participle is an adjective - when the action is vague or
 absent, the participle may take on the function of an adjective; it
 remains in the -t form in both the singular and plural, regardless of
@@ -211,38 +404,59 @@ the noun’s gender.
 [cols=",,",]
 |===
 |*Usage* |*Example* |*English*
-.3+|Participle as a verb |Boken er oversatt. |_The book is translated._
-|Måltidet er laget. |_The meal is cooked._
-|Hunden er vasket. |_The dog is washed._
-.4+|Participle as an adjective |Jenta er forelsket. |_The girl is in love_
-|Jentene er forelsket. |_The girls are in love._
-|Døren er stengt. |_The door is closed._
-|Husene er solgt. |_The houses are sold._
+
+.3+|*Participle as a verb* |Boken er oversatt. |_The book is translated._
+
+|Måltidet er laget (å lage). |_The meal is cooked._
+
+|Hunden er vasket (å vaske). |_The dog is washed._
+
+.4+|*Participle as an adjective* |Jenta er forelsket. |_The girl is in
+love_
+
+|Jentene er forelsket (å forelske). |_The girls are in love._
+
+|Døren er stengt (å stenge) |_The door is closed._
+
+|Husene er solgt (å selge) |_The houses are sold._
 |===
 
-_**{asterisk}{asterisk}If the lesson was beneficial, please consider
-https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}**_
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
 
 Resources:
 
 * http://www.frathwiki.com/Norwegian#Passive_Voice[FrathWiki: Norwegian]
-* https://sites.google.com/site/translatefree/norwegian-lessons-2/intronorwegian/norwegian-verbs/sample-sentences[Free Language Lessons & Translation: Imperative & Passive Verbs]
-* https://www.youtube.com/watch?v=tzMn0gHdPs0[Norwegian Language: -S verbs explained (YouTube)]
-* https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[Norwegian: An Essential Grammar (pgs 38-39)]
-* http://www.sprakradet.no/sprakhjelp/Praktisk-grammatikk/S-verb_bokmaal/[-S verb (på norsk)]
+
+* https://sites.google.com/site/translatefree/norwegian-lessons-2/intronorwegian/norwegian-verbs/sample-sentences[Free
+Language Lessons & Translation: Imperative & Passive Verbs]
+
+* https://www.youtube.com/watch?v=tzMn0gHdPs0[Norwegian Language: -S verbs
+explained (YouTube)]
+
+* https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[Norwegian:
+An Essential Grammar (pgs 38-39)]
+
+* http://www.sprakradet.no/sprakhjelp/Praktisk-grammatikk/S-verb_bokmaal/[-S
+verb (på norsk)]
 
 *[.underline]#Exercise 1:# Rewrite the following sentences using the -s
 or bli passive forms.*
 
 [arabic]
-. Tobias synger den nye sangen.
-. Isabella kjørte bussen til Oslo.
+. Tor kjører den nye bilen.
+. Isabella fløy flyet over Atlanterhavet.
 . Ella må gjøre leksene i dag.
 . Erik skal skrive en unnskyldning.
-. Karin vil skrive om museet neste uke.
+. Jakob vil skrive om museet neste uke.
 
-https://docs.google.com/document/d/188zZ3IX2Y8l0_YrFby_EXDktpX7N4BaKFDdPsUWgIvw/edit?usp=sharing[Answer Key]
+https://docs.google.com/document/d/188zZ3IX2Y8l0_YrFby_EXDktpX7N4BaKFDdPsUWgIvw/edit?usp=sharing[Answer
+Key]
 
-*[.underline]#Exercise 2:# Write three pairs of sentences; each pair
-must have one sentence using active voice and one sentence using either
--s or bli passive voice.*
+*[.underline]#Exercise 2:# Write three pairs of sentences*
+
+*Each pair must have a sentence using active voice and passive voice.*
+
+*Ex: Christian kjøpte boka.*
+
+*Boka ble kjøpt av Christian.*
