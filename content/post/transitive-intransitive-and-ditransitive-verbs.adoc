@@ -1,0 +1,363 @@
+---
+title: "Transitive, intransitive and ditransitive verbs"
+date: "2020-02-02"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+When learning about verbs in Norwegian, often you will come across the
+words “transitive” and “intransitive.” I thought it would be a good idea
+to explain these concepts.
+<!--more-->
+
+== Grammar Review
+
+=== Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Lukas ventet på vennene sine etter skoletid. |_Lukas waited for
+his friends after school._
+
+|Tiril satt barnevakt for broren sin mens foreldrene deres jobbet.
+|_Tiril babysat her brother while their parents worked._
+
+.2+|*V2* |Etter skoletid ventet Lukas på vennene sine. |_After school,
+Lukas waited for his friends._
+
+|Mens foreldrene deres jobbet, satt Tiril barnevakt for broren sin.
+|_While their parents worked, Tiril babysat her brother._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Faren min liker å jakte om vinteren. |_My father likes to hunt
+in the winter._
+
+|Elias prøvde å lage et armbånd etter at han så på en
+instruksjonsvideo. |_Elias tried to make a bracelet after he watched a
+tutorial._
+
+.2+|*V2* |Om vinteren liker faren min å jakte. |_In the winter, my father
+likes to hunt._
+
+|Etter at Elias så på en instruksjonsvideo, prøvde han å lage et
+armbånd. |_After Elias watched a tutorial, he tried to make a bracelet._
+|===
+
+=== Verb Conjugation
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å rope |roper |_Yells / Yelling_ |Å bygge |bygger |_Builds / Building_
+|Å vinne |vinner |_Wins / Winning_ |Å tape |taper |_Loses / Losing_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sparke |Sparket |_Kicked_
+|Å fikse |Fikset |_Fixed_
+.2+|*2* |Å svare |Svarte |_Answered_
+|Å besøke |Besøkte |_Visited_
+.2+|*3* |Å trave |travde |_Trotted_
+|Å feie |feide |_Swept_
+.2+|*4* |Å ha |hadde |_Had_
+|Å snu |snudde |_Flipped_
+|===
+
+For future tense, often the present tense verb is used with a time
+adverbial to clarify it is a future action. (*[.underline]#Note#*: There
+are ways to form future sentences using modals; that is covered in a
+more in-depth lesson).
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Henrik drar til Trondheim neste uke. |_Henrik is going to Trondheim
+next week._
+
+|Jeg tar oppvasken senere i kveld. |_I’ll wash the dishes later
+tonight._
+|===
+
+=== Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun. If the noun is neuter gender, then in the singular indefinite
+form, the adjective takes a *-t ending*. In the plural indefinite, the
+adjective takes an *-e ending*. Note there are exceptions.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+| |*Norwegian* |*English* |*Norwegian* |*English*
+.2+|*Masculine* |En rask bil |_A fast car_ |Raske biler |_Fast cars_
+|En falsk lisens |_A fake license_ |Falske lisenser |_Fake licenses_
+.2+|*Feminine* |Ei rask bie |_A fast bee_ |Raske bier |_Fast bees_
+|Ei falsk melding |_A fake message_ |Falske meldinger |_Fake messages_
+.2+|*Neuter* |Et raskt barn |_A fast child_ |Raske barn |_Fast children_
+|Et falskt bilde |_A fake picture_ |Faske bilder |_Fake pictures_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den raske bilen |_The fast car_ |De raske bilene |_The
+fast cars_
+
+|Denne falske lisensen |_This fake license_ |Disse falske lisensene
+|_These fake licenses_
+
+.2+|*Feminine* |Den raske bia |_The fast bee_ |De raske biene |_The fast
+bees_
+
+|Denne falske meldinga |_This fake message_ |Disse falske meldingene
+|_These fake messages_
+
+.2+|*Neuter* |Det raske barnet |_The fast child_ |De raske barna / barnene
+|_The fast children_
+
+|Dette falske bildet |_This fake picture_ |Disse falske bilda /
+bildene |_These fake pictures_
+|===
+
+== Transitive, Intransitive, Etc.
+
+Some verbs require a direct object while others do not. Sometimes they
+differ from how the verbs are used in English.
+
+=== Transitive Verbs
+
+Transitive verbs have a direct object (that is, the person or object
+receiving the action).
+
+[cols=",,,",]
+|===
+|*Norwegian Sentence* |*Transitive Verb* |*Direct Object* |*English
+Translation*
+
+|Nils malte portrettet. |malte |portrettet |_Nils painted the portrait._
+
+|Synnøve ringte moren sin. |ringte |Moren sin |_Synnøve called her
+mother._
+|===
+
+*[.underline]#NOTE:#* Some transitive verbs can be used intransitively
+(i.e. that is, without a direct object). In these cases, the direct
+object is implied though not stated.
+
+[cols=",,,",]
+|===
+|*Norwegian Sentence* |*Transitive Verb* |*(Implied Direct Object)*
+|*English Translation*
+
+|Vi spiser kl.18. |spiser |mat |_We eat at 6pm._
+
+|Gustav kjører på jobb. |kjører |bilen sin |_Gustav drives to work._
+|===
+
+*Some additional examples of “latent” transitive verbs:*
+
+[cols=",,,",]
+|===
+|Å drikke |_To drink_ |Å hjelpe |_To help_
+|Å tape |_To lose_ |Å vinne |_To win_
+|===
+
+There are some verbs that do not need a direct object in English however
+they must contain a direct object in Norwegian.
+
+[cols=",,,",]
+|===
+|*Norwegian Sentence* |*Transitive Verb* |*Direct Object* |*English
+Translation*
+
+|Jeg forlot huset tidlig. |forlot |huset |_I left (the house) early._
+
+|De kysset hverandre. |kysset |hverandre |_They kissed (each other)._
+|===
+
+As you can see in the English translations of the above sentences, you
+could omit the parts in parenthesis and the sentence would still be
+correct.
+
+=== Ditransitive Verbs
+
+Ditransitive verbs have both a direct object and an indirect object
+(that is, it refers to a person or thing that is affected by the action
+but is not the recipient).
+
+[cols=",,,,",]
+|===
+|*Norwegian Sentence* |*Ditransitive Verb* |*Indirect Object* |*Direct
+Object* |*English Translation*
+
+|Pia gav Emil en gave. |gav |Emil |gave |_Pia gave Emil a gift._
+
+|Fanny fortalte Lars en hemmelighet. |fortalte |Lars |hemmelighet
+|_Fanny told Lars a secret._
+|===
+
+*Some additional examples of ditransitive verbs:*
+
+[cols=",,,",]
+|===
+|Å love |_To promise_ |Å låne |_To lend_
+|Å sende |_To send_ |Å misunne |_To envy_
+|Å si |_To say_ | |
+|===
+
+=== Intransitive Verbs
+
+Intransitive verbs do not have a direct object.
+
+[cols=",,",]
+|===
+|*Norwegian Sentence* |*Intransitive Verb* |*English Translation*
+|Hunden sover. |sover |_The dog is sleeping._
+|Faren hans døde i går. |døde |_His father died yesterday._
+|===
+
+*Some additional examples of intransitive verbs:*
+
+[cols=",,,",]
+|===
+|Å gråte |_To weep_ |Å fryse |_To be cold / freeze_
+|Å lyve |_To (tell a) lie_ | |
+|===
+
+There are some transitive and intransitive verbs that exist in pairs,
+that have related meanings. Here’s some examples; notice that some might
+be spelled the same in present tense but not in past or perfect tenses.
+
+[cols=",,,,,,,",]
+|===
+| |*Infinitive* |*English* |*Present* |*Past* |*Perfect* |*Eksempel*
+|*English*
+
+|*Transitive* |Å legge a|
+_To lay;_
+
+_to put_
+
+|legger |la |lagt |Han la boka på bordet. |_He put the book on the
+table._
+
+|*Intransitive* |Å ligge |_To lie_ |ligger |lå |ligget |Han lå hele
+dagen. |_He lied (in bed) all day._
+
+|*Transitive* |Å sette a|
+_To set;_
+
+_to place,_
+
+_to put_
+
+|setter |satte |satt |Hun satte koppen på bordet. |_She put the cup on
+the table._
+
+|*Intransitive* |Å sitte |_To sit_ |sitter |satt |sittet |Jeg satt på
+kontoret i en time. |_I sat in the office for an hour._
+
+|*Transitive* |Å henge |_To hang up_ |henger |hengte |hengt |Han hengte
+jakken sin i skapet. |_He hung his jacket up in the closet._
+
+|*Intransitive* |Å henge |_To hang_ |henger |hang |hengt |Jakken hans
+hang i skapet. |_His jacket was hanging in the closet._
+
+|*Transitive* |Å rekke a|
+_To reach,_
+
+_to pass_
+
+|rekker |rakte |rakt |Han rakte meg hånden sin. |_He offered me his
+hand._
+
+|*Intransitive* |Å rekke |_To reach_ |rekker |rakk |rukket |Juletreet
+rakk helt i taket. |_The Christmas tree reached all the way to the
+ceiling._
+|===
+
+As you can see, whether a verb is transitive or intransitive can change
+how it is conjugated, particularly in the past tense.
+
+=== Copulas
+
+Another term you might come across is “copula.” These are “empty verbs”
+that need a subject complement (usually an adjective or noun), instead
+of an object. The most common copulas are “bli” and “være.” Copulas
+usually indicate either the state of something or imply change.
+
+[cols=",,,",]
+|===
+|*Norwegian Sentence* |*Copula* |*Subject Complement* |*English
+translation*
+
+|Erik ble ingeniør. |ble |ingeniør |_Erik became an engineer._
+
+|De er veldig søte. |er |søte |_They are very sweet / cute._
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
+
+Sources:
+
+* https://www.ntnu.edu/now/3/grammar[Norwegian on the Web]
+* http://www.norwegianlanguageservices.com/reflex.htm[Examples of
+Reflexive Expressions]
+* http://www.cram.com/flashcards/norwegian-reflexive-verbs-1730979[Reflexive
+Verbs Flash Cards]
+* https://www.youtube.com/watch?v=dkihcLQ_3aI[Learn Norwegian: Reflexive
+Verbs (YouTube)]
+
+*[.underline]#Exercise:# Write 5 sentences; indicate if the verb is
+transitive / intransitive / etc.*
