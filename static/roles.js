@@ -10,13 +10,16 @@ var app = new Vue({
     <div v-else-if="state == 'error'">Something went wrong.</div>
     <div v-else-if="state == 'loaded'">
       <form @submit.prevent="submit">
-        <div class="checkbox" v-for="role in roles" style="line-height: normal;">
-          <label>
-            <input :key="role.id" type="checkbox" :value="role.id"
-              v-model="selectedRoles">
-            {{ role.name }}
-          </label>
-        </div>
+        <fieldset class="form-group" v-for="(roles, category) in rolesByCategory" :key="category">
+          <legend>{{ category }}</legend>
+          <div class="checkbox" v-for="role in roles" style="line-height: normal;">
+            <label>
+              <input :key="role.id" type="checkbox" :value="role.id"
+                v-model="selectedRoles">
+              {{ role.name }}<span v-if="role.description">: {{ role.description }}</span>
+            </label>
+          </div>
+        </fieldset>
         <button type="submit" class="btn btn-default" :disabled="submitting">
           <span v-if="submitting">Changing your roles ...</span>
           <span v-else>Change your roles</span>
@@ -65,7 +68,7 @@ var app = new Vue({
   },
   methods: {
     async fetchAccessToken(code) {
-      const response = await fetch(`${API_URL}/access_token?code=${code}`);
+      const response = await fetch(`${API_URL}/access_token/?code=${code}`);
       const body = JSON.parse(await response.text());
       if (!response.ok) {
         if (response.status == 400 && body.detail == "Invalid code") {
@@ -84,7 +87,7 @@ var app = new Vue({
         throw response;
       }
       const body = JSON.parse(await response.text());
-      this.selectedRoles = body.roles.map((role) => role.id);
+      this.selectedRoles = body.roles;
     },
     async fetchRoles() {
       const response = await fetch(`${API_URL}/roles/`);
@@ -106,6 +109,19 @@ var app = new Vue({
         },
       });
       this.submitting = false;
+    },
+  },
+  computed: {
+    rolesByCategory() {
+      const rolesByCategory = {};
+      for (const role of this.roles) {
+        const category = role.category;
+        if (!rolesByCategory[category]) {
+          rolesByCategory[category] = [];
+        }
+        rolesByCategory[category].push(role);
+      }
+      return rolesByCategory;
     },
   },
 });
