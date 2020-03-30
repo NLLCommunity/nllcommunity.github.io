@@ -1,7 +1,10 @@
-const API_URL =
-  "https://europe-west1-norwegian-language-learning.cloudfunctions.net";
+//const API_URL =
+//  "https://europe-west1-norwegian-language-learning.cloudfunctions.net";
+//const AUTHORIZATION_URL =
+//  "https://discordapp.com/api/oauth2/authorize?client_id=446812874615029763&redirect_uri=https%3A%2F%2Fnorwegianlanguagelearning.no%2Fpage%2Froles%2F&response_type=code&scope=identify&prompt=none";
+const API_URL = "http://localhost:5000";
 const AUTHORIZATION_URL =
-  "https://discordapp.com/api/oauth2/authorize?client_id=446812874615029763&redirect_uri=https%3A%2F%2Fnorwegianlanguagelearning.no%2Fpage%2Froles%2F&response_type=code&scope=identify&prompt=none";
+  "https://discordapp.com/api/oauth2/authorize?client_id=446812874615029763&redirect_uri=http%3A%2F%2Flocalhost%3A1313%2Fpage%2Froles%2F&response_type=code&scope=identify&prompt=none";
 
 var app = new Vue({
   template: `
@@ -41,6 +44,7 @@ var app = new Vue({
       window.location.href = AUTHORIZATION_URL;
       return;
     }
+    // Maybe the redirect should be to the backend
     const code = urlParams.get("code");
     urlParams.delete("code");
     const urlParamsString = urlParams.toString();
@@ -53,8 +57,7 @@ var app = new Vue({
     );
     this.state = "loading";
     try {
-      await this.fetchAccessToken(code);
-      await this.fetchUserRoles();
+      await this.fetchUserRoles(code);
     } catch (err) {
       if (this.state != "redirecting") {
         this.state = "error";
@@ -65,28 +68,23 @@ var app = new Vue({
     this.state = "loaded";
   },
   methods: {
-    async fetchAccessToken(code) {
-      const response = await fetch(`${API_URL}/access_token/?code=${code}`);
-      const body = JSON.parse(await response.text());
+    async fetchUserRoles(code) {
+      const response = await fetch(`${API_URL}/user_roles/?code=${code}`);
       if (!response.ok) {
-        if (response.status == 400 && body.detail == "Invalid code") {
-          this.state = "redirecting";
-          window.location.href = AUTHORIZATION_URL;
+        if (response.status == 400) {
+          const body = JSON.parse(await response.text());
+          if (body.detail == "Invalid code") {
+            this.state = "redirecting";
+            window.location.href = AUTHORIZATION_URL;
+            return;
+          }
         }
-        throw response;
-      }
-      this.accessToken = body.accessToken;
-    },
-    async fetchUserRoles() {
-      const response = await fetch(`${API_URL}/user_roles/`, {
-        headers: { Authorization: `Bearer ${this.accessToken}` },
-      });
-      if (!response.ok) {
         throw response;
       }
       const body = JSON.parse(await response.text());
       this.selectedRoles = body.userRoles;
       this.roles = body.roles;
+      this.accessToken = body.accessToken;
     },
     async submit() {
       this.submitting = true;
