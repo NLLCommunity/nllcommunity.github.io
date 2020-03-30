@@ -76,7 +76,6 @@ var app = new Vue({
           if (body.detail == "Invalid code") {
             this.state = "redirecting";
             window.location.href = AUTHORIZATION_URL;
-            return;
           }
         }
         throw response;
