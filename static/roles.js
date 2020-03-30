@@ -53,10 +53,8 @@ var app = new Vue({
     );
     this.state = "loading";
     try {
-      await Promise.all([
-        this.fetchAccessToken(code).then(this.fetchUserRoles),
-        this.fetchRoles(),
-      ]);
+      await this.fetchAccessToken(code);
+      await this.fetchUserRoles();
     } catch (err) {
       if (this.state != "redirecting") {
         this.state = "error";
@@ -87,14 +85,7 @@ var app = new Vue({
         throw response;
       }
       const body = JSON.parse(await response.text());
-      this.selectedRoles = body.roles;
-    },
-    async fetchRoles() {
-      const response = await fetch(`${API_URL}/roles/`);
-      if (!response.ok) {
-        throw response;
-      }
-      const body = JSON.parse(await response.text());
+      this.selectedRoles = body.userRoles;
       this.roles = body.roles;
     },
     async submit() {
