@@ -5,9 +5,22 @@ const AUTHORIZATION_URL =
 
 var app = new Vue({
   template: `
-    <div v-if="state == 'loading'">Loading roles ...</div>
-    <div v-else-if="state == 'redirecting'">Redirecting to authorization ...</div>
-    <div v-else-if="state == 'error'">Something went wrong.</div>
+    <div v-if="state == 'confirmation'">
+      <p>
+        To change your roles, you first need to authorize access on the Discord website. 
+        This will only let us see who you are.
+      </p>
+      <a href="${AUTHORIZATION_URL}">Authorize access</a>
+    </div>
+    <div v-else-if="state == 'loading'">
+      Loading roles ...
+    </div>
+    <div v-else-if="state == 'redirecting'">
+      Redirecting to authorization ...
+    </div>
+    <div v-else-if="state == 'error'">
+      Something went wrong. You could try refreshing.
+    </div>
     <div v-else-if="state == 'loaded'">
       <form @submit.prevent="submit">
         <fieldset class="form-group" v-for="(roles, category) in rolesByCategory" :key="category">
@@ -25,10 +38,11 @@ var app = new Vue({
           <span v-else>Change your roles</span>
         </button>
       </form>
-    </div>`,
+    </div>
+  `,
   el: "#app",
   data: {
-    state: "",
+    state: localStorage.getItem("authorized") !== null ? "" : "confirmation",
     accessToken: "",
     roles: [],
     selectedRoles: [],
@@ -37,11 +51,12 @@ var app = new Vue({
   async created() {
     const urlParams = new URLSearchParams(window.location.search);
     if (!urlParams.has("code")) {
+      if (this.state !== "confirmation") {
       this.state = "redirecting";
-      window.location.href = AUTHORIZATION_URL;
+        window.location.href = AUTHORIZATION_URL;
+      }
       return;
     }
-    // Maybe the redirect should be to the backend
     const code = urlParams.get("code");
     urlParams.delete("code");
     const urlParamsString = urlParams.toString();
@@ -56,25 +71,24 @@ var app = new Vue({
     try {
       await this.fetchUserRoles(code);
     } catch (err) {
-      if (this.state != "redirecting") {
-        this.state = "error";
+      if (err.status == 400) {
+        const body = JSON.parse(await err.text());
+        if (body.detail == "Invalid code") {
+          window.location.search = "";
+          return;
+        }
       }
+        this.state = "error";
       console.log(err);
       return;
     }
     this.state = "loaded";
+    localStorage.setItem("authorized", "");
   },
   methods: {
     async fetchUserRoles(code) {
       const response = await fetch(`${API_URL}/user_roles/?code=${code}`);
       if (!response.ok) {
-        if (response.status == 400) {
-          const body = JSON.parse(await response.text());
-          if (body.detail == "Invalid code") {
-            this.state = "redirecting";
-            window.location.href = AUTHORIZATION_URL;
-          }
-        }
         throw response;
       }
       const body = JSON.parse(await response.text());
