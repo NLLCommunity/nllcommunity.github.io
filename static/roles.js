@@ -77,7 +77,7 @@ var app = new Vue({
         }
         throw response;
       }
-      this.accessToken = body.access_token;
+      this.accessToken = body.accessToken;
     },
     async fetchUserRoles() {
       const response = await fetch(
