@@ -80,9 +80,9 @@ var app = new Vue({
       this.accessToken = body.accessToken;
     },
     async fetchUserRoles() {
-      const response = await fetch(
-        `${API_URL}/user_roles/?accessToken=${this.accessToken}`
-      );
+      const response = await fetch(`${API_URL}/user_roles/`, {
+        headers: { Authorization: `Bearer ${this.accessToken}` },
+      });
       if (!response.ok) {
         throw response;
       }
@@ -99,13 +99,14 @@ var app = new Vue({
     },
     async submit() {
       this.submitting = true;
-      await fetch(`${API_URL}/user_roles/?accessToken=${this.accessToken}`, {
+      await fetch(`${API_URL}/user_roles/`, {
         method: "put",
         body: JSON.stringify(
           this.selectedRoles.map((roleId) => ({ id: roleId }))
         ),
         headers: {
           "Content-Type": "application/json",
+          Authorization: `Bearer ${this.accessToken}`,
         },
       });
       this.submitting = false;
