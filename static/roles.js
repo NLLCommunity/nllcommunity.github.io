@@ -100,9 +100,7 @@ var app = new Vue({
       this.submitting = true;
       await fetch(`${API_URL}/user_roles/`, {
         method: "put",
-        body: JSON.stringify(
-          this.selectedRoles.map((roleId) => ({ id: roleId }))
-        ),
+        body: JSON.stringify(this.selectedRoles),
         headers: {
           "Content-Type": "application/json",
           Authorization: `Bearer ${this.accessToken}`,
