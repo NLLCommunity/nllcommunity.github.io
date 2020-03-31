@@ -66,6 +66,12 @@ enableRobotsTXT = true
 
 [[menu.main]]
 	parent = "info"
+	name = "Roles"
+	url = "page/roles/"
+	weight = 2
+
+[[menu.main]]
+	parent = "info"
 	name = "Heimdallr"
 	url = "page/heimdallr/"
 	weight = 3
