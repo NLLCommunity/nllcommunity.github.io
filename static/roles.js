@@ -12,14 +12,17 @@ var app = new Vue({
       </p>
       <a href="${AUTHORIZATION_URL}">Authorize access</a>
     </div>
+    <div v-else-if="state == 'invite'">
+      <p>It looks like you're not a member of our Discord community yet. <a href="https://discord.gg/mBsKjx7">Join us!</a></p>
+    </div>
     <div v-else-if="state == 'loading'">
-      Loading roles ...
+      <p>Loading roles ...</p>
     </div>
     <div v-else-if="state == 'redirecting'">
-      Redirecting to authorization ...
+      <p>Redirecting to authorization ...</p>
     </div>
     <div v-else-if="state == 'error'">
-      Something went wrong. You could try refreshing.
+      <p>Something went wrong. You could try refreshing.</p>
     </div>
     <div v-else-if="state == 'loaded'">
       <form @submit.prevent="submit">
@@ -52,7 +55,7 @@ var app = new Vue({
     const urlParams = new URLSearchParams(window.location.search);
     if (!urlParams.has("code")) {
       if (this.state !== "confirmation") {
-      this.state = "redirecting";
+        this.state = "redirecting";
         window.location.href = AUTHORIZATION_URL;
       }
       return;
@@ -77,8 +80,11 @@ var app = new Vue({
           window.location.search = "";
           return;
         }
+      } else if (err.status == 404) {
+        this.state = "invite";
+        return;
       }
-        this.state = "error";
+      this.state = "error";
       console.log(err);
       return;
     }
