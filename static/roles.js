@@ -1,7 +1,10 @@
-const API_URL =
-  "https://europe-west1-norwegian-language-learning.cloudfunctions.net";
+//const API_URL =
+//  "https://europe-west1-norwegian-language-learning.cloudfunctions.net";
+//const AUTHORIZATION_URL =
+//  "https://discordapp.com/api/oauth2/authorize?client_id=446812874615029763&redirect_uri=https%3A%2F%2Fnorwegianlanguagelearning.no%2Fpage%2Froles%2F&response_type=code&scope=identify&prompt=none";
+const API_URL = "http://localhost:5000";
 const AUTHORIZATION_URL =
-  "https://discordapp.com/api/oauth2/authorize?client_id=446812874615029763&redirect_uri=https%3A%2F%2Fnorwegianlanguagelearning.no%2Fpage%2Froles%2F&response_type=code&scope=identify&prompt=none";
+  "https://discordapp.com/api/oauth2/authorize?client_id=446812874615029763&redirect_uri=http%3A%2F%2Flocalhost%3A1313%2Fpage%2Froles%2F&response_type=code&scope=identify&prompt=none";
 
 var app = new Vue({
   template: `
@@ -14,6 +17,9 @@ var app = new Vue({
     </div>
     <div v-else-if="state == 'invite'">
       <p>It looks like you're not a member of our Discord community yet. <a href="https://discord.gg/mBsKjx7">Join us!</a></p>
+    </div>
+    <div v-else-if="state == 'need-introduction'">
+      <p>You haven't been approved yet. Have you written an introduction in our <a href="https://www.discordapp.com/channels/143458761665675264/483672165137383454">welcome channel?</a></p>
     </div>
     <div v-else-if="state == 'loading'">
       <p>Loading roles ...</p>
@@ -82,6 +88,9 @@ var app = new Vue({
         }
       } else if (err.status == 404) {
         this.state = "invite";
+        return;
+      } else if (err.status == 403) {
+        this.state = "need-introduction";
         return;
       }
       this.state = "error";
