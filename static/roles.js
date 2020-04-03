@@ -1,10 +1,7 @@
-//const API_URL =
-//  "https://europe-west1-norwegian-language-learning.cloudfunctions.net";
-//const AUTHORIZATION_URL =
-//  "https://discordapp.com/api/oauth2/authorize?client_id=446812874615029763&redirect_uri=https%3A%2F%2Fnorwegianlanguagelearning.no%2Fpage%2Froles%2F&response_type=code&scope=identify&prompt=none";
-const API_URL = "http://localhost:5000";
+const API_URL =
+  "https://europe-west1-norwegian-language-learning.cloudfunctions.net";
 const AUTHORIZATION_URL =
-  "https://discordapp.com/api/oauth2/authorize?client_id=446812874615029763&redirect_uri=http%3A%2F%2Flocalhost%3A1313%2Fpage%2Froles%2F&response_type=code&scope=identify&prompt=none";
+  "https://discordapp.com/api/oauth2/authorize?client_id=446812874615029763&redirect_uri=https%3A%2F%2Fnorwegianlanguagelearning.no%2Fpage%2Froles%2F&response_type=code&scope=identify&prompt=none";
 
 var app = new Vue({
   template: `
