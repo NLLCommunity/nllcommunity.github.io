@@ -1,0 +1,490 @@
+---
+title: "Prepositions (part 1)"
+date: "2020-03-01"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+This lesson goes over some of the common prepositions used in Norwegian.
+<!--more-->
+
+== Grammar Review
+
+=== Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Ella spiste kake til middag i går. |_Ella ate cake for dinner
+yesterday._
+
+|Christian besøkte bestemoren sin mens han var i Oslo. |_Christian
+visited his grandmother while he was in Oslo._
+
+.2+|*V2* |I går åt Ella kake til middag. |_Yesterday, Ella ate cake for
+dinner._
+
+|Mens Christian var i Oslo, vitja han bestemora si. |_While Christian
+was in Oslo, he visited his grandmother._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Erik begynte å skrive avhandlingen sin i forrige uke. |_Erik
+began to write his dissertation last week._
+
+|Nora likte å se på filmer med vennene sine da hun gikk på
+universitetet. |_Nora liked to watch films with her friends when she was
+in university._
+
+.2+|*V2* |I forrige uke begynte Erik å skrive avhandlingen sin |_Last week,
+Erik began writing his dissertation._
+
+|Da Nora gikk på universitetet, likte hun å se på filmer med vennene
+sine |_When Nora was in university, she liked to watch movies with her
+friends._
+|===
+
+=== *Verb Conjugation*
+
+Conjugating the present tense of verbs in Norwegian is fairly simple.
+Most present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å telle |teller |_Counts / Counting_ |Å knuse |knuser |_Crushes /
+Crushing_
+
+|Å brette |bretter |_Folds / Folding_ |Å lyve |lyver |_Lies / Lying_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å brette |Brettet |_Folded_
+|Å vente |Ventet |_Waited_
+.2+|*2* |Å knuse |knuste |_Crushed_
+|Å like |likte |_Liked_
+.2+|*3* |Å sveve |svevde |_Hovered_
+|Å veie |veide |_Weighed_
+.2+|*4* |Å kle |kledde |_Dressed_
+|Å snu |snudde |_Turned_
+|===
+
+There are two ways to talk about future activities. Sometimes a present
+tense verb + a time adverbial is used. Modal verbs are another way to
+express future tense.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*Present Tense + Time Adverbial* |De drar til museet senere. |_They are
+going to the museum later._
+
+|*Modal Verbs* |Liam skal se den nye filmen. |_Liam is going to watch
+the new movie._
+|===
+
+=== Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun. If the noun is neuter gender, then in the singular indefinite
+form, the adjective takes a *-t ending*. In the plural indefinite, the
+adjective takes an *-e ending*. Note there are exceptions.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En bred ravine |_A wide ravine_ |Brede raviner |_Wide
+ravines_
+
+|En rød låve |_A red barn_ |Røde låver |_Red barns_
+
+.2+|*Feminine* |Ei brei mark |_A wide field_ |Breie marker |_Wide fields_
+
+|Ei raud vogn |_A red wagon_ |Raude vogner |_Red wagons_
+
+.2+|*Neuter* |Et bredt område |_A wide area_ |Brede områder |_Wide areas_
+
+|Et rødt skur |_A red shed_ |Røde skur |_Red sheds_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den brede ravinen |_The wide ravine_ |De brede ravinene
+|_The wide ravines_
+
+|Denne røde låven |_This red barn_ |Disse røde låvene |_These red
+barns_
+
+.2+|*Feminine* |Den brede marka |_The wide field_ |De brede markene |_The
+wide fields_
+
+|Denne røde vogna |_This red wagon_ |Disse røde vognene |_These red
+wagons_
+
+.2+|*Neuter* |Det brede området |_The wide area_ |De brede områda /
+områdene |_The wide areas_
+
+|Dette røde skuret |_This red shed_ |Disse røde skura / skurene
+|_These red sheds_
+|===
+
+
+== Prepositions
+
+Prepositions are words that describe the spatial relation between 2
+things, for example: on, at, by, under, above etc. Prepositions tend to
+be difficult because their uses can vary from language to language and
+the relation is never 1:1. For example, in one language you might be in
+the train while in another language you’re on the train.
+
+This is a general idea of how some of the prepositions are used:
+
+[cols=",,,,",]
+|===
+| |*NORWEGIAN* |*ENGLISH* |*NORWEGIAN* |*ENGLISH*
+|*1* |*av* |by, of |*motsatt av* |opposite of
+|*2* |*bak* |behind |*nær* |near to
+|*3* |*blant* |among |*ned* |down
+|*4* |*før* |before, prior to |*nedenfor* |below
+|*5* |*foran* |in front of |*opp* |up
+|*6* |*gjennom* |through |*ovenfor* |above
+|*7* |*hos* |at (people) |*på* |at, on, to, in
+|*8* |*i* |in |*over* |over, of
+|*9* |*i nærheten av* |near, close to |*på toppen av* |On top of
+|*10* |*inn* |in |*på tvers* |across
+|*11* |*innen* |within |*rundt* |around
+|*12* |*inni* |inside |*til* |to, towards (person)
+|*13* |*inn i* |into |*under* |beneath, under
+|*14* |*innsiden av* |inside of |*ut* |out
+|*15* |*langt fra* |far from |*utenfor* |outside (of)
+|*16* |*med* |with (thing) |*utover* |beyond
+|*17* |*mellom* |between |*ved siden av* |next to
+|===
+
+In this lesson, there are a few prepositions that we will go over a bit
+more in-depth.
+
+=== For vs Til
+
+“For” and “til” can be confusing for learners; both have various ways
+they are used. “Til” is one of the most common prepositions in Norwegian
+and often refers to movement in time and space but has many other uses
+as well.
+
+[cols=",",]
+|===
+|*For* |*Til*
+|_For an audience_ |_Meant for_
+|_For a target group_ |_Destination_
+|_Head / Spokesperson of_ |_Unit quantity_
+|_Price_ |_Ingredients / Resources / Tools / Utensils_
+| |_Price_
+|===
+
+Let’s look at some examples:
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.4+|*For* |Bandet opptrådte for 500 mennesker. |_The band performed for 500
+people._
+
+|Den nye filmen er for barn. |_The new movie is for children._
+
+|Nina er talspersonen for kampanjen. |_Nina is the spokesperson for
+the campaign._
+
+|Jeg gikk til lærbamsebaren klokka elleve for å finne en date men det
+var for tidlig. |_I went to the leather bear bar at 11 AM in order to
+find a date but it was too early._
+
+.6+|*Til* |“Her er et brev til moren din”, sa postmannen. |_“Here is a
+letter for your mother,” said the mailman._
+
+|Familien min reiser til Spania hver sommer. |_My family travels to
+Spain every summer._
+
+|Denne boksen er til 24 flasker. |_This box is for 24 bottles._
+
+|“Jeg trenger to egg til kakeoppskriften”, sa Ella. |_“I need two eggs
+for the cake recipe,” said Ella._
+
+|Vi spiste pizza til lunsj. |_We ate pizza for lunch._
+
+|Jeg har en gave til deg. |_I have a present for you._
+|===
+
+*[.underline]#NOTE:#* “For å” means “in order to.”
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|For å se bedre fikk Marit nye briller. |_In order to see better, Marit
+got new glasses._
+
+|Noah studerte mye for å få gode karakterer. |_Noah studied a lot in
+order to get good grades._
+|===
+
+=== På vs I
+
+While “til” often refers to movement toward a place, “på” and “i” are
+often used to refer to movement towards or into rooms and buildings.
+However, keep in mind that they do have other uses as well. Also note
+that there will be exceptions to these.
+
+[cols=",",]
+|===
+|*På* |*I*
+
+|_Inland cities, neighborhoods, areas, institutions_ |_Continents,
+countries, counties, cities, roads_
+
+|_Mountains_ |_Islands (usually big; countries)_
+
+|_Islands_ |_For x seconds, minutes, hours_
+
+|_Weekdays_ |_Days, weeks, months, years, seasons_
+
+|_When something is on top_ |_When something is inside._
+|===
+
+Let’s look at some examples:
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.9+|*På* |Markus bor på Lillehammer. |_Markus lives in Lillehammer._
+
+|Isabella jobber på biblioteket. |_Isabella works at the library._
+
+|Tenåringene dro på festen. |_The teenagers went to the party._
+
+|Paret dro på kino. |_The couple went to the movies._
+
+|Tobias’ venn bor på Færøyene. |_Tobias’s friend lives on the Faroe
+Islands._
+
+|Onkelen min spiller piano på fredager. |_My uncle plays piano on
+Fridays._
+
+|På mandag skal vi se den nye filmen. |_On Monday, we’re going to see
+the new movie._
+
+|Katten sitter på bordet. |_The cat is sitting on the table._
+
+|Når lærbamsen fortalte meg å ta på meg håndjern, gjorde jeg det.
+|_When the leather bear told me to put on handcuffs, I did it._
+
+.10+|*I* |Trondheim ligger i Norge. |_Trondheim is in Norway._
+
+|Nidarosdomen er i Trondheim. |_The Nidaros Cathedral is in
+Trondheim._
+
+|Jack vokste opp i Irland. |_Jack grew up in Ireland._
+
+|Jeg vil gjerne campe i sommer. |_I would like to go camping this
+summer._
+
+|Maria var syk i tre dager. |_Maria was sick for three days._
+
+|Gustav har vært her i 30 minutter. |_Gustav has been here for 30
+minutes._
+
+|Emilie besøker familien sin i to uker. |_Emilie will visit her family
+for two weeks._
+
+|Vennen min skal besøke meg i to uker. |_My friend will visit me for
+two weeks._
+
+|Katten ligger i sekken. |_The cat is in the bag._
+
+|Har du vondt i hodet ditt? |_Do you have a pain in your head?_
+|===
+
+Note that for things that happen repeatedly, then “om” is used instead.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Jeg svømmer om sommeren. |_I go swimming every summer._
+|Lukas drikker kaffe om morgenen. |_Lukas drinks coffee every morning._
+|===
+
+As I mentioned, there are some exceptions, so here’s just a few:
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Sofia jobber i banken. |_Sofia works at the bank._
+
+|Paret giftet seg i kirken / moskeen / tempelet. |_The couple got
+married in the church / mosque / temple._
+|===
+
+Rooms inside a home can be very confusing, when it comes to knowing
+which preposition to use. There’s not really any rhyme or reason; you
+just have to memorize them. Here’s a list to help you out.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+.6+|*På* |På badet |_In the bathroom_
+|På loftet |_In the attic_
+|På kjøkkenet |_In the kitchen_
+|På vaskerommet |_In the laundry room_
+|På kontoret |_In the office_
+|På verandaen / balkongen |_On the veranda / balcony_
+.6+|*I* |I huset |_In the house_
+|I kjelleren |_In the basement_
+|I entreen |_In the entry_
+|I dusjen |_In the shower_
+|I hallen |_In the hall_
+|I garasjen |_In the garage_
+.3+|*På / i* |På / i stua |_In the living room_
+|På / i soverommet |_In the bedroom_
+|På / i gangen |_In the hallway_
+|===
+
+There are a few idiomatic phrases, that contain prepositions, which may
+be useful to learn:
+
+[cols=",,,",]
+|===
+|*Phrase* |*English* |*Eksempel* |*English*
+
+|Setter pris på |_Appreciate_ |Jeg setter pris på din støtte. |_I
+appreciate your support._
+
+|På lenge |_In a long time_ |Han har ikke sett moren sin på lenge. |_He
+hasn’t seen his mom in a long time._
+
+|Ha lyst på |_Want; would like_ |Lars har lyst på en kopp te. |_Lars
+wants a cup of tea._
+
+|Passe på |_To look after_ |Kan du passe på katten min i morgen? |_Can
+you look after my cat tomorrow?_
+
+|Være glad i |_To be fond of; love_ |Han er glad i vennen sin. |_He is
+fond of / loves his friend._
+
+|Sette i gang |_To get started_ |De satte i gang med prosjektet. |_They
+got started on the project._
+
+|Ha rett i at / det |_To be right (in that / about)_ |Han har rett i at
+rapporten var unøyaktig. |_He was right in that the report was
+inaccurate._
+|===
+
+=== Hos
+
+In most cases, there is no direct translation of “hos” to an English
+equivalent. It may be compared to the German “bei” and French “chez.” It
+is used for people in the role of friends, hosts, shopkeepers, etc.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Karine bor hos søsteren sin. |_Karine lives with her sister._
+
+|Vi har forbud mot å banne hos oss. |_We’re forbidden to swear at our
+place._
+
+|Liam er hos legen. |_Liam is at the (place of the) doctor’s._
+
+|Gjestene er hos oss |_The guests are at our house._
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+* https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[Norwegian:
+An Essential Grammar (pgs 156 - 179)]
+* https://www.ntnu.edu/now/3/grammar#prepositions[Norwegian on the Web:
+Prepositions - i and på]
+* https://www.ntnu.edu/now/8/grammar#prepositions[Norwegian on the Web:
+Prepositions - Time Expressions]
+* https://www.ntnu.edu/now/10/grammar#prepositions[Norwegian on the Web:
+Prepositions]
+* https://blogs.transparent.com/norwegian/the-norwegian-word-til/[Norwegian
+Language Blog: The Norwegian Word 'Til']
+* https://youtu.be/1Ib9UiFb7Fg[Norwegian Prepositions Explained: i eller
+på (YouTube)]
+* https://youtu.be/mKZzldX10NE[50 Faste Preposisjonsuttrykk (YouTube på
+norsk)]
+* https://youtu.be/Mox75cJnpA4[Preposisjoner (YouTube på norsk)]
+* https://youtu.be/Ch2ZALWUIaw[2 Forvirrende Preposisjoner: i eller på
+(YouTube på norsk)]
+* https://youtu.be/1sDn3rR_EJg[Preposisjonene til og for (YouTube på
+norsk)]
+
+*[.underline]#Exercise:# For, til, i, på, eller hos*
+
+*Copy / Paste in a new document. Fill in the blanks with the correct
+preposition.*
+
+[arabic]
+. Liam spiste middag +___+ Isabella.
+. Markus bodde her +___+ tre år.
+. Datteren laget middag +___+ moren sin.
+. Advarselen sier: “Dette spillet er ikke +___+ barn.”
+. Den unge mannen jobbet +___+ fabrikken +___+ fem år.
+. Kan du lage kopier +___+ meg?
+. Erik dro +___+ tannlegen.
+. Marius er +___+ tannlegen.
+. Emil snakket med vennen sin +___+ to timer.
+. Alexander solgte bilen sin +___+ 56.000 kr.
+. Kattetårnet er +___+ soverommet.
+. Bjørn trenger en ny hammer +___+ projektoren.
+. Tantens eiendeler er +___+ loftet.
+. Syklene oppbevares +___+ kjelleren.
+. Den hjemløse mannen tilbød seg å jobbe +___+ mat.
+. +___+ å kjøpe billetter +___+ konserten jobbet Marianne ekstra timer.

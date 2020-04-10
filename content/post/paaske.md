@@ -15,6 +15,7 @@ world. It begins on Maundy Thursday (the Thursday before Easter) and
 lasts until the Monday following Easter (known as “the second Easter
 day”). Many people have off work during this time and schools are closed
 the entire week before Easter.
+
 <!--more-->
 
 **The Days of Easter**
@@ -155,53 +156,52 @@ holiday the following year. And thus, a tradition was born.
 **Vocab:**
 
 | **Norwegian**            | **English**                                                                       |
-|--------------------------|-----------------------------------------------------------------------------------|
-| Påske                    | *Easter / Passover*                                                               |
-| Palmesøndag              | *Palm Sunday*                                                                     |
-| Langfredag               | *Good Friday*                                                                     |
-| Første påske             | *First Easter (Sunday)*                                                           |
-| Påskeuke                 | *Easter week*                                                                     |
-| Kristen                  | *Christian*                                                                       |
-| Jødisk                   | *Jewish*                                                                          |
-| Korsfestelse             | *Crucifixion*                                                                     |
-| Nattverden               | *The Last Supper*                                                                 |
-| Påskegudstjenester       | *Easter church services*                                                          |
-| Apostlene                | *The apostles*                                                                    |
-| Påskepynt                | *Easter decorations*                                                              |
-| Påskeegg                 | *Easter egg*                                                                      |
-| Påskekylling             | *Easter chicken*                                                                  |
-| Hytte                    | *Cabin*                                                                           |
-| Påskeføre                | *Easter conditions (weather conditions for skiing during Easter)*                 |
-| Påsketrafikk             | *“Easter traffic,” the traffic during the Easter holiday*                         |
-| Påskerenn / Påskeskirenn | *“Easter meet;” people get together and have fun competitions and go skiing*      |
-| Påskekrim                | *Easter crime*                                                                    |
-| God påske!               | *Happy Easter!*                                                                   |
-| Ferie                    | *Holiday / Vacation*                                                              |
-| Skjærtorsdag             | *Maundy Thursday*                                                                 |
-| Påskeaften               | *Easter Saturday*                                                                 |
-| Andre påske              | *Second Easter (Monday)*                                                          |
-| Høytid                   | *Celebration*                                                                     |
-| Kristendommen            | *Christianity*                                                                    |
-| Jødedom                  | *Judaism*                                                                         |
-| Oppstandelse             | *Resurrection*                                                                    |
-| Helligdag                | *Holiday (as in “holy day”)*                                                      |
-| Påskelys                 | *Easter candle*                                                                   |
-| Påsketradisjoner         | *Easter traditions*                                                               |
-| Påskekvist               | *Easter branch*                                                                   |
-| Påskehare                | *Easter bunny*                                                                    |
-| Lammelår                 | *Leg of lamb*                                                                     |
-| Appelsin                 | *Orange*                                                                          |
-| Påskebrun                | *“Easter tan;” the tan one gets when skiing during Easter*                        |
-| Påskefjellet             | *“Easter mountain”*                                                               |
-| Påskemarsipan            | *Easter marzipan; in the shape of eggs and chickens; often with the color yellow* |
-| Å stå på ski             | *To go skiing*                                                                    |
+| ------------------------ | --------------------------------------------------------------------------------- |
+| Påske                    | _Easter / Passover_                                                               |
+| Palmesøndag              | _Palm Sunday_                                                                     |
+| Langfredag               | _Good Friday_                                                                     |
+| Første påske             | _First Easter (Sunday)_                                                           |
+| Påskeuke                 | _Easter week_                                                                     |
+| Kristen                  | _Christian_                                                                       |
+| Jødisk                   | _Jewish_                                                                          |
+| Korsfestelse             | _Crucifixion_                                                                     |
+| Nattverden               | _The Last Supper_                                                                 |
+| Påskegudstjenester       | _Easter church services_                                                          |
+| Apostlene                | _The apostles_                                                                    |
+| Påskepynt                | _Easter decorations_                                                              |
+| Påskeegg                 | _Easter egg_                                                                      |
+| Påskekylling             | _Easter chicken_                                                                  |
+| Hytte                    | _Cabin_                                                                           |
+| Påskeføre                | _Easter conditions (weather conditions for skiing during Easter)_                 |
+| Påsketrafikk             | _“Easter traffic,” the traffic during the Easter holiday_                         |
+| Påskerenn / Påskeskirenn | _“Easter meet;” people get together and have fun competitions and go skiing_      |
+| Påskekrim                | _Easter crime_                                                                    |
+| God påske!               | _Happy Easter!_                                                                   |
+| Ferie                    | _Holiday / Vacation_                                                              |
+| Skjærtorsdag             | _Maundy Thursday_                                                                 |
+| Påskeaften               | _Easter Saturday_                                                                 |
+| Andre påske              | _Second Easter (Monday)_                                                          |
+| Høytid                   | _Celebration_                                                                     |
+| Kristendommen            | _Christianity_                                                                    |
+| Jødedom                  | _Judaism_                                                                         |
+| Oppstandelse             | _Resurrection_                                                                    |
+| Helligdag                | _Holiday (as in “holy day”)_                                                      |
+| Påskelys                 | _Easter candle_                                                                   |
+| Påsketradisjoner         | _Easter traditions_                                                               |
+| Påskekvist               | _Easter branch_                                                                   |
+| Påskehare                | _Easter bunny_                                                                    |
+| Lammelår                 | _Leg of lamb_                                                                     |
+| Appelsin                 | _Orange_                                                                          |
+| Påskebrun                | _“Easter tan;” the tan one gets when skiing during Easter_                        |
+| Påskefjellet             | _“Easter mountain”_                                                               |
+| Påskemarsipan            | _Easter marzipan; in the shape of eggs and chickens; often with the color yellow_ |
+| Å stå på ski             | _To go skiing_                                                                    |
 
 <img src="/images/paaske/image2.png" style="width:1.98363in;height:2.66146in" />
 
-
-***\*\*If the lessons are beneficial, please consider [<span
+**_\*\*If the lessons are beneficial, please consider [<span
 class="underline">buying me a virtual
-coffee.</span>](https://ko-fi.com/R5R0CTBN)*** ***Thanks.\*\****
+coffee.</span>](https://ko-fi.com/R5R0CTBN)_** **\*Thanks.\*\*\***
 
 Resources:
 
@@ -283,9 +283,7 @@ murders</span>](https://www.visitnorway.com/about/history-traditions/easter/crim
 Mystery</span>](https://www.lifeinnorway.net/easter-traditions/)
 
 **<span class="underline">Exercise 1:</span> [<span
-class="underline">Reading
-Practice</span>](https://www.tine.no/p%C3%A5ske/p%C3%A5skekrim)**  
-  
-  
-**<span class="underline">Exercise 2:</span> Write a short one or two
+class="underline">Se på påskekrim sammen</span>](https://tv.nrk.no/serie/superkrim/sesong/1/episode/1/avspiller)**
+
+**<span class="underline">Extra credit:</span> Write a short one or two
 paragraphs påskekrim.**

@@ -1,0 +1,426 @@
+---
+title: "Modal verbs (part 2)"
+date: "2020-02-23"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+This lesson goes over three of the modal verbs in Norwegian: Kan, Bør, Får
+<!--more-->
+
+== Grammar Review
+
+=== Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Gustav løp et / en maraton i fjor. |_Gustav ran a marathon last
+year._
+
+|Maria studerte kjemi da hun gikk på universitetet. |_Maria studied
+chemistry when she was in university._
+
+.2+|*V2* |I fjor løp Gustav et / en maraton. |_Last year, Gustav ran a
+marathon._
+
+|Da Maria gikk på universitetet, studerte hun kjemi. |_When Maria was
+in university, she studied chemistry._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Sara liker å spille fiolin om kvelden. |_Sara likes to play the
+violin in the evening._
+
+|Jakob prøvde å lære tysk før han reiste til Tyskland. |_Jakob tried
+to learn German before he traveled to Germany._
+
+.2+|*V2* |Om kvelden liker Sara å spille fiolin. |_In the evenings, Sara
+likes to play the violin._
+
+|Før Jakob reiste til Tyskland, prøvde han å lære tysk. |_Before Jakob
+traveled to Germany, he tried to learn German._
+|===
+
+=== Verb Conjugation
+
+Conjugating the present tense of verbs in Norwegian is fairly simple.
+Most present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å følge |følger |_Follows / Following_ |Å glemme |glemmer |_Forgets /
+Forgetting_
+
+|Å le |ler |_Laughs / Laughing_ |Å smile |smiler |_Smiles / Smiling_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å flytte |flyttet |_Moved_
+|Å regne |regnet |_Rained_
+.2+|*2* |Å bake |bakte |_Baked_
+|Å leke |lekte |_Played_
+.2+|*3* |Å lage |lagde |_Made_
+|Å leie |leide |_Rented_
+.2+|*4* |Å tro |Trodde |_Believed_
+|Å bo |Bodde |_Lived_
+|===
+
+There are two ways to talk about future activities. Sometimes a present
+tense verb + a time adverbial is used. Modal verbs are another way to
+express future tense.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*Present Tense + Time Adverbial* |Kjører Thomas til Trondheim i morgen?
+|_Is Thomas driving to Trondheim tomorrow?_
+
+|*Modal Verbs* |Vennene skal fiske i helgen. |_The friends are fishing
+this weekend._
+|===
+
+=== *Adjective Basics*
+
+Adjectives typically have to agree with the gender and the number of the
+noun. If the noun is neuter gender, then in the singular indefinite
+form, the adjective takes a *-t ending*. In the plural indefinite, the
+adjective takes an *-e ending*. Note there are exceptions.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En stor hund |_A big dog_ |Store hunder |_Big dogs_
+
+|En brun hest |_A brown horse_ |Brune hester |_Brown horses_
+
+.2+|*Feminine* |Ei stor bygning |_A big building_ |Store bygninger |_Big
+buildings_
+
+|Ei brun kasse |_A brown box_ |Brune kasser |_Brown boxes_
+
+.2+|*Neuter* |Et stort jordbær |_A big strawberry_ |Store jordbær |_Big
+strawberries_
+
+|Et brunt rektangel |_A brown rectangle_ |Brune rektangler |_Brown
+rectangles_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den store hunden |_The big dog_ |De store hundene |_The
+big dogs_
+
+|Denne brune hesten |_This brown horse_ |Disse brune hestene |_These
+brown horses_
+
+.2+|*Feminine* |Den store bygninga |_The big building_ |De store bygningene
+|_The big buildings_
+
+|Denne brune kassa |_This brown box_ |Disse brune kassene |_These
+brown boxes_
+
+.2+|*Neuter* |Det store jordbæret |_The big strawberry_ |De store jordbæra
+/ jordbærene |_The big strawberries_
+
+|Dette brune rektanglet |_This brown rectangle_ |Disse brune rektangla
+/ +
+rektanglene |_These brown rectangles_
+|===
+
+== Modal Verbs
+
+Modal verbs are a type of auxiliary verb that combine with an infinitive
+verb (without *“å”*) or with a directional adverbial. They express the
+speaker’s attitude, belief, intentions, recommendations, doubt, etc
+about the activity. While there are other modal verbs, we are focusing
+on _kan, bør, and får***.**_
+
+**[.underline]#Note:#* Får was listed in the Norwegian Essential Grammar
+book, however most sources do not list it as a modal.
+
+*Quick note on sentence structure*
+
+Unlike in other sentences that contain two verbs next to each other,
+where the second verb is in the infinitive (e.g. without the present
+tense -r ending) with the “å” infinitive marker, when a sentence
+contains a modal verb for the first verb, the verb that follows it will
+be in the infinitive but not have the infinitive “å” marker. Let’s look
+at this comparison:
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.3+|*Without Modals* |Marius prøvde å male en solnedgang. |_Marius tried to
+paint a sunset._
+
+|Karine likar å spela sjakk. |_Karine likes to play chess._
+
+|Lukas byrjar å læra norsk førre / forrige uke. |_Lukas began to learn
+Norwegian last week._
+
+.3+|*WIth Modals* |Ella kan tegne veldig bra. |_Ella can draw really well._
+
+|Karine kan spille sjakk. |_Karine can play chess._
+
+|Lukas kan snakke norsk og tysk. |_Lukas can speak Norwegian and
+German._
+|===
+
+In the above examples, the sentences that do not contain modal verbs
+must have the infinitive marker, “å” between the conjugated verb and
+nonfinite verb. In the examples with modal verbs, the infinitive marker
+is not included.
+
+=== Å kunne
+
+Translates into “can” or “may” (as in possibility). It’s used for:
+
+* Ability or skill - using “kunne” sometimes gives the impression of
+caution
+* Possibility or probability
+* Permission or prohibition
+* “Kunne” can be used for unfulfilled wishes
+
+[cols=",,,",]
+|===
+| |*Eksempel* |*English* |*Use*
+
+|*1* |Faren min kan lage mat. |_My father can cook food._ |*Ability or
+Skill*
+
+|*2* |Kunne du hjelpe meg litt? |_Can you help me a little?_ |*Ability
+or Skill*
+
+|*3* |Det kan snø i morgen. |_It may / might snow tomorrow._
+|*Possibility or Probability*
+
+|*4* |Barnet spurte: “Kan jeg leke ute?” |_The child asked, “Can I play
+outside?”_ |*Permission or Prohibition*
+
+|*5* |Moren sa: “Du kan leke ute.” |_The mother said, “You can play
+outside.”_ |*Permission or Prohibition*
+
+|*6* |Moren sa: “Du kan ikke leke ute nå.” |_The mother said, “You
+cannot play outside now.”_ |*Permission or Prohibition*
+
+|*7* |Hvis jeg bare kunne vinne i lotto. |_If only I could win the
+lottery._ |*Unfulfilled Wish*
+
+|*8* |Kan jeg lage maten med deg? |_Can I cook the food with you?_
+|*Permission*
+
+|*9* |Det kan ikke være så mye sol! |_There can’t be so much sunlight!_
+|*(daNiAL) Possibility*
+|===
+
+=== Å bør
+
+“Burde” often translates into “ought to” or “should” in English. It’s
+used for:
+
+* Advice or suggestions
+* Moral obligation
+* How thing should or ought to be in an ideal world
+
+[cols=",,,",]
+|===
+| |*Eksempel* |*English* |*Use*
+
+|*1* |Du bør gå hjem nå. |_You should go home now._ |*Advice or
+Suggestion*
+
+|*2* |Du bør prøve denne nye drinken. |_You should try this new drink._
+|*Advice or Suggestion*
+
+|*3* |Han bør ta bedre vare på kjæledyrene sine. |_He should take better
+care of his pets._ |*Moral Obligation*
+
+|*4* |August burde være en bedre leder. |_August should be a better
+leader._ |*How Things Ought To Be*
+
+|*5* |Folk bør være snille mot hverandre. |_People should be kind to
+each other._ |*How Things Ought To Be*
+
+|*6* |Det bør være en skiskytingleksjon i dag. |_There ought to be a
+Biathlon lesson today._ |*How Things Ought To Be*
+|===
+
+=== Å få
+
+“Får” translates to “may” or “manage.” It’s used for:
+
+* Permission - can sometimes be used instead of “kan / kunne.”
+* “To manage” or “to achieve” when it is followed by a past participle
+
+[cols=",,,",]
+|===
+| |*Eksempel* |*English* |*Use*
+
+|*1* |Får vi gå nå? |_May we go now?_ |*Permission*
+
+|*2* |Du får ta litt kake. |_You can have some cake. +
+(you have permission)_ |*Permission*
+
+|*3* |Christian fikk fikset bilen forrige helgen. |_Christian managed to
+get the car fixed last weekend._ |*“To Manage” / “To Achieve”*
+
+|*4* |Tror du at han får gjort det i kveld? |_Do you think he’ll manage
+to do it this evening?_ |*“To Manage” / “To Achieve”*
+|===
+
+=== Modals without Main Verbs
+
+In some instances, a modal verb can be used without a main verb.
+
+[cols=",,",]
+|===
+| |*Norwegian Example* |*English Translation*
+
+.3+a|
+Statement
+
+* Oftentimes an adverb will clue you in as to what main verb is omitted.
+
+|Onkelen min skal til Oslo i morgen.. |_My uncle is going to Oslo
+tomorrow.._
+
+|Jeg må hjem. |_I must go home._
+
+|Eg vil til skulen |
+
+a|
+Hvor
+
+* The missing verb will always be one of motion (i.e. “go,” “travel”)
+toward something
+
+|Hvor skal Monica? |_Where is Monica going?_
+
+a|
+Hva
+
+* It is implied that the missing verb is “do”
+
+|Hva skal du? |_What are you going to do?_
+
+.3+a|
+Hvorfor
+
+* Must contain an adverb of place which implies motion (i.e. “dit,”
+“hjem,” “bort”)
+
+|Hvorfor skal Liam dit? |_Why is Liam going there?_
+
+|Hvorfor skal Nora hjem? |_Why is Nora going home?_
+
+|Hvorfor skal Tobias til sykehuset? |_Why is Tobias going to the
+hospital?_
+|===
+
+=== Conjugations
+
+[cols=",,,,",]
+|===
+|*Infinitive* |*Present* |*Past* |*Past Participle* |*Meaning*
+|Kunne |Kan |Kunne |Kunnet |_Can_
+|Burde |Bør |Burde |Burdet |_Should_
+|Få |Får |Fikk |Fått |_Might; may_
+|===
+
+=== Multiple Modals
+
+Since Norwegian has infinitive and past participle forms of the modal
+verbs, it is possible to have two modals in the same verb phrase.
+
+[cols=",,",]
+|===
+|*Combination* |*Norwegian Example* |*English Translation*
+
+a|
+Modal (present / past tense) +
+
+modal (infinitive) + verb
+
+|Hun *ville* _kunne_ klare det. |_She would be able to do it._
+
+a|
+Have + modal (past participle) +
+
+modal (infinitive) + verb
+
+|Han har *måttet* _kunne_ se det. |_He must have been able to see it._
+
+|Modal (present / past tense) + have + modal (past participle) + verb
+|Hun *ville* ha _kunnet_ hjelpe. |_She would have been able to help._
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
+
+Sources:
+
+* http://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf[Norwegian On The
+Web]
+* https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[Norwegian:
+An Essential Grammar (pgs 29-33)]
+* http://grammatikk.com/pdf/Modalverb.pdf[Grammatikk: Modalverb]
+* http://norsk.rkevin.com/learn-about-norwegian-helping-verbs/[Learn
+Norwegian: Learn About Norwegian Helping Verbs]
+* https://tinycards.duolingo.com/decks/2tFTvWSS/norsk-modal-verb[Norsk
+Modal Verb Flash Cards]
+* https://quizlet.com/33656828/norsk-learning-modal-verbs-flash-cards/[Norsk
+Learning - Modal Verbs (flash cards)]
+* https://youtu.be/Ae2ksRtUmOY[Norwegian Verb: "Å skulle". (YouTube)]
+* https://youtu.be/gePy7nUQqW4[Basic Norwegian - Modalverb (YouTube)]
+* https://youtu.be/nzRVRKal6KU[The Difference Between Skal and Vil in
+Norwegian (YouTube)]
+* https://youtu.be/MF7GdV4K7_E[Video 54 SKAL eller VIL? (YouTube på
+norsk)]
+
+*[.underline]#Exercise:#* *Write 5 sentences using the modals used in
+this lesson. (Bonus points if you can write a sentence using multiple
+modals).*

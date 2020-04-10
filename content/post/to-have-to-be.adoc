@@ -1,0 +1,389 @@
+---
+title: "To have, to be"
+date: "2020-03-15"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+This lesson goes over some verbs that Norwegian learners struggle with, specifically, “å ha,” “å få,” “å være,” and “å bli.”
+<!--more-->
+
+== Grammar Review
+
+=== Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Ella konkurrerte i turneringen forrige uke. |_Ella competed in
+the tournament last week._
+
+|Markus besøkte museet da han var i D.C. |_Markus visited the museum
+when he was in D.C._
+
+.2+|*V2* |Forrige uke konkurrerte Ella i turneringen. |_Last week, Ella
+competed in the tournament._
+
+|Da Markus var i D.C., besøkte han museet. |_When Markus was in D.C.,
+he visited the museum._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Christian prøvde å reparere bilen i går. |_Christian tried to
+repair the car yesterday._
+
+|Marie pleide å spille i et band da hun var i 20-årene. |_Marie used
+to play in a band when she was in her 20s._
+
+.2+|*V2* |I går prøvde Christian å reparere bilen |_Yesterday, Christian
+tried to repair the car._
+
+|Da Marie var i 20-årene, pleide hun å spille i et band. |_When Marie
+was in her 20s, she used to play in a band._
+|===
+
+=== Verb Conjugation
+
+Conjugating the present tense of verbs in Norwegian is fairly simple.
+Most present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å stave |staver |_Spells / Spelling_ |Å fortsette |fortsetter
+|_Continues / Continuing_
+
+|Å kaste |kaster |_Throws / Throwing_ |Å støtte |støtter |_Supports /
+Supporting_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å støtte |støttet |_Supported_
+|Å stave |stavet |_Spelled_
+.2+|*2* |Å bruke |Brukte |_Used_
+|Å male |Malte |_Painted_
+.2+|*3* |Å leve |levde |_Lived_
+|Å greie |greide |_Managed_
+.2+|*4* |Å kna |knadde |_Kneaded_
+|Å spy |spydde |_Spewed_
+|===
+
+There are two ways to talk about future activities. Sometimes a present
+tense verb + a time adverbial is used. Modal verbs are another way to
+express future tense.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*Present Tense + Time Adverbial* |Moren min drar til butikken senere.
+|_My mom is going to the shop later._
+
+|*Modal Verbs* |Jens skal spille det nye dataspillet. |_Jens is going to
+play the new computer game._
+|===
+
+== To Have
+
+In English, we often say “have” to refer to things we are receiving or
+obtaining, in addition to things that are already in our possession. For
+example, “Can I have some cake?” The cake is not in our possession, and
+“have” could be replaced with “receive.”
+
+In Norwegian, these two concepts are separate.
+
+===  Å ha 
+
+Used for:
+
+* Things that are (or were) in your possession
+* Physical traits one has
+* Experiences
+* Also in the present perfect and past perfect (aka pluperfect) tenses;
+in which case the verb following it is in the past participle form.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Marianne har en blå sykkel. |_Marianne has a blue bicycle._
+
+|Lukas hadde en hund da han var ung. |_Lukas had a dog when he was
+young._
+
+|Sjefen har fregner. |_The boss has freckles._
+
+|Gutten hadde en drøm om en drage. |_The boy had a dream about a
+dragon._
+
+|De har ventet i 20 minutter. |_They have waited for 20 minutes._
+
+|Franklyn har grønne øyne. |_Franklyn has green eyes._
+|===
+
+*[.underline]#NOTE:#* In English, we often use “to have to” to mean
+“must.” In Norwegian, you cannot do this. In these cases, you’d use the
+modal verb “å måtte” instead.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Han må arbeide. |_He has to work. (He must work)_
+
+|Hun må lytte til læreren sin. |_She has to (must) listen to her
+teacher._
+|===
+
+=== Å få
+
+Usage:
+
+* As an adjective, it means “few”
+* As a verb, it means “to get,” “to receive,” “to obtain,” or “to have.”
+* It can act as a modal auxiliary verb in some sentences.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.3+|*Regular Verb* |Erik får en ny sykkel til bursdagen sin. |_Erik is
+getting a new bike for his birthday._
+
+|Emma fikk boka fra vennen sin. |_Emma got the book from her friend._
+
+|Eg har ikkje fått eit brev frå Skatteetaten. |_I have not gotten a
+letter from Skatteetaten._
+
+.3+|*Auxiliary Verb* |Det får vente. |_It has to wait._
+
+|Gustav fikk se den nye filmen forrige helg. |_Gustav got to see the
+new film last weekend._
+
+|Kan jeg få være i fred? |_Can I get some peace (and quiet)?_
+
+|Du får holde deg i karantene. |
+|===
+
+In the first set of examples, “å få” is conjugated like a normal verb
+when followed by a noun. +
+In the bottom set of examples, when “å få” is followed by another verb,
+it’s treated as a modal auxiliary, and the second verb remains in the
+infinitive without the infinitive (å) marker.
+
+Sometimes å få can replace other auxiliary verbs (kan, skal, vil, etc).
+
+[cols=",",]
+|===
+|*Example* |*English*
+|Vi får se. |_We will see._
+|Hun får et barn snart. |_She will have a child soon._
+|===
+
+Å få can also…
+
+* Take on the meaning of “permission” or “to be allowed” to do
+something.
+
+*However*, if the verb following “få” is a past participle, then
+
+* It takes on the meaning of “to achieve” or “to manage to do”
+something.
+* A past participle typically expresses that the past action was
+completed.
+
+[cols=",,",]
+|===
+|*Meaning* |*Example* |*English*
+
+.3+|*To be allowed* |Får jeg bruke mobiltelefonen din? |_May I use your
+cell phone?_
+
+|Du får låne boken min. |_You can borrow my book._
+
+|Får jeg lov til å forlate huset |_Am i allowed to leave the house_
+
+.4+|*To achieve* |Jeg fikk funnet nålen i høystakken. |_I managed to find
+the needle in the haystack._
+
+|Jeg fikk skrevet leksjonen i går. |_I managed to write the lesson
+yesterday._
+
+|Han fikk gått 100 km på ski i dag. |_He managed to ski 100 km today._
+
+|Jeg får til alt jeg prøver på. |_I achieve everything I try to do._
+|===
+
+There are a few fixed expressions that use “å få.”
+
+[cols=",,,",]
+|===
+|*Expresion* |*English* |*Example* |*English*
+
+|Få tak i a|
+To get hold of
+
+_(used figuratively)_
+
+|Jeg trenger å få tak i Emma. |_I need to get a hold of Emma._
+
+|Få fatt i |To get a grip of +
+_(used figuratively)_ |Du trenger å få fatt i Emma. |_You need to get a
+hold of Emma._
+
+|Få det til |To achieve it |Hun ønsket å vinne løpet og hun fikk det
+til. |_She wanted to win the race and she achieved it._
+
+|Få igjen |To catch / regain |Hun vil få igjen styrken sin. |_She will
+get her strength back._
+|===
+
+*Practice: (Å ha eller å få)*
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Karine fekk kortet i posten. |_Karine got the card in the mail._
+|Karine har kortet hengt opp. |_Karine has the card hanging up._
+|Kan katten få godbiter? |_Can the cat have treats?_
+|Katten har ei rød sløyfe. |_The cat has a red bowtie._
+|===
+
+== To Be
+Å være refers to how something or someone is in a particular moment and is fixed in that moment, whereas å bli is used when there is change taking place. 
+
+[cols=",",]
+|===
+|*Å bli* |*Å være*
+|Continue to be |To be
+|Begin to be |To exist
+|Develop into |To stay, reside
+|Prove to be |To remain
+|===
+
+Let’s look at a few examples of both verbs.
+
+[cols=",,",]
+|===
+| |*Example* |*English*
+
+.3+|*Å være* |Sofie er 25 år gammel |_Sofie is 25 years old._
+
+|Isak er brannmann. |_Isak is a fireman._
+
+|Sofie og Isak er glade sammen. |_Sofie and Isak are happy together._
+
+.3+|*Å bli* |Sofie blir 26 i dag. |_Sofie turns (becomes) 26 today._
+
+|Isak ble president. |_Isak became president._
+
+|Sofie og Isak ble glade da de så valpen. |_Sofie and Isak became
+happy when they saw the puppy._
+|===
+
+Notice that in the first set of examples, the subjects are in that
+particular moment. In the second set of sentences, the subjects are
+changing (or have changed) in some manner.
+
+Both verbs can be combined with auxiliary verbs
+
+[cols=",,",]
+|===
+| |*Example* |*English*
+
+.2+|*Å være* |Du [.underline]#burde# ha vært mer forsiktig. |_You should
+have been more careful._
+
+|Emil [.underline]#kan# være irriterende noen ganger. |_Emil can be
+annoying sometimes._
+
+.2+|*Å bli* |Du [.underline]#kunne# ha blitt skadet. |_You could have been
+(become) injured._
+
+|Emil [.underline]#kan# bli frustrert noen ganger. |_Emil can become
+frustrated sometimes._
+|===
+
+*Practice:*
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Mathias er høy. |_Mathias is tall._
+
+|Søsteren min ble sint etter at hun tapte spillet. |_My sister became
+angry after she lost the game._
+
+|Servitøren ble flau etter at han sølte brus. |_The waiter became
+embarrassed after he spilt the soda._
+
+|Faren min er advokat. |_My father is a lawyer._
+|===
+
+*[.underline]#NOTE:#* There are two other words that are used in
+Norwegian that, in English, can be replaced with “to be.”
+
+* Ligge - Refers to where something is geographically located.
+* Koste - Refers to the cost of something.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Sverige ligger øst for Norge. |_Sweden is (located) east of Norway._
+|Boka koster 30 kroner. |_The book is (costs) 30 kroner._
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
+
+References:
+
+* https://www.youtube.com/watch?v=3ECjwFKrHzI[Three important things
+about å få (YouTube)]
+* http://lang-8.com/394668/journals/121923199516746127915582341794193379708[Å
+få (+ verb)]
+* https://youtu.be/nuUNWAK1_so[Video 96 5 måter å bruke verbet "Å FÅ" på
+(YouTube på norsk)]
+* https://www.youtube.com/watch?v=V9jUHkiiE-Q[Learn Norwegian:
+Difference between å være and å bli. (YouTube)]
+* https://youtu.be/4rxrjoUb344[Video 52 VÆRE eller BLI? Det ER vanskelig
+med norsk, men du BLIR bedre etterhvert! (YouTube på norsk)]
+* https://www.youtube.com/watch?v=DQ3EsYC3BVI[The difference between å
+bli and å være. (YouTube)]
+* https://practicenorwegian.com/bli/[When to use bli?]
+* https://youtu.be/Ju0K4Wcwyag[Å få eller Å ha (YouTube på norsk)]
+* https://youtu.be/gqrcSz5zsIM[Words about Words: Å ha (YouTube)]
+
+*[.underline]#Exercise:# Write 6 sentences; use “å ha,” “å få,” “å
+være,” and “å bli”*

@@ -1,20 +1,183 @@
 ---
-title: Modal verbs
-date: 2019-03-24
-author: Dan
+title: "Modal verbs (part 1)"
+date: "2020-02-16"
+author: "Dan"
 categories:
   - Sunday lessons
 ---
+This lesson goes over three of the modal verbs in Norwegian: Skal, Vil, and Må. 
+<!--more-->
+
+== Grammar Review
+
+=== Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Lukas bygde et trehus forrige helg. |_Lukas built a treehouse
+last weekend._
+
+|Sofia overrasket sønnen sin med en hund på bursdagen hans. |_Sofia
+surprised her son with a dog for his birthday._
+
+.2+|*V2* |Forrige helg bygde Lukas et trehus |_Last weekend, Lukas built a
+treehouse._
+
+|På bursdagen til Sofia sin sønn, overrasket hun ham med en hund |_For
+Sofia’s son’s birthday, she surprised him with a dog._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Markus og vennene hans liker å spille fotball i helgene.
+|_Markus and his friends like to play football on the weekends._
+
+|Gustav og Ella prøvde å gå på ski da de var i Norge. |_Gustav and
+Ella tried to ski when they were in Norway._
+
+.2+|*V2* |I helgene likar Markus og venane hans å spela fotball. |_On the
+weekends, Markus and his friends like to play football._
+
+|Då Gustav og Ella var i Noreg, prøvde dei å gå på ski. |_When Gustav
+and Ella were in Norway, they tried to ski._
+|===
+
+=== *Verb Conjugation*
+
+Conjugating present tense of verbs in Norwegian is fairly simple. Most
+present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å høre |hører |_Hears / Hearing_ |Å spille |spiller |_Plays / Playing_
+
+|Å danse |danser |_Dances / Dancing_ |Å arkivere |arkiverer |_Files /
+Filing_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d),past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å overraske |overrasket |_Surprised_
+|Å hoste |hostet |_Coughed_
+.2+|*2* |Å smile |smilte |_Smiled_
+|Å ignorere |ignorerte |_Ignored_
+.2+|*3* |Å kreve |krevde |_Demanded_
+|Å greie |greide |_Managed_
+.2+|*4* |Å snø |snødde |_Snowed_
+|Å vri |vridde |_Twisted_
+|===
+
+For future tense, often the present tense verb is used with a time
+adverbial to clarify it is a future action. (*[.underline]#Note#*: There
+are ways to form future sentences using modals; that is covered in a
+more in-depth lesson).
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Viktor drar til Tromsø neste uke. |_Viktor is going to Tromsø next
+week._
+
+|Nora holder fest i morgen. |_Nora is having a party tomorrow._
+|===
+
+=== *Adjective Basics*
+
+Adjectives typically have to agree with the gender and the number of the
+noun. If the noun is neuter gender, then in the singular indefinite
+form, the adjective takes a *-t ending*. In the plural indefinite, the
+adjective takes an *-e ending*. Note there are exceptions.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En stygg genser |_An ugly sweater_ |Stygge gensere |_Ugly
+sweaters_
+
+|En ren kjole |_A clean dress_ |Rene kjoler |_Clean dresses_
+
+.2+|*Feminine* |Ei stygg jakke |_An ugly jacket_ |Stygge jakker |_Ugly
+jackets_
+
+|Ei ren leilighet |_A clean apartment_ |Rene leiligheter |_Clean
+apartments_
+
+.2+|*Neuter* |Eit stygt hus |_An ugly house_ |stygge hus |_Ugly houses_
+
+|Eit reint (rom) værelse |_A clean room_ |reine (rom) værelser |_Clean
+rooms_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den stygge genseren |_The ugly sweater_ |De stygge
+genserne |_The ugly sweaters_
+
+|Denne rene kjolen |_This clean dress_ |Disse rene kjolene |_These
+clean dresses_
+
+.2+|*Feminine* |Den stygge jakka |_The ugly jacket_ |De stygge jakkene
+|_The ugly jackets_
+
+|Denne rene leiligheta |_This clean apartment_ |Disse rene
+leilighetene |_These clean apartments_
+
+.2+|*Neuter* |Det stygge huset |_The ugly house_ |De stygge husa / husene
+|_The ugly houses_
+
+|Dette rene værelset |_This clean room_ |Disse rene værelsa /
+værelsene |_These clean rooms_
+|===
+
+== Modals
+
 Modal verbs are a type of auxiliary verb that combine with an infinitive
 verb (without *“å”*) or with a directional adverbial. They express the
 speaker’s attitude, belief, intentions, recommendations, doubt, etc
-about the activity. While there are other modal verbs, we are focusing
-on _skal, vil, må, kan, får***,** and bør_.
-<!--more-->
-**[.underline]#Note:#* Får was listed in the Norwegian Essential Grammar
-book, however most sources do not list it as a modal.
+about the activity. While there are other modal verbs, today’s lesson is
+focused on _skal, vil, må._
 
-== Quick note on sentence structure
+*Quick note on sentence structure*
 
 Unlike in other sentences that contain two verbs next to each other,
 where the second verb is in the infinitive (e.g. without the present
@@ -23,250 +186,166 @@ contains a modal verb for the first verb, the verb that follows it will
 be in the infinitive but not have the infinitive “å” marker. Let’s look
 at this comparison:
 
-Ex: Jeg skal skrive til ham i morgen. Vs. Han liker å skrive.
-
-I will write to him tomorrow. He likes to write.
-
-In the first sentence, “skrive” (write) follows the modal verb “skal,”
-so there is no “å” infinitive marker. In the second sentence, however,
-“liker” (likes) is not a modal verb, so the verb “skrive” must have the
-the “å” infinitive marker.
-
-== Skal (å skulle) 
-
-Usually translates into “shall” but not always.
-
 [cols=",,",]
 |===
-|*Use* |*Norwegian Example* |*English Translation*
+| |*Eksempel* |*English*
 
-.2+|Command, order, or demand |Dere skal gjøre dette arbeidet. |_You are
-going to do this work._
+.3+|*Without Modals* |Sofia lærte å lese da hun var ung. |_Sofia learned to
+read when she was young._
 
-|Vi skal sove nå. |_We will sleep now._
+|Markus prøvde å tegne en elefant. |_Markus tried to draw an
+elephant._
 
-.3+a|
-Advice or recommendation
+|Karine begynte å lese boka i går. |_Karine began reading the book
+yesterday._
 
-* Often used with “heller” (rather), “helst” (preferably), and “nok”
-(probably)
+.3+|*WIth Modals* |Erik skal lese boka neste uke. |_Erik will read the book
+next week._
 
-|Så du på TV i hele dag? Du skulle heller ha gjort lekser |_You watched
-TV all day? You should have done your homework (instead)!_
+|Faren hennes skal spille gitar senere. |_Her father will play guitar
+later._
 
-|Jeg skal helst være hjemme før kl. 10. |_I should preferably be home
-before 10._
-
-|Du skulle nok ha drukket mer vann. |_You should probably have drunk
-more water._
-
-.3+a|
-Doubt or uncertainty
-
-* Using “skulle” makes the tone more cautious and polite than the
-present tense “skal.”
-
-|Skal jeg spørre henne nå? |_Should I ask her now?_
-
-|Skulle det være en kopp kaffe til? |_Shall I offer you another cup of
-coffee?_
-
-|Skulle vi gå nå kanskje? |_Should we go now, maybe?_
-
-|Threat |Hvis dere sier noe,(så) skal vi drepe dere. |_If you say
-anything, we will kill you._
-
-|Promise |Hvis du er snill,(så) skal du få sjokolade. |_If you are good,
-you will get chocolate._
-
-|Rumor |Hun skal visst være i byen. |_She must be in town. +
-(She is said to be in town)._
+|Tor kan male som Van Gogh. |_Tor can paint like Van Gogh._
 |===
 
-== Vil (å ville) 
+In the above examples, the sentences that do not contain modal verbs
+must have the infinitive marker, “å” between the conjugated verb and
+nonfinite verb. In the examples with modal verbs, the infinitive marker
+is not included.
+
+=== Å skulle
+
+Usually translates into “shall” but not always. It’s used for:
+
+* Commands; orders; demands
+* Advice / recommendation; often used with “heller” (rather), “helst”
+(preferably), and “nok” (probably)
+* Doubt or uncertainty - using “skulle” sounds more cautious and polite
+vs “skal”
+* Threat
+* Promise
+* Rumor
+
+[cols=",,,",]
+|===
+| |*Eksempel* |*English* |*Use*
+
+|*1* |Du skal spise grønnsakene dine! |_You will eat your vegetables!_
+|*Command / Order / Demand*
+
+|*2* |Jeg skal helst være hjemme før kl. 10. |_I should (preferably) be
+home before 10._ |*Advice / Recommendation*
+
+|*3* |Du skulle nok ha drukket mer vann. |_You should probably have
+drunk more water._ |*Advice / Recommendation*
+
+|*4* |Skal jeg spørre henne nå? |_Should I ask her now?_ |*Doubt /
+Uncertainty*
+
+|*5* |Skulle vi gå nå kanskje? |_Should we go now, maybe?_ |*Doubt /
+Uncertainty*
+
+|*6* |Hvis dere sier noe,(så) skal vi drepe dere. |_If you say anything,
+we will kill you._ |*Threat*
+
+|*7* |Hvis du er snill,(så) skal du få sjokolade. |_If you are good, you
+will get chocolate._ |*Promise*
+
+|*8* |Hun skal visst være i byen. |_She must be in town. +
+(She is said to be in town)._ |*Rumor*
+
+|*9* |Jeg skal vri halsen om på deg. |_I will twist your neck._
+|*Threat*
+
+|*10* |Jeg skal skrive ei setning |_I will write a sentence_ |*Promise /
+Threat*
+|===
+
+=== Å ville
 
 “Å ville” is subjective, meaning that when it’s used, it’s based on
 feeling and not fact; there are no actual set plans or agreements in
-place.
+place. It’s used for:
+
+* Opinion, prediction, or hypothetical
+* Willingness or desire - using “ville” sounds more polite vs “vil”
+* Used with a negation (ikke), it becomes a refusal
+
+[cols=",,,",]
+|===
+| |*Eksempel* |*English* |*Use*
+
+|*1* |En fridag ville være fint. |_A day off would be nice._ |*Opinion /
+Prediction / Hypothetical*
+
+|*2* |Vi vil hjelpe deg så godt vi kan. |_We want to help you as best as
+we can._ |*Willingness / Desire*
+
+|*3* |Kanskje du vil forsøke en gang til? |_Perhaps you would like to
+try again?_ |*Willingness / Desire*
+
+|*4* |Jeg vil ikke høre det. |_I do not want to hear it._ |*Willingness
+(Refusal)*
+
+|*5* |Jeg vil gjerne skrive ei setning |_I would like to write a
+sentence_ |*Willingness / Desire*
+
+|*6* |Jeg vil spise søte boller |_I want to eat sweet buns_
+|*Willingness / Desire*
+|===
+
+*Phrases:*
+
+There are a couple of phrases which “ville” is used in.
+
+* Vil gjerne - clarifies that you would like to
+* Vil heller / helst - corresponds to “would rather (be)” in English
 
 [cols=",,",]
 |===
-|*Use* |*Norwegian Example* |*English Translation*
+|*Phrase* |*Eksempel* |*English*
 
-.3+a|
-Willingness or desire
+|*Vil gjerne* |Isabella vil gjerne ha kake. |_Isabella would like to
+have cake._
 
-* Using “ville” makes the tone more polite instead of the present tense
-“vil”
-* With a negation, it amounts to a refusal.
+|*Vil heller* |Jeg vil heller spille dataspill. |_I would rather play PC
+games._
 
-|Vi vil hjelpe deg så godt vi kan. |_We want to help you as best as we
-can._
-
-|Kanskje du vil forsøke en gang til? |_Perhaps you would like to try
-again?_
-
-|Jeg vil ikke høre det. |_I do not want to hear it._
-
-|An opinion, prediction, or hypothetical |En fridag ville være fint. |_A
-day off would be nice._
+|*Vil helst* |Jeg vil helst være alene. |_I would rather be alone._
 |===
-
-=== Phrases
-
-Vil gjerne - clarifies that you would like to
-
-Ex: Jeg vil gjerne ha kake. Jeg vil ha kake.
-
-I would like to have cake. I want cake.
-
-Vil heller / Vil helst - corresponds to “would rather (be)” in English.
-
-Ex: Jeg vil heller svømme. Jeg vil helst være alene.
-
-I would rather swim. I would rather be alone.
 
 For more info on vil heller and vil helst, click this
 https://forum.duolingo.com/comment/25307840/vil-helst-vs-vil-heller[[.underline]#link.#]
 
-== Må (å måtte) 
+=== Å måtte
 
-“Måtte” usually translates to “must” in English.
+“Måtte” usually translates to “must” in English. It’s used for:
 
-[cols=",,",]
+* Necessity
+* Express hope or a wish in certain expressions
+
+[cols=",,,",]
 |===
-|*Use* |*Norwegian Example* |*English Translation*
+| |*Eksempel* |*English* |*Use*
 
-.2+|Necessity |Du må gå selv om du ikke vil. |_You must go even if you
-don’t want to._
+|*1* |Du må gå selv om du ikke vil. |_You must go even if you don’t want
+to._ |*Necessity*
 
-|Du må gjøre leksene dine. |_You must do your homework._
+|*2* |Du må gjøre leksene dine. |_You must do your homework._
+|*Necessity*
 
-.2+|In certain expressions, it can express hope or wish. |Måtte lykken
-følge deg. |_May luck follow you._
+|*3* |Måtte lykken følge deg. |_May luck follow you._ |*Wish / Hope*
 
-|Må du ha det bra. |_I wish you well._
-|===
+|*4* |Må du ha det bra. |_I wish you well._ |*Wish / Hope*
 
-== Kan (å kunne)
+|*5* |Du måtte ha kake, Dan |_You had to have cake Dan_ |*Wish for a
+hope*
 
-Translates into “can” or “may” (as in possibility).
-
-[cols=",,",]
-|===
-|*Use* |*Norwegian Example* |*English Translation*
-
-.3+a|
-Ability or skill
-
-* Using “kunne” sometimes gives the impression of caution
-
-|Hun kan norsk. |_She can speak Norwegian._
-
-|Han kan lage mat. |_He can cook food._
-
-|Kunne du hjelpe meg litt? |_Could you help me a little?_
-
-|Possibility or probability |Det kan regne i morgen. |_It may / might
-rain tomorrow._
-
-.3+|Permission or prohibition |Kan jeg spise her? |_May I eat here?_
-
-|Du kan spise her. |_You may eat here._
-
-|Du kan ikke spise her. |_You cannot eat here._
-
-|“Kunne” can be used for unfulfilled wishes |Kunne jeg bare vinne noen
-penger. |_If only I could win some money._
+|*6* |Jeg må spise sukker (caxap) |_I must eat the sugar (caxap)_
+|*Necessity*
 |===
 
-== Får (å få)
-
-[cols=",,",]
-|===
-|*Use* |*Norwegian Example* |*English Translation*
-
-.2+a|
-Permission
-
-* Can sometimes be used instead of “kan / kunne”
-
-|Får jeg gå nå? |_May I go now?_
-
-|Du får gjøre det. |_You may do it. +
-(you have permission to do it)._
-
-.2+|To manage or achieve when followed by a past participle |Du fikk gjort
-mye i helgen. |_You managed to do a lot this weekend._
-
-|Tror du at du får gjort det i kveld? |_Do you think you’ll manage to
-do it this evening?_
-|===
-
-== Bør (å burde) 
-
-“Burde” often translates into “ought to” or “should” in English.
-
-[cols=",,",]
-|===
-|*Use* |*Norwegian Example* |*English Translation*
-
-.2+|Advice or suggestions |Du bør gå nå. |_You ought to leave now._
-
-|Du bør prøve. |_You should try._
-
-|Moral obligation |Hun bør ta vare på barna sine. |_She should take care
-of her children._
-
-.2+|How things should or ought to be in an ideal world |Han burde være en
-bedre leder. |_He should be a better leader._
-
-|Folk bør være snille mot hverandre. |_People should be kind to one
-another._
-|===
-
-In some instances, a modal verb can be used without a main verb.
-
-[cols=",,",]
-|===
-| |*Norwegian Example* |*English Translation*
-
-.2+a|
-Statement
-
-* Oftentimes an adverb will clue you in as to what main verb is omitted.
-
-|Jeg skal til Oslo. |_I am going to Oslo._
-
-|Jeg må hjem. |_I must go home._
-
-a|
-Hvor
-
-* The missing verb will always be one of motion (i.e. “go,” “travel”)
-toward something
-
-|Hvor skal du? |_Where are you going?_
-
-a|
-Hva
-
-* It is implied that the missing verb is “do”
-
-|Hva skal du? |_What are you going to do?_
-
-.2+a|
-Hvorfor
-
-* Must contain an adverb of place which implies motion (i.e. “dit,”
-“hjem,” “bort”)
-
-|Hvorfor skal du dit? |_Why are you going there?_
-
-|Hvorfor skal han hjem? |_Why is he going home?_
-|===
-
-== Conjugations for the Modal Verbs:
+*[.underline]#Conjugations for the Modal Verbs (in this lesson):#*
 
 [cols=",,,,",]
 |===
@@ -274,78 +353,33 @@ Hvorfor
 |Skulle |Skal |Skulle |Skullet |_Shall_
 |Ville |Vil |Ville |Villet |_Will; want to_
 |Måtte |Må |Måtte |Måttet |_Must_
-|Kunne |Kan |Kunne |Kunnet |_Can_
-|Få |Får |Fikk |Fått |_Might; may_
-|Burde |Bør |Burde |Burdet |_Should_
-|===
-
-== Multiples of Modals
-
-Since Norwegian has infinitive and past participle forms of the modal
-verbs, it is possible to have two modals in the same verb phrase.
-
-[cols=",,",]
-|===
-|*Combination* |*Norwegian Example* |*English Translation*
-
-a|
-Modal (present/past tense) +
-
-modal (infinitive) + verb
-
-|Hun *ville* _kunne_ klare det. |_She would be able to do it._
-
-a|
-Have + modal (past participle) +
-
-modal (infinitive) + verb
-
-|Han har *måttet* _kunne_ se det. |_He must have been able to see it._
-
-|Modal (present/past tense) + have + modal (past participle) + verb |Hun
-*ville* ha _kunnet_ hjelpe. |_She would have been able to help._
 |===
 
 *_{asterisk}{asterisk}If the lesson was beneficial, please consider
-https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
 
 Sources:
 
-http://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf[[.underline]#Norwegian On The Web#]
+* http://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf[Norwegian
+On The Web]
+* https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[Norwegian:
+An Essential Grammar (pgs 29-33)]
+* http://grammatikk.com/pdf/Modalverb.pdf[Grammatikk:
+Modalverb]
+* http://norsk.rkevin.com/learn-about-norwegian-helping-verbs/[Learn
+Norwegian: Learn About Norwegian Helping Verbs]
+* https://tinycards.duolingo.com/decks/2tFTvWSS/norsk-modal-verb[Norsk
+Modal Verb Flash Cards]
+* https://quizlet.com/33656828/norsk-learning-modal-verbs-flash-cards/[Norsk
+Learning - Modal Verbs (flash cards)]
+* https://youtu.be/Ae2ksRtUmOY[Norwegian Verb: "Å skulle".
+(YouTube)]
+* https://youtu.be/gePy7nUQqW4[Basic Norwegian - Modalverb
+(YouTube)]
+* https://youtu.be/nzRVRKal6KU[The Difference Between Skal
+and Vil in Norwegian (YouTube)]
+* https://youtu.be/MF7GdV4K7_E[Video 54 SKAL eller VIL?
+(YouTube på norsk)#]
 
-https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[[.underline]#Norwegian: An Essential Grammar (pgs 29-33)#]
-
-http://grammatikk.com/pdf/Modalverb.pdf[[.underline]#Grammatikk: Modalverb#]
-
-http://norsk.rkevin.com/learn-about-norwegian-helping-verbs[[.underline]#Learn Norwegian: Learn About Norwegian Helping Verbs#]
-
-https://tinycards.duolingo.com/decks/2tFTvWSS/norsk-modal-verb[[.underline]#Norsk Modal Verb Flash Cards#]
-
-https://quizlet.com/33656828/norsk-learning-modal-verbs-flash-cards[[.underline]#Norsk Learning - Modal Verbs (flash cards)#]
-
-https://youtu.be/Ae2ksRtUmOY[[.underline]#Norwegian Verb: "Å skulle". (YouTube)#]
-
-https://youtu.be/gePy7nUQqW4[[.underline]#Basic Norwegian - Modalverb (YouTube)#]
-
-https://youtu.be/nzRVRKal6KU[[.underline]#The Difference Between Skal and Vil in Norwegian (YouTube)#]
-
-https://youtu.be/MF7GdV4K7_E[[.underline]#Video 54 SKAL eller VIL? s(YouTube på norsk)#]
-
-*[.underline]#Exercise:#* *Translate the following sentences into
-Norwegian.*
-
-. The film is so good; you should see it.
-. May I have some ice cream?
-. Ella does not want to talk to him.
-. Tobias had to watch the tutorial.
-. Markus is going to the grocery store.
-. Sofie should be at work.
-. You must not lie to your parents.
-. Lucas would have made dinner if he hadn’t worked late.
-. Victor must not have seen the memo.
-. How dare you say that?!
-. Mathias should be able to tie his shoe at his age.
-. You must be honest with your friend.
-. They must be rich in order to afford such a home.
-. Isabella could have won the award.
-. I would like to have some cake.
+*[.underline]#Exercise:#* *Write 5 sentences using the modals used in
+this lesson.*

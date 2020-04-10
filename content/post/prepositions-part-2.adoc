@@ -1,0 +1,494 @@
+---
+title: "Prepositions (part 2)"
+date: "2020-03-08"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+
+This lesson goes over some of the common prepositions used in Norwegian.
+<!--more-->
+
+== Grammar Review
+
+=== Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Moren min kjøpte en katt i går. |_My mom bought a cat
+yesterday._
+
+|Erik jobbet som servitør da han bodde i Oslo. |_Erik worked as a
+waiter when he lived in Oslo._
+
+.2+|*V2* |I går kjøpte moren min en katt. |_Yesterday, my mom bought a
+cat._
+
+|Da Erik bodde i Oslo, jobbet han som servitør. |_When Erik lived in
+Oslo, he worked as a waiter._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Indiana Jones prøvde å finne den mystiske steinen i 1935.
+|_Indiana Jones tried to find the mystical stone in 1935._
+
+|Faren min begynte å lære norsk før han reiste til Norge. |_My father
+began to learn Norwegian before he travelled to Norway._
+
+.2+|*V2* |I 1935 prøvde Indiana Jones å finne den mystiske steinen. |_In
+1935, Indiana Jones tried to find the mystical stone._
+
+|Før faren min reiste til Norge, begynte han å lære norsk. |_Before my
+father travelled to Norway, he began to learn Norwegian._
+|===
+
+=== *Verb Conjugation*
+
+Conjugating the present tense of verbs in Norwegian is fairly simple.
+Most present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å ringe |ringer |_Rings / Ringing_ |Å savne |savner |_Misses / Missing_
+
+|Å støtte |støtter |_Supports / Supporting_ |Å høre |hører |_Hears /
+Hearing_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å savne |savnet |_Missed_
+|Å støtte |støttet |_Supported_
+.2+|*2* |Å høre |hørte |_Heard_
+|Å ringe |ringte |_Called_
+.2+|*3* |Å kreve |Krevde |_Demanded_
+|Å eie |Eide |_Owned_
+.2+|*4* |Å bo |bodde |_Lived_
+|Å tro |trodde |_Believed_
+|===
+
+There are two ways to talk about future activities. Sometimes a present
+tense verb + a time adverbial is used. Modal verbs are another way to
+express future tense.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*Present Tense + Time Adverbial* |Går du til parken senere? |_Are you
+walking to the park later?_
+
+|*Modal Verbs* |Ella skal besøke besteforeldrene sine. |_Ella is going
+to visit her grandparents._
+|===
+
+
+=== Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun. If the noun is neuter gender, then in the singular indefinite
+form, the adjective takes a *-t ending*. In the plural indefinite, the
+adjective takes an *-e ending*. Note there are exceptions.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+2.+|*Masculine* |En brun bamse |_A brown teddy bear_ |brune bamser |_Brown
+teddy bears_
+
+|En høy lyd |_A loud noise_ |høye lyder |_Loud noises_
+
+.2+|*Feminine* |Ei brun bokhylle |_A brown bookcase_ |brune bokhyller
+|_Brown bookcases_
+
+|Ei høy fløyte |_A loud whistle_ |høye fløyter |_Loud whistles_
+
+.2+|*Neuter* |Et brunt fjøs |_A brown barn_ |brune fjøs |_Brown barns_
+
+|Et høyt dyr |_A loud animal_ |høye dyr |_Loud animals_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den brune bamsen |_The brown teddy bear_ |De brune bamsene
+|_The brown teddy bears_
+
+|Denne høye lyden |_This loud noise_ |Disse høye lydene |_These loud
+noises_
+
+.2+|*Feminine* |Den brune bokhylla |_The brown bookcase_ |De brune
+bokhyllene |_The brown bookcases_
+
+|Denne høye fløyta |_This loud whistle_ |Disse høye fløytene |_These
+loud whistles_
+
+.2+|*Neuter* |Det brune fjøset |_The brown barn_ |De brune fjøsa / fjøsene
+|_The brown barns_
+
+|Dette høye dyret |_This loud animal_ |Disse høye dyra / dyrene
+|_These loud animals_
+|===
+
+== Prepositions
+
+Prepositions are words that describe the spatial relation between 2
+things, for example: on, at, by, under, above etc. Prepositions tend to
+be difficult because their uses can vary from language to language and
+the relation is never 1:1. For example, in one language you might be in
+the train while in another language you’re on the train.
+
+This is a general idea of how some of the prepositions are used:
+
+[cols=",,,,",]
+|===
+| |*NORWEGIAN* |*ENGLISH* |*NORWEGIAN* |*ENGLISH*
+|*1* |*av* |by, of |*motsatt av* |opposite of
+|*2* |*bak* |behind |*nær* |near to
+|*3* |*blant* |among |*ned* |down
+|*4* |*før* |before, prior to |*nedenfor* |below
+|*5* |*foran* |in front of |*opp* |up
+|*6* |*gjennom* |through |*ovenfor* |above
+|*7* |*hos* |at (people) |*på* |at, on, to, in
+|*8* |*i* |in |*over* |over, of
+|*9* |*i nærheten av* |near, close to |*på toppen av* |on top of
+|*10* |*inn* |in |*på tvers* |across
+|*11* |*innen* |within |*rundt* |around
+|*12* |*inni* |inside |*til* |to, towards (person)
+|*13* |*inn i* |into |*under* |beneath, under
+|*14* |*innsiden av* |inside of |*ut* |out
+|*15* |*langt fra* |far from |*utenfor* |outside (of)
+|*16* |*med* |with (thing) |*utover* |beyond
+|*17* |*mellom* |between |*ved siden av* |next to
+|===
+
+In this lesson, there are a few prepositions that we will go over a bit
+more in-depth.
+
+=== *Ovenfor vs Overfor* 
+
+Ovenfor translates to “above” while overfor translates to “opposite” but
+can also mean “facing.”
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.3+|*Ovenfor* |Teksten ovenfor bildet beskrev det. |_The text above the
+picture described it._
+
+|Christian bodde i leiligheten ovenfor Isabellas. |_Christian lives in
+the apartment above Isabella’s._
+
+|Vi bor ovenfor en butikk. |_We live above a shop._
+
+.3+|*Overfor* |Det blå huset overfor biblioteket tilhører tanten min. |_The
+blue house across from the library belongs to my aunt._
+
+|Folket står overfor et vanskelig valg. |_The people are facing a
+difficult choice._
+
+|Broren min bor overfor parken. |_My brother lives across from the
+park._
+|===
+
+*[.underline]#NOTE:#* Usually, “over” can be used instead of “ovenfor”
+in sentences. “Ovenfor” and “Overfor” help specify if something is
+vertical or horizontal, when one says “over,” but typically one can tell
+that information based on context.
+
+=== *Innen vs Innenfor* 
+
+Both “innen” and “innenfor” mean “within” but are used in different
+contexts.
+
+* Innen is used only for concepts and abstract things
+* Innenfor is used for physical spaces, but can also be used for
+concepts and abstract things.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.3+|*Innen* |Drømmen hennes er innen rekkevidde. |_Her dream is within
+reach._
+
+|Marie kommer innen en time. |_Marie will arrive within the hour._
+
+|Jeg må gratulere Fanny innen et minutt. :D |_I must congratulate
+Fanny within a minute. :D_
+
+.3+|*Innefor* |Marianne sto innenfor saltsirkelen. |_Marianne stood within
+the salt circle._
+
+|Emils blodtrykk er innenfor parametrene. |_Emil’s blood pressure is
+within the parameters._
+
+|Han kjører innenfor fartsgrensen. |_He drives within the speed
+limit._
+|===
+
+=== *Om* 
+
+There are many ways in which “om” is used in Norwegian, however the most
+common uses are for “about” and “if”. It can also be used in the
+following phrases:
+
+* Som om - “as if”
+* Selv om - “even though,” “even if”
+* It is also used when referring to something that happens repeatedly.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.3+|*About* |Hva er filmen om? |_What is the movie about?_
+
+|Forskningen min handler om positiv forsterkning. |_My research is
+about positive reinforcement._
+
+|Vet du om det? |_Do you know about it?_
+
+.2+|*If* |Det ville være flott om jeg kunne besøke Norge. |_It would be
+great if I could visit Norway._
+
+|Det ville være kult om vi bare automatisk kunne et nytt språk. |_It
+would be cool if we could just automatically know a new language._
+
+.3+|*As if* |Markus latet som om han ikke kjente meg. |_Markus acted as if
+he didn’t know me._
+
+|Sofia prøvde å late som om alt var okay. |_Sofia tried to act as if
+everything was okay._
+
+|Vi spiste som om vi sultet. |_We ate as if we were starving._
+
+.3+|*Even though / +
+Even if* |Vi er venner selv om vi ikke har møttes personlig. |_We are
+friends even though we haven’t met in person._
+
+|Vi kan ikke gi opp nå, selv om det virker håpløst. |_We can’t give up
+now, even if it seems hopeless._
+
+|Jeg er med på søndagschatten selv om jeg er 2600 kilometer hjemmefra.
+|_I am taking part in the Sunday call even though I am 2600 km away from
+home._
+
+.3+|*Every* |Familien min drar på camping om sommeren. |_My family goes
+camping every summer._
+
+|Nora spiser frokost om morgenen. |_Nora eats breakfast every
+morning._
+
+|Jeg spiller dataspill om ettermiddagen. |_I play games every
+evening._
+|===
+
+=== Av
+
+This preposition often means “of” but can also be used to mean “off.”
+It’s also used in the phrases:
+
+* Ved hjelp av - “By means of”
+* På grunn av - “Because of”
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.3+|*Of* |Denne skjorten er laget av bomull. |_This shirt is made of
+cotton._
+
+|Hjernen og hjertet består av 73% vann. |_The brain and heart are
+composed of_
+
+|Menneskekroppen er laget av vann. |_The human's body is made of
+water._
+
+.3+|*Off* |“Jeg må gå av ved neste stopp”, sa mannen til bussjåføren. |_“I
+need to get off at the next stop,” said the man to the busdriver._
+
+|Ta av deg skoene når du kommer inn i huset |_Take off your shoes when
+you enter the house._
+
+|Ta katten av treet, vaer så snill |_Take the cat off the tree,
+please._
+
+.2+|*Because of* |Treet falt ned på grunn av den sterke vinden. |_The tree
+fell because of the strong wind._
+
+|Jeg har mange planter på grunn av byens stygghet. |_I have many
+plants because of the city’s ugliness._
+
+.2+|*By means of* |De hjalp folket å rømme ved hjelp av underjordiske
+tunneler. |_They helped the people escape by means of underground
+tunnels._
+
+|Jeg skrev til Lars Helge ved hjelp av Instagram. |_I wrote to LH by
+means of Instagram._
+|===
+
+=== *Ved*
+
+This preposition usually refers to proximity (in time or space) or if
+something is adjacent. It is also used in other ways, to include some
+specific phrases:
+
+* Ved nærmere behandling - “On closer consideration”
+* Ved ankomst - “On arrival”
+* Ved hjelp av - “By means of” (discussed above)
+* Ved siden av - “Next to,” “beside”
+
+[cols=",,",]
+|===
+|*Usage* |*Eksempel* |*English*
+
+.3+|*By* |Ser du hunden ved treet? |_Do you see the dog by the tree?_
+
+|Martin bor i blokken ved parken. |_Martin lives in the apartment
+building by the park._
+
+|Han var ved hennes side i vanskelige tider. |_He was by her side in
+difficult times._
+
+.3+|*At* |Fuglene begynner å synge ved soloppgang. |_The birds begin to
+sing at sunrise._
+
+|Barna sitter ved kjøkkenbordet. |_The children are sitting at the
+kitchen table._
+
+|Vennene mine sitter ved bålet. |_My friends are sitting at the
+campfire._
+
+.3+|*Near* |Flyplassen ligger ved hovedveien. |_The airport is located near
+the highway._
+
+|Byen ligger ved kysten. |_The town is located near the coast._
+
+|TV-en er ved bordet. |_The TV is near the table._
+
+.3+|*On* |Ved nærmere behandling bestemte folket seg for å stemme mot
+endringsforslaget. |_On closer consideration, the people decided to vote
+against the amendment._
+
+|Ved ankomst må du gå gjennom tollen. |_On arrival, you will have to
+go through customs._
+
+|Ved ankomst må du være i karantene. |_On arrival you must be
+quarantined._
+
+.2+|*About* |Atmosfæren har noe forstyrrende ved seg. |_The atmosphere has
+something unsettling about it._
+
+|Det var noe ved boka som fikk meg å føle urolig. |_There was
+something about the book that made me feel uneasy._
+
+.3+|*Next to / Beside* |Gutten satt ved siden av vennen sin. |_The boy sat
+next to his friend._
+
+|Kattene ligger ved siden av hverandre |_The cats are laying beside
+each other._
+
+|Henrik ligger ved siden av Lars Helge, men Lars Helge synes at det er
+for rart. |Henrik is laying beside Lars Helge but Lars Helge thinks it
+is too weird
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+* https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[Norwegian:
+An Essential Grammar (pgs 156 - 179)]
+* https://www.ntnu.edu/now/3/grammar#prepositions[Norwegian on the Web:
+Prepositions - i and på]
+* https://www.ntnu.edu/now/8/grammar#prepositions[Norwegian on the Web:
+Prepositions - Time Expressions]
+* https://www.ntnu.edu/now/10/grammar#prepositions[Norwegian on the Web:
+Prepositions]
+* https://blogs.transparent.com/norwegian/the-norwegian-word-til/[Norwegian
+Language Blog: The Norwegian Word 'Til']
+* https://youtu.be/1Ib9UiFb7Fg[Norwegian Prepositions Explained: i eller
+på (YouTube)]
+* https://youtu.be/mKZzldX10NE[50 Faste Preposisjonsuttrykk (YouTube på
+norsk)]
+* https://youtu.be/Mox75cJnpA4[Preposisjoner (YouTube på norsk)]
+* https://youtu.be/Ch2ZALWUIaw[2 Forvirrende Preposisjoner: i eller på
+(YouTube på norsk)]
+* https://youtu.be/1sDn3rR_EJg[Preposisjonene til og for (YouTube på
+norsk)]
+* https://www.sprakradet.no/svardatabase/sporsmal-og-svar/overfor-eller-ovenfor/[Språkrådet:
+Overfor eller Ovenfor]
+* https://youtu.be/VuuijSXT7_U[Simple Norwegian #22: Prepositions
+(YouTube)]
+
+*[.underline]#Exercise:# Ovenfor, overfor, innen, innenfor, om, av, ved*
+
+*Write the correct preposition in the following sentences.*
+
+[arabic]
+. Elevene lærte +___+ evolusjon.
+. Leketøyet er +___+ babyen sin rekkevidde.
+. Politikeren snublet over ordene sine som +___+ han glemte hva han sa.
+. Fangen sendte en melding +___+ hjelp av en hemmelig kode
+. Sengetøyene er laget +___+ sateng.
+. Under en stirrekonkurranse sitter to personer +___+ hverandre og
+prøver å ikke blunke.
+. Paret sto +___+ siden +___+ hverandre i kø.
+. Soldatene sto side +___+ side i formasjonen.
+. Når du farger, hold deg +___+ linjene.
+. Karine har katter selv +___+ hun er allergisk.
+. De bryter fasten sin +___+ solnedgang.
+. Jenta tok +___+ seg frakken mens hun lekte ute.
+. Foreldrene hadde en fest +___+ datterens ankomst.
+. Vi har svar +___+ to timer.
+. Pass på! Det er en edderkopp +___+ døra!
+. Det ville være fint +___+ du laget middag i kveld.
+. Faren sendte meldingen +___+ hjelp +___+ brevdue.
+. Tusenvis +___+ mennesker i byen har ikke elektrisitet på grunn +___+
+uværet.
+. Verden står +___+ en klimakrise.
+
+https://docs.google.com/document/d/1OPxlU2rRSZk5eQ_BilA0D8roAq04RVIsGYGcJ65Nt-Q/edit?usp=sharing[Answer
+Key]
+

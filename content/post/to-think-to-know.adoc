@@ -1,0 +1,431 @@
+---
+title: "To think, to know"
+date: "2020-03-29"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+Some verbs in Norwegian have more than one word that can be used, but
+when to use which word can be difficult. Three examples are “to think,”
+“to know,” and “to see.”
+<!--more-->
+
+== Grammar Review
+
+=== Sentence structure 
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English, Norwegian does have the V2 (verb second) rule. If
+an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Sara lånte boka i går. |_Sara borrowed the book yesterday._
+
+|Gustav reiste til Trondheim i løpet av ferien. |_Gustav travelled to
+Trondheim during the holiday._
+
+.2+|*V2* |I går lånte Sara boka. |_Yesterday, Sara borrowed the book._
+
+|I løpet av ferien reiste Gustav til Trondheim. |_During the holiday,
+Gustav travelled to Trondheim._
+|===
+
+=== Verb Conjugation
+
+Conjugating the present tense of verbs in Norwegian is fairly simple.
+Most present tense verbs just add an -r to the end of the infinitive.
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å kjøre |Kjører |_Drives / Driving_ |Å spre |Sprer |_Spreads /
+Spreading_
+
+|Å sove |Sover |_Sleeps / Sleeping_ |Å forstå |Forstår |_Understands /
+Understanding_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et. (or in -a, really, even in
+BM)
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å flytte |Flyttet |_Moved_
+|Å danse |Danset |_Danced_
+.2+|*2* |Å bake |bakte |_Baked_
+|Å lese |leste |_Read_
+.2+|*3* |Å lage |lagde |_Made_
+|Å leie |leide |_Rented_
+|*4* |Å spre |spredde |_Spread_
+|===
+
+There are two ways to talk about future activities. Sometimes a present
+tense verb + a time adverbial is used. Another way to express future
+“tense” is using a modal verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*Present Tense + Time Adverbial* |Emil drar til konserten neste helg.
+|_Emil is going to the concert next weekend._
+
+|*Modal Verbs* |Jon skal jobbe hjemmefra. |_Jon will work from home._
+|===
+
+=== Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun. If the noun is neuter gender, then in the singular indefinite
+form, the adjective takes a *-t ending*. In the plural indefinite, the
+adjective takes an *-e ending*. Note there are exceptions.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En snill tanke |_A kind thought_ |Snille tanker |_Kind
+thoughts_
+
+|En søt katt |_A cute cat_ |Søte katter |_Cute cats_
+
+.2+|*Feminine* |Ei snill melding |_A kind message_ |Snille meldinger |_Kind
+messages_
+
+|Ei søt mus |_A cute mouse_ |Søte mus |_Cute mice_
+
+.2+|*Neuter* |Et snilt barn |_A kind child_ |Snille barn |_Kind children_
+
+|Et søtt godteri |_A sweet candy_ |Søte godteri(er) |_Sweet candies_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den snille tanken |_The kind thought_ |De snille tankene
+|_The kind thoughts_
+
+|Denne søte katten |_This cute cat_ |Disse søte kattene |_These cute
+cats_
+
+.2+|*Feminine* |Den snille meldinga |_The kind message_ |De snille
+meldingene |_The kind messages_
+
+|Denne søte musa |_This cute mouse_ |Disse søte musene |_These cute
+mice_
+
+.2+|*Neuter* |Det snille barnet |_The kind child_ |De snille barna /
+barnene |_The kind children_
+
+|Dette søte godteriet |_This sweet candy_ |Disse søte godteria /
+godteriene |_These sweet candies_
+|===
+
+==  To Think
+
+In English, “to think” is used in different ways, such as to ponder, to
+give an opinion on something, and as another way to say “believe.”
+Norwegian, however, has multiple words that are used in these
+situations, and when to use them is kind of strict.
+
+=== Å tenke 
+
+* Used to mean to think; to ponder.
+* It is referring to the mental process of thinking.
+
+[cols=",",]
+|===
+|*Example* |*English*
+
+|Tenker du på henne ofte? |_Do you think of her often?_
+
+|Tobias tenker på hunder hver dag. |_Tobias thinks about dogs every
+day._
+
+|Dan tenker på hender hver dag. |_Dan thinks about hands every day._
+
+|Eg tenkjer på familien min i Amerika kvar dag. |_I think about my
+family in America every day._
+|===
+
+=== Å tro 
+
+* Used when one wants to express belief about something, however there
+is some uncertainty.
+* If, in English, you can replace “think” with “believe,” then this is
+the word you need.
+
+[cols=",",]
+|===
+|*Example* |*English*
+
+|Isabella tror at bursdagen hans er neste uke. |_Isabella thinks
+(believes) his birthday is next week._
+
+|Markus trodde at moren hans ville være hjemme før kl. 7. |_Markus
+thought (believed) that his mom would be home before 7pm._
+
+|Jeg tror han vet mest om dette programmeringsspråket. |_I think he
+knows the most about that Programming language._
+|===
+
+=== Å synes 
+
+* Used to express an opinion based on experience or feeling. _(I’ve
+experienced it and this is my feeling about it)._
+* In English, this form of “think” can sometimes be replaced by “find.”
+
+[cols=",",]
+|===
+|*Example* |*English*
+
+|Jeg synes at Mads er en fantastisk skuespiller. a|
+_I think Mads is a great actor._
+
+_(I’ve seen him act and I feel he is good at it)._
+
+|Bjørn synes at lingvistikk er interessant. |_Bjørn thinks (finds)
+linguistics are interesting._
+
+|Jeg synes at flere folk skal spille på Minecraft-serveren |_I think
+more people should play on the minecraft server_
+|===
+
+=== Å mene
+
+* Mener is similar to synes but with a strong conviction.
+* Also used when you are “pretty sure” about something.
+* You know something from memory or have some confidence in what you’re
+saying though you may not know with a 100% certainty (whereas “tror”
+would seem like more of a guess).
+
+[cols=",",]
+|===
+|*Example* |*English*
+
+|Person 1: Hvor mange mennesker bor i Norge? +
+Person 2: Jeg mener det er litt over 5 millioner. a|
+_Person 1: How many people live in Norway?_
+
+_Person 2: I think there are a little over 5 million._
+
+|Jeg mener at filmen vant en Oscar. |_I think (am pretty sure) that the
+film won an Oscar._
+|===
+
+*Practice: Tenker, tror, eller synes*
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*1* |Jeg synes ikke at ananas er bra på pizza. |_I don’t think that
+pineapple is good on pizza._
+
+|*2* |Sofia tenker på livet sitt. |_She thinks about her life._
+
+|*3* |Tenk over hva du er takknemlig for. |_Think about what you are
+thankful for._
+
+|*4* |Christian tror at filmen begynner kl. 8. |_Christian thinks that
+the film starts at 8._
+
+|*5* |Hva synes du om anime? |_What do you think about anime?_
+|===
+
+== To Know
+
+“To know” is another one of those verbs in English that we use in
+multiple ways. In Norwegian, however, there are different ways to
+express “to know” depending on the circumstances.
+
+=== Å kjenne
+
+* Used when you want to express that you know someone or you are
+acquainted with someone or something.
+* It can also be used to express that one knows an area or place very
+well.
+
+[cols=",",]
+|===
+|*Example* |*English*
+
+|Kjenner du Lars? |_Do you know Lars?_
+
+|Faren min kjenner Markus fra jobb(en) sin. |_My father knows Markus
+from his job._
+
+|Victor kjenner den boken av Stephen King. |_Victor knows of (is
+familiar with) that book by Stephen King._
+
+|Lea kjenner byen godt fordi hun vokste opp der. |_Lea knows the city
+well because she grew up there._
+
+|Han kjenner henne fra skole. |_He knows her from school._
+|===
+
+*[.underline]#NOTE:#* In English, we have the idiom “To know someplace
+like the back of your hand.” In Norwegian, there is a similar idiom: “Å
+kjenne noe som sin egen bukselomme”
+
+=== Å vite
+
+* Used when one is referring to facts, specifics, or superficial
+knowledge or wisdom of something__.__
+
+[cols=",",]
+|===
+|*Example* |*English*
+|Vet du når flyet kommer? |_Do you know when the plane arrives?_
+|Jeg vet ikke når filmen starter. |_I don’t know when the film starts._
+|Vet du om vi har fri i dag? |_Do you know if we have off today?_
+|Vet du om vi har noen epler? |_Do you know if we have any apples?_
+|===
+
+*[.underline]#NOTE:#* The only direct objects that “å vite” can take
+are: Det, dette, noe, ingenting, alt, ting.
+
+[cols=",",]
+|===
+|*Example* |*English*
+|Maja vet alt. |_Maja knows everything._
+|Tobias vet ingenting. |_Tobias knows nothing._
+|===
+
+*[.underline]#NOTE 2:#* “Å kjenne” is never used with hv- words; for
+sentences with hv- words, “å vite” is used.
+
+[cols=",",]
+|===
+|*Example* |*English*
+
+|Politiet vet hvem som stjal lommeboken. |_The police know who stole the
+wallet._
+
+|Gutten vet hva som er i boksen. |_The boy knows what’s in the box._
+
+|Vet du hvor mobiltelefonen min er? |_Do you know where my cell phone
+is?_
+
+|Jeg vet ikke hvorfor vi er her. |_I don’t know why we are here._
+
+|Onkelen min vet hvordan man kjører en motorsykkel. |_My uncle knows how
+to drive a motorcycle._
+|===
+
+=== Å kunne
+
+* Used when one wants to express that they know how to speak a language.
+* Also used if someone knows how to do a certain skill.
+* Also used when one knows something by heart; it refers to more
+thorough, in-depth knowledge of something.
+
+[cols=",",]
+|===
+|*Example* |*English*
+|Emilie kan (snakke) norsk. |_Emilie can speak Norwegian._
+|Han kan bussruten. |_He knows the bus route (by heart)._
+|===
+
+*[.underline]#NOTE:#* The verb for “to remember” is “å huske” and “to
+memorize” is “å lære seg utenat” or “å pugge.”
+
+[cols=",,",]
+|===
+|*Verb* |*Example* |*English*
+
+|*Å kunne* |Faren min kan tidsplanen (utenat). |_My father knows the
+schedule (by heart)._
+
+|*Å huske* |Faren min husket tidsplanen. |_My father remembered the
+schedule._
+
+|*Å lære seg utenat / Å pugge* a|
+Faren min lærte seg tidsplanen utenat.
+
+Faren min pugget tidsplanen.
+
+|_My father memorized the schedule._
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
+
+References:
+
+* https://youtu.be/-X8DVDwMKAE[Ask a Norwegian Teacher - How Do You Say
+“to think” in Norwegian?]
+* https://youtu.be/Dhs1QHGqW7s[Norwegian Language: 3 different Norwegian
+verbs for "to think"]
+* https://blogs.transparent.com/norwegian/think-think-and-think-why-3/[Norwegian
+Language Blog: Think, Think, and Think - Why 3?]
+* http://www.verbix.com/languages/norwegian.html[Verbix: Verb
+Conjugator]
+
+*[.underline]#Exercise 1:# Fill in the blanks. Some have more than one
+answer (you only need to write one, though). Conjugate the verbs.*
+
+[arabic]
+. Jeg +_____+ (think) at katter er søte. (I think that cats are cute.)
+. Thea +_____+ (think) at bussen kommer snart. (Thea thinks that the bus
+will arrive soon.)
+. Hun +_____+ (know) at veien til en manns hjerte er gjennom magen. (She
+knows the way to a man’s heart is through the stomach.)
+. Ingen +____+ (knew) hvor katten kom fra. (No one knew where the cat came
+from.)
+. Sofie +_____+ (think) at hun har fine øyne. (Sofie thinks that she has
+nice eyes.)
+. Oliver +_____+ (think) på filosofi. (Oliver thought about philosophy.)
+. Jeg +_____+ (know) ikke hvilket spill jeg skal spille. (I don’t know
+which game I should play.)
+. +____+ (know) du faren min? (Did you know my father?)
+. Jeg +_____+ (think / am pretty sure) at bassenget allerede er åpent. (I
+think / am pretty sure that the pool is already open.)
+. Har du +_____+ (think) å spørre Emma om hjelp? (Have you thought to ask
+Emma for help?)
+. August +_____+ (know) byen godt (August knows the city well.)
+. +_____+ (know) du hvor fornøyelsesparken er? (Do you know where the
+amusement park is?)
+. Bestemoren min +_____+ (knows) kakeoppskriften utenat. (My grandmother
+knows the cake recipe by heart.)
+. Jeg +_____+ (think) at Will hadde seks hunder. (I thought that Will had
+6 dogs.)
+. Nora +_____+ (knows) til det nye programmet. (Nora knows of / is
+familiar with the new program).
+
+*[.underline]#Exercise 2:# Write five sentences using verbs from this
+lesson.*
