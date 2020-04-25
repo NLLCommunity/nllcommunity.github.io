@@ -1,58 +1,186 @@
 ---
 title: "Basic sentence structure"
-date: "2019-07-14"
+date: "2020-04-19"
 author: "Dan"
 categories:
   - Sunday lessons
 ---
+This lesson will go over basic sentence structure.
+<!--more-->
 
-== Interrogatives
+== Grammar Review
+
+=== Verb Conjugation
+
+Conjugating the present tense of verbs in Norwegian is fairly simple.
+Most present tense verbs just add an -r to the end of the infinitive,
+and drop the infinitive marker (å).
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å lage |Lager |_Makes / Making_ |Å danse |Danser |_Dances / Dancing_
+|Å sove |Sover |_Sleeps / Sleeping_ |Å lese |Leser |_Reads / Reading_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å hente |hentet |_Fetched_
+|Å savne |savnet |_Missed_
+.2+|*2* |Å tape |Tapte |_Lost_
+|Å kjøre |Kjørte |_Drove_
+.2+|*3* |Å prøve |Prøvde |_Tried_
+|Å feie |Feide |_Swept_
+.2+|*4* |Å bo |Bodde |_Lived_
+|Å bry |Brydde |_Cared_
+|===
+
+There are two ways to talk about future activities. Sometimes a present
+tense verb + a time adverbial is used. Modal verbs are another way to
+express future tense.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*Present Tense + Time Adverbial* |Faren min drar til biblioteket
+senere. |_My dad is going to the library later._
+
+|*Modal Verbs* |Gustav skal besøke broren sin. |_Gustav is going to
+visit his brother._
+|===
+
+=== Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun. If the noun is neuter gender, then in the singular indefinite
+form, the adjective takes a *-t ending*. In the plural indefinite, the
+adjective takes an *-e ending*. Note there are exceptions.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En dyr ring |_An expensive ring_ |Dyre ringer |_Expensive
+rings_
+
+|En kald drikke |_A cold beverage_ |Kalde drikker |_Cold beverages_
+
+.2+|*Feminine* |Ei dyr bok |_An expensive book_ |Dyre bøker |_Expensive
+books_
+
+|Ei kald årstid |_A cold season_ |Kalde årstider |_Cold seasons_
+
+.2+|*Neuter* |Et dyrt hus |_An expensive house_ |Dyre hus |_Expensive
+houses_
+
+|Et kaldt rom |_A cold room_ |Kalde rom |_Cold rooms_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den dyre ringen |_The expensive ring_ |De dyre ringene
+|_The expensive rings_
+
+|Denne kalde drikken |_This cold beverage_ |Disse kalde drikkene
+|_These cold beverages_
+
+.2+|*Feminine* |Den dyre boka |_The expensive book_ |De dyre bøkene |_The
+expensive books_
+
+|Denne kalde årstida |_This cold season_ |Disse kalde årstidene
+|_These cold seasons_
+
+.2+|*Neuter* |Det dyre huset |_The expensive house_ |De dyre husa / husene
+|_The expensive houses_
+
+|Dette kalde rommet |_This cold room_ |Disse kalde romma / rommene
+|_These cold rooms_
+|===
+
+== Basic Sentence Structure
+
+This lesson will go over basic sentence structure in Norwegian,
+including the V2 rule. Let’s start with question words, first, though.
+
+=== Interrogatives
 
 An interrogative word (also called a question word) is used to ask a
 question, such as what, when, where, who(m), why, and how.
-<!--more-->
-[cols=",,,",]
+
+[cols=",,,,",]
 |===
-|*Interrogative* |*Meaning* |*Example* |*English*
+| |*Interrogative* |*Meaning* |*Example* |*English*
 
-|Hva |_What_ |Hva er navnet hennes? |_What is her name?_
+|*1* |Hva |_What_ |Hva er navnet hennes? |_What is her name?_
 
-|Hvor |_Where_ |Hvor bor du? |_Where do you live?_
+|*2* |Hvor |_Where_ |Hvor bor du? |_Where do you live?_
 
-|Når |_When_ |Når begynner filmen? |_When does the movie begin?_
+|*3* |Når |_When_ |Når begynner filmen? |_When does the movie begin?_
 
-|Hvem |_Who_ |Hvem er moren din? |_Who is your mother?_
+|*4* |Hvem |_Who_ |Hvem er moren din? |_Who is your mother?_
 
-|Hvordan |_How_ |Hvordan skjedde ulykken? |_How did the accident
+|*5* |Hvordan |_How_ |Hvordan skjedde ulykken? |_How did the accident
 happen?_
 
-|Hvorfor |_Why_ |Hvorfor ringte du ham? |_Why did you call him?_
+|*6* |Hvorfor |_Why_ |Hvorfor ringte du ham? |_Why did you call him?_
 
-|Hvor mye |_How much_ |Hvor mye koster det? |_How much does it
+|*7* |Hvor mye |_How much_ |Hvor mye koster det? |_How much does it
 cost?_
 
-|Hvor mange |_How many_ |Hvor mange søsken har du? |_How many
+|*8* |Hvor mange |_How many_ |Hvor mange søsken har du? |_How many
 siblings do you have?_
 
-|Hvor lenge |_How long_ |Hvor lenge har du lært norsk? |_How long
+|*9* |Hvor lenge |_How long_ |Hvor lenge har du lært norsk? |_How long
 have you learned Norwegian?_
 
-|Hvor høy(t) |_How high / tall_ |Hvor høyt er treet? |_How tall is
+|*10* |Hvor høy(t) |_How high / tall_ |Hvor høyt er treet? |_How tall is
 the tree?_
 
-|Hvor lang(t) |_How far_ |Hvor langt unna er banken? |_How far
+|*11* |Hvor lang(t) |_How far_ |Hvor langt unna er banken? |_How far
 away is the bank?_
 
-|Hvor gammel(t) |_How old_ |Hvor gammel er du? |_How old are you?_
+|*12* |Hvor gammel(t) |_How old_ |Hvor gammel er du? |_How old are you?_
 
-a|
+|*13* a|
 Hvem sin / sitt / si / sine
 
 Hvis (archaic)
 
 |_Whose_ |Hvem sin sykkel er dette? |_Whose bike is this?_
 
-.3+|Hvilken / Hvilket / Hvilke .3+|_Which_ |Hvilken farge er bilen din?
+.3+|*14* .3+|Hvilken / Hvilket / Hvilke .3+|_Which_ |Hvilken farge er bilen din?
 |_What color is your car?_
 
 |Hvilket år ble du uteksaminert? |_What year did you graduate?_
@@ -60,7 +188,7 @@ Hvis (archaic)
 |Hvilke bøker tilhører deg? |_Which books belong to you?_
 |===
 
-== Sentence Structure - SVO & V2
+=== SVO & V2
 
 Norwegian and English sentence structure are very similar; both follow a
 subject-verb-object (SVO) sentence structure. However, there are some
@@ -83,7 +211,8 @@ te. |Who is drinking tea? +
  +
 “Drikker,” so that is the verb..
 
-|*Object* |Refers to the person or thing that is receiving the action. |What is Lucas drinking? +
+|*Object* |Refers to the person or thing that is receiving the action.
+|What is Lucas drinking? +
  +
 “Te,” so that is the object.
 |===
@@ -101,6 +230,9 @@ Phrase* |*English*
 
 |Jeg kjøpte ikke en frakk i dag. |Jeg |kjøpte |ikke |en frakk |i dag.
 |_I did not buy a coat today._
+
+|Jeg spiste en vaffel i går. |Jeg |spiste |---------- |en vaffel |i går
+|_I ate a waffle yesterday._
 |===
 
 *[.underline]#Note:#* Pay attention to the placement of “ikke” in the
@@ -121,6 +253,12 @@ position.
 
 |I dag kjøpte jeg ikke en frakk. |I dag |kjøpte |jeg |ikke |en frakk.
 |_Today, I did not buy a coat._
+
+|I dag kjøpte jeg ikke mat |I dag |kjøpte |jeg |ikke |mat |_Today, I did
+not buy food_
+
+|I dag laga grannen min mat til meg. |I dag |laga |grannen min |……...
+|mat (til meg) |_Today my neighbour made food for me._
 |===
 
 As you can see, the adverbial phrase, “I dag,” is in the first position,
@@ -149,8 +287,8 @@ inversion.
 |*Example* |*Interrogative* |*Subject* |*Verb* |*Object* |*Pronoun*
 |*English*
 
-|Hvem har en bil? |Hvem |har |en bil? |--------------- |_Who has a car?_
-|
+|Hvem har en bil? 2.+|Hvem |har |en bil? |--------------- |_Who has a car?_
+
 
 |Hvem sitt hus er det? |Hvem sitt |hus |er |det? |----------------
 |_Whose house is that?_
@@ -159,7 +297,7 @@ inversion.
 apple is yours?_
 |===
 
-=== Main Clause & Subordinate Clause
+=== Main Clauses & Subordinate Clauses
 
 Many sentences are made up of a main clause and a subordinate clause.
 
@@ -183,6 +321,14 @@ dag. |_I am tired because I worked today._
 
 |Jeg spiste pizza siden jeg var sulten. |Jeg spiste pizza |siden jeg var
 sulten. |_I ate pizza since I was hungry._
+
+|Falch var glad fordi han hadde en venn med samme navn! |Falch var glad
+|Fordi han hadde en venn med samme navn! |_Falch was happy because he
+had a friend with the same name!_
+
+|Jeg er sliten fordi jeg gikk på tur i 4 timer i dag. |Jeg er sliten
+|Fordi jeg gikk på tur i 4 timer i dag |_I am tired because I went
+hiking for 4 hours today._
 |===
 
 Notice in the subordinate clauses, in the above sentences, the subject
@@ -201,12 +347,34 @@ trøtt |_Since I worked today, I am tired._
 
 |Siden jeg var sulten, spiste jeg pizza. |Siden jeg var sulten, |spiste
 |jeg pizza |_Since I was hungry, I ate pizza._
+
+|Siden jeg var lat, stjal jeg en setning. |Siden jeg var lat |stjal |jeg
+en setning |_Since I was lazy, I stole a sentence._
+
+|Etter han hørte trommene, ble han gal. |Etter han hørte trommene, |ble
+|Han gal |_After he heard the drums he became crazy._
 |===
 
 Inversion happens in the main clause because the subordinate clause is
 in the first position (displacing the subject of the main clause). In
 order to keep the verb in the second position, the verb and subject have
 to switch places in the main clause.
+
+*Let’s Practice:*
+
+[cols=",",]
+|===
+|*English* |*Norwegian*
+
+|When I visited Norway, I bought a Marius sweater. |Da jeg besøkte
+Norge, kjøpte jeg en Marius genser.
+
+|Since she was sick, she did not eat dinner. |Siden hun var syk, spiste
+hun ikke middag.
+
+|After he watched the movie, he went to bed. |Etter han så filmen, gikk
+han til sengs.
+|===
 
 === Adverbs
 
@@ -237,13 +405,43 @@ it was not expensive._
 I bought the coat._
 |===
 
+*Let’s Practice: Put “ikke” in the correct location.*
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|I går spilte han ikkje eit spill. |Yesterday, he did not play a game.
+
+|Siden hun ikke spiste frokost, er hun sulten. |Since she didn’t eat
+breakfast, she’s hungry.
+
+|Jeg spiste ikke pizza til lunsj. |I did not eat pizza for lunch.
+
+|På grunn av det dårlige været, er svømmebassenget ikke åpent. |Due to
+the bad weather, the pool is not open.
+
+|Siden han ikke hadde penger, dro han ikke til konserten. |Since he
+didn’t have money, he didn’t go to the concert.
+|===
+
 If the sentence contains a compound verb (i.e. har brukt; har besøkt,
 etc), the adverb comes after the finite (conjugated) verb in the
 compound.
 
-Ex: Jeg _har_ *ikke* _brukt_ den nye frakken min ennå.
+[cols=",",]
+|===
+|*Eksempel* |*English*
 
-I have not used my new coat yet.
+|Jeg har ikke brukt den nye frakken min ennå. |I have not used my new
+coat yet.
+
+|Jeg har ikke besøkt norge, fordi grunner. |I have not visited Norway,
+because _reasons._
+
+|Fordi han alltid hørte trommene, kunne han ikke få fred. |Because he
+always heard the drums he couldn’t be at peace.
+|===
 
 If a pronoun is added to a sentence, the placement can vary. It’s added
 in one of three different ways:
@@ -290,7 +488,7 @@ Here are some additional adverbs that are frequently used:
 |_Sannsynligvis_ |Probably |_Virkelig_ |Really
 |===
 
-*[.underline]#Frequency indicators#*
+=== Frequency Indicators
 
 Frequency indicators indicate the frequency of an action. Frequency
 indicators can move around in a sentence. Some examples of frequency
@@ -310,24 +508,26 @@ Kommer du hit ofte?
 Do you come here often?
 
 *_{asterisk}{asterisk}If the lesson was beneficial, please consider
-https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
+
 References:
 
-http://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf[[.underline]#Norwegian on the Web pdf pgs 27-29#]
-
-https://wiki.ucl.ac.uk/display/ScanStuds/The+Quick+and+Dirty+guide+to+Norwegian+grammar[[.underline]#Norwegian Grammar#]
-
-https://docs.google.com/document/d/1E6XlRcQ3f0inPy3Z1Rdd7Yhz4XfEuwelASI9N6-G02Q/edit?usp=sharing[[.underline]#Lesson 32: Grammar Terms#]
-
-https://www.youtube.com/watch?v=KKrNJCGNcJg[[.underline]#Learning Norwegian Grammar: V2 Rule & Word Order (YouTube)#]
-
-https://www.youtube.com/watch?v=ZjE1b9X0pzc[[.underline]#Norwegian Sentence Structure, Part 1 (YouTube)#]
-
-https://www.youtube.com/watch?v=bbSyW6-Ewjw[[.underline]#Norwegian Sentence Structure, Part 2 (YouTube)#]
-
-https://youtu.be/BHO8JThWLWo[[.underline]#Norwegian Sentences. Main Clauses (YouTube)#]
-
-https://docs.google.com/document/d/1lbdiUqG2zYBM9QtIJMLVsJrCRtZqKOchVqA25OyaCWk/edit?usp=sharing[[.underline]#Lesson 17: Complex Sentence Structures#]
+* http://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf[Norwegian on the
+Web pdf pgs 27-29]
+* https://wiki.ucl.ac.uk/display/ScanStuds/The+Quick+and+Dirty+guide+to+Norwegian+grammar[Norwegian
+Grammar]
+* https://docs.google.com/document/d/1E6XlRcQ3f0inPy3Z1Rdd7Yhz4XfEuwelASI9N6-G02Q/edit?usp=sharing[Lesson
+32: Grammar Terms]
+* https://www.youtube.com/watch?v=KKrNJCGNcJg[Learning Norwegian
+Grammar: V2 Rule & Word Order (YouTube)]
+* https://www.youtube.com/watch?v=ZjE1b9X0pzc[Norwegian Sentence
+Structure, Part 1 (YouTube)]
+* https://www.youtube.com/watch?v=bbSyW6-Ewjw[Norwegian Sentence
+Structure, Part 2 (YouTube)]
+* https://youtu.be/BHO8JThWLWo[Norwegian Sentences. Main Clauses
+(YouTube)]
+* https://docs.google.com/document/d/1lbdiUqG2zYBM9QtIJMLVsJrCRtZqKOchVqA25OyaCWk/edit?usp=sharing[Lesson
+17: Complex Sentence Structures]
 
 *[.underline]#Exercise:# Rewrite the following sentences using
 inversion.*
