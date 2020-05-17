@@ -1,0 +1,439 @@
+---
+title: "Noe eller noen"
+date: "2020-05-03"
+author: "Dan"
+categories:
+  - Sunday lessons
+---
+This lesson goes over how to use “noe” and “noen.”
+<!--more-->
+
+== Grammar Review
+
+===  Sentence Structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Tobias spiste kake etter middagen. |_Tobias ate cake after
+dinner._
+
+|Nora brukte en paraply siden det regnet. |_Nora used an umbrella
+since it rained._
+
+.2+|*V2* |Etter middagen spiste Tobias kake |_After dinner, Tobias ate
+cake._
+
+|Siden det regnet, brukte Nora en paraply. |_Since it rained, Nora
+used an umbrella._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Markus prøvde å ringe vennen sin i går. |_Markus tried to call
+his friend yesterday._
+
+|Karina pleide å jobbe på et sykehus da hun bodde i Oslo. |_Karina
+used to work in a hospital when she lived in Oslo._
+
+.2+|*V2* |I går prøvde Markus å ringe vennen sin. |_Yesterday, Markus tried
+to call his friend._
+
+|Da Karina bodde i Oslo, pleide hun å jobbe på et sykehus. |_When
+Karina lived in Oslo, she used to work in a hospital._
+|===
+
+=== Verb Conjugation
+
+Conjugating the present tense of verbs in Norwegian is fairly simple.
+Most present tense verbs just add an -r to the end of the infinitive,
+and drop the infinitive marker (å).
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å sparke |sparker |_Kicks / Kicking_ |Å hjelpe |hjelper |_Helps /
+Helping_
+
+|Å mumle |mumler |_Mutters / Muttering_ |Å tape |taper |_Loses / Losing_
+|===
+
+There are some exceptions / irregulars:
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å kunne |Kan |To be able to |Å måtte |Må |To have to
+|Å skulle |Skal |To have to; to be going to |Å ville |Vil |To want
+|Å være |Er |_To be_ |Å vite |Vet |_To know_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å sparke |sparket |_Kicked_
+|Å mumle |mumlet |_Mumbled_
+.2+|*2* |Å tape |tapte |_Lost (to lose)_
+|Å lære |lærte |_Learned_
+.2+|*3* |Å eie |eide |_Owned_
+|Å leve |levde |_Lived_
+.2+|*4* |Å spy |spydde |_Threw up_
+|Å ha |hadde |_Had_
+|===
+
+There are two ways to talk about future activities. Sometimes a present
+tense verb + a time adverbial is used. Another way to express future
+tense is with modal verbs.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*Present Tense + Time Adverbial* |Mathias spiller spillet senere.
+|_Mathias will play the game later._
+
+|*Modal Verbs* |Tanten min skal bake bursdagskaken. |_My aunt will bake
+the birthday cake._
+|===
+
+=== *Adjective Basics*
+
+Adjectives typically have to agree with the gender and the number of the
+noun. If the noun is neuter gender, then in the singular indefinite
+form, the adjective takes a *-t ending*. In the plural indefinite, the
+adjective takes an *-e ending*. Note there are exceptions.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En gul banan |_A yellow banana_ |Gule bananer |_Yellow
+bananas_
+
+|En ren tallerken |_A clean plate_ |Rene tallerkener |_Clean plates_
+
+.2+|*Feminine* |Ei gul lampe |_A yellow lamp_ |Gule lamper |_Yellow lamps_
+
+|Ei ren jakke |_A clean jacket_ |Rene jakker |_Clean jackets_
+
+.2+|*Neuter* |Et gult eple |_A yellow apple_ |gule epler |_Yellow apples_
+
+|Et rent rom |_A clean room_ |rene rom |_Clean rooms_
+|===
+
+When the noun is in the definite form, the adjective takes an -e ending.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den gule bananen |_The yellow banana_ |De gule bananene
+|_The yellow bananas_
+
+|Denne rene tallerkenen |_This clean plate_ |Disse rene tallerkenene
+|_These clean plates_
+
+.2+|*Feminine* |Den gule lampa |_The yellow lamp_ |De gule lampene |_The
+yellow lamps_
+
+|Denne rene jakka |_This clean jacket_ |Disse rene jakkene |_These
+clean jackets_
+
+.2+|*Neuter* |Det gule eplet |_The yellow apple_ |De gule eplene |_The
+yellow apples_
+
+|Dette rene rommet |_This clean room_ |Disse rene romma / rommene
+|_These clean rooms_
+|===
+
+== Noe eller Noen
+
+Both “noe” and “noen” can be translated to mean “some” in English, but
+they can also have other translations. How and when they are used can be
+a bit confusing for learners.
+
+===  Noe
+
+* Used with uncountable nouns, to mean “some” or “any.”
+* Used to mean “something” or “anything.”
+* Used in question sentences to mean “any” or “some” for uncountable
+nouns and in spoken Norwgian, for countable singular neuter nouns.
+* Used in negation sentences (with “ikke” or “aldri”) for uncountable
+nouns and for countable singular neuter nouns.. +
+*[.underline]#NOTE:#* “Ikke noe” can mean “no,” or “not any,” as well as
+“nothing.”
+* Used in conditional sentences (“If this...then that”) when meaning
+“some.”
+
+Let’s look at some examples:
+
+[cols=",,",]
+|===
+|*Usage* |*Eksempel* |*English*
+
+.3+a|
+“Some” or “any”
+
+* For uncountable nouns
+
+|Lucas vil gjerne ha noe brød. |_Lucas would like some bread._
+
+|Barnet ba om noe melk. |_The child asked for some milk._
+
+|Er det noe sukker? |_Is there any sugar?_
+
+.3+a|
+Question sentences
+
+* Means “any / some”
+* Uncountable nouns
+* Countable singular neuter nouns
+
+|Har du noe mel som jeg kunne brukt? |_Do you have some flour that I
+could use?_
+
+|Fikk Bergen noe snø sist vinter? |_Did Bergen get any snow last
+winter?_
+
+|Har du noe sted å bo? |_Do you have a place to live?_
+
+.3+a|
+* Anything
+* Something
+
+|“Jeg trodde at jeg hørte noe” sa gutten. |_“I thought that I heard
+something,” said the boy._
+
+|Noe falt ned på kjøkkenet. |_Something fell in the kitchen._
+
+|De hadde ikke noe å gjøre i karantene. |_They didn’t have anything to
+do in quarantine._
+
+.4+a|
+Negation sentences
+
+* For uncountable nouns
+* For countable singular neuter nouns
+
+|Vi spiser aldri noe brød til frokost. |_We never eat any bread with
+breakfast._
+
+|Bestemoren min måtte kjøpe noe melk, siden hun ikke hadde noe. |_My
+grandmother had to buy some milk since she didn’t have any._
+
+|Jeg har ikke noe kattestativ til kattene mine. |_I don’t have a cat
+tower for my cats._
+
+|Kjæresten min har aldri noe mel hjemme når jeg vil bake. |_My
+boyfriend never has any flour at home when I want to bake._
+
+.3+a|
+Conditional sentences, meaning “some”
+
+* For uncountable nouns
+
+|Hvis du har noe mel, kan du lage en kake. |_If you have some flour, you
+can make a cake._
+
+|Hvis du lytter til noe musikk, vil du slappe av. |_If you listen to
+some music, you will relax._
+
+|Hvis du spiser noe kake nå, vil du ikke være sulten til middag. |_If
+you eat some cake now, you won’t be hungry for dinner._
+|===
+
+*[.underline]#NOTE:#* “Ingenting” can also be used, instead of “ikke
+noe” to mean “nothing.”
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Det er ikke noe i skålen. |_There is nothing in the bowl._
+|Det er ingenting i skålen. |_There is nothing in the bowl._
+|===
+
+=== Noen
+
+* Used in question sentences, to mean “any,” for countable nouns and in
+spoken Norwegian, for countable singular masculine and feminine nouns.
+* Used to mean “anybody,” “anyone at all,” “somebody,” and “someone.”
+* Used in negation sentences (i.e. containing “ikke” or “aldri”) for
+countable plural nouns and for countable singular masculine and feminine
+nouns. +
+*[.underline]#NOTE:#* “Ikke noen” can translate to “no,” “no one,”
+“nobody.”
+* Used in conditional sentences (i.e. “If this...then that”), when it
+means “any.”
+* Used for plural nouns; can translate to “some,” “a few,” or “ a couple
+of.”
+
+Let’s look at some examples:
+
+[cols=",,",]
+|===
+|*Usage* |*Eksempel* |*English*
+
+.4+a|
+Question sentences
+
+* Means “any”
+* For countable plural nouns
+* For countable singular masc / fem nouns
+
+|Har du sett noen gule hus i denne gaten? |_Have you seen any yellow
+houses on this street?_
+
+|Har faren din funnet noen sykler til salgs? |_Has your dad found any
+bikes for sale?_
+
+|Har du noen idé om hva som skjedde? |_Do you have an / any idea what
+happened?_
+
+|Vil du lese noen bøker i dag? |_Do you want to read some books
+today._
+
+.3+a|
+* Anyone
+* Anybody
+* Someone
+* Somebody
+
+|Er der noen her? |_Is there anyone / anybody / someone here?_
+
+|Noen banket på døren. |_Someone knocked on the door._
+
+|Noen har sovet i sengen min. |_Someone has slept in my bed._
+
+.4+a|
+Negation sentences
+
+* For countable nouns in plural
+* For countable singular masc / fem nouns
+
+|Moren min har aldri noen fridager. |_My mom never has any days off._
+
+|Det er ikke noen skitne rom i huset. |_There aren’t any dirty rooms
+in the house._
+
+|Jeg har ikke noe idé om hva som skjedde. |_I have no idea what
+happened._
+
+|Jeg hadde aldri noe fritid. |_I never had any free time._
+
+.3+a|
+Conditional sentences, meaning “any”
+
+* For countable nouns
+
+|Hvis bestemoren min har noen epler, skal hun lage en eplepai til oss.
+|_If my grandmother has any apples, she will make an apple pie for us._
+
+|Hvis du har noen spørsmål, så spør oss. |_If you have any questions,
+then ask us._
+
+|Hvis jeg kommer på noen ideer, vil jeg fortelle deg dem. |_If I come
+up with any ideas, I’ll tell you (them)._
+
+.4+|Plural |Moren min har noen epletrær i hagen. |_My mom has some apple
+trees in the backyard._
+
+|Det er noen bøker på gulvet. |_There are some books on the floor._
+
+|Hun ga ham noen epler. |_She gave him some / a few / a couple of
+apples._
+
+|Pingvinen laget litt mat og jaktet noen isbjørn. |_The penguin made
+food and hunted some polar bears._
+|===
+
+*[.underline]#NOTE:#* “Ingen” can be used instead of “ikke noen.”
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Det er ikke noen i kontoret. |_There’s nobody in the office._
+|Det er ingen i kontoret. |_There’s nobody in the office._
+|===
+
+*[.underline]#NOTE:#* Some nouns in Norwegian are countable but
+uncountable in English and vice versa. For example, in English, “advice”
+(råd) is uncountable but is countable in Norwegian.
+
+*Let’s practice: Fill in the blank with either noe eller noen.*
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*1* |Har du *noen* penger? |_Do you have any money?_
+
+|*2* |Det er *noen* i telefonen til deg. |_There is someone on the phone
+for you._
+
+|*3* |Kvinnen har *noe* kaffe på kjøkkenet. |_The woman has some coffee
+in the kitchen._
+
+|*4* |Kan jeg få *noe* melk? |_Can I have some milk?_
+
+|*5* |Det er ikke *noen* ildfluer i Norge. |_There aren’t any fireflies
+in Norway._
+
+|*6* |Hvis du trenger *noe* hjelp, så spør bare. |_If you need some
+help, then just ask._
+
+|*7* |Faren min gav meg *noen* råd. |_My father gave me some advice._
+
+|*8* |Vil *noen* ha *noe* kaffe? |_Would anyone like some coffee?_
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[[.underline]#buying me a virtual coffee.#] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+* https://norwegianacademy.com/is-it-noe-or-noen/[Is it 'noe' or
+'noen'?]
+* https://tanuljunknorvegul.files.wordpress.com/2014/02/learn-norwegian-language-routledge-norwegian-an-essential-grammar.pdf[Norwegian:
+An Essential Grammar (pg 126)]
+* https://www.youtube.com/watch?v=A42V1Gh8OZ8[Norwegian Language:
+Something about Nothing (YouTube)]
+* https://www.youtube.com/watch?v=MNEE2hGdJXs[Noen eller Noe (YouTube på
+norsk)]
+* https://youtu.be/YWNi4HHiYfM[Noe eller Noen? Hva er forskjellen?
+(YouTube på norsk)]
+* https://youtu.be/DpD_PdPdj2w[Ingenting, Ikke Noe, Ikke Noen, og Ingen!
+Hjelp!! (YouTube på norsk)]
+
+*[.underline]#Exercise:# Write three sentences for each word (noe and
+noen) for a total of 6 sentences.*
