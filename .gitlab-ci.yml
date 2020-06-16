@@ -1,5 +1,5 @@
 # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
-image: 
+image:
   name: klakegg/hugo:asciidoctor
   entrypoint: [""]
 
@@ -9,17 +9,19 @@ variables:
 
 test:
   script:
-  - hugo
+    - hugo
   except:
-  - master
+    - master
 
 pages:
   script:
-  - hugo
-  - mkdir public
-  - mv /target/* public
+    - hugo
+    - ls public
+    - ls /target
+    - mkdir public
+    - mv /target/* public
   artifacts:
     paths:
-    - public
+      - public
   only:
-  - master
+    - master
