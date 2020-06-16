@@ -16,10 +16,6 @@ test:
 pages:
   script:
     - hugo
-    - ls public
-    - ls /target
-    - mkdir public
-    - mv /target/* public
   artifacts:
     paths:
       - public
