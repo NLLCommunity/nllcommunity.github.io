@@ -1,6 +1,6 @@
 ---
 title: Legge vs ligge; Sette vs sitte
-date: 2019-03-10
+date: 2020-05-24
 author: Dan
 categories:
   - Sunday lessons
@@ -71,6 +71,22 @@ posen).
 in her purse._
 |===
 
+*Let's Practice: Ligge eller Legge*
+
+[cols=","]
+|===
+|*Eksempel* |*English*
+
+|Kassereren *la* klærne i posen. | _The cashier put the clothes in the bag._
+
+|Katten min *ligger* i sengen min. | _My cat is lying in my bed._
+
+| Universitetet *ligger* i Oslo. | _The university is located in Oslo._
+
+| Barna *la* seg ned for en lur. | _The child laid down for a nap._
+
+|===
+
 == Å sette eller å sitte
 
 If the object placement is vertical, then you would use “å sitte” or “å
@@ -108,6 +124,32 @@ you would use “å s**[.underline]#i#**tte” in the sentence.
 
 *[.underline]#Note:#* If the object is inanimate and there’s no
 movement, then you would use “å stå.”.
+
+[cols=","]
+|===
+|*Eksempel* |*English*
+
+| Flasken står på bordet. | _The bottle is sitting on the table._
+
+| Lampen står på gulvet. | _The lamp is sitting on the floor._
+
+|===
+
+*Let's Practice: Sitte eller Sette*
+
+[cols=","]
+|===
+|*Eksempel* |*English*
+
+| Hunden sitter i hundehuset. | _The dog is sitting in the doghouse._
+
+| Markus satte melken i kjøleskapet. | _Markus put the milk in the refrigerator._
+
+| Katten satt i vinduet tidligere. | _The cat was sitting in the window earlier._
+
+| Sett deg ned og hold kjeft. | _Sit down and shup up!_
+
+|===
 
 But wait... you may be asking, “What about å putte?”
 

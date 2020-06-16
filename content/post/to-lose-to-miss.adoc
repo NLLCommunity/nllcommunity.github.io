@@ -1,0 +1,480 @@
+---
+title: To Lose and To Miss
+date: 2020-05-31
+author: Dan
+categories:
+  - Sunday lessons
+---
+This lesson goes over the various ways to express “to lose” and “to
+miss.”
+<!--more-->
+
+== Grammar Review
+
+=== Sentence structure 
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Christian besøkte moren sin i går. |_Christian visited his mom
+yesterday._
+
+|Karina kjøpte en suvenir da hun var i Tyskland. |_Karina bought a
+souvenir when she was in Germany._
+
+.2+|*V2* |I går besøkte Christian moren sin. |_Yesterday, Christian visited
+his mom._
+
+|Da Karina var i Tyskland, kjøpte hun en suvenir. |_When Karina was in
+Germany, she bought a souvenir._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Markus begynte å lese i fjor. |_Markus began reading last year._
+
+|Emma pleide å synge i et kor da hun var yngre. |_Emma used to sing in
+a choir when she was younger._
+
+.2+|*V2* |I fjor begynte Markus å lese |_Last year, Markus began reading._
+
+|Da Emma var yngre, pleide Emma å synge i kor |_When Emma was younger,
+she used to sing in a choir._
+|===
+
+=== Verb Conjugation
+
+Conjugating the present tense of verbs in Norwegian is fairly simple.
+Most present tense verbs just add an -r to the end of the infinitive and
+drop the infinitive marker (å).
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+|Å synge |synger |_Sings_ |Å løpe |løper |_Runs_
+|Å savne |savner |_Misses_ |Å drømme |drømmer |_Dreams_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -[.underline]#dde#.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å brette |brettet |_Folded_
+|Å vente |ventet |_Waited_
+.2+|*2* |Å knuse |knuste |_Crushed_
+|Å like |likte |_Liked_
+.2+|*3* |Å sveve |Svevde |_Hovered_
+|Å veie |Veide |_Weighed_
+.2+|*4* |Å kle |Kledde |_Dressed_
+|Å snu |[.underline]#Snudde# |_Turned_
+|===
+
+There are two ways to talk about future activities. Sometimes a present
+tense verb + a time adverbial is used. Another way to express future
+tense is with the use of modal verbs.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*Present Tense + Time Adverbial* |Trine lager middag senere. |_Trine is
+making dinner later._
+
+|*Modal Verbs* |Tobias skal kjøre til parken. |_Tobias is going to drive
+to the park._
+|===
+
+=== Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun. If the noun is neuter gender, then in the singular indefinite
+form, the adjective takes a *-t ending*. In the plural indefinite, the
+adjective takes an *-e ending*. Note there are exceptions.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En smal gang |_A narrow hallway_ |Smale ganger |_Narrow
+hallways_
+
+|En dyr ring |_An expensive ring_ |Dyre ringer |_Expensive rings_
+
+.2+|*Feminine* |Ei smal plattform |_A narrow platform_ |Smale plattformer
+|_Narrow platforms_
+
+|Ei dyr leilighet |_An expensive apartment_ |Dyre leiligheter
+|_Expensive apartments_
+
+.2+|*Neuter* |Et smalt område |_A narrow area_ |Smale områder |_Narrow
+areas_
+
+|Et dyrt armbånd |_An expensive bracelet_ |Dyre armbånd |_Expensive
+bracelets_
+|===
+
+When the noun is in the definite form, the adjective takes an *-e*
+ending (like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den smale gangen |_The narrow hallway_ |De smale gangene
+|_The narrow hallways_
+
+|Denne dyre ringen |_This expensive ring_ |Disse dyre ringene |_These
+expensive rings_
+
+.2+|*Feminine* |Den smale plattforma |_The narrow platform_ |De smale
+plattformene |_The narrow platforms_
+
+|Denne dyre leiligheta |_This expensive apartment_ |Disse dyre
+leilighetene |_These expensive apartments_
+
+.2+|*Neuter* |Det smale området |_The narrow area_ |De smale områdene |_The
+narrow areas_
+
+|Dette dyre armbåndet |_This expensive bracelet_ |Disse dyre armbånda
+/ armbåndene |_These expensive bracelets_
+|===
+
+== To Lose
+
+In English, we use the verb, “to lose” in many ways, such as losing a
+game; when we are unable to locate a person or an item; when we are
+unable to retain something, such as losing one’s memory or when a
+business loses money. Additionally, we use it in many different
+figurative phrases, such as to lose touch with someone; losing one’s
+temper, etc. Norwegian has various verbs to express these different
+concepts.
+
+=== Å Tape
+
+* Used when losing a game or war; i.e. being defeated.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Fotballaget tapte kampen i går. |_The football team lost the game
+yesterday._
+
+|Tyskland tapte krigen i 1945. |_Germany lost the war in 1945._
+
+|Jeg tapte spillet i går kveld. |_I lost the game yesterday evening._
+|===
+
+=== Å Miste
+
+* When you are unable to locate an item (but it’s not just misplaced).
+* Used when you are deprived of something or unable to have, retain, or
+regain something.
+
+[cols=",,",]
+|===
+|*Use* |*Eksempel* |*English*
+
+.3+|Unable to locate an item |Moren min har mistet paraplyen. |_My mom has
+lost the umbrella._
+
+|Jeg mistet mobiltelefonen min på fornøyelsesparken. |_I lost my cell
+phone at the amusement park._
+
+|Faren min mistet lommeboken sin i Oslo. |_My father lost his wallet
+in Oslo._
+
+.3+|Unable to have, retain, or regain something |Thomas mistet appetiten.
+|_Thomas lost his appetite._
+
+|Marie mistet fingeren sin i ulykken. |_Marie lost her finger in the
+accident._
+
+|Selskapet mistet mye penger på grunn av feilen. |_The company lost a
+lot of money due to the error._
+|===
+
+*[.underline]#NOTE:#* If you want to say something has just been
+misplaced (i.e. it’s in the house somewhere, just can’t remember where
+it’s been put), one would say “Jeg kan ikke finne…” or use “å være bli
+borte.”
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Moren min kan ikke finne nøklene sine. |_My mom can’t find her keys.
+(They’re misplaced)._
+
+|Min fars kam er blitt borte. |_My father’s comb is missing. (It’s been
+misplaced)._
+|===
+
+=== Å Være Oppslukt
+
+* Refers to being preoccupied with something.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Markus var oppslukt i boken og hørte ikke moren sin. |_Markus lost
+himself in the book and didn’t hear his mom._
+
+|Ella var oppslukt i spillet. |_Ella lost herself in the game._
+
+|Jeg var oppslukt mens jeg lyttet til den sangen. |_I lost myself while
+listening to that song._
+|===
+
+=== Å Kaste Bort
+
+* Used when one wastes their time, chances, opportunities, etc.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Vennene kastet bort en time på å vente på en drosje. |_The friends lost
+/ wasted an hour waiting for a taxi._
+
+|Erik kastet bort sjansen sin til å reise til Japan. |_Erik lost /
+wasted his chance to travel to Japan._
+
+|Jeg liker ikke å kaste bort tid. Bare stem Saxon |_I don't like to
+waste time just vote Saxon._
+|===
+
+=== Idiomatic Phrases
+
+[cols=",,,",]
+|===
+|*Udtryk* |*English* |*Udtryk* |*English*
+
+|Å tape ansikt |_To lose face_ |Å miste hodet |_To lose one’s head_
+
+|Å miste fasongen |_To lose shape_ |Å forsvinne ut av syne |_To lose
+sight of somebody_
+
+|Å miste besinnelsen |_To lose one’s temper_ |Å gråte tørre tårer |_To
+not lose sleep over something_
+
+|Å miste teken |_To lose one’s touch_ |Å miste kontakten med noen |_To
+lose touch with someone_
+
+|Å gå seg bort |_To get lost_ |Å miste piffen |_To lose motivation /
+energy_
+|===
+
+*Let’s Practice: Tape eller Miste*
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*1* |Emma mistet hukommelsen sin etter bilulykken. |_Emma lost her
+memory after the car accident._
+
+|*2* |Moren min tapte sjakkpartiet. |_My mom lost the game of chess._
+
+|*3* |Har noen levert inn et ID-kort? Jeg har mistet mitt. |_Has anyone
+turned in an ID card? I’ve lost mine._
+
+|*4* |Flyselskapet har mistet bagasjen min. |_The airline has lost my
+luggage._
+|===
+
+== To Miss
+
+In English, we can “miss” someone; “miss” the bus, train, plane, etc;
+“miss” an appointment, etc. In Norwegian, there are different verbs for
+these different contexts.
+
+=== Å Savne
+
+* Used when one misses a person, place, or an item.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Jacob flyttet til Spania og nå savner han Norge. |_Jacob moved to Spain
+and now he misses Norway._
+
+|Jenta savner bestemoren sin. |_The girl misses her grandmother_
+
+|Bestefaren min savner tiden da han kunne ha penger i flasken, ikke i
+lommeboken. |_My grandad misses the time when he could have money in the
+bottle, not in the wallet._
+|===
+
+=== Å Komme for Sent / Ikke Nå
+
+* Used when one misses a bus, train, plane, etc.
+* “Å komme for sent” is literally “to arrive too late”
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Mathias kom for sent til bussen. |_Mathias missed the bus._
+
+|Nora nådde ikke toget. |_Nora missed the train._
+
+|Jeg kommer for sent til seminaret hvis jeg våkner for sent. |_I will
+miss the seminar if I wake up too late._
+|===
+
+=== Å Overse
+
+* Used in the meaning to “overlook”
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|Michael overså feilen. |_Michael missed / overlooked the error._
+
+|Læreren overså skrivefeilen i oppgaven. |_The teacher missed /
+overlooked the typo in the thesis._
+|===
+
+=== Å Bomme 
+
+* Used when referring to missing a target.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+|Jegeren bommet på fuglen. |_The hunter missed the bird._
+|Marius bommet på målet. |_Marius missed the goal._
+|Jeg bommet på hjorten. |_I missed the deer._
+|===
+
+=== Å Gå Glipp Av 
+
+* Used to mean “to lose out on” or “to miss out on” a chance or
+opportunity.
+* Used to express missing appointments, parties, etc.
+
+[cols=",,",]
+|===
+|*Use* |*Eksempel* |*English*
+
+.3+|“Lost out on” / “Missed out on” |Katrina gikk glipp av hennes livs
+mulighet. |_Katrina missed out on / lost out on the opportunity of a
+lifetime._
+
+|Tor gikk glipp av sjansen til å møte favorittsangeren hans. |_Tor
+missed out on / lost out on the chance to meet his favorite singer._
+
+|Broren min gikk glipp av en sjanse til å vinne en million dollar |_My
+brother lost a chance to win a million dollars_
+
+.3+|Missing an appointment / party / etc |Gutten gikk glipp av konserten.
+|_The boy missed the concert._
+
+|Marianne gikk glipp av legetimen sin. |_Marianne missed her doctor’s
+appointment._
+
+|Han rakk ikke bussen sin, så han gikk glipp av intervjuet. |_He
+missed his bus. So, he missed the interview._
+|===
+
+=== Å Bli Borte
+
+* This is used when referring to a person or thing that has gone
+missing.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|“Hjelp! Katten min er blitt borte”, gråt barnet. |_“Help! My cat is
+missing,” cried the child._
+
+|Boka er blitt borte! Noen må ha tatt den! |_The book has gone missing!
+Someone must have taken it!_
+
+|Melken er blitt borte! Ah! Det var ikke melk, den var kefir. |_The milk
+is missing, Ah! It was not milk, it was kefir._
+|===
+
+*[.underline]#NOTE:#* When someone or something is reported missing, one
+says “å bli rapportert savnet.” You might see this in news reports.
+
+[cols=",",]
+|===
+|*Eksempel* |*English*
+
+|"Kvinnen ble rapportert savnet av moren", sa politiet. |_“The woman was
+reported missing by her mother,” said the police._
+|===
+
+*Let’s Practice: Fill in the blanks*
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*1* |Den berusede mannen bommet på dartskiven. |_The drunk man missed
+the dartboard._
+
+|*2* |Vennen min gikk glipp av jobbintervjuet fordi han forsov seg. |_My
+friend missed the job interview because he overslept._
+
+|*3* |Hvordan overså du det?! |_How did you miss that?!_
+
+|*4* |Tror du at kattene savner oss når vi ikke er hjemme? |_Do you
+think that the cats miss us when we’re not home?_
+
+|*5* |Anita er trist fordi hunden hennes er savnet. |_Anita is sad
+because her dog is missing._
+
+|*6* |Hvis du ikke skynder deg, vil du komme sent til toget. |_If you
+don’t hurry, you’ll miss the train._
+|===
+
+*_{asterisk}{asterisk}If the lesson was beneficial, please consider
+https://ko-fi.com/R5R0CTBN[buying me a virtual coffee.] Thanks.{asterisk}{asterisk}_*
+
+Resources:
+
+* https://youtu.be/lNDzggQyKvA[Idiom: Å tape ansikt
+(YouTube på norsk)]
+* https://youtu.be/uVLWj6Nhfes[Idiom: Å miste piffen
+(YouTube på norsk)]
+* https://youtu.be/QLzegKq2vlg[Norwegian Idioms: Å miste
+hodet and Å være i samme båt (YouTube)]
+
+*[.underline]#Exercise:# Write five sentences using “to lose” and / or
+“to miss” in different ways.*

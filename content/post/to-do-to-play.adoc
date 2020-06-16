@@ -1,6 +1,6 @@
 ---
 title: "To do, to play"
-date: "2019-05-26"
+date: "2020-06-07"
 author: "Dan"
 categories:
   - Sunday lessons
@@ -11,6 +11,168 @@ Often in these cases, the verbs might translate into the same English
 word, but cannot be used interchangeably in Norwegian. Let’s look at
 some examples.
 <!--more-->
+
+== Grammar Review
+
+=== Sentence structure
+
+While most Norwegian sentences use the subject-verb-object (SVO) word
+order, like English does, Norwegian does have the V2 (verb second) rule.
+If an adverbial phrase or subordinate clause is at the front of the
+sentence, the subject and the verb have to switch places (this is called
+“inversion”) so that the verb stays in the second position.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Marianne vasket hunden i går. |_Marianne washed the dog
+yesterday._
+
+|Bjørn møtte vennen sin da han besøkte Oslo. |_Bjørn met his friend
+when he visited Oslo._
+
+.2+|*V2* |I går vasket Marianne hunden. |_Yesterday, Marianne washed the
+dog._
+
+|Da Bjørn besøkte Oslo, møtte han vennen sin. |_When Bjørn visited
+Oslo, he met his friend._
+|===
+
+If a sentence has more than one verb, the second verb will be in a
+nonfinite form (e.g. å finne). If the sentence has inversion, then the
+subject will come between the finite (i.e. conjugated) verb and the
+nonfinite verb.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+.2+|*SVO* |Markus prøvde å tegne en dinosaur i går. |_Markus tried to draw
+a dinosaur yesterday._
+
+|Emma pleide å løpe 5km hver dag, da hun var yngre. |_Emma used to run
+5 km every day, when she was younger._
+
+.2+|*V2* |I går prøvde Markus å tegne en dinosaur. |_Yesterday, Markus
+tried to draw a dinosaur._
+
+|Da Emma var yngre, pleide hun å løpe 5km hver dag. |_When Emma was
+younger, she used to run 5 km every day._
+|===
+
+=== Verb Conjugation
+
+Conjugating the present tense of verbs in Norwegian is fairly simple.
+Most present tense verbs just add an -r to the end of the infinitive and
+drop the infinitive marker (å).
+
+[cols=",,,,,",]
+|===
+|*Infinitive* |*Present* |*English* |*Infinitive* |*Present* |*English*
+
+|Å besøke |besøker |_Visits / Visiting_ |Å svømme |svømmer |_Swims /
+Swimming_
+
+|Å kjøre |kjører |_Drives / Driving_ |Å begynne |begynner |_Begins /
+beginning_
+|===
+
+Past tense conjugation is a bit more difficult, however there are some
+guidelines (but keep in mind there are exceptions).
+
+[arabic]
+. If the verb ends with a double consonant, consonant cluster, or voiced
+plosive (b / d), past tense will end in -et.
+. If the verb ends in a single consonant (except v / b / d), past tense
+ends in -te.
+. If the verb ends with v or diphthong, the past tense ends in -de.
+. If the verb has only one syllable with a long vowel, past tense ends
+in -dde.
+
+[cols=",,,",]
+|===
+|*Rule Number* |*Infinitive* |*Past Tense* |*English*
+.2+|*1* |Å vaske |vasket |_Washed_
+|Å tegne |tegnet |_Drew_
+.2+|*2* |Å besøke |besøkte |_Visited_
+|Å kjøre |kjørte |_Drove_
+.2+|*3* |Å leve |levde |_Lived_
+|Å veie |veide |_Weighed_
+.2+|*4* |Å bo |bodde |_Lived_
+|Å sy |sydde |_Sewed_
+|===
+
+There are two ways to talk about future activities. Sometimes a present
+tense verb + a time adverbial is used. Another way to express future
+tense is with the use of modal verbs.
+
+[cols=",,",]
+|===
+| |*Eksempel* |*English*
+
+|*Present Tense + Time Adverbial* |Karina spiser lunsj senere. |_Karina
+is eating lunch later._
+
+|*Modal Verbs* |Tobias skal kjøre til biblioteket. |_Tobias is going to
+drive to the library._
+|===
+
+=== Adjective Basics
+
+Adjectives typically have to agree with the gender and the number of the
+noun. If the noun is neuter gender, then in the singular indefinite
+form, the adjective takes a *-t ending*. In the plural indefinite, the
+adjective takes an *-e ending*. Note there are exceptions.
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Indefinite* 2.+|*Plural Indefinite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |En stor hund |_A big dog_ |Store hunder |_Big dogs_
+
+|En ny film |_A new film_ |Nye filmer |_New films_
+
+.2+|*Feminine* |Ei stor bygning |_A big building_ |Store bygninger |_Big
+buildings_
+
+|Ei ny jakke |_A new coat_ |Nye jakker |_New coats_
+
+.2+|*Neuter* |Et stort dyr |_A big animal_ |Store dyr |_Big animals_
+
+|Et nytt leketøy |_A new toy_ |Nye leketøy |_New toys_
+|===
+
+When the noun is in the definite form, the adjective takes an *-e*
+ending (like in the plural indefinite above).
+
+[cols=",,,,",]
+|===
+| 2.+|*Singular Definite* 2.+|*Plural Definite*
+
+| |*Norwegian* |*English* |*Norwegian* |*English*
+
+.2+|*Masculine* |Den store hunden |_The big dog_ |De store hundene |_The
+big dogs_
+
+|Denne nye filmen |_This new film_ |Disse nye filmene |_These new
+films_
+
+.2+|*Feminine* |Den store bygninga |_The big building_ |De store bygningene
+|_The big buildings_
+
+|Denne nye jakka |_This new coat_ |Disse nye jakkene |_These new
+coats_
+
+.2+|*Neuter* |Det store dyret |_The big animal_ |De store dyra / dyrene
+|_The big animals_
+
+|Dette nye leketøyet |_This new toy_ |Disse nye leketøya / leketøyene
+|_These new toys_
+|===
+
 == Å gjøre
 Often translates as “to do” or sometimes as
 “to make” and is used in four ways.
