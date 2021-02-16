@@ -1,3 +1,8 @@
 Welcome to the homepage for Norwegian Language Learning! We are a community of learners and speakers of the Norwegian language. We primarily use our [Discord server](https://discord.gg/mBsKjx7); this website is an additional resource, with lessons and information about the Discord server's rules, channels, and bot (Heimdallr).
 
 If you're not already on the server, feel free to join us [here](https://discord.gg/mBsKjx7)! If you already are, then you can check out our [rules](/page/rules/), [channel information](/page/channels/), our bot, [Heimdallr](/page/heimdallr/), or [change your roles](/page/roles/).
+
+
+
+[![Discord](https://img.shields.io/discord/143458761665675264?color=8d8&label=NLL%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/mBsKjx7)
+
