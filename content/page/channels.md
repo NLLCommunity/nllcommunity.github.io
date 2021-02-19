@@ -48,20 +48,20 @@ A channel for sharing images that don't fall well into other categories. Selfies
 ##### #håndverk
 Show off your creations and discuss arts and crafts!
 
-##### #musikk
-Discuss, share, and talk about music!
-
 ##### #matprat
 Discuss and talk about food! Why's *sodd* so good?!
+
+##### #musikk
+Discuss, share, and talk about music!
 
 ##### #spill
 Talk about games! board games, video games, or anything!
 
+##### #film-og-tv
+The place to arrange movie nights together, or just talk about movies or TV series.
+
 ##### #lingvistikk
 The server's #1 place for linguistics talk
-
-##### #filmkvelder
-The place to arrange movie nights together, or just talk about movies or TV series.
 
 ##### #teknologi
 A place to discuss anything related to technology!
@@ -69,15 +69,36 @@ A place to discuss anything related to technology!
 ##### #mem
 memes
 
-##### #shitduosays
-weird sentences and phrases on Duolingo
+##### #duolingo
+weird sentences and phrases on Duolingo and other language learning apps, or discussion about them.
 
 ### Voice(-related) channels
-##### #tekst-for-søndagschatten
-A text channel to complement the *søndagschatten* voice channel. Used during (and after) the Sunday lessons.
-
 ##### #tekst-for-generelt-stemmechat
 A text channel to complement the *generelt* voice channel.
 
-##### #ikkje-trygt-for-arbeid
+##### #tekst-for-søndagschatten
+A text channel to complement the *søndagschatten* voice channel. Used during the Sunday lessons.
+
+##### #tekst-for-readingpractice
+A text channel to complement the *reading practice* voice channel.
+
+##### #ikkje-trygt-for-stemmechat
 A text channel to complement any voice channel, for inevitably sharing content that might not be as appropriate in the other text channels. Keep the NSFW section of the rules in mind.
+
+##### 🔊generelt
+General voice chat.
+
+##### 🔊søndagschatten
+Voice channel for the Sunday lessons.
+
+##### 🔊reading practice
+A voice channel for practicing reading Norwegian.
+
+##### 🔊bare-norsk
+A general voice chat, but Norwegian only.
+
+##### 🔊filmkvelder
+A voice channel for movie watching.
+
+##### 🔊spill
+A voice channel for people interested in playing games.
