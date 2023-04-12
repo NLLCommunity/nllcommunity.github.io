@@ -1,0 +1,43 @@
+---
+title: "Possessive adjective order"
+subtitle: Min/mitt, din/ditt before or after the noun 
+date: "2023-04-12"
+author: "Vegard"
+categories:
+  - Quick notes
+  - Possessives
+  - Pronouns
+  - Adjectives
+---
+:tip-caption: 💡
+
+In Norwegian, for a phrase such as "my dog", you are likely to encounter both "min hund" and "hunden min".
+Similarly, for "your cat", there is both "din katt" and "katten din". You may wonder if there are any rules
+about when to use which, but there isn't! It's entirely up to your personal preference (with some caveats).
+
+
+TIP: If you're looking for when to use "min" vs. "mitt" etc, look link:{{< ref "possessive-and-reciprocal-pronouns.adoc" >}}#_possessive_pronouns[here].
+
+=== Possessive then indefinite noun [min hund]
+The form that puts the possessive adjective in front of the noun is common in (bokmål) texts.
+It is often considered a more literary form.
+
+It's less used in speech, but may, with added phonetic stressfootnote:[i.e. the spoken equivalent to "*my* book", focusing "my".],
+to focus the ownership. It's used the same way in nynorsk
+
+=== Definite noun then possessive [hunden min]
+This form is also used in bokmål, and is the recommended way in nynorsk (unless you're stressing/focusing the possessive).
+It's also more common in speech.
+
+Note that with this form, you're also using the definite form of the noun. +
+E.g.
+
+- Hunden min
+- Boka mi
+- Kartet ditt
+- Skoene dine
+
+---
+
+If you have more questions, want to chat, or provide feedback, join us in our Discord community! 
+https://discord.gg/norwegian[image:https://img.shields.io/discord/143458761665675264?logo=discord&logoColor=white&style=for-the-badge[Discord]]
