@@ -14,6 +14,21 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 enableRobotsTXT = true
 
+[security]
+  enableInlineShortcodes = false
+
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
+    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$']
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
+
+
 [Params]
   #subtitle = "NLL on the Web"
   logo = "avatar-icon.png"
@@ -62,12 +77,6 @@ enableRobotsTXT = true
 	parent = "info"
 	name = "Channel explanations"
 	url = "page/channels/"
-	weight = 2
-
-[[menu.main]]
-	parent = "info"
-	name = "Roles"
-	url = "page/roles/"
 	weight = 2
 
 [[menu.main]]
