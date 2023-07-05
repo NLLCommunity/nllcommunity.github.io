@@ -1,7 +1,7 @@
 ---
 title: "Possessive adjective order"
 subtitle: Min/mitt, din/ditt before or after the noun 
-date: "2023-04-12 00:00"
+date: "2023-04-12"
 author: "Vegard"
 categories:
   - Quick notes
