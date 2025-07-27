@@ -6,12 +6,16 @@
 </style>
 
 {{ $token := .Site.Params.discourseToken }}
+{{ if ne $token nil }}
+  {{ warnf "Using Params.discourseToken is not recommended. Use HUGO_DISCOURSE_TOKEN instead." }}
+{{ end }}
+
 {{ if ne (getenv "HUGO_DISCOURSE_TOKEN") "" }}
     {{ $token = getenv "HUGO_DISCOURSE_TOKEN" }}
 {{ end }}
 
 {{ $opts := dict
-"headers" (dict "Api-Key" .Site.Params.discourseToken "Api-Username" "system") }}
+"headers" (dict "Api-Key" $token "Api-Username" "system") }}
 
 {{ $data := dict }}
 {{ $responde := resources.GetRemote (print (.Get 0) ".json") $opts}}
