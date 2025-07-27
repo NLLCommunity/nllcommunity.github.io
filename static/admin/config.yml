@@ -1,0 +1,34 @@
+backend:
+  name: github
+  repo: nllcommunity/nllcommunity.github.io
+  branch: main
+  site_domain: nllcommunity.github.io
+  open_authoring: true
+  squash_merges: true
+
+publish_mode: "editorial_workflow"
+media_folder: "static/images"
+public_folder: "/images"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/post"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor: 
+      preview: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Categories", name: "categories", widget: "list", default: ["Quick Notes"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    folder: "content/page"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
