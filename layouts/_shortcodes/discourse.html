@@ -1,0 +1,28 @@
+<style>
+    img.emoji {
+        display: inline;
+        margin: .25em;
+    }
+</style>
+
+{{ $token := .Site.Params.discourseToken }}
+{{ if ne (getenv "DISCOURSE_TOKEN") "" }}
+    {{ $token = getenv "DISCOURSE_TOKEN" }}
+{{ end }}
+
+{{ $opts := dict
+"headers" (dict "Api-Key" .Site.Params.discourseToken "Api-Username" "system") }}
+
+{{ $data := dict }}
+{{ $responde := resources.GetRemote (print (.Get 0) ".json") $opts}}
+{{ $data = unmarshal $responde.Content }}
+{{ $page := .Page }}
+{{ with (index $data.post_stream.posts 0).cooked }}
+{{ . | replaceRE `(?s)\<pre data-code-wrap.*syncToDiscord:.*\/pre\>` "" 
+     | replaceRE (print `\<h[123].*?\>` $page.Title `\</h[123]\>`) "" 
+     | replaceRE `\<a\>id:customize</a\>` 
+                 `<span style="text-decoration: underline dotted gray" 
+                        title="A clickable item near the top of the channel list"><i>Channels &amp; Roles</i>
+                 </span>`
+     | safeHTML }}
+{{ end }}
