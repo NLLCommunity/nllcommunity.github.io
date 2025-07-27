@@ -6,13 +6,15 @@ title = "Norwegian Language Learning"
 canonifyurls  = false
 
 DefaultContentLanguage = "en"
-theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 enableRobotsTXT = true
+
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo"
 
 [security]
   enableInlineShortcodes = false
