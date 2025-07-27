@@ -6,8 +6,8 @@
 </style>
 
 {{ $token := .Site.Params.discourseToken }}
-{{ if ne (getenv "DISCOURSE_TOKEN") "" }}
-    {{ $token = getenv "DISCOURSE_TOKEN" }}
+{{ if ne (getenv "HUGO_DISCOURSE_TOKEN") "" }}
+    {{ $token = getenv "HUGO_DISCOURSE_TOKEN" }}
 {{ end }}
 
 {{ $opts := dict
