@@ -2,7 +2,7 @@ backend:
   name: github
   repo: nllcommunity/nllcommunity.github.io
   branch: main
-  site_domain: nllcommunity.github.io
+  #site_domain: www.norwegianlanguagelearning.no
   open_authoring: true
   squash_merges: true
 
