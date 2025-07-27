@@ -47,6 +47,7 @@ enableRobotsTXT = true
   name = "NLL contributors"
   #email = "youremail@domain.com"
   gitlab = "NorwegianLanguageLearning"
+  github = "nllcommunity"
 
 
 [[menu.main]]
