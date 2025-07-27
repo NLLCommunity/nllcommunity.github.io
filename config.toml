@@ -4,6 +4,7 @@ layoutdir     = "layouts"
 publishdir    = "public"
 title = "Norwegian Language Learning"
 canonifyurls  = false
+theme = "github.com/halogenica/beautifulhugo"
 
 DefaultContentLanguage = "en"
 metaDataFormat = "yaml"
@@ -33,6 +34,7 @@ enableRobotsTXT = true
 
 [Params]
   #subtitle = "NLL on the Web"
+  homeTitle = "Norwegian Language Learning"
   logo = "avatar-icon.png"
   favicon = "favicon.png"
   dateFormat = "2006-01-02"
