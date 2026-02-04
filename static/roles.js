@@ -13,7 +13,7 @@ var app = new Vue({
       <a href="${AUTHORIZATION_URL}">Authorize access</a>
     </div>
     <div v-else-if="state == 'invite'">
-      <p>It looks like you're not a member of our Discord community yet. <a href="https://discord.gg/mBsKjx7">Join us!</a></p>
+      <p>It looks like you're not a member of our Discord community yet.</p>
     </div>
     <div v-else-if="state == 'need-introduction'">
       <p>You haven't been approved yet. Have you written an introduction in our <a href="https://www.discordapp.com/channels/143458761665675264/483672165137383454">welcome channel?</a></p>

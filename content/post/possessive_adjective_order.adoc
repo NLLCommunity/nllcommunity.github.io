@@ -40,4 +40,4 @@ E.g.
 ---
 
 If you have more questions, want to chat, or provide feedback, join us in our Discord community! 
-https://discord.gg/norwegian[image:https://img.shields.io/discord/143458761665675264?logo=discord&logoColor=white&style=for-the-badge[Discord]]
+https://discord.gg/xAj4gaBXqB[image:https://img.shields.io/discord/143458761665675264?logo=discord&logoColor=white&style=for-the-badge[Discord]]
