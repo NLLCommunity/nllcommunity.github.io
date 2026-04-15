@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: NLLCommunity/nllcommunity.github.io
+  base_url: https://sveltia-cms-auth.myrkvi.workers.dev/
 
 media_folder: /public/media
 public_folder: /media
