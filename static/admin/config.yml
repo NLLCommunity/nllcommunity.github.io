@@ -1,34 +1,35 @@
 backend:
   name: github
-  repo: nllcommunity/nllcommunity.github.io
-  branch: main
-  #site_domain: www.norwegianlanguagelearning.no
-  open_authoring: true
-  squash_merges: true
+  repo: NLLCommunity/nllcommunity.github.io
 
-publish_mode: "editorial_workflow"
-media_folder: "static/images"
-public_folder: "/images"
+media_folder: /public/media
+public_folder: /media
 
 collections:
-  - name: "posts"
-    label: "Posts"
-    folder: "content/post"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    editor: 
-      preview: true
+  - name: posts
+    label: Posts
+    folder: content/post
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Author", name: "author", widget: "string"}
-      - {label: "Categories", name: "categories", widget: "list", default: ["Quick Notes"]}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "pages"
-    label: "Pages"
-    folder: "content/page"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Subtitle"
+        name: "subtitle"
+        widget: "string"
+
+      - label: "Author"
+        name: "author"
+        widget: "string"
+
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+
+      - label: "Body"
+        name: "body"
+        widget: "richtext"

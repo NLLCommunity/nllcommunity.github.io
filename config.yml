@@ -1,0 +1,75 @@
+baseurl: https://norwegianlanguagelearning.no
+contentdir: content
+layoutdir: layouts
+publishdir: public
+title: Norwegian Language Learning
+canonifyurls: false
+theme: github.com/halogenica/beautifulhugo
+DefaultContentLanguage: en
+metaDataFormat: yaml
+pygmentsUseClasses: true
+pygmentCodeFences: true
+enableRobotsTXT: true
+module:
+  imports:
+    - path: github.com/halogenica/beautifulhugo
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow:
+      - ^dart-sass-embedded$
+      - ^go$
+      - ^npx$
+      - ^postcss$
+      - ^asciidoctor$
+    osEnv:
+      - (?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+)$
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^CI$
+  http:
+    methods:
+      - (?i)GET|POST
+    urls:
+      - .*
+params:
+  homeTitle: Norwegian Language Learning
+  logo: avatar-icon.png
+  favicon: favicon.png
+  dateFormat: 2006-01-02
+  commit: false
+  rss: false
+  comments: true
+Author:
+  name: NLL contributors
+  gitlab: NorwegianLanguageLearning
+  github: nllcommunity
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: Lessons
+      url: categories/sunday-lessons/
+      weight: 2
+    - name: About
+      url: page/about/
+      weight: 3
+    - name: More information
+      identifier: info
+      url: page/info/
+      weight: 4
+    - parent: info
+      name: Rules
+      url: page/rules/
+      weight: 1
+    - parent: info
+      name: Channel explanations
+      url: page/channels/
+      weight: 2
+    - parent: info
+      name: Heimdallr
+      url: page/heimdallr/
+      weight: 3
+
