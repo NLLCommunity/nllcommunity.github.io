@@ -38,6 +38,7 @@ params:
   logo: avatar-icon.png
   favicon: favicon.png
   dateFormat: 2006-01-02
+  timeZone: Europe/Oslo
   commit: false
   rss: false
   comments: true

@@ -3,8 +3,8 @@ backend:
   repo: NLLCommunity/nllcommunity.github.io
   base_url: https://sveltia-cms-auth.myrkvi.workers.dev/
 
-media_folder: /public/media
-public_folder: /media
+media_folder: /static/images
+public_folder: /images
 
 collections:
   - name: posts
@@ -26,6 +26,7 @@ collections:
       - label: "Date"
         name: "date"
         widget: "datetime"
+        type: "date"
 
       - label: "Categories"
         name: "categories"
