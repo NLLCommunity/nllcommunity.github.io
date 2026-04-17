@@ -10,6 +10,9 @@ metaDataFormat: yaml
 pygmentsUseClasses: true
 pygmentCodeFences: true
 enableRobotsTXT: true
+taxonomies:
+  category: categories
+  author: authors
 module:
   imports:
     - path: github.com/halogenica/beautifulhugo

@@ -7,6 +7,51 @@ media_folder: /static/images
 public_folder: /images
 
 collections:
+  - name: categories
+    label: Categories
+    folder: content/categories
+    format: yml
+    create: true
+    delete: true
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+  - name: authors
+    label: Authors
+    folder: content/authors
+    path: "{{slug}}/_index"
+    format: yaml-frontmatter
+    extension: md
+    create: true
+    delete: true
+    fields:
+      - { label: "Name",      name: "title",   widget: "string" }
+      - { label: "Avatar",    name: "avatar",  widget: "image",  required: false }
+      - { label: "GitHub",    name: "github",  widget: "string", required: false, hint: "username only" }
+      - { label: "Twitter/X", name: "twitter", widget: "string", required: false, hint: "handle only" }
+      - { label: "Bluesky",   name: "bluesky", widget: "string", required: false, hint: "e.g. name.bsky.social" }
+      - { label: "Website",   name: "website", widget: "string", required: false, hint: "full URL" }
+      - { label: "Discord",   name: "discord", widget: "string", required: false }
+      - { label: "Bio",       name: "body",    widget: "markdown" }
+
+  - name: pages
+    label: Pages
+    folder: content/page
+    create: true
+    delete: true
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+      - label: "Body"
+        name: "body"
+        widget: "richtext"
+
   - name: posts
     label: Posts
     folder: content/post
@@ -18,10 +63,18 @@ collections:
       - label: "Subtitle"
         name: "subtitle"
         widget: "string"
+        required: false
 
-      - label: "Author"
-        name: "author"
-        widget: "string"
+      - label: "Authors"
+        label_singular: "Author"
+        name: "authors"
+        widget: "relation"
+        multiple: true
+        collection: "authors"
+        search_fields: ["title"]
+        display_fields: ["title"]
+        value_field: "{{slug}}"
+        required: false
 
       - label: "Date"
         name: "date"
@@ -33,8 +86,15 @@ collections:
         widget: "boolean"
 
       - label: "Categories"
+        label_singular: "Category"
         name: "categories"
-        widget: "list"
+        widget: "relation"
+        multiple: true
+        collection: "categories"
+        search_fields: ["title"]
+        display_fields: ["title"]
+        value_field: "{{slug}}"
+
 
       - label: "Body"
         name: "body"
