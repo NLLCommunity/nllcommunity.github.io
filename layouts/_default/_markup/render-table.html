@@ -1,0 +1,48 @@
+{{- /* layouts/_default/_markup/render-table.html */ -}}
+<table>
+  {{- with .THead }}
+  <thead>
+    {{- range . }}{{ template "row" (dict "cells" . "header" true) }}{{ end }}
+  </thead>
+  {{- end }}
+  {{- with .TBody }}
+  <tbody>
+    {{- range . }}{{ template "row" (dict "cells" . "header" false) }}{{ end }}
+  </tbody>
+  {{- end }}
+</table>
+
+{{- define "row" -}}
+  {{- $cells := .cells -}}
+  {{- $header := .header -}}
+  <tr>
+  {{- range $cell := $cells -}}
+    {{- $text := strings.TrimSpace (string $cell.Text) -}}
+    {{- $text = replace $text "{{br}}" "<br>" -}}
+    {{- /* Skip span-filler cells (Goldmark escapes ">" to "&gt;") */ -}}
+    {{- if and (ne $text ">") (ne $text "&gt;") -}}
+      {{- $attrs := "" -}}
+      {{- with findRESubmatch `^(.*?)\s*\{([^{}]+)\}\s*$` $text 1 -}}
+        {{- $text = index (index . 0) 1 -}}
+        {{- $attrs = index (index . 0) 2 -}}
+        {{- /* Undo Typographer's smart-quote substitutions */ -}}
+        {{- $attrs = replace $attrs "&ldquo;" `"` -}}
+        {{- $attrs = replace $attrs "&rdquo;" `"` -}}
+        {{- $attrs = replace $attrs "&lsquo;" "'" -}}
+        {{- $attrs = replace $attrs "&rsquo;" "'" -}}
+      {{- end -}}
+      {{- if $header -}}
+        <th
+          {{- with $cell.Alignment }} style="text-align: {{ . }}"{{ end -}}
+          {{- with $attrs }} {{ . | safeHTMLAttr }}{{ end -}}
+        >{{ $text | safeHTML }}</th>
+      {{- else -}}
+        <td
+          {{- with $cell.Alignment }} style="text-align: {{ . }}"{{ end -}}
+          {{- with $attrs }} {{ . | safeHTMLAttr }}{{ end -}}
+        >{{ $text | safeHTML }}</td>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  </tr>
+{{- end -}}

@@ -1,2 +1,6 @@
+github.com/KKKZOZ/hugo-admonitions v0.12.0 h1:x74ZrNUCrySH5JHPO2qGx+b1Mz8r+F1rBlH9qM833io=
+github.com/KKKZOZ/hugo-admonitions v0.12.0/go.mod h1:4PsJAsqo3mS3VzAtDLa8k0ds+CJQUWZhAo9kLi1NRlM=
 github.com/halogenica/beautifulhugo v0.0.0-20250508050025-e69e25d4ca0d h1:H3Gf3B7nxMscrz+v7fn+PavLMUR+vCpcRJpzCAZy57A=
 github.com/halogenica/beautifulhugo v0.0.0-20250508050025-e69e25d4ca0d/go.mod h1:4dwHt6njigk+fr9W3Bg+OflL4LKzkjbXAULXvr3mYLs=
+github.com/halogenica/beautifulhugo v0.0.0-20260331144909-84b4ad9e12e6 h1:KSNmuzV0Ry7mawT/WP8VI8h10mwBcqvq+2TOVF2zA+A=
+github.com/halogenica/beautifulhugo v0.0.0-20260331144909-84b4ad9e12e6/go.mod h1:4dwHt6njigk+fr9W3Bg+OflL4LKzkjbXAULXvr3mYLs=
