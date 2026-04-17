@@ -6,6 +6,43 @@ backend:
 media_folder: /static/images
 public_folder: /images
 
+singletons:
+  - name: home
+    label: Home
+    file: content/_index.md
+    format: yaml-frontmatter
+    extension: md
+    fields:
+      - label: "Body"
+        name: "body"
+        widget: "richtext"
+  - name: config
+    label: Configuration
+    file: config.yml
+    format: yml
+    fields:
+      - name: "params"
+        widget: "object"
+        fields:
+          - label: "Site Title"
+            name: "homeTitle"
+            widget: "string"
+          - label: "Logo"
+            name: "logo"
+            widget: "image"
+          - label: "Favicon"
+            name: "favicon"
+          - label: "Date Format"
+            comment: "Go time format, e.g. Monday Jan 2 15:04:05 MST 2006"
+            name: "dateFormat"
+            widget: "string"
+          - label: "Time Zone"
+            name: "timeZone"
+            widget: "string"
+          - label: "Enable Comments"
+            name: "comments"
+            widget: "boolean"
+
 collections:
   - name: categories
     label: Categories
@@ -94,7 +131,6 @@ collections:
         search_fields: ["title"]
         display_fields: ["title"]
         value_field: "{{slug}}"
-
 
       - label: "Body"
         name: "body"
