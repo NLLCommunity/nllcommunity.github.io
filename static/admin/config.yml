@@ -28,6 +28,10 @@ collections:
         widget: "datetime"
         type: "date"
 
+      - label: "Draft"
+        name: "draft"
+        widget: "boolean"
+
       - label: "Categories"
         name: "categories"
         widget: "list"
