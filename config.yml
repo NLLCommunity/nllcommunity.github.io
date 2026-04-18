@@ -84,3 +84,5 @@ markup:
       attributes:
         block: true
         title: true
+    renderer:
+      unsafe: true
