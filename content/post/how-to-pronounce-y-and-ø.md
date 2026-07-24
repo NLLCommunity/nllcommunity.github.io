@@ -3,7 +3,7 @@ title: How to pronounce Y and Ø
 subtitle: A deceptively simple trick for pronouncing the sounds
 authors: []
 date: 2026-07-24
-draft: true
+draft: false
 categories:
   - pronunciation
 ---
