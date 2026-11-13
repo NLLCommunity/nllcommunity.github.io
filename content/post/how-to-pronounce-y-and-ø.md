@@ -1,7 +1,8 @@
 ---
 title: How to pronounce Y and Ø
 subtitle: A deceptively simple trick for pronouncing the sounds
-authors: []
+authors:
+  - vegard
 date: 2026-07-24
 draft: false
 categories:
