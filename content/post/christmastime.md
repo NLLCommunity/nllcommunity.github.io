@@ -1,9 +1,14 @@
 ---
-title: "Christmastime in Norway"
-date: "2018-12-08"
-author: "Dan"
+title: Christmastime in Norway
+subtitle: ''
+authors:
+  - nll-community
+  - dan
+date: 2018-12-08
+draft: false
 categories:
   - Sunday lessons
+author: Dan
 ---
 
 **Christmas Markets**
