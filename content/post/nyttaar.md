@@ -1,10 +1,16 @@
 ---
-title: "Godt nyttår!"
-date: "2018-12-30"
-author: "Dan"
+title: Godt nyttår!
+subtitle: ''
+authors:
+  - dan
+  - nll-community
+date: 2018-12-30
+draft: false
 categories:
   - Sunday lessons
+author: Dan
 ---
+
 The new year is right around the corner, many Norwegians make New Year’s
 resolutions (nyttårsforsett), attend parties, and drink champagne, but
 those are not the only things that Norwegians do to ring in the New
