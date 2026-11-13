@@ -1,7 +1,11 @@
 ---
 title: Adjectives (part 1)
 subtitle: ''
+authors:
+  - dan
+  - nll-community
 date: 2019-06-16
+draft: false
 categories:
   - Sunday lessons
   - sunday-lessons
