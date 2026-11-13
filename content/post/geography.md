@@ -1,9 +1,14 @@
 ---
-title: "Geography"
-date: "2019-05-19"
-author: "Dan"
+title: Geography
+subtitle: ''
+authors:
+  - dan
+  - nll-community
+date: 2019-05-19
+draft: false
 categories:
   - Sunday lessons
+author: Dan
 ---
 
 Norway is located in Northern Europe and is the western and northern
