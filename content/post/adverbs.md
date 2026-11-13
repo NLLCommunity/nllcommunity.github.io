@@ -1,9 +1,14 @@
 ---
-title: "Adverbs"
-date: "2019-11-17"
-author: "Dan"
+title: Adverbs
+subtitle: ''
+authors:
+  - dan
+  - nll-community
+date: 2019-11-17
+draft: false
 categories:
   - Sunday lessons
+author: Dan
 ---
 
 Adverbs are used to modify adjectives, verbs, clauses and other adverbs.
