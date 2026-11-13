@@ -1,9 +1,14 @@
 ---
-title: "Adjectives (part 2)"
-date: "2019-06-23"
-author: "Dan"
+title: Adjectives (part 2)
+subtitle: ''
+authors:
+  - dan
+  - nll-community
+date: 2019-06-23
+draft: false
 categories:
   - Sunday lessons
+author: Dan
 ---
 
 As we learned in the [previous lesson](https://norwegianlanguagelearning.no/post/adjectives-pt-1/), in Norwegian adjectives agree with the number and gender of the noun and that the plural form is the same across all genders. However, there are many irregular adjectives, which we’ll go over a few today. We’ll also go over comparatives and superlatives.
