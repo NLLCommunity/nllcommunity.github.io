@@ -1,9 +1,14 @@
 ---
-title: "Adjectives (part 3)"
-date: "2019-07-07"
-author: "Dan"
+title: Adjectives (part 3)
+subtitle: ''
+authors:
+  - dan
+  - nll-community
+date: 2019-07-07
+draft: false
 categories:
   - Sunday lessons
+author: Dan
 ---
 
 This section on adjectives, we will cover a few challenging adjectives
