@@ -1,9 +1,14 @@
 ---
-title: "Påske"
-date: "2020-04-05"
-author: "Dan"
+title: Påske
+subtitle: ''
+authors:
+  - dan
+  - nll-community
+date: 2020-04-05
+draft: false
 categories:
   - Sunday lessons
+author: Dan
 ---
 
 While many Norwegians are not Christian, the Easter holiday is still
