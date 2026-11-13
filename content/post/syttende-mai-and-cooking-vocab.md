@@ -1,9 +1,14 @@
 ---
-title: "Syttende mai and cooking vocabulary"
-date: "2019-05-12"
-author: "Dan"
+title: Syttende mai and cooking vocabulary
+subtitle: ''
+authors:
+  - dan
+  - nll-community
+date: 2019-05-12
+draft: false
 categories:
   - Sunday lessons
+author: Dan
 ---
 
 **<span class="underline">Syttende Mai</span>**
